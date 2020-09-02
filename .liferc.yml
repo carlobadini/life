@@ -1,0 +1,10 @@
+daily:
+  # - spotify
+  - rescueTime
+  - lastFm
+  - pocketCasts
+  - wakatime
+  # - clockify
+  - googleFit
+  # - ouraRing
+  # - goodreads

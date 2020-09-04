@@ -58,8 +58,7 @@ const getTimeData = async (date: Date) => {
       join(
         ".",
         "data",
-        "time-tracking",
-        "clockify",
+        "clockify-time-tracking",
         "daily",
         key,
         "time-entries.json"

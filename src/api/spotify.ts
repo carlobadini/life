@@ -46,8 +46,7 @@ export const daily = async () => {
       join(
         ".",
         "data",
-        "music",
-        "spotify",
+        "spotify-music",
         "daily",
         key,
         "listening-history.json"
@@ -73,8 +72,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
-      "spotify",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -92,7 +90,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -111,7 +109,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -130,7 +128,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -149,7 +147,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -168,7 +166,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,
@@ -187,7 +185,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "music",
+      "spotify-music",
       "daily",
       year,
       month,

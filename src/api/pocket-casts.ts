@@ -19,7 +19,7 @@ export const daily = async () => {
 
   const podcasts = (await pocketCasts.getList()).podcasts;
   await write(
-    join(".", "data", "podcasts", "pocket-casts", "library.json"),
+    join(".", "data", "pocket-casts-podcasts", "library.json"),
     JSON.stringify(podcasts, null, 2)
   );
   console.log("Pocket Casts: Added library");
@@ -27,13 +27,13 @@ export const daily = async () => {
   let items: Episode[] = [];
   try {
     const years = await readdir(
-      join(".", "data", "podcasts", "pocket-casts", "daily")
+      join(".", "data", "pocket-casts-podcasts", "daily")
     );
     const months = await readdir(
       join(
         ".",
         "data",
-        "podcasts",
+        "pocket-casts-podcasts",
         "daily",
         zero(Math.max(...years.map(parseInt)).toString())
       )
@@ -42,7 +42,7 @@ export const daily = async () => {
       join(
         ".",
         "data",
-        "podcasts",
+        "pocket-casts-podcasts",
         "daily",
         zero(Math.max(...years.map(parseInt)).toString()),
         zero(Math.max(...months.map(parseInt)).toString())
@@ -52,7 +52,7 @@ export const daily = async () => {
       join(
         ".",
         "data",
-        "podcasts",
+        "pocket-casts-podcasts",
         "daily",
         zero(Math.max(...years.map(parseInt)).toString()),
         zero(Math.max(...months.map(parseInt)).toString()),
@@ -75,8 +75,7 @@ export const daily = async () => {
     join(
       ".",
       "data",
-      "podcasts",
-      "pocket-casts",
+      "pocket-casts-podcasts",
       "daily",
       year,
       month,

@@ -9,6 +9,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "cal-total": {
@@ -21,6 +27,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "steps": {
@@ -33,6 +45,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "total": {
@@ -45,6 +63,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   }
 }

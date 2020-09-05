@@ -1,0 +1,84 @@
+{
+  "2020-02-9": {
+    "News & Opinion": 1908,
+    "Entertainment": 1243,
+    "Uncategorized": 662,
+    "Communication & Scheduling": 348,
+    "Utilities": 275,
+    "Reference & Learning": 239,
+    "Business": 203,
+    "Shopping": 7
+  },
+  "2020-02-10": {
+    "Business": 11078,
+    "Communication & Scheduling": 5759,
+    "Design & Composition": 3709,
+    "Uncategorized": 1861,
+    "News & Opinion": 1069,
+    "Entertainment": 1056,
+    "Reference & Learning": 985,
+    "Shopping": 690,
+    "Social Networking": 451,
+    "Utilities": 344,
+    "Software Development": 101
+  },
+  "2020-02-11": {
+    "Business": 10383,
+    "Communication & Scheduling": 4220,
+    "Entertainment": 3455,
+    "Uncategorized": 2115,
+    "Reference & Learning": 968,
+    "Design & Composition": 829,
+    "Utilities": 615,
+    "Social Networking": 482,
+    "News & Opinion": 219,
+    "Shopping": 164
+  },
+  "2020-02-12": {
+    "Business": 12777,
+    "Communication & Scheduling": 3554,
+    "Uncategorized": 2822,
+    "News & Opinion": 2720,
+    "Reference & Learning": 2625,
+    "Entertainment": 2095,
+    "Design & Composition": 364,
+    "Utilities": 258,
+    "Software Development": 28,
+    "Shopping": 15
+  },
+  "2020-02-13": {
+    "Business": 4319,
+    "Communication & Scheduling": 3238,
+    "Design & Composition": 1715,
+    "Uncategorized": 672,
+    "Utilities": 275,
+    "Social Networking": 268,
+    "Reference & Learning": 172,
+    "News & Opinion": 98,
+    "Entertainment": 23,
+    "Shopping": 1
+  },
+  "2020-02-14": {
+    "Business": 12224,
+    "Entertainment": 4275,
+    "Communication & Scheduling": 2307,
+    "News & Opinion": 1859,
+    "Uncategorized": 1484,
+    "Social Networking": 1095,
+    "Reference & Learning": 686,
+    "Utilities": 323,
+    "Design & Composition": 36
+  },
+  "2020-02-15": {
+    "Entertainment": 4813,
+    "Business": 3039,
+    "Communication & Scheduling": 1995,
+    "Design & Composition": 1995,
+    "Reference & Learning": 1827,
+    "Uncategorized": 1398,
+    "Utilities": 474,
+    "News & Opinion": 320,
+    "Social Networking": 263,
+    "Shopping": 113
+  }
+}

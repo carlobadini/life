@@ -1,0 +1,45 @@
+{
+  "2019-12-1": {
+    "Entertainment": 2786,
+    "Business": 146,
+    "Uncategorized": 4
+  },
+  "2019-12-2": {
+    "Entertainment": 5543
+  },
+  "2019-12-3": {
+    "Communication & Scheduling": 1094,
+    "Utilities": 53,
+    "Entertainment": 28,
+    "Business": 18,
+    "Uncategorized": 2
+  },
+  "2019-12-4": {
+    "Communication & Scheduling": 6384,
+    "Business": 5975,
+    "News & Opinion": 1547,
+    "Uncategorized": 1296,
+    "Reference & Learning": 1034,
+    "Utilities": 185,
+    "Design & Composition": 25,
+    "Entertainment": 5
+  },
+  "2019-12-5": {
+    "Business": 101,
+    "Uncategorized": 70,
+    "Utilities": 41,
+    "Reference & Learning": 28,
+    "Communication & Scheduling": 23,
+    "Entertainment": 2
+  },
+  "2019-12-6": {},
+  "2019-12-7": {
+    "Business": 1049,
+    "Design & Composition": 390,
+    "Utilities": 389,
+    "Communication & Scheduling": 364,
+    "Reference & Learning": 324,
+    "Entertainment": 250,
+    "Uncategorized": 30
+  }
+}

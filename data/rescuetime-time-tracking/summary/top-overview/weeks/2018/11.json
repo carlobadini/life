@@ -1,0 +1,87 @@
+{
+  "2018-03-11": {
+    "Communication & Scheduling": 2210,
+    "Reference & Learning": 1633,
+    "News & Opinion": 1416,
+    "Uncategorized": 1173,
+    "Business": 810,
+    "Design & Composition": 699,
+    "Utilities": 509,
+    "Social Networking": 390,
+    "Software Development": 89,
+    "Entertainment": 64,
+    "Shopping": 3
+  },
+  "2018-03-12": {
+    "Business": 7384,
+    "Design & Composition": 4823,
+    "Communication & Scheduling": 3713,
+    "Reference & Learning": 2117,
+    "Uncategorized": 1487,
+    "News & Opinion": 1430,
+    "Social Networking": 1075,
+    "Entertainment": 406,
+    "Utilities": 243,
+    "Software Development": 4
+  },
+  "2018-03-13": {
+    "Business": 5959,
+    "Communication & Scheduling": 4527,
+    "Reference & Learning": 2533,
+    "Design & Composition": 980,
+    "Uncategorized": 836,
+    "Utilities": 637,
+    "Social Networking": 465,
+    "News & Opinion": 444,
+    "Entertainment": 168,
+    "Shopping": 108,
+    "Software Development": 79
+  },
+  "2018-03-14": {
+    "Business": 12681,
+    "Communication & Scheduling": 4205,
+    "News & Opinion": 3823,
+    "Reference & Learning": 3539,
+    "Uncategorized": 2819,
+    "Entertainment": 1444,
+    "Software Development": 920,
+    "Utilities": 820,
+    "Social Networking": 661,
+    "Shopping": 37,
+    "Design & Composition": 12
+  },
+  "2018-03-15": {
+    "Entertainment": 5541,
+    "Business": 3573,
+    "Communication & Scheduling": 2962,
+    "Design & Composition": 1495,
+    "Social Networking": 1263,
+    "Uncategorized": 1076,
+    "Utilities": 730,
+    "Reference & Learning": 626,
+    "News & Opinion": 477,
+    "Software Development": 158
+  },
+  "2018-03-16": {
+    "Business": 6125,
+    "Communication & Scheduling": 5476,
+    "Software Development": 1751,
+    "Uncategorized": 1289,
+    "News & Opinion": 1164,
+    "Utilities": 1055,
+    "Reference & Learning": 1054,
+    "Social Networking": 1040,
+    "Entertainment": 706,
+    "Design & Composition": 144
+  },
+  "2018-03-17": {
+    "Business": 966,
+    "Reference & Learning": 835,
+    "Uncategorized": 490,
+    "Communication & Scheduling": 399,
+    "Utilities": 389,
+    "Social Networking": 246,
+    "Design & Composition": 156,
+    "News & Opinion": 74
+  }
+}

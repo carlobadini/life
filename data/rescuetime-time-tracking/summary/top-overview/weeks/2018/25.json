@@ -1,0 +1,82 @@
+{
+  "2018-06-17": {
+    "Reference & Learning": 16304,
+    "Utilities": 1407,
+    "Entertainment": 1215,
+    "Business": 1146,
+    "Communication & Scheduling": 624,
+    "News & Opinion": 607,
+    "Uncategorized": 244,
+    "Social Networking": 109,
+    "Design & Composition": 93
+  },
+  "2018-06-18": {
+    "Reference & Learning": 13930,
+    "Business": 4684,
+    "Entertainment": 1416,
+    "Uncategorized": 1409,
+    "Communication & Scheduling": 1288,
+    "News & Opinion": 844,
+    "Utilities": 291,
+    "Shopping": 102,
+    "Social Networking": 48,
+    "Design & Composition": 41,
+    "Software Development": 7
+  },
+  "2018-06-19": {
+    "Business": 8925,
+    "Design & Composition": 5087,
+    "Communication & Scheduling": 4161,
+    "Uncategorized": 2238,
+    "Social Networking": 1996,
+    "News & Opinion": 1482,
+    "Reference & Learning": 1075,
+    "Entertainment": 569,
+    "Utilities": 277,
+    "Shopping": 181,
+    "Software Development": 60
+  },
+  "2018-06-20": {
+    "Design & Composition": 3268,
+    "Business": 2341,
+    "Communication & Scheduling": 1641,
+    "Entertainment": 536,
+    "Utilities": 87,
+    "Uncategorized": 32,
+    "Reference & Learning": 6
+  },
+  "2018-06-21": {
+    "Reference & Learning": 8124,
+    "Communication & Scheduling": 2463,
+    "Business": 1946,
+    "Design & Composition": 1738,
+    "Entertainment": 1241,
+    "News & Opinion": 635,
+    "Uncategorized": 545,
+    "Social Networking": 173,
+    "Utilities": 76,
+    "Software Development": 3
+  },
+  "2018-06-22": {
+    "Business": 2663,
+    "Communication & Scheduling": 837,
+    "Reference & Learning": 575,
+    "Utilities": 296,
+    "Design & Composition": 170,
+    "Uncategorized": 161,
+    "Social Networking": 41,
+    "Entertainment": 41
+  },
+  "2018-06-23": {
+    "News & Opinion": 2333,
+    "Uncategorized": 1778,
+    "Communication & Scheduling": 456,
+    "Entertainment": 300,
+    "Business": 239,
+    "Social Networking": 198,
+    "Shopping": 185,
+    "Utilities": 164,
+    "Reference & Learning": 121,
+    "Design & Composition": 43
+  }
+}

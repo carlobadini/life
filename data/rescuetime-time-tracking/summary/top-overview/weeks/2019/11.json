@@ -1,0 +1,82 @@
+{
+  "2019-03-10": {
+    "Business": 5742,
+    "News & Opinion": 3390,
+    "Entertainment": 1867,
+    "Utilities": 961,
+    "Uncategorized": 880,
+    "Communication & Scheduling": 788,
+    "Reference & Learning": 539,
+    "Design & Composition": 258
+  },
+  "2019-03-11": {
+    "Business": 14035,
+    "Communication & Scheduling": 7062,
+    "Reference & Learning": 4572,
+    "Entertainment": 2258,
+    "Uncategorized": 2153,
+    "News & Opinion": 2063,
+    "Design & Composition": 863,
+    "Utilities": 669,
+    "Social Networking": 579,
+    "Shopping": 82
+  },
+  "2019-03-12": {
+    "Business": 12512,
+    "Communication & Scheduling": 8342,
+    "Design & Composition": 3547,
+    "News & Opinion": 2299,
+    "Entertainment": 1997,
+    "Uncategorized": 1393,
+    "Reference & Learning": 808,
+    "Utilities": 441,
+    "Social Networking": 186,
+    "Shopping": 38,
+    "Software Development": 8
+  },
+  "2019-03-13": {
+    "Business": 9758,
+    "Communication & Scheduling": 5416,
+    "Reference & Learning": 3869,
+    "Uncategorized": 1727,
+    "Entertainment": 362,
+    "Utilities": 354,
+    "Social Networking": 230,
+    "Design & Composition": 30
+  },
+  "2019-03-14": {
+    "Business": 12017,
+    "Communication & Scheduling": 10278,
+    "Entertainment": 3818,
+    "Reference & Learning": 3174,
+    "News & Opinion": 2225,
+    "Uncategorized": 1592,
+    "Design & Composition": 1404,
+    "Social Networking": 791,
+    "Utilities": 528
+  },
+  "2019-03-15": {
+    "Business": 12742,
+    "Communication & Scheduling": 11132,
+    "Entertainment": 9207,
+    "Uncategorized": 3277,
+    "Reference & Learning": 2063,
+    "Utilities": 967,
+    "Design & Composition": 731,
+    "News & Opinion": 486,
+    "Social Networking": 238,
+    "Software Development": 12
+  },
+  "2019-03-16": {
+    "Business": 3600,
+    "Communication & Scheduling": 3378,
+    "News & Opinion": 1324,
+    "Entertainment": 939,
+    "Social Networking": 348,
+    "Uncategorized": 257,
+    "Utilities": 241,
+    "Reference & Learning": 183,
+    "Shopping": 53,
+    "Design & Composition": 28
+  }
+}

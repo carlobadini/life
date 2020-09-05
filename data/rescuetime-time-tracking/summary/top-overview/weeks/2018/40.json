@@ -1,0 +1,83 @@
+{
+  "2018-09-30": {
+    "Entertainment": 1047,
+    "Utilities": 387,
+    "Reference & Learning": 73,
+    "Business": 53,
+    "Communication & Scheduling": 13,
+    "Software Development": 3
+  },
+  "2018-10-1": {
+    "Design & Composition": 10360,
+    "Communication & Scheduling": 3870,
+    "Business": 2925,
+    "News & Opinion": 2483,
+    "Reference & Learning": 2184,
+    "Entertainment": 1033,
+    "Uncategorized": 841,
+    "Utilities": 824,
+    "Software Development": 231,
+    "Social Networking": 207,
+    "Shopping": 34
+  },
+  "2018-10-2": {
+    "Communication & Scheduling": 6681,
+    "Business": 5022,
+    "Design & Composition": 4273,
+    "Uncategorized": 2879,
+    "Entertainment": 2347,
+    "News & Opinion": 1810,
+    "Reference & Learning": 1789,
+    "Utilities": 1234,
+    "Social Networking": 309,
+    "Shopping": 21,
+    "Software Development": 19
+  },
+  "2018-10-3": {
+    "Business": 3554,
+    "Communication & Scheduling": 2871,
+    "Entertainment": 1924,
+    "Reference & Learning": 1496,
+    "News & Opinion": 873,
+    "Utilities": 550,
+    "Uncategorized": 542,
+    "Shopping": 395,
+    "Software Development": 199,
+    "Design & Composition": 166
+  },
+  "2018-10-4": {
+    "Business": 9299,
+    "Communication & Scheduling": 7906,
+    "Uncategorized": 3119,
+    "Reference & Learning": 2064,
+    "News & Opinion": 1534,
+    "Design & Composition": 1197,
+    "Entertainment": 982,
+    "Utilities": 972,
+    "Social Networking": 267,
+    "Software Development": 168,
+    "Shopping": 17
+  },
+  "2018-10-5": {
+    "Communication & Scheduling": 1339,
+    "News & Opinion": 733,
+    "Business": 561,
+    "Uncategorized": 379,
+    "Reference & Learning": 376,
+    "Utilities": 182,
+    "Entertainment": 166,
+    "Social Networking": 95,
+    "Design & Composition": 20
+  },
+  "2018-10-6": {
+    "Reference & Learning": 948,
+    "Communication & Scheduling": 888,
+    "Entertainment": 856,
+    "News & Opinion": 421,
+    "Business": 323,
+    "Utilities": 190,
+    "Uncategorized": 144,
+    "Social Networking": 87,
+    "Design & Composition": 1
+  }
+}

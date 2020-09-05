@@ -1,0 +1,81 @@
+{
+  "2020-04-19": {
+    "Communication & Scheduling": 299,
+    "Business": 102,
+    "Utilities": 37
+  },
+  "2020-04-20": {
+    "Business": 12923,
+    "Communication & Scheduling": 8999,
+    "Uncategorized": 3088,
+    "Design & Composition": 2547,
+    "Reference & Learning": 1242,
+    "Entertainment": 888,
+    "Social Networking": 828,
+    "Utilities": 501,
+    "Shopping": 326,
+    "News & Opinion": 248,
+    "Software Development": 2
+  },
+  "2020-04-21": {
+    "Business": 11038,
+    "Design & Composition": 6051,
+    "Communication & Scheduling": 4729,
+    "News & Opinion": 3289,
+    "Uncategorized": 2369,
+    "Shopping": 1215,
+    "Reference & Learning": 1209,
+    "Entertainment": 807,
+    "Social Networking": 720,
+    "Software Development": 670,
+    "Utilities": 623
+  },
+  "2020-04-22": {
+    "Business": 9073,
+    "Communication & Scheduling": 5764,
+    "Design & Composition": 4561,
+    "Entertainment": 3212,
+    "Reference & Learning": 3022,
+    "Uncategorized": 562,
+    "Social Networking": 457,
+    "Utilities": 407,
+    "Shopping": 258,
+    "News & Opinion": 202,
+    "Software Development": 30
+  },
+  "2020-04-23": {
+    "Communication & Scheduling": 7153,
+    "Design & Composition": 5998,
+    "Business": 4184,
+    "Entertainment": 1038,
+    "Reference & Learning": 772,
+    "Uncategorized": 483,
+    "Utilities": 356,
+    "News & Opinion": 207,
+    "Shopping": 29
+  },
+  "2020-04-24": {
+    "Business": 9898,
+    "Communication & Scheduling": 6932,
+    "Design & Composition": 4004,
+    "Entertainment": 2771,
+    "Uncategorized": 2305,
+    "Reference & Learning": 1995,
+    "News & Opinion": 1315,
+    "Utilities": 474,
+    "Social Networking": 466,
+    "Shopping": 251
+  },
+  "2020-04-25": {
+    "Business": 5310,
+    "Entertainment": 2515,
+    "Uncategorized": 1682,
+    "Communication & Scheduling": 1620,
+    "News & Opinion": 534,
+    "Software Development": 257,
+    "Utilities": 243,
+    "Social Networking": 210,
+    "Reference & Learning": 27,
+    "Shopping": 11
+  }
+}

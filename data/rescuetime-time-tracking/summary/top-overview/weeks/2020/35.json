@@ -1,0 +1,53 @@
+{
+  "2020-08-23": {
+    "Business": 7200,
+    "Communication & Scheduling": 4032,
+    "Uncategorized": 2629,
+    "Entertainment": 1599,
+    "Reference & Learning": 1117,
+    "Shopping": 1001,
+    "Utilities": 794,
+    "Social Networking": 498,
+    "Design & Composition": 366,
+    "News & Opinion": 154,
+    "Software Development": 16
+  },
+  "2020-08-24": {
+    "Business": 16590,
+    "Communication & Scheduling": 8572,
+    "Design & Composition": 7640,
+    "Uncategorized": 2105,
+    "Reference & Learning": 1163,
+    "Utilities": 934,
+    "News & Opinion": 701,
+    "Social Networking": 412,
+    "Entertainment": 58
+  },
+  "2020-08-25": {
+    "Communication & Scheduling": 22329,
+    "Business": 10161,
+    "Uncategorized": 4392,
+    "Design & Composition": 1361,
+    "Social Networking": 831,
+    "Utilities": 762,
+    "Reference & Learning": 635,
+    "Shopping": 379,
+    "Entertainment": 217,
+    "Software Development": 160,
+    "News & Opinion": 106
+  },
+  "2020-08-26": {
+    "Communication & Scheduling": 23291,
+    "Software Development": 9348,
+    "Business": 7801,
+    "News & Opinion": 596,
+    "Uncategorized": 583,
+    "Utilities": 527,
+    "Reference & Learning": 308,
+    "Shopping": 116,
+    "Design & Composition": 40
+  },
+  "2020-08-27": {},
+  "2020-08-28": {},
+  "2020-08-29": {}
+}

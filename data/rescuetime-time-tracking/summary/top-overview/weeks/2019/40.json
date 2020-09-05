@@ -1,0 +1,88 @@
+{
+  "2019-09-29": {
+    "Business": 4593,
+    "Uncategorized": 1524,
+    "Communication & Scheduling": 1162,
+    "Entertainment": 1151,
+    "Utilities": 968,
+    "Reference & Learning": 336,
+    "Social Networking": 262,
+    "Design & Composition": 224,
+    "News & Opinion": 61,
+    "Shopping": 59
+  },
+  "2019-09-30": {
+    "Business": 16068,
+    "Communication & Scheduling": 4407,
+    "Reference & Learning": 1959,
+    "Entertainment": 1372,
+    "Utilities": 1357,
+    "Shopping": 855,
+    "Uncategorized": 844,
+    "News & Opinion": 817,
+    "Social Networking": 165,
+    "Design & Composition": 164,
+    "Software Development": 90
+  },
+  "2019-10-1": {
+    "Business": 8219,
+    "Communication & Scheduling": 3334,
+    "Reference & Learning": 1713,
+    "Entertainment": 1708,
+    "News & Opinion": 1051,
+    "Uncategorized": 1044,
+    "Social Networking": 547,
+    "Utilities": 378,
+    "Design & Composition": 354
+  },
+  "2019-10-2": {
+    "Business": 13247,
+    "Communication & Scheduling": 2722,
+    "Design & Composition": 2227,
+    "News & Opinion": 1933,
+    "Reference & Learning": 1708,
+    "Uncategorized": 1356,
+    "Entertainment": 1190,
+    "Utilities": 425,
+    "Shopping": 420,
+    "Social Networking": 73
+  },
+  "2019-10-3": {
+    "Business": 9134,
+    "Communication & Scheduling": 1683,
+    "Design & Composition": 1227,
+    "Entertainment": 964,
+    "Utilities": 366,
+    "Uncategorized": 319,
+    "News & Opinion": 273,
+    "Reference & Learning": 240,
+    "Software Development": 86,
+    "Social Networking": 8
+  },
+  "2019-10-4": {
+    "Business": 11020,
+    "Communication & Scheduling": 3717,
+    "Entertainment": 2766,
+    "News & Opinion": 2340,
+    "Uncategorized": 1391,
+    "Reference & Learning": 929,
+    "Design & Composition": 499,
+    "Utilities": 359,
+    "Shopping": 113,
+    "Social Networking": 67,
+    "Software Development": 5
+  },
+  "2019-10-5": {
+    "Business": 4137,
+    "Uncategorized": 837,
+    "Utilities": 799,
+    "Reference & Learning": 759,
+    "Software Development": 495,
+    "Communication & Scheduling": 401,
+    "Entertainment": 375,
+    "News & Opinion": 253,
+    "Shopping": 102,
+    "Social Networking": 52,
+    "Design & Composition": 45
+  }
+}

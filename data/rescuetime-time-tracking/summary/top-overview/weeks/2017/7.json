@@ -1,0 +1,83 @@
+{
+  "2017-02-12": {
+    "Entertainment": 6069,
+    "Reference & Learning": 497,
+    "Social Networking": 231,
+    "News & Opinion": 229,
+    "Business": 141,
+    "Uncategorized": 101,
+    "Software Development": 88,
+    "Utilities": 82,
+    "Communication & Scheduling": 78
+  },
+  "2017-02-13": {
+    "Business": 2719,
+    "Entertainment": 2618,
+    "Communication & Scheduling": 1090,
+    "Social Networking": 582,
+    "Utilities": 144,
+    "Design & Composition": 137,
+    "Reference & Learning": 97,
+    "News & Opinion": 15,
+    "Uncategorized": 9,
+    "Software Development": 3
+  },
+  "2017-02-14": {
+    "Entertainment": 6250,
+    "Communication & Scheduling": 3471,
+    "Business": 2539,
+    "Social Networking": 1875,
+    "Design & Composition": 1318,
+    "Reference & Learning": 763,
+    "News & Opinion": 743,
+    "Utilities": 456,
+    "Uncategorized": 51,
+    "Shopping": 7,
+    "Software Development": 3
+  },
+  "2017-02-15": {
+    "Design & Composition": 7198,
+    "Entertainment": 4671,
+    "Communication & Scheduling": 3381,
+    "Social Networking": 1622,
+    "Uncategorized": 1368,
+    "Business": 1353,
+    "Utilities": 665,
+    "News & Opinion": 453,
+    "Reference & Learning": 165,
+    "Software Development": 2
+  },
+  "2017-02-16": {
+    "Business": 5896,
+    "Design & Composition": 5749,
+    "Entertainment": 4966,
+    "Reference & Learning": 3241,
+    "Social Networking": 1732,
+    "News & Opinion": 1363,
+    "Communication & Scheduling": 1224,
+    "Uncategorized": 875,
+    "Utilities": 767,
+    "Shopping": 46
+  },
+  "2017-02-17": {
+    "Social Networking": 9082,
+    "Entertainment": 5264,
+    "Business": 5197,
+    "Design & Composition": 4417,
+    "Uncategorized": 2452,
+    "Reference & Learning": 2332,
+    "Communication & Scheduling": 2144,
+    "News & Opinion": 807,
+    "Utilities": 332,
+    "Shopping": 19
+  },
+  "2017-02-18": {
+    "Entertainment": 10063,
+    "Social Networking": 478,
+    "Business": 330,
+    "Communication & Scheduling": 286,
+    "Utilities": 261,
+    "Design & Composition": 44,
+    "Uncategorized": 24
+  }
+}

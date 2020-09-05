@@ -1,0 +1,82 @@
+{
+  "2017-01-8": {
+    "Business": 5465,
+    "Entertainment": 3249,
+    "Reference & Learning": 1421,
+    "Communication & Scheduling": 1032,
+    "Social Networking": 998,
+    "News & Opinion": 545,
+    "Uncategorized": 485,
+    "Utilities": 361,
+    "Design & Composition": 272,
+    "Software Development": 14
+  },
+  "2017-01-9": {
+    "Business": 6166,
+    "Communication & Scheduling": 4495,
+    "Social Networking": 1291,
+    "Uncategorized": 1283,
+    "Reference & Learning": 1114,
+    "Design & Composition": 671,
+    "Utilities": 334,
+    "Entertainment": 184,
+    "News & Opinion": 100
+  },
+  "2017-01-10": {
+    "Reference & Learning": 6495,
+    "Communication & Scheduling": 6183,
+    "Business": 5603,
+    "Social Networking": 1056,
+    "Utilities": 1033,
+    "Uncategorized": 487,
+    "Design & Composition": 281,
+    "Entertainment": 138,
+    "Shopping": 53,
+    "Software Development": 35
+  },
+  "2017-01-11": {
+    "Communication & Scheduling": 6193,
+    "Entertainment": 5257,
+    "Business": 3400,
+    "Social Networking": 1489,
+    "Reference & Learning": 1395,
+    "News & Opinion": 1314,
+    "Uncategorized": 395,
+    "Design & Composition": 376,
+    "Utilities": 340
+  },
+  "2017-01-12": {
+    "Business": 4834,
+    "Communication & Scheduling": 3578,
+    "Design & Composition": 3341,
+    "Uncategorized": 1729,
+    "Reference & Learning": 1004,
+    "Utilities": 606,
+    "Social Networking": 395,
+    "Shopping": 198,
+    "Entertainment": 178,
+    "Software Development": 144,
+    "News & Opinion": 127
+  },
+  "2017-01-13": {
+    "Business": 14344,
+    "Design & Composition": 3101,
+    "Communication & Scheduling": 2662,
+    "Entertainment": 2350,
+    "Social Networking": 1664,
+    "Utilities": 886,
+    "Uncategorized": 527,
+    "Software Development": 415,
+    "Reference & Learning": 206,
+    "News & Opinion": 22
+  },
+  "2017-01-14": {
+    "Reference & Learning": 1852,
+    "Social Networking": 826,
+    "Business": 729,
+    "Utilities": 126,
+    "Communication & Scheduling": 76,
+    "Uncategorized": 64,
+    "Entertainment": 2
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "2017-10-22": {},
+  "2017-10-23": {
+    "Business": 16028,
+    "Entertainment": 4978,
+    "Communication & Scheduling": 4537,
+    "News & Opinion": 2407,
+    "Uncategorized": 1818,
+    "Design & Composition": 1312,
+    "Reference & Learning": 1163,
+    "Utilities": 1115,
+    "Social Networking": 923
+  },
+  "2017-10-24": {
+    "Business": 10173,
+    "Communication & Scheduling": 3767,
+    "Reference & Learning": 2475,
+    "Uncategorized": 2440,
+    "Entertainment": 1411,
+    "Design & Composition": 1332,
+    "Utilities": 517,
+    "Software Development": 237,
+    "News & Opinion": 151,
+    "Social Networking": 139
+  },
+  "2017-10-25": {
+    "Business": 5897,
+    "Reference & Learning": 4869,
+    "Design & Composition": 4630,
+    "Entertainment": 3274,
+    "Communication & Scheduling": 3028,
+    "Uncategorized": 2053,
+    "Utilities": 736,
+    "Social Networking": 691,
+    "Software Development": 545,
+    "News & Opinion": 405,
+    "Shopping": 29
+  },
+  "2017-10-26": {
+    "Reference & Learning": 5780,
+    "Business": 5384,
+    "Communication & Scheduling": 4857,
+    "Entertainment": 3160,
+    "Uncategorized": 2276,
+    "News & Opinion": 823,
+    "Social Networking": 653,
+    "Design & Composition": 612,
+    "Utilities": 503,
+    "Shopping": 225
+  },
+  "2017-10-27": {
+    "Business": 5989,
+    "News & Opinion": 2789,
+    "Communication & Scheduling": 2239,
+    "Entertainment": 1849,
+    "Uncategorized": 1658,
+    "Design & Composition": 1622,
+    "Reference & Learning": 1209,
+    "Utilities": 494,
+    "Social Networking": 388,
+    "Shopping": 65
+  },
+  "2017-10-28": {
+    "News & Opinion": 1444,
+    "Entertainment": 1016,
+    "Reference & Learning": 332,
+    "Uncategorized": 126,
+    "Shopping": 102,
+    "Utilities": 80,
+    "Business": 52,
+    "Communication & Scheduling": 43
+  }
+}

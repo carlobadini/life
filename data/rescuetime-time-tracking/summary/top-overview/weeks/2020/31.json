@@ -1,0 +1,86 @@
+{
+  "2020-07-26": {
+    "Business": 8625,
+    "Reference & Learning": 2338,
+    "Communication & Scheduling": 1482,
+    "Uncategorized": 1011,
+    "Utilities": 615,
+    "News & Opinion": 449,
+    "Entertainment": 436,
+    "Design & Composition": 89,
+    "Social Networking": 36
+  },
+  "2020-07-27": {
+    "Business": 11421,
+    "Communication & Scheduling": 6756,
+    "Design & Composition": 4227,
+    "Shopping": 3455,
+    "Uncategorized": 3149,
+    "Reference & Learning": 1288,
+    "Utilities": 777,
+    "News & Opinion": 719,
+    "Social Networking": 443,
+    "Entertainment": 224
+  },
+  "2020-07-28": {
+    "Business": 7478,
+    "Communication & Scheduling": 7045,
+    "Design & Composition": 5350,
+    "Uncategorized": 2707,
+    "Reference & Learning": 2569,
+    "Software Development": 1236,
+    "Utilities": 638,
+    "Shopping": 532,
+    "News & Opinion": 335,
+    "Social Networking": 136,
+    "Entertainment": 13
+  },
+  "2020-07-29": {
+    "Communication & Scheduling": 7229,
+    "Business": 4840,
+    "Design & Composition": 4525,
+    "Social Networking": 4238,
+    "News & Opinion": 3978,
+    "Reference & Learning": 1425,
+    "Uncategorized": 664,
+    "Utilities": 629,
+    "Entertainment": 224,
+    "Software Development": 126,
+    "Shopping": 62
+  },
+  "2020-07-30": {
+    "Business": 10445,
+    "Communication & Scheduling": 7413,
+    "Social Networking": 5265,
+    "Uncategorized": 1570,
+    "Utilities": 489,
+    "News & Opinion": 320,
+    "Reference & Learning": 229,
+    "Design & Composition": 185,
+    "Software Development": 22
+  },
+  "2020-07-31": {
+    "Communication & Scheduling": 12808,
+    "Business": 8764,
+    "Uncategorized": 3439,
+    "Social Networking": 1851,
+    "Reference & Learning": 1009,
+    "News & Opinion": 864,
+    "Utilities": 365,
+    "Design & Composition": 329,
+    "Entertainment": 12,
+    "Shopping": 4
+  },
+  "2020-08-1": {
+    "Business": 7659,
+    "Communication & Scheduling": 3724,
+    "Uncategorized": 1648,
+    "Reference & Learning": 772,
+    "Shopping": 562,
+    "News & Opinion": 512,
+    "Utilities": 472,
+    "Design & Composition": 304,
+    "Social Networking": 300,
+    "Entertainment": 106
+  }
+}

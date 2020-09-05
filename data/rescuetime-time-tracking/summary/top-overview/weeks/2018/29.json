@@ -1,0 +1,85 @@
+{
+  "2018-07-15": {
+    "News & Opinion": 3882,
+    "Business": 3747,
+    "Entertainment": 2423,
+    "Communication & Scheduling": 737,
+    "Uncategorized": 557,
+    "Social Networking": 313,
+    "Software Development": 310,
+    "Utilities": 280,
+    "Reference & Learning": 261,
+    "Design & Composition": 124,
+    "Shopping": 30
+  },
+  "2018-07-16": {
+    "Business": 9116,
+    "Design & Composition": 6152,
+    "Communication & Scheduling": 2410,
+    "News & Opinion": 1619,
+    "Uncategorized": 1104,
+    "Reference & Learning": 627,
+    "Utilities": 468,
+    "Entertainment": 351,
+    "Software Development": 32,
+    "Social Networking": 21
+  },
+  "2018-07-17": {
+    "Business": 7703,
+    "Communication & Scheduling": 2022,
+    "News & Opinion": 1298,
+    "Software Development": 1285,
+    "Design & Composition": 1181,
+    "Uncategorized": 977,
+    "Reference & Learning": 967,
+    "Utilities": 793,
+    "Social Networking": 578,
+    "Entertainment": 234
+  },
+  "2018-07-18": {
+    "Business": 8217,
+    "Entertainment": 2665,
+    "Communication & Scheduling": 2624,
+    "Design & Composition": 1780,
+    "News & Opinion": 1612,
+    "Uncategorized": 1083,
+    "Social Networking": 612,
+    "Utilities": 374,
+    "Reference & Learning": 264,
+    "Software Development": 58
+  },
+  "2018-07-19": {
+    "Business": 8398,
+    "News & Opinion": 2647,
+    "Communication & Scheduling": 2346,
+    "Design & Composition": 1704,
+    "Uncategorized": 810,
+    "Entertainment": 308,
+    "Reference & Learning": 285,
+    "Social Networking": 180,
+    "Utilities": 148,
+    "Software Development": 28
+  },
+  "2018-07-20": {
+    "Business": 4636,
+    "Entertainment": 3645,
+    "Communication & Scheduling": 2194,
+    "Uncategorized": 1916,
+    "Reference & Learning": 1361,
+    "News & Opinion": 1093,
+    "Social Networking": 430,
+    "Utilities": 369,
+    "Design & Composition": 366,
+    "Shopping": 109
+  },
+  "2018-07-21": {
+    "News & Opinion": 3122,
+    "Entertainment": 2237,
+    "Reference & Learning": 2221,
+    "Business": 1844,
+    "Utilities": 235,
+    "Communication & Scheduling": 154,
+    "Uncategorized": 113,
+    "Social Networking": 7
+  }
+}

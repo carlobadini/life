@@ -1,0 +1,87 @@
+{
+  "2020-04-5": {
+    "Shopping": 2707,
+    "Business": 1878,
+    "Communication & Scheduling": 919,
+    "Utilities": 744,
+    "Uncategorized": 698,
+    "Reference & Learning": 646,
+    "Entertainment": 556,
+    "Design & Composition": 142,
+    "News & Opinion": 29,
+    "Social Networking": 2
+  },
+  "2020-04-6": {
+    "Business": 14604,
+    "Communication & Scheduling": 7016,
+    "Shopping": 3522,
+    "Utilities": 3338,
+    "Entertainment": 3316,
+    "News & Opinion": 2248,
+    "Uncategorized": 1825,
+    "Reference & Learning": 1173,
+    "Social Networking": 31,
+    "Design & Composition": 11
+  },
+  "2020-04-7": {
+    "Business": 11626,
+    "Communication & Scheduling": 9701,
+    "Uncategorized": 1410,
+    "Design & Composition": 1135,
+    "Shopping": 970,
+    "Reference & Learning": 856,
+    "Entertainment": 783,
+    "News & Opinion": 571,
+    "Utilities": 310,
+    "Social Networking": 95,
+    "Software Development": 17
+  },
+  "2020-04-8": {
+    "Communication & Scheduling": 8428,
+    "Business": 7494,
+    "Design & Composition": 7023,
+    "Entertainment": 2688,
+    "News & Opinion": 1907,
+    "Reference & Learning": 1017,
+    "Uncategorized": 837,
+    "Utilities": 421,
+    "Shopping": 380,
+    "Social Networking": 105
+  },
+  "2020-04-9": {
+    "Business": 11347,
+    "Design & Composition": 4910,
+    "Uncategorized": 3031,
+    "Communication & Scheduling": 2974,
+    "Entertainment": 2527,
+    "Reference & Learning": 1196,
+    "News & Opinion": 962,
+    "Shopping": 793,
+    "Utilities": 429,
+    "Software Development": 228,
+    "Social Networking": 147
+  },
+  "2020-04-10": {
+    "Design & Composition": 4627,
+    "Business": 3892,
+    "Communication & Scheduling": 3829,
+    "Entertainment": 3009,
+    "News & Opinion": 826,
+    "Uncategorized": 746,
+    "Reference & Learning": 536,
+    "Social Networking": 299,
+    "Shopping": 273,
+    "Utilities": 230
+  },
+  "2020-04-11": {
+    "Business": 4861,
+    "Communication & Scheduling": 1657,
+    "Entertainment": 228,
+    "Uncategorized": 182,
+    "Design & Composition": 89,
+    "Utilities": 71,
+    "Reference & Learning": 65,
+    "Social Networking": 9,
+    "News & Opinion": 8
+  }
+}

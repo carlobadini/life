@@ -1,0 +1,90 @@
+{
+  "2017-10-1": {
+    "Business": 4497,
+    "Communication & Scheduling": 2721,
+    "Reference & Learning": 2577,
+    "News & Opinion": 1556,
+    "Uncategorized": 1478,
+    "Entertainment": 806,
+    "Utilities": 138,
+    "Social Networking": 137,
+    "Shopping": 89,
+    "Design & Composition": 5
+  },
+  "2017-10-2": {
+    "Business": 10196,
+    "Communication & Scheduling": 5206,
+    "Reference & Learning": 4256,
+    "Software Development": 1779,
+    "Entertainment": 1557,
+    "Uncategorized": 1479,
+    "Utilities": 1134,
+    "News & Opinion": 960,
+    "Social Networking": 483,
+    "Design & Composition": 357,
+    "Shopping": 23
+  },
+  "2017-10-3": {
+    "Business": 14646,
+    "Communication & Scheduling": 4828,
+    "Reference & Learning": 4406,
+    "Uncategorized": 2815,
+    "Design & Composition": 2264,
+    "Entertainment": 2000,
+    "Utilities": 1254,
+    "News & Opinion": 799,
+    "Software Development": 322,
+    "Shopping": 160,
+    "Social Networking": 45
+  },
+  "2017-10-4": {
+    "Business": 8609,
+    "Communication & Scheduling": 4263,
+    "Design & Composition": 3684,
+    "Reference & Learning": 3675,
+    "Uncategorized": 3570,
+    "Entertainment": 1701,
+    "Social Networking": 1362,
+    "Utilities": 1085,
+    "Software Development": 935,
+    "News & Opinion": 909,
+    "Shopping": 523
+  },
+  "2017-10-5": {
+    "Business": 18664,
+    "Reference & Learning": 4210,
+    "Communication & Scheduling": 3595,
+    "Entertainment": 1828,
+    "Uncategorized": 605,
+    "Design & Composition": 443,
+    "Utilities": 431,
+    "News & Opinion": 426,
+    "Social Networking": 240,
+    "Software Development": 22
+  },
+  "2017-10-6": {
+    "Business": 11465,
+    "Reference & Learning": 4614,
+    "Entertainment": 964,
+    "Social Networking": 923,
+    "Communication & Scheduling": 852,
+    "News & Opinion": 713,
+    "Utilities": 468,
+    "Design & Composition": 314,
+    "Software Development": 229,
+    "Shopping": 67,
+    "Uncategorized": 19
+  },
+  "2017-10-7": {
+    "Business": 18760,
+    "Communication & Scheduling": 3370,
+    "Reference & Learning": 2339,
+    "Social Networking": 2102,
+    "Entertainment": 2057,
+    "News & Opinion": 1250,
+    "Utilities": 1037,
+    "Uncategorized": 972,
+    "Software Development": 95,
+    "Design & Composition": 64
+  }
+}

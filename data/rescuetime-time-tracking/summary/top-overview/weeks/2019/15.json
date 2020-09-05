@@ -1,0 +1,82 @@
+{
+  "2019-04-7": {
+    "Entertainment": 12963,
+    "Communication & Scheduling": 5007,
+    "News & Opinion": 2265,
+    "Reference & Learning": 964,
+    "Utilities": 736,
+    "Business": 729,
+    "Uncategorized": 419,
+    "Social Networking": 42
+  },
+  "2019-04-8": {
+    "Business": 11675,
+    "Communication & Scheduling": 7445,
+    "Entertainment": 5408,
+    "News & Opinion": 3749,
+    "Uncategorized": 2768,
+    "Reference & Learning": 2433,
+    "Utilities": 721,
+    "Social Networking": 521,
+    "Design & Composition": 456
+  },
+  "2019-04-9": {
+    "Business": 12999,
+    "Communication & Scheduling": 12298,
+    "Reference & Learning": 5589,
+    "News & Opinion": 2158,
+    "Entertainment": 1561,
+    "Design & Composition": 774,
+    "Uncategorized": 731,
+    "Social Networking": 224,
+    "Utilities": 193
+  },
+  "2019-04-10": {
+    "Uncategorized": 8499,
+    "Business": 4147,
+    "Reference & Learning": 2408,
+    "Communication & Scheduling": 2224,
+    "Entertainment": 1346,
+    "Design & Composition": 702,
+    "News & Opinion": 602,
+    "Utilities": 244,
+    "Software Development": 76,
+    "Social Networking": 22
+  },
+  "2019-04-11": {
+    "Business": 11950,
+    "Communication & Scheduling": 10221,
+    "Entertainment": 4305,
+    "News & Opinion": 2989,
+    "Uncategorized": 2733,
+    "Reference & Learning": 1886,
+    "Utilities": 619,
+    "Shopping": 440,
+    "Design & Composition": 106,
+    "Social Networking": 27
+  },
+  "2019-04-12": {
+    "Business": 12849,
+    "Communication & Scheduling": 7672,
+    "Uncategorized": 2502,
+    "Entertainment": 1533,
+    "News & Opinion": 877,
+    "Utilities": 723,
+    "Reference & Learning": 697,
+    "Shopping": 195,
+    "Software Development": 166,
+    "Design & Composition": 57,
+    "Social Networking": 43
+  },
+  "2019-04-13": {
+    "Entertainment": 7427,
+    "Communication & Scheduling": 6559,
+    "News & Opinion": 1360,
+    "Uncategorized": 1267,
+    "Business": 598,
+    "Shopping": 423,
+    "Reference & Learning": 256,
+    "Utilities": 212,
+    "Social Networking": 47
+  }
+}

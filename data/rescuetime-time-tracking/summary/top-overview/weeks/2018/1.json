@@ -1,0 +1,85 @@
+{
+  "2018-01-1": {},
+  "2018-01-2": {
+    "Business": 8872,
+    "Communication & Scheduling": 2069,
+    "Utilities": 1572,
+    "News & Opinion": 1381,
+    "Reference & Learning": 989,
+    "Entertainment": 441,
+    "Uncategorized": 210,
+    "Social Networking": 193,
+    "Shopping": 82
+  },
+  "2018-01-3": {
+    "Business": 14068,
+    "Communication & Scheduling": 5131,
+    "Reference & Learning": 1661,
+    "Design & Composition": 1622,
+    "Utilities": 1425,
+    "Uncategorized": 944,
+    "Social Networking": 918,
+    "Entertainment": 321,
+    "News & Opinion": 185
+  },
+  "2018-01-4": {
+    "Business": 19574,
+    "Social Networking": 2606,
+    "Design & Composition": 2076,
+    "Communication & Scheduling": 1900,
+    "Reference & Learning": 1265,
+    "Utilities": 860,
+    "Uncategorized": 634,
+    "Entertainment": 619,
+    "Shopping": 287,
+    "News & Opinion": 174,
+    "Software Development": 77
+  },
+  "2018-01-5": {
+    "Business": 11827,
+    "Communication & Scheduling": 4323,
+    "Design & Composition": 2407,
+    "Reference & Learning": 1821,
+    "Uncategorized": 1569,
+    "Entertainment": 1568,
+    "Utilities": 1441,
+    "News & Opinion": 650,
+    "Social Networking": 495,
+    "Shopping": 442,
+    "Software Development": 229
+  },
+  "2018-01-6": {
+    "Business": 4311,
+    "Reference & Learning": 2773,
+    "Communication & Scheduling": 2633,
+    "Entertainment": 2588,
+    "News & Opinion": 1890,
+    "Uncategorized": 1652,
+    "Utilities": 672,
+    "Social Networking": 627,
+    "Software Development": 34
+  },
+  "2018-12-30": {
+    "Business": 5685,
+    "News & Opinion": 3291,
+    "Entertainment": 3093,
+    "Reference & Learning": 1515,
+    "Uncategorized": 673,
+    "Utilities": 352,
+    "Communication & Scheduling": 233,
+    "Social Networking": 188,
+    "Shopping": 26
+  },
+  "2018-12-31": {
+    "Business": 6058,
+    "Entertainment": 4429,
+    "News & Opinion": 755,
+    "Utilities": 753,
+    "Reference & Learning": 640,
+    "Uncategorized": 409,
+    "Software Development": 338,
+    "Social Networking": 185,
+    "Communication & Scheduling": 106,
+    "Design & Composition": 35
+  }
+}

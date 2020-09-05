@@ -1,0 +1,85 @@
+{
+  "2017-08-6": {
+    "Business": 1498,
+    "Reference & Learning": 1020,
+    "News & Opinion": 773,
+    "Entertainment": 599,
+    "Social Networking": 544,
+    "Design & Composition": 188,
+    "Shopping": 154,
+    "Communication & Scheduling": 139,
+    "Utilities": 64,
+    "Uncategorized": 22
+  },
+  "2017-08-7": {
+    "Business": 16550,
+    "Communication & Scheduling": 3409,
+    "Entertainment": 2096,
+    "Social Networking": 1863,
+    "News & Opinion": 969,
+    "Reference & Learning": 752,
+    "Utilities": 501,
+    "Uncategorized": 413,
+    "Shopping": 290,
+    "Design & Composition": 121,
+    "Software Development": 27
+  },
+  "2017-08-8": {
+    "Business": 12511,
+    "Communication & Scheduling": 5568,
+    "Social Networking": 2843,
+    "Entertainment": 2387,
+    "Reference & Learning": 1965,
+    "News & Opinion": 1613,
+    "Uncategorized": 755,
+    "Utilities": 531,
+    "Design & Composition": 244,
+    "Software Development": 32
+  },
+  "2017-08-9": {
+    "Business": 9737,
+    "Social Networking": 3029,
+    "Communication & Scheduling": 2433,
+    "Reference & Learning": 1230,
+    "Design & Composition": 1086,
+    "News & Opinion": 970,
+    "Utilities": 747,
+    "Uncategorized": 139,
+    "Entertainment": 62,
+    "Software Development": 9
+  },
+  "2017-08-10": {
+    "Social Networking": 7762,
+    "Communication & Scheduling": 6082,
+    "Business": 5939,
+    "Uncategorized": 2724,
+    "Entertainment": 1597,
+    "Reference & Learning": 876,
+    "News & Opinion": 670,
+    "Utilities": 248,
+    "Design & Composition": 146,
+    "Software Development": 79
+  },
+  "2017-08-11": {
+    "Business": 8841,
+    "Social Networking": 4450,
+    "Communication & Scheduling": 4293,
+    "Utilities": 3867,
+    "Uncategorized": 2625,
+    "Entertainment": 2302,
+    "Reference & Learning": 1984,
+    "Design & Composition": 1524,
+    "News & Opinion": 1313,
+    "Software Development": 29,
+    "Shopping": 6
+  },
+  "2017-08-12": {
+    "News & Opinion": 798,
+    "Entertainment": 671,
+    "Social Networking": 314,
+    "Reference & Learning": 220,
+    "Utilities": 7,
+    "Uncategorized": 5,
+    "Business": 5
+  }
+}

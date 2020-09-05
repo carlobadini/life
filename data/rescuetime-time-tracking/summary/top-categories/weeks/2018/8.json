@@ -1,0 +1,53 @@
+{
+  "2018-02-18": {},
+  "2018-02-19": {
+    "Calendars": 1402,
+    "Email": 1042,
+    "Voice Chat": 42,
+    "Intelligence": 14,
+    "General Utilities": 10,
+    "Writing": 3
+  },
+  "2018-02-20": {
+    "Intelligence": 2007,
+    "Email": 1253,
+    "General Reference & Learning": 640,
+    "Voice Chat": 376,
+    "Calendars": 228,
+    "General Utilities": 51
+  },
+  "2018-02-21": {
+    "Intelligence": 2366,
+    "Email": 1290,
+    "Uncategorized": 471,
+    "Voice Chat": 409,
+    "Calendars": 238,
+    "General Reference & Learning": 217,
+    "General Utilities": 167,
+    "General Business": 40
+  },
+  "2018-02-22": {
+    "Calendars": 807,
+    "Email": 641,
+    "Voice Chat": 326,
+    "Intelligence": 286,
+    "General Utilities": 104,
+    "General Reference & Learning": 25
+  },
+  "2018-02-23": {
+    "Voice Chat": 225,
+    "Calendars": 143,
+    "Intelligence": 118,
+    "Email": 99,
+    "General Business": 59,
+    "General Utilities": 38,
+    "Uncategorized": 3
+  },
+  "2018-02-24": {
+    "General Reference & Learning": 1956,
+    "Email": 34,
+    "General Utilities": 9,
+    "General Business": 6,
+    "Voice Chat": 4
+  }
+}

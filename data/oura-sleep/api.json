@@ -9,6 +9,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "deep": {
@@ -21,6 +27,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "duration": {
@@ -33,6 +45,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "efficiency": {
@@ -45,6 +63,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "light": {
@@ -57,6 +81,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "rem": {
@@ -69,6 +99,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   },
   "total": {
@@ -81,6 +117,12 @@
     "months": [
       "2020.json"
     ],
+    "weeks": {
+      "2020": [
+        "35.json",
+        "36.json"
+      ]
+    },
     "years": "years.json"
   }
 }

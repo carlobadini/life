@@ -1,0 +1,72 @@
+{
+  "2019-12-1": {
+    "Video": 2786,
+    "General Business": 119,
+    "Intelligence": 27,
+    "Uncategorized": 4
+  },
+  "2019-12-2": {
+    "Video": 5543
+  },
+  "2019-12-3": {
+    "Email": 1094,
+    "General Utilities": 49,
+    "Video": 28,
+    "General Business": 15,
+    "Browsers": 4,
+    "Project Management": 3,
+    "Uncategorized": 2
+  },
+  "2019-12-4": {
+    "Project Management": 4736,
+    "Email": 3332,
+    "Calendars": 2075,
+    "General News & Opinion": 1412,
+    "Uncategorized": 1296,
+    "Instant Message": 977,
+    "General Business": 579,
+    "Intelligence": 404,
+    "Health & Medicine": 306,
+    "Search": 287,
+    "Sales": 256,
+    "Travel & Outdoors": 251,
+    "Home & Garden": 137,
+    "Business": 135,
+    "Internet Utilities": 108,
+    "Browsers": 60,
+    "General Reference & Learning": 53,
+    "Writing": 25,
+    "General Utilities": 17,
+    "General Entertainment": 3,
+    "Video": 2
+  },
+  "2019-12-5": {
+    "Project Management": 80,
+    "Uncategorized": 70,
+    "General Utilities": 41,
+    "Search": 25,
+    "Calendars": 23,
+    "Intelligence": 14,
+    "General Business": 7,
+    "Travel & Outdoors": 3,
+    "Video": 2
+  },
+  "2019-12-6": {},
+  "2019-12-7": {
+    "Intelligence": 674,
+    "General Utilities": 361,
+    "Search": 322,
+    "Presentation": 246,
+    "Email": 235,
+    "Project Management": 218,
+    "Marketing": 156,
+    "General Entertainment": 145,
+    "General Design & Composition": 144,
+    "Calendars": 129,
+    "Video": 105,
+    "Uncategorized": 30,
+    "Browsers": 28,
+    "General Reference & Learning": 2,
+    "General Business": 1
+  }
+}

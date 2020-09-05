@@ -1,0 +1,86 @@
+{
+  "2017-04-2": {
+    "Business": 4884,
+    "Design & Composition": 3117,
+    "Social Networking": 1946,
+    "Entertainment": 1886,
+    "Communication & Scheduling": 1625,
+    "Reference & Learning": 565,
+    "News & Opinion": 371,
+    "Utilities": 303,
+    "Uncategorized": 219,
+    "Software Development": 5
+  },
+  "2017-04-3": {
+    "Business": 8786,
+    "Communication & Scheduling": 4015,
+    "Design & Composition": 2324,
+    "Reference & Learning": 1781,
+    "Utilities": 996,
+    "Uncategorized": 989,
+    "Social Networking": 631,
+    "Shopping": 472,
+    "News & Opinion": 111,
+    "Entertainment": 40,
+    "Software Development": 2
+  },
+  "2017-04-4": {
+    "Business": 7808,
+    "Communication & Scheduling": 6993,
+    "Design & Composition": 5890,
+    "Utilities": 1940,
+    "Reference & Learning": 1909,
+    "Social Networking": 1800,
+    "Entertainment": 1276,
+    "Uncategorized": 1069,
+    "News & Opinion": 507,
+    "Software Development": 98,
+    "Shopping": 63
+  },
+  "2017-04-5": {
+    "Business": 7739,
+    "Design & Composition": 4379,
+    "Uncategorized": 3405,
+    "Reference & Learning": 2875,
+    "Communication & Scheduling": 2655,
+    "Utilities": 1086,
+    "Entertainment": 502,
+    "Social Networking": 349,
+    "Software Development": 298,
+    "News & Opinion": 65,
+    "Shopping": 11
+  },
+  "2017-04-6": {
+    "Communication & Scheduling": 1491,
+    "Business": 1137,
+    "Uncategorized": 265,
+    "Design & Composition": 176,
+    "Software Development": 88,
+    "Utilities": 67,
+    "Reference & Learning": 50,
+    "Social Networking": 19,
+    "News & Opinion": 11,
+    "Entertainment": 2
+  },
+  "2017-04-7": {
+    "Business": 10122,
+    "Entertainment": 3233,
+    "Communication & Scheduling": 3185,
+    "Social Networking": 2650,
+    "Uncategorized": 1227,
+    "Reference & Learning": 858,
+    "Design & Composition": 751,
+    "Utilities": 376,
+    "Software Development": 224,
+    "News & Opinion": 162
+  },
+  "2017-04-8": {
+    "Entertainment": 3133,
+    "Design & Composition": 2713,
+    "Social Networking": 965,
+    "Business": 508,
+    "Utilities": 276,
+    "Uncategorized": 66,
+    "Reference & Learning": 55
+  }
+}

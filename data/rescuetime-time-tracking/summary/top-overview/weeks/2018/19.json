@@ -1,0 +1,91 @@
+{
+  "2018-05-6": {
+    "Utilities": 4808,
+    "Design & Composition": 3206,
+    "News & Opinion": 2542,
+    "Communication & Scheduling": 2352,
+    "Reference & Learning": 1022,
+    "Entertainment": 531,
+    "Shopping": 278,
+    "Uncategorized": 179,
+    "Business": 128,
+    "Social Networking": 20,
+    "Software Development": 5
+  },
+  "2018-05-7": {
+    "Business": 6588,
+    "Entertainment": 3861,
+    "Uncategorized": 2634,
+    "Communication & Scheduling": 1581,
+    "News & Opinion": 1396,
+    "Utilities": 912,
+    "Social Networking": 678,
+    "Reference & Learning": 499,
+    "Design & Composition": 373,
+    "Software Development": 317,
+    "Shopping": 15
+  },
+  "2018-05-8": {
+    "Business": 8099,
+    "Communication & Scheduling": 4906,
+    "Uncategorized": 4153,
+    "Design & Composition": 2074,
+    "Reference & Learning": 1768,
+    "News & Opinion": 1250,
+    "Entertainment": 1017,
+    "Utilities": 528,
+    "Shopping": 478,
+    "Social Networking": 378,
+    "Software Development": 314
+  },
+  "2018-05-9": {
+    "Business": 11164,
+    "Communication & Scheduling": 9680,
+    "News & Opinion": 1825,
+    "Design & Composition": 1824,
+    "Reference & Learning": 1802,
+    "Entertainment": 1360,
+    "Software Development": 742,
+    "Uncategorized": 741,
+    "Social Networking": 663,
+    "Utilities": 446,
+    "Shopping": 341
+  },
+  "2018-05-10": {
+    "Entertainment": 5211,
+    "News & Opinion": 1212,
+    "Business": 1036,
+    "Reference & Learning": 952,
+    "Communication & Scheduling": 906,
+    "Uncategorized": 614,
+    "Utilities": 415,
+    "Software Development": 262,
+    "Social Networking": 243,
+    "Design & Composition": 220
+  },
+  "2018-05-11": {
+    "Business": 7812,
+    "Communication & Scheduling": 2635,
+    "News & Opinion": 2634,
+    "Entertainment": 2244,
+    "Uncategorized": 1135,
+    "Reference & Learning": 1052,
+    "Design & Composition": 711,
+    "Software Development": 617,
+    "Utilities": 508,
+    "Social Networking": 179,
+    "Shopping": 39
+  },
+  "2018-05-12": {
+    "Business": 8740,
+    "Reference & Learning": 3783,
+    "Uncategorized": 1727,
+    "Design & Composition": 1417,
+    "Entertainment": 935,
+    "Communication & Scheduling": 817,
+    "News & Opinion": 774,
+    "Social Networking": 715,
+    "Utilities": 505,
+    "Software Development": 21
+  }
+}

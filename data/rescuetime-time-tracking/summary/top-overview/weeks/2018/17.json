@@ -1,0 +1,77 @@
+{
+  "2018-04-22": {},
+  "2018-04-23": {
+    "Business": 11300,
+    "Communication & Scheduling": 9272,
+    "Uncategorized": 4402,
+    "News & Opinion": 2073,
+    "Entertainment": 2004,
+    "Design & Composition": 1766,
+    "Reference & Learning": 1564,
+    "Social Networking": 1388,
+    "Utilities": 732,
+    "Software Development": 407
+  },
+  "2018-04-24": {
+    "Business": 8543,
+    "Communication & Scheduling": 6056,
+    "Reference & Learning": 2308,
+    "Uncategorized": 1510,
+    "News & Opinion": 1263,
+    "Entertainment": 1049,
+    "Design & Composition": 935,
+    "Social Networking": 614,
+    "Utilities": 572,
+    "Software Development": 108
+  },
+  "2018-04-25": {
+    "Business": 7559,
+    "Reference & Learning": 2474,
+    "Entertainment": 1641,
+    "Design & Composition": 1410,
+    "Communication & Scheduling": 1273,
+    "Uncategorized": 1011,
+    "News & Opinion": 958,
+    "Utilities": 924,
+    "Social Networking": 597,
+    "Shopping": 278,
+    "Software Development": 14
+  },
+  "2018-04-26": {
+    "Business": 6983,
+    "Reference & Learning": 1922,
+    "News & Opinion": 1764,
+    "Uncategorized": 1537,
+    "Entertainment": 1226,
+    "Communication & Scheduling": 734,
+    "Design & Composition": 401,
+    "Utilities": 243,
+    "Social Networking": 198,
+    "Shopping": 18
+  },
+  "2018-04-27": {
+    "Business": 6934,
+    "Communication & Scheduling": 4068,
+    "News & Opinion": 2322,
+    "Entertainment": 2194,
+    "Design & Composition": 1959,
+    "Uncategorized": 1675,
+    "Reference & Learning": 1184,
+    "Utilities": 904,
+    "Social Networking": 833,
+    "Software Development": 35
+  },
+  "2018-04-28": {
+    "Reference & Learning": 3604,
+    "Business": 1621,
+    "News & Opinion": 1420,
+    "Social Networking": 852,
+    "Uncategorized": 602,
+    "Communication & Scheduling": 394,
+    "Utilities": 290,
+    "Software Development": 129,
+    "Entertainment": 73,
+    "Design & Composition": 15,
+    "Shopping": 13
+  }
+}

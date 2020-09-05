@@ -1,0 +1,82 @@
+{
+  "2018-01-7": {
+    "Reference & Learning": 5575,
+    "Communication & Scheduling": 1939,
+    "News & Opinion": 1804,
+    "Uncategorized": 1514,
+    "Business": 1279,
+    "Entertainment": 1010,
+    "Utilities": 829,
+    "Social Networking": 357
+  },
+  "2018-01-8": {
+    "Business": 16053,
+    "Entertainment": 3020,
+    "Communication & Scheduling": 2694,
+    "Utilities": 2255,
+    "Uncategorized": 1388,
+    "Reference & Learning": 1211,
+    "Design & Composition": 1160,
+    "News & Opinion": 841,
+    "Social Networking": 528
+  },
+  "2018-01-9": {
+    "Business": 14242,
+    "Communication & Scheduling": 5206,
+    "Social Networking": 2831,
+    "Utilities": 2358,
+    "Reference & Learning": 1415,
+    "News & Opinion": 1326,
+    "Design & Composition": 1221,
+    "Entertainment": 796,
+    "Uncategorized": 707,
+    "Shopping": 260,
+    "Software Development": 67
+  },
+  "2018-01-10": {
+    "Business": 8157,
+    "Communication & Scheduling": 7423,
+    "Uncategorized": 2783,
+    "Entertainment": 2461,
+    "Reference & Learning": 823,
+    "Utilities": 819,
+    "News & Opinion": 714,
+    "Design & Composition": 410,
+    "Social Networking": 379,
+    "Shopping": 7
+  },
+  "2018-01-11": {
+    "Business": 7897,
+    "Communication & Scheduling": 2808,
+    "Entertainment": 2721,
+    "Reference & Learning": 2469,
+    "Uncategorized": 1922,
+    "Design & Composition": 1572,
+    "Utilities": 632,
+    "Social Networking": 327,
+    "News & Opinion": 295
+  },
+  "2018-01-12": {
+    "Business": 4279,
+    "Communication & Scheduling": 2369,
+    "Entertainment": 1313,
+    "Uncategorized": 989,
+    "News & Opinion": 950,
+    "Utilities": 425,
+    "Social Networking": 287,
+    "Reference & Learning": 206,
+    "Design & Composition": 12,
+    "Software Development": 3
+  },
+  "2018-01-13": {
+    "Entertainment": 761,
+    "Reference & Learning": 438,
+    "News & Opinion": 346,
+    "Business": 219,
+    "Communication & Scheduling": 27,
+    "Social Networking": 23,
+    "Utilities": 23,
+    "Design & Composition": 15,
+    "Uncategorized": 11
+  }
+}

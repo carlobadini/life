@@ -1,0 +1,24 @@
+{
+  "2020-01-1": {
+    "Entertainment": 30259,
+    "Reference & Learning": 689,
+    "Uncategorized": 167,
+    "Utilities": 99,
+    "News & Opinion": 67,
+    "Social Networking": 41,
+    "Business": 4
+  },
+  "2020-01-2": {
+    "Entertainment": 8547,
+    "Utilities": 22,
+    "Business": 18
+  },
+  "2020-01-3": {
+    "Entertainment": 4944,
+    "Utilities": 15,
+    "Business": 4
+  },
+  "2020-01-4": {
+    "Utilities": 126
+  }
+}

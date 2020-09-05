@@ -1,0 +1,83 @@
+{
+  "2017-09-3": {
+    "Communication & Scheduling": 3510,
+    "Reference & Learning": 2464,
+    "Business": 2355,
+    "Social Networking": 2053,
+    "Entertainment": 1583,
+    "Utilities": 1298,
+    "News & Opinion": 1048,
+    "Design & Composition": 906,
+    "Uncategorized": 897,
+    "Software Development": 95
+  },
+  "2017-09-4": {
+    "Business": 16899,
+    "Communication & Scheduling": 5238,
+    "Design & Composition": 4008,
+    "Uncategorized": 1589,
+    "Reference & Learning": 1535,
+    "Social Networking": 864,
+    "Entertainment": 524,
+    "Utilities": 484,
+    "News & Opinion": 433,
+    "Shopping": 9
+  },
+  "2017-09-5": {
+    "Business": 14411,
+    "Design & Composition": 3625,
+    "Communication & Scheduling": 3241,
+    "Uncategorized": 2963,
+    "Social Networking": 2046,
+    "Reference & Learning": 1322,
+    "Utilities": 977,
+    "Entertainment": 872,
+    "News & Opinion": 689,
+    "Software Development": 237,
+    "Shopping": 181
+  },
+  "2017-09-6": {
+    "Business": 8894,
+    "Communication & Scheduling": 2735,
+    "Uncategorized": 1473,
+    "Entertainment": 1057,
+    "Reference & Learning": 587,
+    "Social Networking": 541,
+    "News & Opinion": 523,
+    "Utilities": 219
+  },
+  "2017-09-7": {
+    "Business": 6142,
+    "Communication & Scheduling": 2205,
+    "Design & Composition": 1489,
+    "Reference & Learning": 1252,
+    "Uncategorized": 1235,
+    "Social Networking": 1082,
+    "Utilities": 643,
+    "News & Opinion": 56,
+    "Software Development": 21
+  },
+  "2017-09-8": {
+    "Business": 11652,
+    "Social Networking": 10113,
+    "Entertainment": 4542,
+    "Communication & Scheduling": 3884,
+    "Reference & Learning": 3880,
+    "Design & Composition": 2315,
+    "Uncategorized": 1800,
+    "News & Opinion": 1480,
+    "Utilities": 766,
+    "Software Development": 40
+  },
+  "2017-09-9": {
+    "Social Networking": 6904,
+    "Entertainment": 6558,
+    "Business": 2364,
+    "News & Opinion": 2343,
+    "Reference & Learning": 1497,
+    "Communication & Scheduling": 1484,
+    "Utilities": 622,
+    "Shopping": 340,
+    "Uncategorized": 310
+  }
+}

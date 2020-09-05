@@ -1,0 +1,80 @@
+{
+  "2018-10-28": {
+    "Entertainment": 5267,
+    "News & Opinion": 1639,
+    "Communication & Scheduling": 238,
+    "Utilities": 102,
+    "Uncategorized": 93,
+    "Business": 54,
+    "Reference & Learning": 5
+  },
+  "2018-10-29": {
+    "Business": 14811,
+    "News & Opinion": 3548,
+    "Communication & Scheduling": 2579,
+    "Uncategorized": 1658,
+    "Reference & Learning": 1408,
+    "Utilities": 479,
+    "Entertainment": 363,
+    "Social Networking": 215,
+    "Shopping": 76
+  },
+  "2018-10-30": {
+    "Business": 10830,
+    "Communication & Scheduling": 9952,
+    "Entertainment": 3989,
+    "Uncategorized": 3287,
+    "Reference & Learning": 1957,
+    "News & Opinion": 1762,
+    "Software Development": 1190,
+    "Design & Composition": 883,
+    "Utilities": 535,
+    "Social Networking": 349
+  },
+  "2018-10-31": {
+    "Business": 17260,
+    "Communication & Scheduling": 8494,
+    "Entertainment": 3853,
+    "Reference & Learning": 2043,
+    "Uncategorized": 1542,
+    "News & Opinion": 1076,
+    "Design & Composition": 702,
+    "Utilities": 433,
+    "Social Networking": 146,
+    "Software Development": 6
+  },
+  "2018-11-1": {
+    "Business": 8798,
+    "Communication & Scheduling": 6033,
+    "Uncategorized": 2421,
+    "Entertainment": 1424,
+    "News & Opinion": 1318,
+    "Design & Composition": 812,
+    "Utilities": 621,
+    "Reference & Learning": 591,
+    "Shopping": 180,
+    "Social Networking": 72,
+    "Software Development": 6
+  },
+  "2018-11-2": {
+    "Communication & Scheduling": 3286,
+    "Business": 1897,
+    "Design & Composition": 1303,
+    "Software Development": 1148,
+    "Reference & Learning": 782,
+    "News & Opinion": 289,
+    "Utilities": 98,
+    "Social Networking": 9,
+    "Uncategorized": 4
+  },
+  "2018-11-3": {
+    "Business": 910,
+    "Reference & Learning": 282,
+    "Utilities": 215,
+    "Design & Composition": 167,
+    "Communication & Scheduling": 111,
+    "Uncategorized": 85,
+    "News & Opinion": 5,
+    "Entertainment": 5
+  }
+}

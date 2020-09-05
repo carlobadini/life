@@ -1,0 +1,82 @@
+{
+  "2020-07-5": {
+    "Entertainment": 5157,
+    "Reference & Learning": 855,
+    "News & Opinion": 616,
+    "Uncategorized": 530,
+    "Utilities": 400,
+    "Business": 275,
+    "Communication & Scheduling": 163,
+    "Shopping": 43
+  },
+  "2020-07-6": {
+    "Communication & Scheduling": 612,
+    "News & Opinion": 569,
+    "Reference & Learning": 553,
+    "Utilities": 387,
+    "Uncategorized": 332,
+    "Business": 246,
+    "Design & Composition": 44
+  },
+  "2020-07-7": {
+    "Business": 9359,
+    "Communication & Scheduling": 8620,
+    "Uncategorized": 2991,
+    "Shopping": 1334,
+    "Entertainment": 1210,
+    "Reference & Learning": 1180,
+    "Utilities": 902,
+    "Social Networking": 148,
+    "Design & Composition": 80,
+    "News & Opinion": 77
+  },
+  "2020-07-8": {
+    "Business": 8085,
+    "Communication & Scheduling": 5294,
+    "Reference & Learning": 5132,
+    "Uncategorized": 2999,
+    "Social Networking": 1268,
+    "Design & Composition": 1149,
+    "Shopping": 658,
+    "Utilities": 548,
+    "News & Opinion": 533,
+    "Entertainment": 67,
+    "Software Development": 40
+  },
+  "2020-07-9": {
+    "Design & Composition": 7745,
+    "Business": 7389,
+    "Communication & Scheduling": 5358,
+    "Uncategorized": 4274,
+    "Entertainment": 1094,
+    "Reference & Learning": 1081,
+    "Utilities": 931,
+    "Software Development": 895,
+    "Shopping": 616,
+    "News & Opinion": 456,
+    "Social Networking": 357
+  },
+  "2020-07-10": {
+    "Business": 14160,
+    "Communication & Scheduling": 7387,
+    "Uncategorized": 4532,
+    "Social Networking": 1387,
+    "News & Opinion": 1071,
+    "Reference & Learning": 936,
+    "Design & Composition": 590,
+    "Utilities": 515,
+    "Shopping": 318,
+    "Entertainment": 97
+  },
+  "2020-07-11": {
+    "Communication & Scheduling": 5090,
+    "Business": 5078,
+    "Uncategorized": 2320,
+    "Shopping": 1564,
+    "Reference & Learning": 888,
+    "Utilities": 631,
+    "Entertainment": 475,
+    "Social Networking": 254,
+    "Software Development": 43
+  }
+}

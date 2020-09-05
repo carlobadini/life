@@ -1,0 +1,80 @@
+{
+  "2018-05-27": {},
+  "2018-05-28": {
+    "Business": 12708,
+    "Communication & Scheduling": 2514,
+    "News & Opinion": 2042,
+    "Uncategorized": 1113,
+    "Reference & Learning": 915,
+    "Design & Composition": 656,
+    "Entertainment": 613,
+    "Social Networking": 582,
+    "Utilities": 193,
+    "Software Development": 105,
+    "Shopping": 25
+  },
+  "2018-05-29": {
+    "Business": 8415,
+    "Communication & Scheduling": 1610,
+    "Design & Composition": 1227,
+    "Reference & Learning": 1220,
+    "Uncategorized": 888,
+    "News & Opinion": 867,
+    "Entertainment": 521,
+    "Social Networking": 394,
+    "Utilities": 306,
+    "Software Development": 61,
+    "Shopping": 59
+  },
+  "2018-05-30": {
+    "Business": 15012,
+    "Communication & Scheduling": 3950,
+    "Uncategorized": 2121,
+    "Entertainment": 1798,
+    "Reference & Learning": 1680,
+    "Social Networking": 496,
+    "Utilities": 285,
+    "Design & Composition": 187,
+    "News & Opinion": 148,
+    "Software Development": 101
+  },
+  "2018-05-31": {
+    "Business": 10197,
+    "Uncategorized": 2760,
+    "Communication & Scheduling": 1375,
+    "Entertainment": 1277,
+    "Reference & Learning": 887,
+    "News & Opinion": 760,
+    "Social Networking": 354,
+    "Utilities": 317,
+    "Shopping": 124,
+    "Design & Composition": 120,
+    "Software Development": 19
+  },
+  "2018-06-1": {
+    "Business": 18276,
+    "Communication & Scheduling": 5082,
+    "Reference & Learning": 3711,
+    "Entertainment": 1788,
+    "Uncategorized": 1177,
+    "News & Opinion": 1154,
+    "Utilities": 566,
+    "Design & Composition": 477,
+    "Social Networking": 406,
+    "Software Development": 127,
+    "Shopping": 13
+  },
+  "2018-06-2": {
+    "Business": 6491,
+    "Communication & Scheduling": 2897,
+    "Reference & Learning": 1251,
+    "Uncategorized": 636,
+    "News & Opinion": 613,
+    "Utilities": 389,
+    "Social Networking": 306,
+    "Design & Composition": 34,
+    "Shopping": 21,
+    "Software Development": 4,
+    "Entertainment": 3
+  }
+}

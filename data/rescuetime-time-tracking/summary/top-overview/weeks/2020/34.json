@@ -1,0 +1,82 @@
+{
+  "2020-08-16": {
+    "Business": 2382,
+    "Design & Composition": 74,
+    "Utilities": 37,
+    "Entertainment": 17,
+    "Communication & Scheduling": 4
+  },
+  "2020-08-17": {
+    "Communication & Scheduling": 11972,
+    "Business": 10734,
+    "Uncategorized": 1643,
+    "Reference & Learning": 1402,
+    "Social Networking": 1316,
+    "Design & Composition": 641,
+    "Utilities": 641,
+    "News & Opinion": 550,
+    "Shopping": 489,
+    "Entertainment": 65
+  },
+  "2020-08-18": {
+    "Business": 15213,
+    "Communication & Scheduling": 6052,
+    "Design & Composition": 5165,
+    "Uncategorized": 891,
+    "Utilities": 668,
+    "Reference & Learning": 379,
+    "Shopping": 282,
+    "Entertainment": 48,
+    "News & Opinion": 46,
+    "Software Development": 40,
+    "Social Networking": 23
+  },
+  "2020-08-19": {
+    "Business": 10587,
+    "Communication & Scheduling": 2377,
+    "Design & Composition": 1104,
+    "Uncategorized": 800,
+    "Utilities": 582,
+    "Social Networking": 88,
+    "Shopping": 69,
+    "Reference & Learning": 12
+  },
+  "2020-08-20": {
+    "Business": 8490,
+    "Communication & Scheduling": 7581,
+    "Uncategorized": 1870,
+    "Utilities": 979,
+    "Shopping": 449,
+    "Social Networking": 293,
+    "Reference & Learning": 292,
+    "Design & Composition": 69,
+    "Entertainment": 51,
+    "News & Opinion": 33
+  },
+  "2020-08-21": {
+    "Communication & Scheduling": 9707,
+    "Business": 4770,
+    "Uncategorized": 1518,
+    "Shopping": 1095,
+    "Design & Composition": 843,
+    "Entertainment": 650,
+    "Utilities": 503,
+    "Reference & Learning": 377,
+    "News & Opinion": 197,
+    "Software Development": 181,
+    "Social Networking": 2
+  },
+  "2020-08-22": {
+    "Business": 4291,
+    "Communication & Scheduling": 4234,
+    "Uncategorized": 2264,
+    "Reference & Learning": 627,
+    "Utilities": 575,
+    "Software Development": 525,
+    "Design & Composition": 385,
+    "Shopping": 320,
+    "Social Networking": 169,
+    "News & Opinion": 69,
+    "Entertainment": 11
+  }
+}

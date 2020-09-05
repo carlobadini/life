@@ -1,0 +1,80 @@
+{
+  "2017-04-9": {
+    "Design & Composition": 10893,
+    "Utilities": 307,
+    "Communication & Scheduling": 142,
+    "Business": 13,
+    "Shopping": 2
+  },
+  "2017-04-10": {
+    "Business": 7189,
+    "Communication & Scheduling": 6751,
+    "Social Networking": 2971,
+    "Reference & Learning": 1102,
+    "Uncategorized": 918,
+    "News & Opinion": 818,
+    "Entertainment": 805,
+    "Utilities": 738,
+    "Design & Composition": 331,
+    "Shopping": 30
+  },
+  "2017-04-11": {
+    "Design & Composition": 8105,
+    "Communication & Scheduling": 7042,
+    "Entertainment": 6302,
+    "Business": 5826,
+    "Social Networking": 1988,
+    "Uncategorized": 1938,
+    "Reference & Learning": 1933,
+    "Shopping": 1234,
+    "Utilities": 570,
+    "News & Opinion": 320
+  },
+  "2017-04-12": {
+    "Business": 12259,
+    "Entertainment": 4578,
+    "Communication & Scheduling": 3868,
+    "Design & Composition": 3006,
+    "Uncategorized": 1374,
+    "Utilities": 1240,
+    "Reference & Learning": 1198,
+    "Social Networking": 902,
+    "News & Opinion": 507,
+    "Software Development": 226,
+    "Shopping": 187
+  },
+  "2017-04-13": {
+    "Business": 5070,
+    "Reference & Learning": 2626,
+    "Communication & Scheduling": 2268,
+    "Uncategorized": 1772,
+    "Social Networking": 1208,
+    "Design & Composition": 1091,
+    "Utilities": 729,
+    "Entertainment": 464,
+    "Software Development": 220,
+    "News & Opinion": 202
+  },
+  "2017-04-14": {
+    "Design & Composition": 5967,
+    "Entertainment": 2647,
+    "Social Networking": 724,
+    "Reference & Learning": 293,
+    "Utilities": 221,
+    "Business": 97,
+    "Communication & Scheduling": 22,
+    "News & Opinion": 22,
+    "Uncategorized": 5
+  },
+  "2017-04-15": {
+    "Reference & Learning": 7235,
+    "Design & Composition": 2740,
+    "Business": 1042,
+    "Utilities": 521,
+    "Social Networking": 415,
+    "Communication & Scheduling": 86,
+    "Uncategorized": 64,
+    "Shopping": 28,
+    "Entertainment": 25
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "2020-01-26": {
+    "Entertainment": 3604,
+    "Business": 2092,
+    "Communication & Scheduling": 1977,
+    "Software Development": 701,
+    "Uncategorized": 334,
+    "Utilities": 233,
+    "Reference & Learning": 214,
+    "Shopping": 138
+  },
+  "2020-01-27": {
+    "Communication & Scheduling": 13853,
+    "Business": 10964,
+    "Uncategorized": 1885,
+    "Reference & Learning": 908,
+    "Shopping": 711,
+    "Entertainment": 571,
+    "Utilities": 353,
+    "News & Opinion": 148,
+    "Software Development": 41,
+    "Design & Composition": 9
+  },
+  "2020-01-28": {
+    "Business": 6874,
+    "Communication & Scheduling": 4970,
+    "Uncategorized": 710,
+    "Reference & Learning": 506,
+    "Utilities": 395,
+    "Entertainment": 372,
+    "Social Networking": 364,
+    "Shopping": 363,
+    "News & Opinion": 283,
+    "Software Development": 135,
+    "Design & Composition": 14
+  },
+  "2020-01-29": {
+    "Business": 10179,
+    "Communication & Scheduling": 6256,
+    "Uncategorized": 3510,
+    "Reference & Learning": 1413,
+    "Entertainment": 739,
+    "Utilities": 557,
+    "Design & Composition": 15,
+    "News & Opinion": 9
+  },
+  "2020-01-30": {
+    "Business": 13674,
+    "Communication & Scheduling": 4443,
+    "Uncategorized": 1474,
+    "Reference & Learning": 791,
+    "Utilities": 502,
+    "Design & Composition": 202,
+    "Shopping": 133,
+    "Social Networking": 67,
+    "Entertainment": 54
+  },
+  "2020-01-31": {
+    "Business": 13293,
+    "Communication & Scheduling": 9429,
+    "Reference & Learning": 991,
+    "News & Opinion": 761,
+    "Social Networking": 750,
+    "Entertainment": 575,
+    "Utilities": 458,
+    "Uncategorized": 433,
+    "Design & Composition": 206,
+    "Software Development": 14,
+    "Shopping": 5
+  },
+  "2020-02-1": {
+    "News & Opinion": 3955,
+    "Business": 1500,
+    "Entertainment": 1003,
+    "Design & Composition": 509,
+    "Uncategorized": 244,
+    "Shopping": 107,
+    "Communication & Scheduling": 99,
+    "Utilities": 81
+  }
+}

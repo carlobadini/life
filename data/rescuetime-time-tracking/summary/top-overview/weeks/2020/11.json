@@ -1,0 +1,81 @@
+{
+  "2020-03-8": {
+    "Business": 6566,
+    "Entertainment": 2682,
+    "Communication & Scheduling": 1874,
+    "News & Opinion": 1429,
+    "Design & Composition": 358,
+    "Utilities": 238,
+    "Uncategorized": 139,
+    "Shopping": 123,
+    "Software Development": 109,
+    "Reference & Learning": 21,
+    "Social Networking": 16
+  },
+  "2020-03-9": {
+    "Business": 14969,
+    "Communication & Scheduling": 11019,
+    "News & Opinion": 2953,
+    "Entertainment": 1886,
+    "Uncategorized": 1351,
+    "Reference & Learning": 695,
+    "Utilities": 557,
+    "Social Networking": 353,
+    "Shopping": 68,
+    "Design & Composition": 8,
+    "Software Development": 5
+  },
+  "2020-03-10": {
+    "Business": 8677,
+    "Communication & Scheduling": 6105,
+    "Entertainment": 4941,
+    "News & Opinion": 1923,
+    "Uncategorized": 1743,
+    "Design & Composition": 692,
+    "Shopping": 657,
+    "Reference & Learning": 501,
+    "Utilities": 392,
+    "Social Networking": 141,
+    "Software Development": 63
+  },
+  "2020-03-11": {
+    "Business": 9153,
+    "Communication & Scheduling": 2625,
+    "Uncategorized": 654,
+    "Utilities": 413,
+    "Shopping": 256,
+    "Reference & Learning": 213,
+    "Design & Composition": 113,
+    "News & Opinion": 101
+  },
+  "2020-03-12": {
+    "Business": 12891,
+    "Communication & Scheduling": 7106,
+    "News & Opinion": 2237,
+    "Entertainment": 2004,
+    "Uncategorized": 1829,
+    "Shopping": 760,
+    "Social Networking": 721,
+    "Utilities": 617,
+    "Reference & Learning": 504,
+    "Design & Composition": 48
+  },
+  "2020-03-13": {
+    "Business": 8626,
+    "Communication & Scheduling": 4122,
+    "News & Opinion": 2425,
+    "Uncategorized": 593,
+    "Reference & Learning": 461,
+    "Utilities": 291,
+    "Entertainment": 248,
+    "Shopping": 148,
+    "Social Networking": 111,
+    "Design & Composition": 85
+  },
+  "2020-03-14": {
+    "Business": 120,
+    "Utilities": 17,
+    "News & Opinion": 1,
+    "Communication & Scheduling": 1
+  }
+}

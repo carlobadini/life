@@ -29,6 +29,7 @@
   "homepage": "https://github.com/AnandChowdhary/life#readme",
   "devDependencies": {
     "@types/chart.js": "^2.9.24",
+    "@types/dot-object": "^2.1.2",
     "@types/fs-extra": "^9.0.1",
     "@types/recursive-readdir": "^2.2.0",
     "@types/spotify-web-api-node": "^4.0.1",

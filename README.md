@@ -6,7 +6,9 @@ This repository contains the data for [Carlo Badini](https://carlobadini.com)'s 
 [![Weekly CI](https://github.com/carlobadini/life/workflows/Weekly%20CI/badge.svg)](https://github.com/carlobadini/life/actions?query=workflow%3A%22Weekly+CI%22)
 [![Node CI](https://github.com/carlobadini/life/workflows/Node%20CI/badge.svg)](https://github.com/carlobadini/life/actions?query=workflow%3A%22Node+CI%22)
 
-### Supported services
+**View my life data: https://carlobadini.com/body-mind/**
+
+### Added services
 
 <!-- prettier-ignore-start -->
 | Service | API |

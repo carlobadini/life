@@ -1,0 +1,44 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Category": "Sales"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Calendars"
+  }
+]

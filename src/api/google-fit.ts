@@ -89,12 +89,10 @@ const updateGoogleFitDailyData = async (date: Date) => {
 
 export const daily = async () => {
   console.log("Google Fit: Starting...");
-  await updateGoogleFitDailyData(dayjs().subtract(1, "day").toDate());
-  console.log("Google Fit: Added yesterday's data");
-  await updateGoogleFitDailyData(dayjs().toDate());
-  console.log("Google Fit: Added today's data");
-  await updateGoogleFitDailyData(dayjs().add(1, "day").toDate());
-  console.log("Google Fit: Added tomorrow's data");
+  for await (const day of [0, 1, 2, 3, 4]) {
+    await updateGoogleFitDailyData(dayjs().subtract(day, "day").toDate());
+    console.log("Google Fit: Added data");
+  }
   console.log("Google Fit: Added daily summaries");
 };
 
@@ -239,6 +237,11 @@ export const summary = async () => {
         await readdir(join(".", "data", `google-fit-${category}`, "daily"))
       ).filter((i) => /^\d+$/.test(i));
       const yearData: { [index: string]: number } = {};
+      const weeklyData: {
+        [index: string]: {
+          [index: string]: { [index: string]: number };
+        };
+      } = {};
       for await (const year of years) {
         let yearlySum = 0;
         const monthlyData: { [index: string]: number } = {};
@@ -318,6 +321,13 @@ export const summary = async () => {
             if (dailySum) dailyData[parseInt(day)] = dailySum;
             monthlySum += dailySum;
             yearlySum += dailySum;
+            Object.keys(dailyData).forEach((key) => {
+              const weekNumber = dayjs(`${year}-${month}-${key}`).week();
+              weeklyData[year] = weeklyData[year] ?? {};
+              weeklyData[year][weekNumber] = weeklyData[year][weekNumber] ?? {};
+              weeklyData[year][weekNumber][`${year}-${month}-${key}`] =
+                dailyData[key];
+            });
           }
           if (Object.keys(dailyData).length)
             await write(
@@ -353,6 +363,26 @@ export const summary = async () => {
           join(".", "data", `google-fit-${category}`, "summary", "years.json"),
           JSON.stringify(yearData, null, 2)
         );
+      for await (const year of Object.keys(weeklyData)) {
+        for await (const week of Object.keys(weeklyData[year])) {
+          if (
+            Object.keys(weeklyData[year][week]).length &&
+            Object.values(weeklyData[year][week]).reduce((a, b) => a + b, 0)
+          )
+            await write(
+              join(
+                ".",
+                "data",
+                `google-fit-${category}`,
+                "summary",
+                "weeks",
+                year,
+                `${week}.json`
+              ),
+              JSON.stringify(weeklyData[year][week], null, 2)
+            );
+        }
+      }
     }
   }
 };

@@ -1,5 +1,5 @@
 {
-  "name": "@anandchowdhary/life",
+  "name": "@carlobadini/life",
   "version": "0.0.0",
   "description": "Life data for Anand Chowdhary",
   "main": "lib/index.js",
@@ -12,21 +12,20 @@
     "daily": "node lib/daily.js",
     "weekly": "node lib/weekly.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update-template": "npx update-template https://github.com/AnandChowdhary/life"
+    "update-template": "npx update-template https://github.com/stethoscope-js/stethoscope"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnandChowdhary/life.git"
+    "url": "git+https://github.com/CarloBadini/life.git"
   },
   "keywords": [
     "life"
   ],
-  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnandChowdhary/life/issues"
+    "url": "https://github.com/CarloBadini/life/issues"
   },
-  "homepage": "https://github.com/AnandChowdhary/life#readme",
+  "homepage": "https://github.com/CarloBadini/life#readme",
   "devDependencies": {
     "@types/chart.js": "^2.9.24",
     "@types/dot-object": "^2.1.2",
@@ -38,7 +37,7 @@
     "update-template": "^1.1.1"
   },
   "dependencies": {
-    "@anandchowdhary/cosmic": "^1.0.1",
+    "@carlobadini/cosmic": "^1.0.1",
     "@sindresorhus/slugify": "^1.1.0",
     "@toplast/lastfm": "^0.1.2",
     "axios": "^0.20.0",

@@ -37,7 +37,7 @@
     "update-template": "^1.1.1"
   },
   "dependencies": {
-    "@carlobadini/cosmic": "^1.0.1",
+    "@anandchowdhary/cosmic": "^1.0.1",
     "@sindresorhus/slugify": "^1.1.0",
     "@toplast/lastfm": "^0.1.2",
     "axios": "^0.20.0",

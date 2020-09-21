@@ -1,0 +1,83 @@
+{
+  "2020-09-6": {
+    "Communication & Scheduling": 3917,
+    "Business": 2325,
+    "Design & Composition": 824,
+    "Uncategorized": 516,
+    "News & Opinion": 219,
+    "Reference & Learning": 166,
+    "Utilities": 134,
+    "Entertainment": 33
+  },
+  "2020-09-7": {
+    "Business": 21163,
+    "Communication & Scheduling": 12397,
+    "Uncategorized": 2730,
+    "Design & Composition": 1703,
+    "Reference & Learning": 1249,
+    "Utilities": 601,
+    "Social Networking": 578,
+    "Shopping": 530,
+    "Entertainment": 322,
+    "News & Opinion": 78
+  },
+  "2020-09-8": {
+    "Communication & Scheduling": 34863,
+    "Business": 6012,
+    "Uncategorized": 4440,
+    "Reference & Learning": 1709,
+    "Design & Composition": 1116,
+    "Utilities": 509,
+    "Shopping": 247,
+    "Entertainment": 221,
+    "Social Networking": 151,
+    "Software Development": 43,
+    "News & Opinion": 34
+  },
+  "2020-09-9": {
+    "Business": 14452,
+    "Communication & Scheduling": 10954,
+    "Uncategorized": 2376,
+    "Design & Composition": 575,
+    "Utilities": 574,
+    "Reference & Learning": 522,
+    "Social Networking": 253,
+    "Software Development": 223,
+    "Shopping": 153,
+    "Entertainment": 139,
+    "News & Opinion": 104
+  },
+  "2020-09-10": {
+    "Communication & Scheduling": 15331,
+    "Design & Composition": 12173,
+    "Business": 4069,
+    "Reference & Learning": 1963,
+    "Uncategorized": 1472,
+    "Utilities": 372,
+    "Shopping": 196,
+    "News & Opinion": 119,
+    "Social Networking": 46,
+    "Entertainment": 12
+  },
+  "2020-09-11": {
+    "Communication & Scheduling": 8388,
+    "Business": 6989,
+    "Design & Composition": 6442,
+    "Uncategorized": 786,
+    "Reference & Learning": 527,
+    "Utilities": 405,
+    "Entertainment": 71,
+    "Shopping": 3
+  },
+  "2020-09-12": {
+    "Communication & Scheduling": 2790,
+    "Business": 2276,
+    "Uncategorized": 910,
+    "Social Networking": 470,
+    "Shopping": 418,
+    "Design & Composition": 307,
+    "Entertainment": 133,
+    "Reference & Learning": 95,
+    "Utilities": 70
+  }
+}

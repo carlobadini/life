@@ -3,16 +3,5 @@ integrations:
     overview: true
     top-categories: true
     top-activities: false
-  last-fm:
-    all: true
-  pocket-casts:
-    all: true
-  wakatime:
-    all: true
-  google-fit:
-    all: true
   oura-ring:
     all: true
-  # clockify:
-  # spotify:
-  # goodreads:

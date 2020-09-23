@@ -1,7 +1,9 @@
 integrations:
   rescue-time:
+    frequency: "daily"
     overview: true
     top-categories: true
     top-activities: false
   oura-ring:
+    frequency: "daily"
     all: true

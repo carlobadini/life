@@ -1,0 +1,44 @@
+{
+  "1": {},
+  "2": {},
+  "3": {},
+  "4": {},
+  "5": {},
+  "6": {},
+  "7": {},
+  "8": {
+    "score": 474,
+    "score_activity_balance": 356,
+    "score_hrv_balance": 0,
+    "score_previous_day": 548,
+    "score_previous_night": 395,
+    "score_recovery_index": 401,
+    "score_resting_hr": 562,
+    "score_sleep_balance": 294,
+    "score_temperature": 527
+  },
+  "9": {
+    "score": 2206,
+    "score_activity_balance": 2376,
+    "score_hrv_balance": 2383,
+    "score_previous_day": 2322,
+    "score_previous_night": 1938,
+    "score_recovery_index": 2018,
+    "score_resting_hr": 2340,
+    "score_sleep_balance": 2079,
+    "score_temperature": 2469
+  },
+  "10": {
+    "score": 321,
+    "score_activity_balance": 355,
+    "score_hrv_balance": 344,
+    "score_previous_day": 350,
+    "score_previous_night": 271,
+    "score_recovery_index": 285,
+    "score_resting_hr": 345,
+    "score_sleep_balance": 307,
+    "score_temperature": 344
+  },
+  "11": {},
+  "12": {}
+}

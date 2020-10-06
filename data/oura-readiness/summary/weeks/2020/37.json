@@ -1,0 +1,79 @@
+{
+  "2020-09-6": {
+    "score": 74,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 86,
+    "score_previous_day": 92,
+    "score_previous_night": 72,
+    "score_recovery_index": 70,
+    "score_resting_hr": 72,
+    "score_sleep_balance": 74,
+    "score_temperature": 62
+  },
+  "2020-09-7": {
+    "score": 80,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 87,
+    "score_previous_day": 88,
+    "score_previous_night": 72,
+    "score_recovery_index": 57,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 74,
+    "score_temperature": 100
+  },
+  "2020-09-8": {
+    "score": 83,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 88,
+    "score_previous_day": 82,
+    "score_previous_night": 64,
+    "score_recovery_index": 100,
+    "score_resting_hr": 96,
+    "score_sleep_balance": 75,
+    "score_temperature": 92
+  },
+  "2020-09-9": {
+    "score": 74,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 87,
+    "score_previous_day": 84,
+    "score_previous_night": 71,
+    "score_recovery_index": 49,
+    "score_resting_hr": 69,
+    "score_sleep_balance": 75,
+    "score_temperature": 100
+  },
+  "2020-09-10": {
+    "score": 77,
+    "score_activity_balance": 86,
+    "score_hrv_balance": 87,
+    "score_previous_day": 85,
+    "score_previous_night": 60,
+    "score_recovery_index": 80,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 73,
+    "score_temperature": 61
+  },
+  "2020-09-11": {
+    "score": 66,
+    "score_activity_balance": 76,
+    "score_hrv_balance": 87,
+    "score_previous_day": 75,
+    "score_previous_night": 56,
+    "score_recovery_index": 73,
+    "score_resting_hr": 33,
+    "score_sleep_balance": 68,
+    "score_temperature": 100
+  },
+  "2020-09-12": {
+    "score": 126,
+    "score_activity_balance": 138,
+    "score_hrv_balance": 175,
+    "score_previous_day": 150,
+    "score_previous_night": 97,
+    "score_recovery_index": 120,
+    "score_resting_hr": 101,
+    "score_sleep_balance": 115,
+    "score_temperature": 100
+  }
+}

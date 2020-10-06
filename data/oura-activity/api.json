@@ -2,6 +2,7 @@
   "cal-active": {
     "days": {
       "2020": [
+        "10.json",
         "08.json",
         "09.json"
       ]
@@ -15,7 +16,9 @@
         "36.json",
         "37.json",
         "38.json",
-        "39.json"
+        "39.json",
+        "40.json",
+        "41.json"
       ]
     },
     "years": "years.json"
@@ -23,6 +26,7 @@
   "cal-total": {
     "days": {
       "2020": [
+        "10.json",
         "08.json",
         "09.json"
       ]
@@ -36,7 +40,9 @@
         "36.json",
         "37.json",
         "38.json",
-        "39.json"
+        "39.json",
+        "40.json",
+        "41.json"
       ]
     },
     "years": "years.json"
@@ -44,6 +50,7 @@
   "steps": {
     "days": {
       "2020": [
+        "10.json",
         "08.json",
         "09.json"
       ]
@@ -57,7 +64,9 @@
         "36.json",
         "37.json",
         "38.json",
-        "39.json"
+        "39.json",
+        "40.json",
+        "41.json"
       ]
     },
     "years": "years.json"
@@ -65,6 +74,7 @@
   "total": {
     "days": {
       "2020": [
+        "10.json",
         "08.json",
         "09.json"
       ]
@@ -78,7 +88,9 @@
         "36.json",
         "37.json",
         "38.json",
-        "39.json"
+        "39.json",
+        "40.json",
+        "41.json"
       ]
     },
     "years": "years.json"

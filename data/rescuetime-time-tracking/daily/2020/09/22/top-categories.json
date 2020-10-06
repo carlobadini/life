@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9135,
+    "Time Spent (seconds)": 25831,
     "Number of People": 1,
     "Category": "Meetings"
   },
@@ -19,15 +19,15 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 3061,
+    "Time Spent (seconds)": 2723,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Instant Message"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2694,
+    "Time Spent (seconds)": 2240,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "Project Management"
   },
   {
     "Rank": 6,
@@ -37,15 +37,15 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 817,
+    "Time Spent (seconds)": 1356,
     "Number of People": 1,
-    "Category": "Calendars"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 535,
+    "Time Spent (seconds)": 817,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "Calendars"
   },
   {
     "Rank": 9,
@@ -55,15 +55,15 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 363,
+    "Time Spent (seconds)": 402,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "General Utilities"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 353,
+    "Time Spent (seconds)": 363,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Professional Networking"
   },
   {
     "Rank": 12,

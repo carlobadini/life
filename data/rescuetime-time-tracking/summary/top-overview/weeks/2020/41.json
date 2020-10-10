@@ -43,17 +43,25 @@
     "Design & Composition": 41
   },
   "2020-10-8": {
-    "Communication & Scheduling": 25364,
+    "Communication & Scheduling": 25538,
     "Business": 12679,
     "Uncategorized": 3308,
     "Reference & Learning": 2933,
-    "Utilities": 2753,
+    "Utilities": 2809,
     "News & Opinion": 604,
     "Shopping": 309,
     "Social Networking": 241,
     "Software Development": 177,
     "Entertainment": 174
   },
-  "2020-10-9": {},
+  "2020-10-9": {
+    "Business": 8208,
+    "Communication & Scheduling": 6513,
+    "Uncategorized": 1267,
+    "Utilities": 792,
+    "Reference & Learning": 530,
+    "Shopping": 341,
+    "Social Networking": 326
+  },
   "2020-10-10": {}
 }

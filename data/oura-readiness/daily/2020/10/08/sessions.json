@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "period_id": 0,
+    "score": 81,
+    "score_activity_balance": 87,
+    "score_hrv_balance": 87,
+    "score_previous_day": 87,
+    "score_previous_night": 57,
+    "score_recovery_index": 96,
+    "score_resting_hr": 85,
+    "score_sleep_balance": 78,
+    "score_temperature": 96,
+    "summary_date": "2020-10-08"
+  }
+]

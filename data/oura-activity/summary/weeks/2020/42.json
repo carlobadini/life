@@ -35,11 +35,17 @@
     "score": 51
   },
   "2020-10-16": {
-    "steps": 8368,
-    "total": 336,
-    "cal_active": 410,
-    "cal_total": 2544,
+    "steps": 8389,
+    "total": 337,
+    "cal_active": 411,
+    "cal_total": 2551,
     "score": 52
   },
-  "2020-10-17": {}
+  "2020-10-17": {
+    "steps": 3105,
+    "total": 97,
+    "cal_active": 144,
+    "cal_total": 2049,
+    "score": 52
+  }
 }

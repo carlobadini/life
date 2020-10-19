@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 851,
+    "Time Spent (seconds)": 862,
     "Number of People": 1,
     "Category": "General Shopping"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 402,
+    "Time Spent (seconds)": 407,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -37,25 +37,25 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 218,
+    "Time Spent (seconds)": 246,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 82,
-    "Number of People": 1,
-    "Category": "Instant Message"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 78,
+    "Time Spent (seconds)": 118,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
+    "Rank": 9,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
     "Rank": 10,
-    "Time Spent (seconds)": 54,
+    "Time Spent (seconds)": 66,
     "Number of People": 1,
     "Category": "Browsers"
   },

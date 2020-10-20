@@ -1,6 +1,5 @@
-[
-  {
-    "period_id": 0,
+{
+  "2020-10-18": {
     "score": 77,
     "score_activity_balance": 94,
     "score_hrv_balance": 78,
@@ -9,7 +8,12 @@
     "score_recovery_index": 72,
     "score_resting_hr": 60,
     "score_sleep_balance": 82,
-    "score_temperature": 96,
-    "summary_date": "2020-10-18"
-  }
-]
+    "score_temperature": 96
+  },
+  "2020-10-19": {},
+  "2020-10-20": {},
+  "2020-10-21": {},
+  "2020-10-22": {},
+  "2020-10-23": {},
+  "2020-10-24": {}
+}

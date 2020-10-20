@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4595,
+    "Time Spent (seconds)": 4618,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 3553,
+    "Time Spent (seconds)": 3618,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -139,21 +139,21 @@
   },
   {
     "Rank": 24,
+    "Time Spent (seconds)": 108,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 64,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
-    "Rank": 25,
+    "Rank": 26,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Category": "General Software Development"
-  },
-  {
-    "Rank": 26,
-    "Time Spent (seconds)": 52,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 27,

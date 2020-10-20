@@ -1,6 +1,6 @@
 {
   "2020-10-18": {
-    "Business": 10948,
+    "Business": 11036,
     "Communication & Scheduling": 5882,
     "Reference & Learning": 4167,
     "Design & Composition": 3945,
@@ -9,10 +9,22 @@
     "Entertainment": 979,
     "News & Opinion": 717,
     "Social Networking": 637,
-    "Utilities": 464,
+    "Utilities": 520,
     "Software Development": 53
   },
-  "2020-10-19": {},
+  "2020-10-19": {
+    "Communication & Scheduling": 21063,
+    "Business": 12043,
+    "Design & Composition": 3915,
+    "Uncategorized": 1448,
+    "Reference & Learning": 1123,
+    "Social Networking": 715,
+    "Utilities": 408,
+    "Shopping": 382,
+    "Entertainment": 87,
+    "News & Opinion": 84,
+    "Software Development": 32
+  },
   "2020-10-20": {},
   "2020-10-21": {},
   "2020-10-22": {},

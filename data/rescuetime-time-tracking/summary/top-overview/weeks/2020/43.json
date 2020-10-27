@@ -51,6 +51,28 @@
     "Entertainment": 51
   },
   "2020-10-22": {},
-  "2020-10-23": {},
-  "2020-10-24": {}
+  "2020-10-23": {
+    "Uncategorized": 6269,
+    "Business": 3957,
+    "Design & Composition": 3118,
+    "Communication & Scheduling": 2985,
+    "Reference & Learning": 2587,
+    "News & Opinion": 1214,
+    "Social Networking": 1179,
+    "Utilities": 1125,
+    "Entertainment": 230,
+    "Shopping": 104
+  },
+  "2020-10-24": {
+    "Design & Composition": 4593,
+    "Uncategorized": 4229,
+    "Business": 3672,
+    "Communication & Scheduling": 1996,
+    "Reference & Learning": 1265,
+    "Utilities": 648,
+    "News & Opinion": 583,
+    "Social Networking": 228,
+    "Entertainment": 182,
+    "Shopping": 118
+  }
 }

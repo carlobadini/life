@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 827,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 595,
+    "Number of People": 1,
+    "Category": "Games"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 473,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 283,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 252,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 232,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 176,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 162,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  }
+]

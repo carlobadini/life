@@ -10,7 +10,17 @@
     "score_sleep_balance": 79,
     "score_temperature": 100
   },
-  "2020-11-2": {},
+  "2020-11-2": {
+    "score": 81,
+    "score_activity_balance": 94,
+    "score_hrv_balance": 87,
+    "score_previous_day": 82,
+    "score_previous_night": 73,
+    "score_recovery_index": 93,
+    "score_resting_hr": 70,
+    "score_sleep_balance": 77,
+    "score_temperature": 85
+  },
   "2020-11-3": {},
   "2020-11-4": {},
   "2020-11-5": {},

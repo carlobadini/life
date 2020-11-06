@@ -25,27 +25,27 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 1663,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 1655,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 1648,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 1641,
     "Number of People": 1,
     "Category": "Sales"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 1607,
-    "Number of People": 1,
-    "Category": "Project Management"
   },
   {
     "Rank": 9,
@@ -85,7 +85,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 271,
+    "Time Spent (seconds)": 328,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -111,13 +111,13 @@
     "Rank": 19,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "Science & Technology"
   },
   {
     "Rank": 20,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Category": "Science & Technology"
+    "Category": "General Software Development"
   },
   {
     "Rank": 21,

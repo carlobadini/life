@@ -35,11 +35,17 @@
     "score": 55
   },
   "2020-11-6": {
-    "steps": 5420,
-    "total": 243,
-    "cal_active": 270,
-    "cal_total": 2371,
+    "steps": 5757,
+    "total": 266,
+    "cal_active": 285,
+    "cal_total": 2469,
     "score": 55
   },
-  "2020-11-7": {}
+  "2020-11-7": {
+    "steps": 6396,
+    "total": 264,
+    "cal_active": 287,
+    "cal_total": 2501,
+    "score": 59
+  }
 }

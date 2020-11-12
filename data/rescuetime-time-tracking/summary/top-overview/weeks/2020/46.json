@@ -20,12 +20,23 @@
     "Shopping": 1815,
     "Reference & Learning": 988,
     "Social Networking": 834,
-    "Utilities": 481,
+    "Utilities": 521,
     "Entertainment": 239,
     "News & Opinion": 74,
     "Software Development": 49
   },
-  "2020-11-11": {},
+  "2020-11-11": {
+    "Business": 12593,
+    "Communication & Scheduling": 10662,
+    "Uncategorized": 6116,
+    "Social Networking": 2279,
+    "Reference & Learning": 1763,
+    "News & Opinion": 1102,
+    "Entertainment": 1097,
+    "Design & Composition": 765,
+    "Utilities": 599,
+    "Shopping": 447
+  },
   "2020-11-12": {},
   "2020-11-13": {},
   "2020-11-14": {}

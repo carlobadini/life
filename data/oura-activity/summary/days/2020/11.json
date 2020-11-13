@@ -64,13 +64,19 @@
   },
   "10": {},
   "11": {
-    "steps": 843,
-    "total": 49,
-    "cal_active": 41,
-    "cal_total": 1914,
+    "steps": 4912,
+    "total": 236,
+    "cal_active": 236,
+    "cal_total": 2381,
+    "score": 56
+  },
+  "12": {
+    "steps": 3371,
+    "total": 165,
+    "cal_active": 164,
+    "cal_total": 2235,
     "score": 54
   },
-  "12": {},
   "13": {},
   "14": {},
   "15": {},

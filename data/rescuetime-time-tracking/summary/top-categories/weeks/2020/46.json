@@ -112,12 +112,12 @@
     "Customer Relations": 61,
     "General Design & Composition": 22,
     "Entertainment": 7,
-    "Comedy": 3,
-    "Internet Utilities": 3
+    "Internet Utilities": 3,
+    "Comedy": 3
   },
   "2020-11-13": {
     "Meetings": 12612,
-    "Project Management": 3186,
+    "Project Management": 3292,
     "General Business": 2953,
     "Uncategorized": 2642,
     "Email": 2164,
@@ -133,7 +133,7 @@
     "Browsers": 270,
     "General Entertainment": 270,
     "Entertainment": 267,
-    "General Utilities": 212,
+    "General Utilities": 252,
     "Graphic Design": 156,
     "Electronics": 137,
     "Marketing": 48,
@@ -143,5 +143,32 @@
     "Writing": 8,
     "General News & Opinion": 7
   },
-  "2020-11-14": {}
+  "2020-11-14": {
+    "Uncategorized": 2775,
+    "Project Management": 1972,
+    "Intelligence": 1770,
+    "Sales": 1397,
+    "Meetings": 1150,
+    "General Business": 730,
+    "Instant Message": 701,
+    "Games": 604,
+    "Email": 411,
+    "General Design & Composition": 331,
+    "Browsers": 313,
+    "Writing": 245,
+    "Search": 241,
+    "General News & Opinion": 206,
+    "Professional Networking": 202,
+    "Video": 73,
+    "General Entertainment": 72,
+    "Presentation": 71,
+    "Engineering & Technology": 60,
+    "General Reference & Learning": 48,
+    "General Communication & Scheduling": 45,
+    "General Social Networking": 34,
+    "Science & Technology": 33,
+    "General Software Development": 27,
+    "Marketing": 20,
+    "General Utilities": 18
+  }
 }

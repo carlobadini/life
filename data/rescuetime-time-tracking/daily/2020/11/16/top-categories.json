@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 10927,
+    "Time Spent (seconds)": 10928,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 8901,
+    "Time Spent (seconds)": 8902,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -27,13 +27,13 @@
     "Rank": 5,
     "Time Spent (seconds)": 2753,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "Instant Message"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 2718,
+    "Time Spent (seconds)": 2753,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "Professional Networking"
   },
   {
     "Rank": 7,
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 395,
+    "Time Spent (seconds)": 399,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -61,33 +61,33 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 196,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 177,
     "Number of People": 1,
     "Category": "General Shopping"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 161,
     "Number of People": 1,
     "Category": "Sales"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 154,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 148,
     "Number of People": 1,
     "Category": "General Entertainment"
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 136,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 16,

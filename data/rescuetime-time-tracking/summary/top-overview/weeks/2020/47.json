@@ -24,18 +24,30 @@
     "Entertainment": 148
   },
   "2020-11-17": {
-    "Business": 16452,
+    "Business": 16688,
     "Communication & Scheduling": 8718,
     "Uncategorized": 3446,
     "Design & Composition": 3444,
     "Reference & Learning": 3203,
     "Social Networking": 1108,
-    "Utilities": 554,
+    "Utilities": 610,
     "Entertainment": 210,
     "Software Development": 12,
     "News & Opinion": 6
   },
-  "2020-11-18": {},
+  "2020-11-18": {
+    "Business": 16120,
+    "Communication & Scheduling": 14635,
+    "Shopping": 6147,
+    "Design & Composition": 2768,
+    "Uncategorized": 2027,
+    "Reference & Learning": 1467,
+    "Utilities": 560,
+    "News & Opinion": 513,
+    "Social Networking": 419,
+    "Entertainment": 262,
+    "Software Development": 11
+  },
   "2020-11-19": {},
   "2020-11-20": {},
   "2020-11-21": {}

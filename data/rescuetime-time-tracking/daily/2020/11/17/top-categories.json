@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5904,
+    "Time Spent (seconds)": 6140,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -97,15 +97,15 @@
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 210,
+    "Time Spent (seconds)": 223,
     "Number of People": 1,
-    "Category": "General Entertainment"
+    "Category": "General Utilities"
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 167,
+    "Time Spent (seconds)": 210,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "General Entertainment"
   },
   {
     "Rank": 19,
@@ -165,12 +165,12 @@
     "Rank": 28,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "Marketing"
+    "Category": "Accounting"
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "Accounting"
+    "Category": "Marketing"
   }
 ]

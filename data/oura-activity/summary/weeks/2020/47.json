@@ -15,19 +15,25 @@
   },
   "2020-11-17": {
     "steps": 7293,
-    "total": 286,
-    "cal_active": 659,
-    "cal_total": 2766,
-    "score": 72
+    "total": 226,
+    "cal_active": 328,
+    "cal_total": 2412,
+    "score": 61
   },
   "2020-11-18": {
-    "steps": 4664,
-    "total": 165,
-    "cal_active": 229,
-    "cal_total": 2308,
-    "score": 71
+    "steps": 7176,
+    "total": 269,
+    "cal_active": 345,
+    "cal_total": 2505,
+    "score": 61
   },
-  "2020-11-19": {},
+  "2020-11-19": {
+    "steps": 4684,
+    "total": 203,
+    "cal_active": 231,
+    "cal_total": 2279,
+    "score": 61
+  },
   "2020-11-20": {},
   "2020-11-21": {}
 }

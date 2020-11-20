@@ -42,13 +42,25 @@
     "Design & Composition": 2768,
     "Uncategorized": 2027,
     "Reference & Learning": 1467,
-    "Utilities": 560,
+    "Utilities": 601,
     "News & Opinion": 513,
     "Social Networking": 419,
     "Entertainment": 262,
     "Software Development": 11
   },
-  "2020-11-19": {},
+  "2020-11-19": {
+    "Communication & Scheduling": 16015,
+    "Business": 11224,
+    "Uncategorized": 3589,
+    "Reference & Learning": 3239,
+    "Design & Composition": 2010,
+    "Shopping": 1841,
+    "Utilities": 1350,
+    "Entertainment": 588,
+    "News & Opinion": 498,
+    "Social Networking": 283,
+    "Software Development": 64
+  },
   "2020-11-20": {},
   "2020-11-21": {}
 }

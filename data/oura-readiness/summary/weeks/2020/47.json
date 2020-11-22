@@ -33,8 +33,8 @@
     "score_temperature": 98
   },
   "2020-11-18": {
-    "score": 74,
-    "score_activity_balance": 93,
+    "score": 73,
+    "score_activity_balance": 85,
     "score_hrv_balance": 57,
     "score_previous_day": 83,
     "score_previous_night": 68,
@@ -44,8 +44,8 @@
     "score_temperature": 100
   },
   "2020-11-19": {
-    "score": 77,
-    "score_activity_balance": 93,
+    "score": 76,
+    "score_activity_balance": 86,
     "score_hrv_balance": 65,
     "score_previous_day": 82,
     "score_previous_night": 75,
@@ -54,6 +54,16 @@
     "score_sleep_balance": 67,
     "score_temperature": 100
   },
-  "2020-11-20": {},
+  "2020-11-20": {
+    "score": 66,
+    "score_activity_balance": 87,
+    "score_hrv_balance": 64,
+    "score_previous_day": 87,
+    "score_previous_night": 68,
+    "score_recovery_index": 74,
+    "score_resting_hr": 36,
+    "score_sleep_balance": 64,
+    "score_temperature": 91
+  },
   "2020-11-21": {}
 }

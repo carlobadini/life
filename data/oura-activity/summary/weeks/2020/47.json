@@ -25,21 +25,27 @@
     "total": 269,
     "cal_active": 345,
     "cal_total": 2505,
-    "score": 61
+    "score": 72
   },
   "2020-11-19": {
     "steps": 5916,
     "total": 271,
     "cal_active": 294,
     "cal_total": 2480,
-    "score": 59
+    "score": 71
   },
   "2020-11-20": {
-    "steps": 3450,
-    "total": 154,
-    "cal_active": 152,
-    "cal_total": 2128,
-    "score": 52
+    "steps": 6588,
+    "total": 295,
+    "cal_active": 328,
+    "cal_total": 2502,
+    "score": 69
   },
-  "2020-11-21": {}
+  "2020-11-21": {
+    "steps": 3505,
+    "total": 185,
+    "cal_active": 163,
+    "cal_total": 2177,
+    "score": 67
+  }
 }

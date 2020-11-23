@@ -237,12 +237,19 @@
     "Design & Composition": 1179,
     "Shopping": 663,
     "Entertainment": 587,
-    "Utilities": 433,
+    "Utilities": 469,
     "Social Networking": 49,
     "News & Opinion": 48,
     "Software Development": 39
   },
-  "22": {},
+  "22": {
+    "Design & Composition": 3432,
+    "Business": 3162,
+    "Uncategorized": 2738,
+    "Utilities": 1338,
+    "Entertainment": 497,
+    "Reference & Learning": 118
+  },
   "23": {},
   "24": {},
   "25": {},

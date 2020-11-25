@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2489,
+    "Time Spent (seconds)": 2558,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 1239,
+    "Time Spent (seconds)": 1275,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -91,7 +91,7 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 416,
+    "Time Spent (seconds)": 472,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -121,7 +121,7 @@
   },
   {
     "Rank": 21,
-    "Time Spent (seconds)": 168,
+    "Time Spent (seconds)": 169,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -183,12 +183,12 @@
     "Rank": 31,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Category": "General Communication & Scheduling"
+    "Category": "Science & Technology"
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Category": "Science & Technology"
+    "Category": "General Communication & Scheduling"
   }
 ]

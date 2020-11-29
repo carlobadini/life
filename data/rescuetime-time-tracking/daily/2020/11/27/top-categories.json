@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5769,
+    "Time Spent (seconds)": 5786,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -43,21 +43,21 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 884,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 796,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 785,
     "Number of People": 1,
     "Category": "General News & Opinion"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 773,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 11,

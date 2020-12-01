@@ -336,5 +336,17 @@
     "Entertainment": 130,
     "Software Development": 90,
     "Shopping": 12
+  },
+  "30": {
+    "Communication & Scheduling": 8516,
+    "Design & Composition": 5769,
+    "Business": 5236,
+    "Utilities": 1230,
+    "Reference & Learning": 999,
+    "Uncategorized": 348,
+    "Social Networking": 276,
+    "News & Opinion": 248,
+    "Entertainment": 26,
+    "Shopping": 12
   }
 }

@@ -135,12 +135,22 @@
     "Reference & Learning": 40316,
     "Social Networking": 24401,
     "News & Opinion": 18835,
-    "Business": 261221,
+    "Business": 261475,
     "Communication & Scheduling": 294808,
-    "Utilities": 20091,
-    "Design & Composition": 60592,
+    "Utilities": 20132,
+    "Design & Composition": 60593,
     "Shopping": 23203,
     "Software Development": 915
   },
-  "12": {}
+  "12": {
+    "Communication & Scheduling": 18142,
+    "Business": 9499,
+    "Uncategorized": 8006,
+    "Design & Composition": 3689,
+    "News & Opinion": 2660,
+    "Reference & Learning": 1315,
+    "Utilities": 477,
+    "Entertainment": 233,
+    "Social Networking": 227
+  }
 }

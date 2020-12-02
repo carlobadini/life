@@ -14,9 +14,9 @@
   },
   "2020-11-30": {
     "Communication & Scheduling": 8516,
-    "Design & Composition": 5769,
-    "Business": 5236,
-    "Utilities": 1230,
+    "Design & Composition": 5770,
+    "Business": 5490,
+    "Utilities": 1271,
     "Reference & Learning": 999,
     "Uncategorized": 348,
     "Social Networking": 276,
@@ -24,7 +24,17 @@
     "Entertainment": 26,
     "Shopping": 12
   },
-  "2020-12-1": {},
+  "2020-12-1": {
+    "Communication & Scheduling": 18142,
+    "Business": 9499,
+    "Uncategorized": 8006,
+    "Design & Composition": 3689,
+    "News & Opinion": 2660,
+    "Reference & Learning": 1315,
+    "Utilities": 477,
+    "Entertainment": 233,
+    "Social Networking": 227
+  },
   "2020-12-2": {},
   "2020-12-3": {},
   "2020-12-4": {},

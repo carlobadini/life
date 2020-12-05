@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4513,
+    "Time Spent (seconds)": 4540,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2518,
+    "Time Spent (seconds)": 2679,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -79,7 +79,7 @@
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 512,
+    "Time Spent (seconds)": 553,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -159,12 +159,12 @@
     "Rank": 27,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Category": "Electronics"
+    "Category": "Audio Editing"
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Category": "Audio Editing"
+    "Category": "Electronics"
   }
 ]

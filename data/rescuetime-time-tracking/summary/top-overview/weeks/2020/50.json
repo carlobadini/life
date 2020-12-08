@@ -1,15 +1,27 @@
 {
   "2020-12-6": {
     "Communication & Scheduling": 7315,
-    "Business": 2954,
+    "Business": 3087,
     "Uncategorized": 2176,
     "Entertainment": 1123,
     "Design & Composition": 950,
     "Reference & Learning": 425,
-    "Utilities": 274,
+    "Utilities": 314,
     "Social Networking": 123
   },
-  "2020-12-7": {},
+  "2020-12-7": {
+    "Communication & Scheduling": 17089,
+    "Business": 13783,
+    "Uncategorized": 3212,
+    "Social Networking": 2408,
+    "Reference & Learning": 2360,
+    "Design & Composition": 1443,
+    "Utilities": 1177,
+    "Entertainment": 1033,
+    "Shopping": 521,
+    "News & Opinion": 491,
+    "Software Development": 113
+  },
   "2020-12-8": {},
   "2020-12-9": {},
   "2020-12-10": {},

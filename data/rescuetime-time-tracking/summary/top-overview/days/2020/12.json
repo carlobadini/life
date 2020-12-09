@@ -72,19 +72,30 @@
     "Social Networking": 123
   },
   "7": {
-    "Communication & Scheduling": 17089,
+    "Communication & Scheduling": 17163,
     "Business": 13783,
     "Uncategorized": 3212,
     "Social Networking": 2408,
     "Reference & Learning": 2360,
     "Design & Composition": 1443,
-    "Utilities": 1177,
+    "Utilities": 1217,
     "Entertainment": 1033,
     "Shopping": 521,
     "News & Opinion": 491,
     "Software Development": 113
   },
-  "8": {},
+  "8": {
+    "Communication & Scheduling": 18569,
+    "Business": 10712,
+    "Design & Composition": 4702,
+    "Reference & Learning": 3130,
+    "Uncategorized": 1633,
+    "Utilities": 1458,
+    "Social Networking": 1391,
+    "News & Opinion": 650,
+    "Entertainment": 223,
+    "Shopping": 203
+  },
   "9": {},
   "10": {},
   "11": {},

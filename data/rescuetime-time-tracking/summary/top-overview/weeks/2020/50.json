@@ -23,18 +23,29 @@
     "Software Development": 113
   },
   "2020-12-8": {
-    "Communication & Scheduling": 18569,
-    "Business": 10712,
-    "Design & Composition": 4702,
+    "Communication & Scheduling": 18648,
+    "Business": 10893,
+    "Design & Composition": 4718,
     "Reference & Learning": 3130,
     "Uncategorized": 1633,
-    "Utilities": 1458,
+    "Utilities": 1501,
     "Social Networking": 1391,
     "News & Opinion": 650,
     "Entertainment": 223,
     "Shopping": 203
   },
-  "2020-12-9": {},
+  "2020-12-9": {
+    "Business": 21080,
+    "Communication & Scheduling": 11566,
+    "Design & Composition": 4087,
+    "Uncategorized": 2011,
+    "Social Networking": 1434,
+    "Utilities": 844,
+    "Entertainment": 689,
+    "Reference & Learning": 330,
+    "Shopping": 207,
+    "News & Opinion": 73
+  },
   "2020-12-10": {},
   "2020-12-11": {},
   "2020-12-12": {}

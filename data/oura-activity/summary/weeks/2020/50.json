@@ -5,11 +5,17 @@
   "2020-12-9": {},
   "2020-12-10": {},
   "2020-12-11": {
-    "steps": 164,
-    "total": 12,
-    "cal_active": 8,
-    "cal_total": 1974,
+    "steps": 398,
+    "total": 29,
+    "cal_active": 20,
+    "cal_total": 2009,
     "score": 50
   },
-  "2020-12-12": {}
+  "2020-12-12": {
+    "steps": 8877,
+    "total": 293,
+    "cal_active": 426,
+    "cal_total": 2599,
+    "score": 48
+  }
 }

@@ -51,14 +51,14 @@
     "score_temperature": 1993
   },
   "12": {
-    "score": 221,
-    "score_activity_balance": 287,
-    "score_hrv_balance": 217,
-    "score_previous_day": 167,
-    "score_previous_night": 224,
-    "score_recovery_index": 245,
-    "score_resting_hr": 203,
-    "score_sleep_balance": 232,
-    "score_temperature": 231
+    "score": 303,
+    "score_activity_balance": 378,
+    "score_hrv_balance": 287,
+    "score_previous_day": 254,
+    "score_previous_night": 299,
+    "score_recovery_index": 315,
+    "score_resting_hr": 303,
+    "score_sleep_balance": 312,
+    "score_temperature": 325
   }
 }

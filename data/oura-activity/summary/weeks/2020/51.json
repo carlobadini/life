@@ -21,13 +21,19 @@
     "score": 57
   },
   "2020-12-16": {
-    "steps": 3132,
-    "total": 137,
-    "cal_active": 137,
-    "cal_total": 2107,
+    "steps": 7099,
+    "total": 284,
+    "cal_active": 326,
+    "cal_total": 2509,
+    "score": 61
+  },
+  "2020-12-17": {
+    "steps": 746,
+    "total": 25,
+    "cal_active": 33,
+    "cal_total": 1818,
     "score": 59
   },
-  "2020-12-17": {},
   "2020-12-18": {},
   "2020-12-19": {}
 }

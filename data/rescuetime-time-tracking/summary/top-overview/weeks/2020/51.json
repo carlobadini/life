@@ -64,15 +64,27 @@
   },
   "2020-12-18": {
     "Communication & Scheduling": 23417,
-    "Business": 11875,
-    "Social Networking": 3902,
+    "Business": 11984,
+    "Social Networking": 3933,
     "Design & Composition": 3654,
     "Uncategorized": 1141,
-    "Utilities": 1036,
+    "Utilities": 1077,
     "Reference & Learning": 872,
     "News & Opinion": 237,
     "Entertainment": 203,
     "Shopping": 2
   },
-  "2020-12-19": {}
+  "2020-12-19": {
+    "Business": 21071,
+    "Communication & Scheduling": 3847,
+    "Uncategorized": 1376,
+    "Utilities": 1296,
+    "Social Networking": 818,
+    "Reference & Learning": 469,
+    "Entertainment": 375,
+    "Shopping": 176,
+    "Software Development": 58,
+    "Design & Composition": 36,
+    "News & Opinion": 7
+  }
 }

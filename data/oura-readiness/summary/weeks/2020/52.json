@@ -1,7 +1,6 @@
-[
-  {
-    "period_id": 0,
-    "rest_mode_state": 0,
+{
+  "2020-12-20": {},
+  "2020-12-21": {
     "score": 78,
     "score_activity_balance": 83,
     "score_hrv_balance": 65,
@@ -10,7 +9,11 @@
     "score_recovery_index": 82,
     "score_resting_hr": 86,
     "score_sleep_balance": 81,
-    "score_temperature": 100,
-    "summary_date": "2020-12-21"
-  }
-]
+    "score_temperature": 100
+  },
+  "2020-12-22": {},
+  "2020-12-23": {},
+  "2020-12-24": {},
+  "2020-12-25": {},
+  "2020-12-26": {}
+}

@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 13775,
+    "Time Spent (seconds)": 13793,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3209,
+    "Time Spent (seconds)": 3358,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1631,
+    "Time Spent (seconds)": 1635,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 492,
+    "Time Spent (seconds)": 494,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -91,15 +91,15 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 361,
+    "Time Spent (seconds)": 402,
     "Number of People": 1,
-    "Category": "Search"
+    "Category": "General Utilities"
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 359,
+    "Time Spent (seconds)": 361,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Search"
   },
   {
     "Rank": 18,

@@ -23,7 +23,17 @@
     "score_temperature": 95
   },
   "2020-12-23": {},
-  "2020-12-24": {},
+  "2020-12-24": {
+    "score": 77,
+    "score_activity_balance": 71,
+    "score_hrv_balance": 67,
+    "score_previous_day": 65,
+    "score_previous_night": 79,
+    "score_recovery_index": 92,
+    "score_resting_hr": 79,
+    "score_sleep_balance": 83,
+    "score_temperature": 99
+  },
   "2020-12-25": {},
   "2020-12-26": {}
 }

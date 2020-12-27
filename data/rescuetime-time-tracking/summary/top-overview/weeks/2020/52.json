@@ -60,13 +60,23 @@
     "News & Opinion": 67
   },
   "2020-12-25": {
-    "Business": 19083,
+    "Business": 19123,
     "Communication & Scheduling": 1955,
-    "Utilities": 617,
+    "Utilities": 660,
     "Uncategorized": 560,
     "Reference & Learning": 395,
     "Social Networking": 287,
     "Entertainment": 86
   },
-  "2020-12-26": {}
+  "2020-12-26": {
+    "Business": 12500,
+    "Communication & Scheduling": 2862,
+    "Uncategorized": 1319,
+    "Reference & Learning": 1241,
+    "Utilities": 670,
+    "Social Networking": 459,
+    "Design & Composition": 128,
+    "News & Opinion": 107,
+    "Entertainment": 79
+  }
 }

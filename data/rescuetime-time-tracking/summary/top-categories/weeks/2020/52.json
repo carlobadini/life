@@ -128,12 +128,12 @@
     "Operations": 12
   },
   "2020-12-25": {
-    "General Business": 17996,
+    "General Business": 18036,
     "Project Management": 1057,
     "Email": 964,
     "Instant Message": 937,
     "Uncategorized": 560,
-    "General Utilities": 353,
+    "General Utilities": 396,
     "Browsers": 264,
     "General Reference & Learning": 253,
     "General Social Networking": 233,
@@ -143,5 +143,26 @@
     "Meetings": 54,
     "Intelligence": 30
   },
-  "2020-12-26": {}
+  "2020-12-26": {
+    "General Business": 8632,
+    "Project Management": 2611,
+    "Instant Message": 1406,
+    "Uncategorized": 1319,
+    "Intelligence": 1257,
+    "Email": 974,
+    "General Reference & Learning": 793,
+    "Meetings": 458,
+    "Browsers": 361,
+    "General Social Networking": 355,
+    "Search": 305,
+    "General Utilities": 221,
+    "Legal & Gov't": 143,
+    "Writing": 128,
+    "General News & Opinion": 107,
+    "Professional Networking": 104,
+    "Internet Utilities": 88,
+    "General Entertainment": 77,
+    "General Communication & Scheduling": 24,
+    "Video": 2
+  }
 }

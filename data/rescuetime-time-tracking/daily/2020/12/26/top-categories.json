@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8632,
+    "Time Spent (seconds)": 8657,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2611,
+    "Time Spent (seconds)": 2643,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -55,19 +55,19 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 356,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 355,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 305,
-    "Number of People": 1,
-    "Category": "Search"
-  },
-  {
     "Rank": 12,
-    "Time Spent (seconds)": 221,
+    "Time Spent (seconds)": 264,
     "Number of People": 1,
     "Category": "General Utilities"
   },

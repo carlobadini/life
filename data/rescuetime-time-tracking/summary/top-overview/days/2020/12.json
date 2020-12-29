@@ -315,15 +315,27 @@
     "Entertainment": 79
   },
   "27": {
-    "Business": 4150,
+    "Business": 4183,
     "Reference & Learning": 801,
-    "Utilities": 638,
+    "Utilities": 684,
     "Communication & Scheduling": 223,
     "Entertainment": 97,
     "Uncategorized": 22,
     "Shopping": 1
   },
-  "28": {},
+  "28": {
+    "Communication & Scheduling": 16667,
+    "Business": 14236,
+    "Uncategorized": 3539,
+    "Shopping": 3132,
+    "Reference & Learning": 2820,
+    "Utilities": 1149,
+    "Social Networking": 805,
+    "Entertainment": 650,
+    "Design & Composition": 289,
+    "News & Opinion": 270,
+    "Software Development": 206
+  },
   "29": {},
   "30": {}
 }

@@ -43,7 +43,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1327,
+    "Time Spent (seconds)": 1482,
     "Number of People": 1,
     "Category": "Sales"
   },
@@ -85,27 +85,27 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 346,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 344,
     "Number of People": 1,
     "Category": "Video"
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 335,
     "Number of People": 1,
     "Category": "General Social Networking"
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 306,
     "Number of People": 1,
     "Category": "General Entertainment"
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 288,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 19,

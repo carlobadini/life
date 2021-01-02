@@ -7,7 +7,7 @@
     "Browsers": 78023,
     "General News & Opinion": 203584,
     "General Social Networking": 54076,
-    "General Utilities": 115293,
+    "General Utilities": 115336,
     "General Business": 1084346,
     "Sales": 273794,
     "Project Management": 1036454,
@@ -67,5 +67,11 @@
     "International": 58,
     "File Sharing": 140
   },
-  "2021": {}
+  "2021": {
+    "Instant Message": 62,
+    "General Business": 26,
+    "Email": 23,
+    "Sales": 3,
+    "Internet Utilities": 3
+  }
 }

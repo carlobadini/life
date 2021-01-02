@@ -3,7 +3,7 @@
     "Entertainment": 416166,
     "Reference & Learning": 468289,
     "Uncategorized": 676096,
-    "Utilities": 204123,
+    "Utilities": 204166,
     "News & Opinion": 257975,
     "Social Networking": 192632,
     "Business": 2955619,
@@ -12,5 +12,9 @@
     "Shopping": 169239,
     "Software Development": 47556
   },
-  "2021": {}
+  "2021": {
+    "Communication & Scheduling": 85,
+    "Business": 29,
+    "Utilities": 3
+  }
 }

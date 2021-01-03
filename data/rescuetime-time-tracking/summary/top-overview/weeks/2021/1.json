@@ -1,8 +1,20 @@
 {
   "2021-01-1": {
-    "Communication & Scheduling": 85,
+    "Communication & Scheduling": 92,
     "Business": 29,
     "Utilities": 3
   },
-  "2021-01-2": {}
+  "2021-01-2": {
+    "Business": 15246,
+    "Communication & Scheduling": 3954,
+    "Uncategorized": 2838,
+    "Reference & Learning": 2455,
+    "Social Networking": 2419,
+    "Design & Composition": 2135,
+    "Shopping": 885,
+    "Utilities": 881,
+    "Entertainment": 826,
+    "News & Opinion": 757,
+    "Software Development": 117
+  }
 }

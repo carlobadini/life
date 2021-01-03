@@ -1,10 +1,16 @@
 {
   "2021-01-1": {
-    "steps": 5652,
-    "total": 257,
-    "cal_active": 269,
-    "cal_total": 2323,
-    "score": 80
+    "steps": 5680,
+    "total": 258,
+    "cal_active": 272,
+    "cal_total": 2332,
+    "score": 81
   },
-  "2021-01-2": {}
+  "2021-01-2": {
+    "steps": 2119,
+    "total": 83,
+    "cal_active": 114,
+    "cal_total": 1999,
+    "score": 83
+  }
 }

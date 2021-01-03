@@ -1,10 +1,45 @@
 {
   "2021-01-1": {
     "Instant Message": 62,
+    "Email": 30,
     "General Business": 26,
-    "Email": 23,
     "Sales": 3,
     "Internet Utilities": 3
   },
-  "2021-01-2": {}
+  "2021-01-2": {
+    "General Business": 10449,
+    "Uncategorized": 2838,
+    "Project Management": 2413,
+    "Intelligence": 2065,
+    "Email": 1868,
+    "Search": 1781,
+    "Presentation": 1432,
+    "General Social Networking": 1258,
+    "Professional Networking": 1161,
+    "Instant Message": 1138,
+    "General Shopping": 819,
+    "Meetings": 785,
+    "General News & Opinion": 682,
+    "Browsers": 664,
+    "Video": 410,
+    "Graphic Design": 408,
+    "General Reference & Learning": 389,
+    "Sales": 319,
+    "Games": 317,
+    "Travel & Outdoors": 279,
+    "General Design & Composition": 218,
+    "General Utilities": 203,
+    "Voice Chat": 158,
+    "General Software Development": 114,
+    "General Entertainment": 99,
+    "Writing": 77,
+    "Office": 47,
+    "Business": 42,
+    "Science & Technology": 33,
+    "Clothes & Personal": 19,
+    "Internet Utilities": 14,
+    "Engineering & Technology": 6,
+    "General Communication & Scheduling": 5,
+    "Systems Operations": 3
+  }
 }

@@ -9,5 +9,14 @@
     "light": 1439580,
     "score": 7148
   },
-  "2021": {}
+  "2021": {
+    "total": 21450,
+    "rem": 3450,
+    "awake": 2550,
+    "deep": 4110,
+    "duration": 24000,
+    "efficiency": 89,
+    "light": 13890,
+    "score": 69
+  }
 }

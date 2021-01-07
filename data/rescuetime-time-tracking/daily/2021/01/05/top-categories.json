@@ -1,25 +1,25 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8741,
+    "Time Spent (seconds)": 8779,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6278,
+    "Time Spent (seconds)": 6310,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3964,
+    "Time Spent (seconds)": 3999,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 3955,
+    "Time Spent (seconds)": 3958,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -55,7 +55,7 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 833,
+    "Time Spent (seconds)": 876,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -79,13 +79,13 @@
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 548,
+    "Time Spent (seconds)": 549,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 521,
+    "Time Spent (seconds)": 523,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -97,15 +97,15 @@
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 400,
+    "Time Spent (seconds)": 402,
     "Number of People": 1,
-    "Category": "Presentation"
+    "Category": "General Social Networking"
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 376,
+    "Time Spent (seconds)": 400,
     "Number of People": 1,
-    "Category": "General Social Networking"
+    "Category": "Presentation"
   },
   {
     "Rank": 19,
@@ -135,13 +135,13 @@
     "Rank": 23,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Category": "Accounting"
+    "Category": "Writing"
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "Accounting"
   },
   {
     "Rank": 25,

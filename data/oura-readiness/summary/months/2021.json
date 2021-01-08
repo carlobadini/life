@@ -1,14 +1,14 @@
 {
   "1": {
-    "score": 138,
-    "score_activity_balance": 152,
-    "score_hrv_balance": 93,
-    "score_previous_day": 64,
-    "score_previous_night": 137,
-    "score_recovery_index": 130,
-    "score_resting_hr": 176,
-    "score_sleep_balance": 142,
-    "score_temperature": 188
+    "score": 212,
+    "score_activity_balance": 230,
+    "score_hrv_balance": 136,
+    "score_previous_day": 151,
+    "score_previous_night": 218,
+    "score_recovery_index": 229,
+    "score_resting_hr": 252,
+    "score_sleep_balance": 214,
+    "score_temperature": 288
   },
   "2": {},
   "3": {},

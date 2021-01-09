@@ -80,8 +80,23 @@
     "Entertainment": 52,
     "Software Development": 1
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Communication & Scheduling": 27239,
+    "Business": 9847,
+    "Software Development": 1012,
+    "Uncategorized": 938,
+    "Reference & Learning": 918,
+    "Design & Composition": 781,
+    "Entertainment": 694,
+    "Utilities": 633,
+    "Shopping": 525,
+    "News & Opinion": 330,
+    "Social Networking": 310
+  },
+  "9": {
+    "Business": 200,
+    "Communication & Scheduling": 33
+  },
   "10": {},
   "11": {},
   "12": {},

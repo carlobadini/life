@@ -62,6 +62,21 @@
     "Entertainment": 52,
     "Software Development": 1
   },
-  "2021-01-8": {},
-  "2021-01-9": {}
+  "2021-01-8": {
+    "Communication & Scheduling": 27239,
+    "Business": 9847,
+    "Software Development": 1012,
+    "Uncategorized": 938,
+    "Reference & Learning": 918,
+    "Design & Composition": 781,
+    "Entertainment": 694,
+    "Utilities": 633,
+    "Shopping": 525,
+    "News & Opinion": 330,
+    "Social Networking": 310
+  },
+  "2021-01-9": {
+    "Business": 200,
+    "Communication & Scheduling": 33
+  }
 }

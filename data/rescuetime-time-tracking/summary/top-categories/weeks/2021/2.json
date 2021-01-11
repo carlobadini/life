@@ -183,19 +183,19 @@
     "Marketing": 1
   },
   "2021-01-9": {
-    "General Business": 12946,
+    "General Business": 12976,
     "Project Management": 3273,
     "Uncategorized": 2864,
     "Intelligence": 2106,
-    "Instant Message": 1867,
-    "General Entertainment": 1692,
+    "Instant Message": 1933,
+    "General Entertainment": 1693,
     "Search": 1418,
     "Email": 1364,
+    "General Social Networking": 1288,
     "Meetings": 1283,
-    "General Social Networking": 1278,
     "Professional Networking": 771,
+    "General Utilities": 434,
     "Browsers": 400,
-    "General Utilities": 392,
     "General News & Opinion": 311,
     "Writing": 274,
     "Presentation": 176,
@@ -208,7 +208,7 @@
     "General Communication & Scheduling": 23,
     "Business": 11,
     "General Software Development": 11,
-    "Graphic Design": 10,
-    "Sales": 10
+    "Sales": 10,
+    "Graphic Design": 10
   }
 }

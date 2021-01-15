@@ -224,8 +224,8 @@
     "score_rem": 33,
     "score_total": 76,
     "summary_date": "2021-01-12",
-    "temperature_delta": 0.04,
-    "temperature_deviation": 0.04,
+    "temperature_delta": 0.03,
+    "temperature_deviation": 0.03,
     "temperature_trend_deviation": 0.29,
     "timezone": 60,
     "total": 26100

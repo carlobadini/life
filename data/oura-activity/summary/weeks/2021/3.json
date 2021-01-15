@@ -11,23 +11,29 @@
     "total": 233,
     "cal_active": 245,
     "cal_total": 2397,
-    "score": 0
+    "score": 81
   },
   "2021-01-12": {
     "steps": 4679,
     "total": 228,
     "cal_active": 237,
     "cal_total": 2388,
-    "score": 0
+    "score": 71
   },
   "2021-01-13": {
-    "steps": 6062,
-    "total": 229,
-    "cal_active": 274,
-    "cal_total": 2355,
-    "score": 0
+    "steps": 8600,
+    "total": 358,
+    "cal_active": 405,
+    "cal_total": 2603,
+    "score": 68
   },
-  "2021-01-14": {},
+  "2021-01-14": {
+    "steps": 4024,
+    "total": 150,
+    "cal_active": 198,
+    "cal_total": 2202,
+    "score": 58
+  },
   "2021-01-15": {},
   "2021-01-16": {}
 }

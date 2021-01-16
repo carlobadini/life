@@ -75,23 +75,29 @@
     "total": 228,
     "cal_active": 237,
     "cal_total": 2388,
-    "score": 71
+    "score": 0
   },
   "13": {
     "steps": 8600,
     "total": 358,
     "cal_active": 405,
     "cal_total": 2603,
-    "score": 68
+    "score": 0
   },
   "14": {
-    "steps": 4024,
-    "total": 150,
-    "cal_active": 198,
-    "cal_total": 2202,
-    "score": 58
+    "steps": 8741,
+    "total": 302,
+    "cal_active": 547,
+    "cal_total": 2745,
+    "score": 80
   },
-  "15": {},
+  "15": {
+    "steps": 5458,
+    "total": 203,
+    "cal_active": 261,
+    "cal_total": 2367,
+    "score": 74
+  },
   "16": {},
   "17": {},
   "18": {},

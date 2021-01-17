@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 3387,
+    "Time Spent (seconds)": 3391,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -85,21 +85,21 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 311,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 290,
     "Number of People": 1,
     "Category": "General Shopping"
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 285,
     "Number of People": 1,
     "Category": "Presentation"
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 265,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 18,

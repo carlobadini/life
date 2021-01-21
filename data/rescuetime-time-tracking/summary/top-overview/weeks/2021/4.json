@@ -35,7 +35,18 @@
     "News & Opinion": 51,
     "Software Development": 5
   },
-  "2021-01-20": {},
+  "2021-01-20": {
+    "Communication & Scheduling": 26250,
+    "Business": 12541,
+    "Design & Composition": 2930,
+    "Uncategorized": 1520,
+    "Entertainment": 575,
+    "Utilities": 544,
+    "Social Networking": 477,
+    "News & Opinion": 369,
+    "Reference & Learning": 244,
+    "Shopping": 215
+  },
   "2021-01-21": {},
   "2021-01-22": {},
   "2021-01-23": {}

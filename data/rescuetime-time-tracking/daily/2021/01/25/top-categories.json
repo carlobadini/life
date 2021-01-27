@@ -7,25 +7,25 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5531,
+    "Time Spent (seconds)": 5565,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 5348,
+    "Time Spent (seconds)": 5341,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2813,
+    "Time Spent (seconds)": 2840,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2743,
+    "Time Spent (seconds)": 2769,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -97,7 +97,7 @@
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 209,
+    "Time Spent (seconds)": 210,
     "Number of People": 1,
     "Category": "Sales"
   },
@@ -121,27 +121,27 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 139,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 105,
     "Number of People": 1,
     "Category": "Video"
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Category": "General Software Development"
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 80,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 25,
@@ -193,6 +193,12 @@
   },
   {
     "Rank": 33,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "Customer Relations"

@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 18764,
+    "Time Spent (seconds)": 18881,
     "Number of People": 1,
     "Category": "Business"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2651,
+    "Time Spent (seconds)": 2657,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
@@ -27,13 +27,13 @@
     "Rank": 5,
     "Time Spent (seconds)": 1969,
     "Number of People": 1,
-    "Category": "Reference & Learning"
+    "Category": "Entertainment"
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 1969,
     "Number of People": 1,
-    "Category": "Entertainment"
+    "Category": "Reference & Learning"
   },
   {
     "Rank": 7,
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 757,
+    "Time Spent (seconds)": 815,
     "Number of People": 1,
     "Category": "Utilities"
   },

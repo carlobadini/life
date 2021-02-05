@@ -18,10 +18,16 @@
     "steps": 8570,
     "total": 294,
     "cal_active": 538,
-    "cal_total": 2713,
+    "cal_total": 2715,
     "score": 67
   },
-  "2021-02-4": {},
+  "2021-02-4": {
+    "steps": 113,
+    "total": 7,
+    "cal_active": 6,
+    "cal_total": 1788,
+    "score": 65
+  },
   "2021-02-5": {},
   "2021-02-6": {}
 }

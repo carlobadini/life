@@ -50,7 +50,7 @@
   },
   "2021-02-4": {
     "Communication & Scheduling": 13675,
-    "Business": 10400,
+    "Business": 10483,
     "Uncategorized": 5349,
     "Utilities": 3522,
     "Design & Composition": 2758,
@@ -61,6 +61,18 @@
     "Shopping": 116,
     "News & Opinion": 66
   },
-  "2021-02-5": {},
+  "2021-02-5": {
+    "Communication & Scheduling": 15053,
+    "Design & Composition": 6557,
+    "Uncategorized": 4021,
+    "Business": 3261,
+    "Entertainment": 2351,
+    "Utilities": 977,
+    "Social Networking": 920,
+    "Reference & Learning": 763,
+    "Software Development": 576,
+    "Shopping": 27,
+    "News & Opinion": 9
+  },
   "2021-02-6": {}
 }

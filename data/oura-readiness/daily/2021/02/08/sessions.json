@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "period_id": 1,
+    "rest_mode_state": 0,
+    "score": 69,
+    "score_activity_balance": 80,
+    "score_hrv_balance": 86,
+    "score_previous_day": 67,
+    "score_previous_night": 48,
+    "score_recovery_index": 55,
+    "score_resting_hr": 91,
+    "score_sleep_balance": 62,
+    "score_temperature": 100,
+    "summary_date": "2021-02-08"
+  }
+]

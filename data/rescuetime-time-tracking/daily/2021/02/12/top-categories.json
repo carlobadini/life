@@ -1,0 +1,26 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  }
+]

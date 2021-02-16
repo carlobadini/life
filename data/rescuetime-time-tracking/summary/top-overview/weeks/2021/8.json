@@ -1,12 +1,24 @@
 {
   "2021-02-14": {
     "Entertainment": 17843,
-    "Business": 61,
-    "Communication & Scheduling": 31,
-    "Utilities": 28,
+    "Business": 203,
+    "Communication & Scheduling": 75,
+    "Utilities": 70,
     "Reference & Learning": 13
   },
-  "2021-02-15": {},
+  "2021-02-15": {
+    "Communication & Scheduling": 16677,
+    "Business": 14586,
+    "Utilities": 2644,
+    "Uncategorized": 1500,
+    "Entertainment": 1330,
+    "Reference & Learning": 1234,
+    "Social Networking": 1118,
+    "Software Development": 338,
+    "Design & Composition": 90,
+    "News & Opinion": 76,
+    "Shopping": 18
+  },
   "2021-02-16": {},
   "2021-02-17": {},
   "2021-02-18": {},

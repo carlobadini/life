@@ -123,7 +123,17 @@
   },
   "13": {},
   "14": {},
-  "15": {},
+  "15": {
+    "score": 71,
+    "score_activity_balance": 71,
+    "score_hrv_balance": 88,
+    "score_previous_day": 0,
+    "score_previous_night": 54,
+    "score_recovery_index": 57,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 58,
+    "score_temperature": 100
+  },
   "16": {},
   "17": {},
   "18": {},

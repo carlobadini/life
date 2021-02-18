@@ -20,18 +20,30 @@
     "Shopping": 18
   },
   "2021-02-16": {
-    "Business": 15133,
+    "Business": 15155,
     "Communication & Scheduling": 11767,
     "Uncategorized": 3887,
     "Reference & Learning": 1978,
     "Social Networking": 1762,
     "Shopping": 1557,
     "News & Opinion": 1170,
-    "Utilities": 551,
+    "Utilities": 594,
     "Entertainment": 380,
     "Design & Composition": 161
   },
-  "2021-02-17": {},
+  "2021-02-17": {
+    "Communication & Scheduling": 21291,
+    "Business": 8402,
+    "Design & Composition": 5725,
+    "Uncategorized": 2017,
+    "Reference & Learning": 1575,
+    "Utilities": 1168,
+    "Social Networking": 1072,
+    "News & Opinion": 387,
+    "Shopping": 164,
+    "Entertainment": 139,
+    "Software Development": 68
+  },
   "2021-02-18": {},
   "2021-02-19": {},
   "2021-02-20": {}

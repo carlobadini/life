@@ -44,6 +44,16 @@
     "score_sleep_balance": 66,
     "score_temperature": 97
   },
-  "2021-02-19": {},
+  "2021-02-19": {
+    "score": 77,
+    "score_activity_balance": 55,
+    "score_hrv_balance": 92,
+    "score_previous_day": 89,
+    "score_previous_night": 70,
+    "score_recovery_index": 100,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 70,
+    "score_temperature": 77
+  },
   "2021-02-20": {}
 }

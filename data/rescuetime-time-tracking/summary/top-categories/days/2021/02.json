@@ -531,9 +531,25 @@
     "General Communication & Scheduling": 22
   },
   "21": {
-    "Video": 3296,
-    "Instant Message": 41,
-    "Intelligence": 7
+    "General Business": 7152,
+    "Video": 3955,
+    "Intelligence": 3054,
+    "Instant Message": 2192,
+    "Project Management": 893,
+    "Search": 870,
+    "Uncategorized": 648,
+    "General Entertainment": 606,
+    "General News & Opinion": 566,
+    "General Social Networking": 528,
+    "General Reference & Learning": 484,
+    "General Utilities": 386,
+    "Professional Networking": 156,
+    "Browsers": 141,
+    "Email": 85,
+    "General Shopping": 74,
+    "Legal & Gov't": 54,
+    "File Sharing": 20,
+    "Meetings": 2
   },
   "22": {},
   "23": {},

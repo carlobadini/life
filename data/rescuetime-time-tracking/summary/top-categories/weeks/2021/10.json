@@ -1,15 +1,30 @@
 {
   "2021-02-28": {
-    "Video": 2958,
+    "Video": 6466,
+    "Instant Message": 3073,
+    "Uncategorized": 2599,
+    "Project Management": 2400,
+    "Search": 2210,
+    "Intelligence": 2035,
+    "General Business": 1804,
+    "Email": 1677,
+    "Meetings": 1097,
+    "General Utilities": 1082,
+    "General Social Networking": 534,
     "Games": 457,
-    "Search": 117,
-    "Browsers": 97,
-    "General Utilities": 69,
-    "Uncategorized": 41,
-    "Professional Networking": 33,
-    "General Business": 28,
-    "Instant Message": 27,
-    "Email": 17,
-    "General Reference & Learning": 1
-  }
+    "General Design & Composition": 361,
+    "General Entertainment": 276,
+    "Browsers": 273,
+    "Travel & Outdoors": 181,
+    "General Reference & Learning": 160,
+    "Presentation": 154,
+    "Professional Networking": 48,
+    "General News & Opinion": 17
+  },
+  "2021-03-1": {},
+  "2021-03-2": {},
+  "2021-03-3": {},
+  "2021-03-4": {},
+  "2021-03-5": {},
+  "2021-03-6": {}
 }

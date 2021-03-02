@@ -25,7 +25,18 @@
     "Shopping": 3231,
     "News & Opinion": 10528
   },
-  "3": {},
+  "3": {
+    "Business": 18676,
+    "Communication & Scheduling": 6997,
+    "Reference & Learning": 1082,
+    "Uncategorized": 836,
+    "Utilities": 739,
+    "Software Development": 428,
+    "Social Networking": 265,
+    "News & Opinion": 168,
+    "Shopping": 164,
+    "Entertainment": 56
+  },
   "4": {},
   "5": {},
   "6": {},

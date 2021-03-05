@@ -24,7 +24,7 @@
     "News & Opinion": 198
   },
   "3": {
-    "Business": 12724,
+    "Business": 12794,
     "Communication & Scheduling": 8617,
     "Uncategorized": 6251,
     "Reference & Learning": 5011,
@@ -35,7 +35,19 @@
     "Design & Composition": 877,
     "Shopping": 534
   },
-  "4": {},
+  "4": {
+    "Business": 19085,
+    "Communication & Scheduling": 15451,
+    "Uncategorized": 2715,
+    "Reference & Learning": 1085,
+    "Utilities": 605,
+    "News & Opinion": 532,
+    "Social Networking": 460,
+    "Entertainment": 360,
+    "Design & Composition": 359,
+    "Shopping": 36,
+    "Software Development": 3
+  },
   "5": {},
   "6": {},
   "7": {},

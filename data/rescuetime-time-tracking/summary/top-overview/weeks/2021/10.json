@@ -73,9 +73,15 @@
     "Shopping": 81
   },
   "2021-03-6": {
-    "Business": 130,
-    "Entertainment": 114,
-    "Communication & Scheduling": 30,
-    "Utilities": 7
+    "Business": 8673,
+    "Communication & Scheduling": 3842,
+    "Uncategorized": 1307,
+    "Reference & Learning": 821,
+    "Entertainment": 521,
+    "Social Networking": 460,
+    "Utilities": 315,
+    "Software Development": 177,
+    "Design & Composition": 128,
+    "News & Opinion": 27
   }
 }

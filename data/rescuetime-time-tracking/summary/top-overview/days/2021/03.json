@@ -62,7 +62,7 @@
     "Shopping": 81
   },
   "6": {
-    "Business": 8673,
+    "Business": 8776,
     "Communication & Scheduling": 3842,
     "Uncategorized": 1307,
     "Reference & Learning": 821,
@@ -73,7 +73,16 @@
     "Design & Composition": 128,
     "News & Opinion": 27
   },
-  "7": {},
+  "7": {
+    "Business": 4113,
+    "Communication & Scheduling": 1178,
+    "Uncategorized": 749,
+    "Software Development": 653,
+    "Reference & Learning": 593,
+    "Utilities": 249,
+    "News & Opinion": 68,
+    "Social Networking": 58
+  },
   "8": {},
   "9": {},
   "10": {},

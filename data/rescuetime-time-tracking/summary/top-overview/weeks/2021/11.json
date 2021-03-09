@@ -1,15 +1,26 @@
 {
   "2021-03-7": {
-    "Business": 4113,
-    "Communication & Scheduling": 1178,
+    "Business": 4195,
+    "Communication & Scheduling": 1187,
     "Uncategorized": 749,
     "Software Development": 653,
     "Reference & Learning": 593,
-    "Utilities": 249,
+    "Utilities": 307,
     "News & Opinion": 68,
     "Social Networking": 58
   },
-  "2021-03-8": {},
+  "2021-03-8": {
+    "Business": 16116,
+    "Communication & Scheduling": 13489,
+    "Design & Composition": 2941,
+    "Reference & Learning": 992,
+    "Uncategorized": 958,
+    "Social Networking": 727,
+    "Shopping": 665,
+    "News & Opinion": 455,
+    "Utilities": 449,
+    "Entertainment": 102
+  },
   "2021-03-9": {},
   "2021-03-10": {},
   "2021-03-11": {},

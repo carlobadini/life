@@ -208,7 +208,7 @@
     "summary_date": "2021-03-05",
     "temperature_delta": -0.03,
     "temperature_deviation": -0.03,
-    "temperature_trend_deviation": 0,
+    "temperature_trend_deviation": 0.04,
     "timezone": 60,
     "total": 22830
   }

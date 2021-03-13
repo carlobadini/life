@@ -43,7 +43,17 @@
     "score_sleep_balance": 77,
     "score_temperature": 67
   },
-  "2021-03-11": {},
+  "2021-03-11": {
+    "score": 76,
+    "score_activity_balance": 73,
+    "score_hrv_balance": 81,
+    "score_previous_day": 71,
+    "score_previous_night": 68,
+    "score_recovery_index": 100,
+    "score_resting_hr": 70,
+    "score_sleep_balance": 76,
+    "score_temperature": 100
+  },
   "2021-03-12": {},
   "2021-03-13": {}
 }

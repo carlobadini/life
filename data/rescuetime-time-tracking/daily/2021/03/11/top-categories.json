@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9939,
+    "Time Spent (seconds)": 9941,
     "Number of People": 1,
     "Category": "Sales"
   },
@@ -19,15 +19,15 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 3582,
+    "Time Spent (seconds)": 3653,
     "Number of People": 1,
-    "Category": "General Design & Composition"
+    "Category": "Project Management"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 3478,
+    "Time Spent (seconds)": 3582,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "General Design & Composition"
   },
   {
     "Rank": 6,
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 2575,
+    "Time Spent (seconds)": 2578,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -103,15 +103,15 @@
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 166,
+    "Time Spent (seconds)": 203,
     "Number of People": 1,
-    "Category": "Presentation"
+    "Category": "General Utilities"
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 144,
+    "Time Spent (seconds)": 166,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Presentation"
   },
   {
     "Rank": 20,
@@ -165,12 +165,12 @@
     "Rank": 28,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Category": "Calendars"
+    "Category": "Internet Utilities"
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Category": "Internet Utilities"
+    "Category": "Calendars"
   }
 ]

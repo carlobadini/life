@@ -28,12 +28,18 @@
     "score": 67
   },
   "2021-03-18": {
-    "steps": 132,
-    "total": 6,
-    "cal_active": 6,
-    "cal_total": 1785,
-    "score": 70
+    "steps": 6635,
+    "total": 258,
+    "cal_active": 299,
+    "cal_total": 2441,
+    "score": 71
   },
-  "2021-03-19": {},
+  "2021-03-19": {
+    "steps": 935,
+    "total": 29,
+    "cal_active": 45,
+    "cal_total": 1837,
+    "score": 80
+  },
   "2021-03-20": {}
 }

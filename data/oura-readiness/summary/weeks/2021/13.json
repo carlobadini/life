@@ -1,7 +1,5 @@
-[
-  {
-    "period_id": 0,
-    "rest_mode_state": 0,
+{
+  "2021-03-21": {
     "score": 79,
     "score_activity_balance": 70,
     "score_hrv_balance": 79,
@@ -10,7 +8,12 @@
     "score_recovery_index": 95,
     "score_resting_hr": 86,
     "score_sleep_balance": 83,
-    "score_temperature": 100,
-    "summary_date": "2021-03-21"
-  }
-]
+    "score_temperature": 100
+  },
+  "2021-03-22": {},
+  "2021-03-23": {},
+  "2021-03-24": {},
+  "2021-03-25": {},
+  "2021-03-26": {},
+  "2021-03-27": {}
+}

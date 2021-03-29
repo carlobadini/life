@@ -331,7 +331,17 @@
     "Entertainment": 106,
     "News & Opinion": 11
   },
-  "28": {},
+  "28": {
+    "Business": 2995,
+    "Communication & Scheduling": 367,
+    "Uncategorized": 331,
+    "Design & Composition": 289,
+    "Social Networking": 100,
+    "Reference & Learning": 65,
+    "Software Development": 38,
+    "Utilities": 37,
+    "Entertainment": 18
+  },
   "29": {},
   "30": {}
 }

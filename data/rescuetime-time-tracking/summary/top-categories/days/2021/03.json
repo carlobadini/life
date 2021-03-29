@@ -756,7 +756,23 @@
     "General Reference & Learning": 17,
     "General News & Opinion": 11
   },
-  "28": {},
+  "28": {
+    "Project Management": 1109,
+    "General Business": 995,
+    "Sales": 739,
+    "Uncategorized": 331,
+    "Instant Message": 308,
+    "General Design & Composition": 289,
+    "Intelligence": 152,
+    "General Social Networking": 100,
+    "Email": 59,
+    "General Reference & Learning": 54,
+    "General Software Development": 38,
+    "Browsers": 34,
+    "General Entertainment": 18,
+    "Search": 11,
+    "General Utilities": 3
+  },
   "29": {},
   "30": {}
 }

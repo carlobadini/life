@@ -332,16 +332,27 @@
     "News & Opinion": 11
   },
   "28": {
-    "Business": 2995,
+    "Business": 3064,
     "Communication & Scheduling": 367,
     "Uncategorized": 331,
     "Design & Composition": 289,
     "Social Networking": 100,
+    "Utilities": 95,
     "Reference & Learning": 65,
     "Software Development": 38,
-    "Utilities": 37,
     "Entertainment": 18
   },
-  "29": {},
+  "29": {
+    "Business": 17528,
+    "Communication & Scheduling": 10301,
+    "Design & Composition": 4456,
+    "Reference & Learning": 1202,
+    "Utilities": 982,
+    "Uncategorized": 774,
+    "Social Networking": 495,
+    "Software Development": 354,
+    "News & Opinion": 316,
+    "Entertainment": 54
+  },
   "30": {}
 }

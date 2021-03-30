@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2995,
+    "Time Spent (seconds)": 3064,
     "Number of People": 1,
     "Category": "Business"
   },
@@ -31,21 +31,21 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 95,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Category": "Software Development"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 37,
-    "Number of People": 1,
-    "Category": "Utilities"
   },
   {
     "Rank": 9,

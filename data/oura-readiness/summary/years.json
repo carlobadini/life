@@ -11,14 +11,14 @@
     "score_temperature": 8763
   },
   "2021": {
-    "score": 5168,
-    "score_activity_balance": 5112,
-    "score_hrv_balance": 4877,
-    "score_previous_day": 4974,
-    "score_previous_night": 4652,
-    "score_recovery_index": 5499,
-    "score_resting_hr": 5923,
-    "score_sleep_balance": 4897,
-    "score_temperature": 6429
+    "score": 5239,
+    "score_activity_balance": 5198,
+    "score_hrv_balance": 4954,
+    "score_previous_day": 5069,
+    "score_previous_night": 4717,
+    "score_recovery_index": 5582,
+    "score_resting_hr": 5992,
+    "score_sleep_balance": 4950,
+    "score_temperature": 6524
   }
 }

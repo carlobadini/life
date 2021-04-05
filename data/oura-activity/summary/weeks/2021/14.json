@@ -38,8 +38,14 @@
     "steps": 11526,
     "total": 354,
     "cal_active": 516,
-    "cal_total": 2612,
+    "cal_total": 2673,
     "score": 83
   },
-  "2021-04-3": {}
+  "2021-04-3": {
+    "steps": 1197,
+    "total": 70,
+    "cal_active": 52,
+    "cal_total": 2075,
+    "score": 75
+  }
 }

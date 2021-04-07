@@ -7,13 +7,19 @@
     "score": 81
   },
   "2021-04-5": {
-    "steps": 87,
-    "total": 6,
-    "cal_active": 4,
-    "cal_total": 1783,
-    "score": 80
+    "steps": 5559,
+    "total": 273,
+    "cal_active": 273,
+    "cal_total": 2432,
+    "score": 78
   },
-  "2021-04-6": {},
+  "2021-04-6": {
+    "steps": 195,
+    "total": 11,
+    "cal_active": 8,
+    "cal_total": 1793,
+    "score": 75
+  },
   "2021-04-7": {},
   "2021-04-8": {},
   "2021-04-9": {},

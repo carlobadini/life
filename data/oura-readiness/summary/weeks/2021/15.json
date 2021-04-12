@@ -55,5 +55,15 @@
     "score_temperature": 0
   },
   "2021-04-9": {},
-  "2021-04-10": {}
+  "2021-04-10": {
+    "score": 83,
+    "score_activity_balance": 95,
+    "score_hrv_balance": 91,
+    "score_previous_day": 96,
+    "score_previous_night": 81,
+    "score_recovery_index": 86,
+    "score_resting_hr": 86,
+    "score_sleep_balance": 65,
+    "score_temperature": 97
+  }
 }

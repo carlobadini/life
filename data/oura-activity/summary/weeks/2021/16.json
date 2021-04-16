@@ -21,13 +21,19 @@
     "score": 59
   },
   "2021-04-14": {
-    "steps": 112,
-    "total": 8,
-    "cal_active": 5,
-    "cal_total": 1787,
-    "score": 57
+    "steps": 7175,
+    "total": 321,
+    "cal_active": 352,
+    "cal_total": 2546,
+    "score": 61
   },
-  "2021-04-15": {},
+  "2021-04-15": {
+    "steps": 138,
+    "total": 4,
+    "cal_active": 5,
+    "cal_total": 1785,
+    "score": 58
+  },
   "2021-04-16": {},
   "2021-04-17": {}
 }

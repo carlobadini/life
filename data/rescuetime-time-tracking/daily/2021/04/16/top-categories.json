@@ -1,68 +1,170 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 377,
+    "Time Spent (seconds)": 7397,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 225,
-    "Number of People": 1,
-    "Category": "Project Management"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 98,
+    "Time Spent (seconds)": 3468,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 3203,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 67,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 45,
-    "Number of People": 1,
-    "Category": "Intelligence"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 23,
+    "Time Spent (seconds)": 3074,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 22,
+    "Rank": 5,
+    "Time Spent (seconds)": 2594,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 7,
+    "Rank": 6,
+    "Time Spent (seconds)": 2357,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Sales"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2294,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 2196,
+    "Number of People": 1,
+    "Category": "Project Management"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 5,
+    "Time Spent (seconds)": 1541,
     "Number of People": 1,
-    "Category": "General Shopping"
+    "Category": "Email"
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 1292,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 1199,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 985,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 677,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 4,
+    "Rank": 14,
+    "Time Spent (seconds)": 586,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Office"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 405,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 405,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 236,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 216,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 191,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 81,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Category": "Games"
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Maps & Regional"
   }
 ]

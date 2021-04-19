@@ -135,7 +135,17 @@
   },
   "15": {},
   "16": {},
-  "17": {},
+  "17": {
+    "score": 80,
+    "score_activity_balance": 99,
+    "score_hrv_balance": 90,
+    "score_previous_day": 0,
+    "score_previous_night": 59,
+    "score_recovery_index": 93,
+    "score_resting_hr": 78,
+    "score_sleep_balance": 76,
+    "score_temperature": 100
+  },
   "18": {},
   "19": {},
   "20": {},

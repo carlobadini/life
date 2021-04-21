@@ -235,10 +235,15 @@
     "News & Opinion": 10
   },
   "20": {
-    "Business": 952,
-    "Uncategorized": 846,
-    "Communication & Scheduling": 418,
-    "Utilities": 91
+    "Communication & Scheduling": 7435,
+    "Business": 4592,
+    "Uncategorized": 2630,
+    "Reference & Learning": 1260,
+    "Utilities": 489,
+    "Entertainment": 139,
+    "News & Opinion": 89,
+    "Shopping": 43,
+    "Design & Composition": 42
   },
   "21": {},
   "22": {},

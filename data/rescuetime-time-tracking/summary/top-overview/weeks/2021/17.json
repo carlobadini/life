@@ -44,7 +44,17 @@
     "Uncategorized": 27,
     "News & Opinion": 1
   },
-  "2021-04-22": {},
+  "2021-04-22": {
+    "Business": 1813,
+    "Reference & Learning": 591,
+    "News & Opinion": 217,
+    "Shopping": 116,
+    "Social Networking": 102,
+    "Utilities": 69,
+    "Design & Composition": 44,
+    "Communication & Scheduling": 36,
+    "Uncategorized": 13
+  },
   "2021-04-23": {},
   "2021-04-24": {}
 }

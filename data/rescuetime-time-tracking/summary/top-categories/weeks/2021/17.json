@@ -102,10 +102,31 @@
     "Instant Message": 14,
     "Uncategorized": 13,
     "General Social Networking": 12,
-    "Writing": 4,
     "Project Management": 4,
+    "Writing": 4,
     "Intelligence": 3
   },
   "2021-04-23": {},
-  "2021-04-24": {}
+  "2021-04-24": {
+    "Instant Message": 3007,
+    "Email": 1895,
+    "General News & Opinion": 1072,
+    "Uncategorized": 945,
+    "Search": 876,
+    "Project Management": 579,
+    "General Utilities": 479,
+    "General Business": 279,
+    "Writing": 260,
+    "Browsers": 242,
+    "Professional Networking": 176,
+    "Intelligence": 170,
+    "Science & Technology": 167,
+    "Business & Finance": 138,
+    "General Reference & Learning": 99,
+    "Internet Utilities": 70,
+    "General Social Networking": 61,
+    "Sales": 48,
+    "Presentation": 6,
+    "General Entertainment": 3
+  }
 }

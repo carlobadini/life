@@ -22,11 +22,21 @@
     "Social Networking": 325
   },
   "2021-04-27": {
-    "Communication & Scheduling": 286,
-    "Business": 116,
+    "Communication & Scheduling": 467,
+    "Business": 117,
+    "Utilities": 87,
     "Social Networking": 2,
     "Uncategorized": 1
   },
-  "2021-04-28": {},
+  "2021-04-28": {
+    "Reference & Learning": 2536,
+    "Communication & Scheduling": 2358,
+    "Uncategorized": 2149,
+    "Business": 902,
+    "News & Opinion": 572,
+    "Utilities": 241,
+    "Social Networking": 140,
+    "Design & Composition": 66
+  },
   "2021-04-29": {}
 }

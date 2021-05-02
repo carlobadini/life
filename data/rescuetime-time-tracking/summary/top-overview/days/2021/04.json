@@ -328,15 +328,15 @@
     "Shopping": 48
   },
   "30": {
-    "Communication & Scheduling": 21340,
-    "Business": 10408,
+    "Communication & Scheduling": 21420,
+    "Business": 10848,
     "Uncategorized": 2096,
-    "Reference & Learning": 1485,
+    "Reference & Learning": 1533,
+    "News & Opinion": 1341,
     "Design & Composition": 1325,
     "Social Networking": 759,
-    "News & Opinion": 758,
     "Shopping": 655,
-    "Utilities": 265,
-    "Entertainment": 185
+    "Utilities": 362,
+    "Entertainment": 194
   }
 }

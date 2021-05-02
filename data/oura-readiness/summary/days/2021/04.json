@@ -207,5 +207,16 @@
     "score_resting_hr": 93,
     "score_sleep_balance": 77,
     "score_temperature": 92
+  },
+  "30": {
+    "score": 84,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 89,
+    "score_previous_day": 88,
+    "score_previous_night": 65,
+    "score_recovery_index": 100,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 75,
+    "score_temperature": 100
   }
 }

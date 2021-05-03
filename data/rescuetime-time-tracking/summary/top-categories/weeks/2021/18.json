@@ -130,11 +130,11 @@
   },
   "2021-05-1": {
     "General Business": 4555,
-    "Intelligence": 1240,
+    "Intelligence": 1269,
     "Uncategorized": 911,
     "Video": 706,
+    "General Social Networking": 654,
     "Email": 629,
-    "General Social Networking": 551,
     "Project Management": 534,
     "Meetings": 529,
     "Sales": 446,
@@ -144,9 +144,9 @@
     "General Design & Composition": 196,
     "Browsers": 46,
     "Search": 45,
+    "General Utilities": 37,
     "General Entertainment": 22,
-    "General Utilities": 18,
-    "General News & Opinion": 6,
-    "Design & Planning": 6
+    "Design & Planning": 6,
+    "General News & Opinion": 6
   }
 }

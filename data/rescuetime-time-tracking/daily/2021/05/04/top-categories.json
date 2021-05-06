@@ -43,21 +43,21 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 1616,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 1595,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 1430,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 1398,
-    "Number of People": 1,
-    "Category": "Project Management"
   },
   {
     "Rank": 11,
@@ -85,15 +85,15 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 575,
+    "Time Spent (seconds)": 604,
     "Number of People": 1,
-    "Category": "Science & Technology"
+    "Category": "General Utilities"
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 547,
+    "Time Spent (seconds)": 575,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Science & Technology"
   },
   {
     "Rank": 17,

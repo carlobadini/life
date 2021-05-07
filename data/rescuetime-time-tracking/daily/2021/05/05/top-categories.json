@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6056,
+    "Time Spent (seconds)": 6101,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -91,21 +91,21 @@
   },
   {
     "Rank": 16,
+    "Time Spent (seconds)": 376,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 374,
     "Number of People": 1,
     "Category": "Office"
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 362,
     "Number of People": 1,
     "Category": "Internet Utilities"
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 318,
-    "Number of People": 1,
-    "Category": "General Utilities"
   },
   {
     "Rank": 19,

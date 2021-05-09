@@ -35,11 +35,17 @@
     "score": 55
   },
   "2021-05-7": {
-    "steps": 665,
-    "total": 23,
-    "cal_active": 31,
-    "cal_total": 1837,
-    "score": 53
+    "steps": 11699,
+    "total": 466,
+    "cal_active": 579,
+    "cal_total": 2850,
+    "score": 68
   },
-  "2021-05-8": {}
+  "2021-05-8": {
+    "steps": 4604,
+    "total": 174,
+    "cal_active": 207,
+    "cal_total": 2166,
+    "score": 69
+  }
 }

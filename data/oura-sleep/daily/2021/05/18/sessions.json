@@ -1,14 +1,22 @@
 [
   {
-    "awake": 2310,
+    "summary_date": "2021-05-18",
+    "period_id": 0,
+    "is_longest": 1,
+    "timezone": 120,
     "bedtime_end": "2021-05-19T07:01:34+02:00",
-    "bedtime_end_delta": 25294,
     "bedtime_start": "2021-05-18T23:05:34+02:00",
-    "bedtime_start_delta": -3266,
     "breath_average": 13.125,
-    "deep": 5640,
     "duration": 28560,
+    "total": 26250,
+    "awake": 2310,
+    "rem": 1950,
+    "deep": 5640,
+    "light": 18660,
+    "midpoint_time": 14610,
     "efficiency": 92,
+    "restless": 28,
+    "onset_latency": 1020,
     "hr_5min": [
       0,
       0,
@@ -107,17 +115,7 @@
       48,
       0
     ],
-    "hr_average": 53.55,
-    "hr_lowest": 48,
     "hypnogram_5min": "444111422221111111322222122122222222332222222222222222211111223222224222222222233322222222222244",
-    "is_longest": 1,
-    "light": 18660,
-    "midpoint_at_delta": 11344,
-    "midpoint_time": 14610,
-    "onset_latency": 1020,
-    "period_id": 0,
-    "rem": 1950,
-    "restless": 28,
     "rmssd": 76,
     "rmssd_5min": [
       0,
@@ -225,11 +223,13 @@
     "score_latency": 94,
     "score_rem": 27,
     "score_total": 77,
-    "summary_date": "2021-05-18",
-    "temperature_delta": 0.03,
     "temperature_deviation": 0.03,
     "temperature_trend_deviation": 0.07,
-    "timezone": 120,
-    "total": 26250
+    "bedtime_start_delta": -3266,
+    "bedtime_end_delta": 25294,
+    "midpoint_at_delta": 11344,
+    "temperature_delta": 0.03,
+    "hr_lowest": 48,
+    "hr_average": 53.55
   }
 ]

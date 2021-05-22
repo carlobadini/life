@@ -1,33 +1,33 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6421,
+    "Time Spent (seconds)": 8462,
     "Number of People": 1,
     "Category": "Video"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5991,
+    "Time Spent (seconds)": 5993,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3101,
+    "Time Spent (seconds)": 3122,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2460,
+    "Time Spent (seconds)": 2506,
     "Number of People": 1,
-    "Category": "Sales"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2431,
+    "Time Spent (seconds)": 2460,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Sales"
   },
   {
     "Rank": 6,
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1429,
+    "Time Spent (seconds)": 1432,
     "Number of People": 1,
     "Category": "Email"
   },

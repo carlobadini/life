@@ -44,11 +44,11 @@
     "score_temperature": 1751
   },
   "5": {
-    "score": 1306,
-    "score_activity_balance": 1422,
-    "score_hrv_balance": 1446,
-    "score_previous_day": 1331,
-    "score_previous_night": 1206,
+    "score": 1308,
+    "score_activity_balance": 1426,
+    "score_hrv_balance": 1448,
+    "score_previous_day": 1332,
+    "score_previous_night": 1213,
     "score_recovery_index": 1276,
     "score_resting_hr": 1307,
     "score_sleep_balance": 1207,

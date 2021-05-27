@@ -11,7 +11,16 @@
     "score_temperature": 100
   },
   "2021-05-24": {},
-  "2021-05-25": {},
+  "2021-05-25": {
+    "score": 82,
+    "score_activity_balance": 87,
+    "score_hrv_balance": 75,
+    "score_previous_night": 81,
+    "score_recovery_index": 93,
+    "score_resting_hr": 85,
+    "score_sleep_balance": 78,
+    "score_temperature": 93
+  },
   "2021-05-26": {},
   "2021-05-27": {},
   "2021-05-28": {},

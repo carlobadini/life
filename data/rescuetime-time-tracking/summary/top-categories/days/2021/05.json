@@ -750,7 +750,7 @@
   "27": {
     "Meetings": 28380,
     "Instant Message": 3603,
-    "Uncategorized": 2749,
+    "Uncategorized": 2807,
     "General Business": 1836,
     "Sales": 1553,
     "Email": 1538,
@@ -773,7 +773,33 @@
     "General Utilities": 35,
     "General Shopping": 6
   },
-  "28": {},
+  "28": {
+    "General Business": 11378,
+    "Uncategorized": 8454,
+    "Instant Message": 4822,
+    "Sales": 4349,
+    "Meetings": 3028,
+    "Project Management": 1782,
+    "Email": 1341,
+    "Professional Networking": 1301,
+    "General Design & Composition": 1220,
+    "Video": 972,
+    "General Social Networking": 947,
+    "Search": 687,
+    "General Utilities": 651,
+    "Accounting": 617,
+    "Browsers": 281,
+    "Engineering & Technology": 194,
+    "Intelligence": 164,
+    "General Shopping": 110,
+    "General Entertainment": 85,
+    "General Reference & Learning": 81,
+    "Presentation": 58,
+    "General News & Opinion": 34,
+    "Internet Utilities": 12,
+    "Voice Chat": 11,
+    "Audio Editing": 9
+  },
   "29": {},
   "30": {}
 }

@@ -12,8 +12,8 @@
   },
   "2021-05-31": {
     "Communication & Scheduling": 17711,
-    "Business": 10551,
-    "Uncategorized": 1797,
+    "Business": 10779,
+    "Uncategorized": 1854,
     "Social Networking": 1490,
     "Design & Composition": 1074,
     "News & Opinion": 1022,
@@ -22,7 +22,19 @@
     "Utilities": 561,
     "Shopping": 4
   },
-  "2021-06-1": {},
+  "2021-06-1": {
+    "Business": 17153,
+    "Communication & Scheduling": 9035,
+    "Uncategorized": 5108,
+    "News & Opinion": 3608,
+    "Social Networking": 1843,
+    "Utilities": 1545,
+    "Design & Composition": 1496,
+    "Reference & Learning": 563,
+    "Software Development": 476,
+    "Shopping": 200,
+    "Entertainment": 181
+  },
   "2021-06-2": {},
   "2021-06-3": {},
   "2021-06-4": {},

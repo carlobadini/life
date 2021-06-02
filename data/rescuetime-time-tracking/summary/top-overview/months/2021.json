@@ -52,10 +52,10 @@
     "Entertainment": 8835
   },
   "5": {
-    "Business": 349880,
+    "Business": 350108,
     "Communication & Scheduling": 328060,
     "Social Networking": 38149,
-    "Uncategorized": 75106,
+    "Uncategorized": 75163,
     "Entertainment": 33107,
     "Reference & Learning": 44204,
     "Design & Composition": 31565,
@@ -64,7 +64,19 @@
     "Software Development": 1929,
     "Shopping": 11191
   },
-  "6": {},
+  "6": {
+    "Business": 17153,
+    "Communication & Scheduling": 9035,
+    "Uncategorized": 5108,
+    "News & Opinion": 3608,
+    "Social Networking": 1843,
+    "Utilities": 1545,
+    "Design & Composition": 1496,
+    "Reference & Learning": 563,
+    "Software Development": 476,
+    "Shopping": 200,
+    "Entertainment": 181
+  },
   "7": {},
   "8": {},
   "9": {},

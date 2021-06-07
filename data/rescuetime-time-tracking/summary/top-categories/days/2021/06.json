@@ -105,9 +105,9 @@
     "General Communication & Scheduling": 5
   },
   "5": {
-    "General Business": 3323,
+    "General Business": 3502,
     "General Social Networking": 2499,
-    "Uncategorized": 2172,
+    "Uncategorized": 2215,
     "Instant Message": 1799,
     "Meetings": 1777,
     "Marketing": 1332,
@@ -127,7 +127,23 @@
     "General Reference & Learning": 14,
     "Sports": 3
   },
-  "6": {},
+  "6": {
+    "Intelligence": 1095,
+    "General Business": 1023,
+    "Instant Message": 801,
+    "Science & Technology": 718,
+    "Project Management": 698,
+    "Uncategorized": 554,
+    "Email": 504,
+    "Professional Networking": 355,
+    "Marketing": 233,
+    "Search": 166,
+    "General Social Networking": 147,
+    "Browsers": 86,
+    "General Utilities": 61,
+    "General Entertainment": 20,
+    "Sales": 6
+  },
   "7": {},
   "8": {},
   "9": {},

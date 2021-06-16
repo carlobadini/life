@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 9405,
+    "Time Spent (seconds)": 9429,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -25,13 +25,13 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 3339,
+    "Time Spent (seconds)": 3344,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 2361,
+    "Time Spent (seconds)": 2512,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -154,5 +154,11 @@
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Category": "Clothes & Personal"
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "General Utilities"
   }
 ]

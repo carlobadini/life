@@ -203,10 +203,17 @@
     "Shopping": 4
   },
   "18": {
-    "Communication & Scheduling": 528,
-    "Business": 139,
-    "Design & Composition": 59,
-    "News & Opinion": 7
+    "Communication & Scheduling": 22112,
+    "Business": 8447,
+    "Entertainment": 3996,
+    "Reference & Learning": 1711,
+    "Social Networking": 379,
+    "Uncategorized": 321,
+    "News & Opinion": 295,
+    "Design & Composition": 250,
+    "Utilities": 124,
+    "Shopping": 33,
+    "Software Development": 6
   },
   "19": {},
   "20": {},

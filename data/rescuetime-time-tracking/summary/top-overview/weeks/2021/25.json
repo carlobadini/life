@@ -63,7 +63,7 @@
   "2021-06-18": {
     "Communication & Scheduling": 22112,
     "Business": 8447,
-    "Entertainment": 3996,
+    "Entertainment": 4258,
     "Reference & Learning": 1711,
     "Social Networking": 379,
     "Uncategorized": 321,
@@ -73,5 +73,16 @@
     "Shopping": 33,
     "Software Development": 6
   },
-  "2021-06-19": {}
+  "2021-06-19": {
+    "Business": 17081,
+    "Communication & Scheduling": 10576,
+    "Entertainment": 4177,
+    "Social Networking": 1218,
+    "Utilities": 973,
+    "Uncategorized": 959,
+    "Design & Composition": 323,
+    "Reference & Learning": 281,
+    "Shopping": 249,
+    "News & Opinion": 246
+  }
 }

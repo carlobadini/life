@@ -143,7 +143,7 @@
   "2021-06-18": {
     "Meetings": 14944,
     "Instant Message": 5822,
-    "Video": 3930,
+    "Video": 4192,
     "General Business": 2854,
     "Marketing": 1811,
     "Sales": 1555,
@@ -167,5 +167,29 @@
     "Presentation": 23,
     "General Software Development": 6
   },
-  "2021-06-19": {}
+  "2021-06-19": {
+    "General Business": 13515,
+    "Instant Message": 5410,
+    "Meetings": 4644,
+    "Video": 4035,
+    "Project Management": 1855,
+    "Intelligence": 1572,
+    "Professional Networking": 1007,
+    "Uncategorized": 959,
+    "General Utilities": 657,
+    "Email": 522,
+    "Browsers": 316,
+    "Search": 250,
+    "Office": 249,
+    "General Social Networking": 211,
+    "General News & Opinion": 209,
+    "General Design & Composition": 157,
+    "General Entertainment": 142,
+    "Sales": 114,
+    "Graphic Design": 110,
+    "Writing": 56,
+    "Science & Technology": 37,
+    "General Reference & Learning": 31,
+    "Marketing": 25
+  }
 }

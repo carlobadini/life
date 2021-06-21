@@ -1,11 +1,19 @@
 {
   "2021-06-20": {
-    "Entertainment": 2850,
-    "Communication & Scheduling": 64,
-    "Business": 13,
-    "Utilities": 4
+    "Entertainment": 5704,
+    "Utilities": 5014,
+    "Business": 4873,
+    "Reference & Learning": 3125,
+    "Uncategorized": 1979,
+    "News & Opinion": 992,
+    "Communication & Scheduling": 978,
+    "Social Networking": 284,
+    "Design & Composition": 133,
+    "Shopping": 17
   },
-  "2021-06-21": {},
+  "2021-06-21": {
+    "Business": 97
+  },
   "2021-06-22": {},
   "2021-06-23": {},
   "2021-06-24": {},

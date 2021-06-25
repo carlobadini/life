@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9697,
+    "Time Spent (seconds)": 9735,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -13,19 +13,19 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 5312,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 5304,
     "Number of People": 1,
     "Category": "Sales"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 5291,
-    "Number of People": 1,
-    "Category": "Instant Message"
-  },
-  {
     "Rank": 5,
-    "Time Spent (seconds)": 2528,
+    "Time Spent (seconds)": 2614,
     "Number of People": 1,
     "Category": "Project Management"
   },

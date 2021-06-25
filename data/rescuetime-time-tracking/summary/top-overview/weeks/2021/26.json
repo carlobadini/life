@@ -38,8 +38,8 @@
     "Software Development": 146
   },
   "2021-06-23": {
-    "Business": 20722,
-    "Communication & Scheduling": 14145,
+    "Business": 20846,
+    "Communication & Scheduling": 14166,
     "Uncategorized": 2313,
     "News & Opinion": 1795,
     "Entertainment": 1364,
@@ -50,7 +50,19 @@
     "Shopping": 115,
     "Software Development": 2
   },
-  "2021-06-24": {},
+  "2021-06-24": {
+    "Communication & Scheduling": 16546,
+    "Business": 14200,
+    "Uncategorized": 3996,
+    "Design & Composition": 3824,
+    "News & Opinion": 1676,
+    "Reference & Learning": 1493,
+    "Entertainment": 657,
+    "Utilities": 641,
+    "Shopping": 390,
+    "Social Networking": 326,
+    "Software Development": 185
+  },
   "2021-06-25": {},
   "2021-06-26": {}
 }

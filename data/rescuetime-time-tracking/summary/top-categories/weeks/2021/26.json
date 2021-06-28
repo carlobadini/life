@@ -178,8 +178,8 @@
     "Accounting": 1
   },
   "2021-06-26": {
-    "General Business": 4681,
-    "Instant Message": 3230,
+    "General Business": 4821,
+    "Instant Message": 3235,
     "Meetings": 2218,
     "Uncategorized": 1561,
     "Intelligence": 1236,
@@ -191,10 +191,10 @@
     "Search": 122,
     "General News & Opinion": 121,
     "General Entertainment": 61,
-    "Browsers": 59,
     "General Utilities": 59,
-    "Calendars": 17,
+    "Browsers": 59,
     "General Shopping": 17,
+    "Calendars": 17,
     "Engineering & Technology": 11
   }
 }

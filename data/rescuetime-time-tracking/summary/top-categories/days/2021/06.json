@@ -686,9 +686,10 @@
     "Accounting": 1
   },
   "26": {
+    "Meetings": 17218,
     "General Business": 4821,
     "Instant Message": 3235,
-    "Meetings": 2218,
+    "Voice Chat": 2100,
     "Uncategorized": 1561,
     "Intelligence": 1236,
     "Project Management": 1116,
@@ -699,10 +700,10 @@
     "Search": 122,
     "General News & Opinion": 121,
     "General Entertainment": 61,
-    "General Utilities": 59,
     "Browsers": 59,
-    "General Shopping": 17,
+    "General Utilities": 59,
     "Calendars": 17,
+    "General Shopping": 17,
     "Engineering & Technology": 11
   },
   "27": {
@@ -721,6 +722,29 @@
     "Legal & Gov't": 2,
     "Video": 1
   },
-  "28": {},
+  "28": {
+    "Meetings": 18121,
+    "General Business": 6656,
+    "Instant Message": 4603,
+    "Email": 3209,
+    "Uncategorized": 3176,
+    "Intelligence": 1445,
+    "Sales": 1145,
+    "Search": 1078,
+    "Marketing": 980,
+    "Project Management": 868,
+    "Office": 671,
+    "General Software Development": 410,
+    "Browsers": 312,
+    "Calendars": 200,
+    "Professional Networking": 189,
+    "General Entertainment": 173,
+    "Presentation": 101,
+    "General News & Opinion": 85,
+    "General Reference & Learning": 82,
+    "General Communication & Scheduling": 42,
+    "General Utilities": 39,
+    "Science & Technology": 16
+  },
   "29": {}
 }

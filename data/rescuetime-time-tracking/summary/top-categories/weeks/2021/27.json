@@ -15,6 +15,29 @@
     "Legal & Gov't": 2,
     "Video": 1
   },
-  "2021-06-28": {},
+  "2021-06-28": {
+    "Meetings": 18121,
+    "General Business": 6656,
+    "Instant Message": 4603,
+    "Email": 3209,
+    "Uncategorized": 3176,
+    "Intelligence": 1445,
+    "Sales": 1145,
+    "Search": 1078,
+    "Marketing": 980,
+    "Project Management": 868,
+    "Office": 671,
+    "General Software Development": 410,
+    "Browsers": 312,
+    "Calendars": 200,
+    "Professional Networking": 189,
+    "General Entertainment": 173,
+    "Presentation": 101,
+    "General News & Opinion": 85,
+    "General Reference & Learning": 82,
+    "General Communication & Scheduling": 42,
+    "General Utilities": 39,
+    "Science & Technology": 16
+  },
   "2021-06-29": {}
 }

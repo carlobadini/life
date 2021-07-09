@@ -70,8 +70,30 @@
     "Utilities": 34,
     "Design & Composition": 7
   },
-  "7": {},
-  "8": {},
+  "7": {
+    "Communication & Scheduling": 18564,
+    "Business": 12096,
+    "Social Networking": 2209,
+    "Reference & Learning": 1406,
+    "Uncategorized": 1013,
+    "News & Opinion": 936,
+    "Entertainment": 575,
+    "Utilities": 215,
+    "Shopping": 171,
+    "Design & Composition": 68
+  },
+  "8": {
+    "Communication & Scheduling": 24927,
+    "Business": 18291,
+    "Uncategorized": 1754,
+    "News & Opinion": 688,
+    "Reference & Learning": 666,
+    "Utilities": 577,
+    "Social Networking": 534,
+    "Entertainment": 400,
+    "Design & Composition": 235,
+    "Software Development": 143
+  },
   "9": {},
   "10": {},
   "11": {},

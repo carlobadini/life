@@ -108,7 +108,7 @@
     "Shopping": 6
   },
   "10": {
-    "Business": 12373,
+    "Business": 12463,
     "Communication & Scheduling": 5477,
     "Social Networking": 2512,
     "Entertainment": 1327,
@@ -119,7 +119,17 @@
     "Utilities": 171,
     "Shopping": 29
   },
-  "11": {},
+  "11": {
+    "Business": 4793,
+    "Shopping": 2480,
+    "Communication & Scheduling": 1512,
+    "News & Opinion": 1375,
+    "Reference & Learning": 842,
+    "Uncategorized": 639,
+    "Social Networking": 467,
+    "Entertainment": 113,
+    "Utilities": 60
+  },
   "12": {},
   "13": {},
   "14": {},

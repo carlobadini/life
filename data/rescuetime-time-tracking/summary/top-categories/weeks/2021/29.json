@@ -177,11 +177,32 @@
     "General Software Development": 2
   },
   "2021-07-17": {
-    "Video": 1099,
-    "Instant Message": 34,
-    "General Business": 20,
-    "Intelligence": 9,
-    "Uncategorized": 5,
-    "Browsers": 1
+    "Video": 13627,
+    "General Business": 10473,
+    "Uncategorized": 4815,
+    "Instant Message": 2441,
+    "Intelligence": 1507,
+    "Project Management": 1193,
+    "Science & Technology": 776,
+    "General News & Opinion": 712,
+    "Search": 627,
+    "Professional Networking": 581,
+    "General Social Networking": 549,
+    "Meetings": 461,
+    "Marketing": 387,
+    "Browsers": 362,
+    "Sales": 328,
+    "Email": 222,
+    "Games": 197,
+    "General Shopping": 188,
+    "General Entertainment": 168,
+    "Business & Finance": 165,
+    "Engineering & Technology": 53,
+    "Calendars": 38,
+    "Systems Operations": 37,
+    "General Software Development": 37,
+    "General Utilities": 16,
+    "General Communication & Scheduling": 1,
+    "Writing": 1
   }
 }

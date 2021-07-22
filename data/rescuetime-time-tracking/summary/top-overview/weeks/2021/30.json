@@ -26,7 +26,7 @@
   },
   "2021-07-20": {
     "Communication & Scheduling": 16990,
-    "Business": 14887,
+    "Business": 14924,
     "Social Networking": 2066,
     "Uncategorized": 1670,
     "Reference & Learning": 841,
@@ -34,7 +34,18 @@
     "News & Opinion": 151,
     "Entertainment": 77
   },
-  "2021-07-21": {},
+  "2021-07-21": {
+    "Business": 23280,
+    "Communication & Scheduling": 16826,
+    "Social Networking": 2355,
+    "Entertainment": 1428,
+    "Uncategorized": 1312,
+    "Reference & Learning": 989,
+    "Utilities": 582,
+    "News & Opinion": 559,
+    "Design & Composition": 455,
+    "Software Development": 2
+  },
   "2021-07-22": {},
   "2021-07-23": {},
   "2021-07-24": {}

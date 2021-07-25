@@ -282,11 +282,23 @@
     "Shopping": 40
   },
   "24": {
-    "Entertainment": 300,
-    "Business": 57,
-    "Utilities": 5
+    "Business": 6490,
+    "Entertainment": 4161,
+    "Communication & Scheduling": 3410,
+    "Design & Composition": 1980,
+    "Uncategorized": 1559,
+    "Social Networking": 1433,
+    "News & Opinion": 1283,
+    "Shopping": 1009,
+    "Utilities": 700,
+    "Reference & Learning": 475
   },
-  "25": {},
+  "25": {
+    "Entertainment": 2679,
+    "Business": 93,
+    "Utilities": 2,
+    "Uncategorized": 1
+  },
   "26": {},
   "27": {},
   "28": {},

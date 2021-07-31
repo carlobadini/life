@@ -793,5 +793,31 @@
     "Writing": 3,
     "Maps & Regional": 2
   },
-  "30": {}
+  "30": {
+    "Video": 13477,
+    "General Business": 9446,
+    "Instant Message": 4199,
+    "General Social Networking": 3268,
+    "Uncategorized": 2586,
+    "Email": 2414,
+    "Sales": 1347,
+    "Search": 1020,
+    "Professional Networking": 817,
+    "Marketing": 787,
+    "Intelligence": 720,
+    "Project Management": 670,
+    "Office": 542,
+    "Browsers": 316,
+    "General Utilities": 232,
+    "Meetings": 201,
+    "General News & Opinion": 124,
+    "Entertainment": 112,
+    "General Reference & Learning": 107,
+    "General Entertainment": 68,
+    "Calendars": 18,
+    "General Shopping": 16,
+    "Health & Medicine": 11,
+    "Engineering & Technology": 4,
+    "Internet Utilities": 3
+  }
 }

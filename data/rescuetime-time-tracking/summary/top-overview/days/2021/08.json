@@ -1,5 +1,15 @@
 {
-  "1": {},
+  "1": {
+    "Entertainment": 17435,
+    "Uncategorized": 2475,
+    "News & Opinion": 1906,
+    "Reference & Learning": 1322,
+    "Social Networking": 957,
+    "Business": 709,
+    "Communication & Scheduling": 334,
+    "Shopping": 286,
+    "Utilities": 113
+  },
   "2": {},
   "3": {},
   "4": {},

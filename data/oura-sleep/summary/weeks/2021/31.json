@@ -31,5 +31,15 @@
     "efficiency": 91,
     "light": 17580,
     "score": 77
+  },
+  "2021-07-31": {
+    "total": 25830,
+    "rem": 3420,
+    "awake": 5370,
+    "deep": 7560,
+    "duration": 31200,
+    "efficiency": 83,
+    "light": 14850,
+    "score": 75
   }
 }

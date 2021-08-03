@@ -91,15 +91,17 @@
     "Shopping": 8345
   },
   "8": {
-    "Entertainment": 17435,
-    "Uncategorized": 2475,
-    "News & Opinion": 1906,
-    "Reference & Learning": 1322,
-    "Social Networking": 957,
-    "Business": 709,
-    "Communication & Scheduling": 334,
+    "Entertainment": 18481,
+    "Uncategorized": 4409,
+    "News & Opinion": 10618,
+    "Reference & Learning": 2387,
+    "Social Networking": 3975,
+    "Business": 14419,
+    "Communication & Scheduling": 14338,
     "Shopping": 286,
-    "Utilities": 113
+    "Utilities": 307,
+    "Design & Composition": 1490,
+    "Software Development": 161
   },
   "9": {},
   "10": {},

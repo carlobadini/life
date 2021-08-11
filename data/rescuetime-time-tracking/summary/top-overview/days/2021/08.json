@@ -84,14 +84,28 @@
   "8": {},
   "9": {
     "Communication & Scheduling": 1527,
-    "Business": 212,
+    "Business": 335,
     "Social Networking": 170,
     "Uncategorized": 27,
     "Reference & Learning": 27,
     "Entertainment": 2
   },
-  "10": {},
-  "11": {},
+  "10": {
+    "Communication & Scheduling": 17114,
+    "Business": 12198,
+    "Design & Composition": 7119,
+    "News & Opinion": 4238,
+    "Reference & Learning": 1819,
+    "Social Networking": 1764,
+    "Uncategorized": 1240,
+    "Utilities": 280,
+    "Entertainment": 214,
+    "Shopping": 14
+  },
+  "11": {
+    "Business": 42,
+    "Communication & Scheduling": 12
+  },
   "12": {},
   "13": {},
   "14": {},

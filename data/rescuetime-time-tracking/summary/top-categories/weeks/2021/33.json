@@ -44,10 +44,39 @@
     "Music": 1
   },
   "2021-08-11": {
-    "Project Management": 42,
-    "Instant Message": 12
+    "Meetings": 16191,
+    "Instant Message": 5953,
+    "General Business": 4089,
+    "Marketing": 3707,
+    "Project Management": 3297,
+    "Uncategorized": 2404,
+    "General Social Networking": 2094,
+    "Email": 1866,
+    "Professional Networking": 1733,
+    "Sales": 975,
+    "General News & Opinion": 951,
+    "Video": 769,
+    "Search": 631,
+    "General Utilities": 463,
+    "Games": 321,
+    "Browsers": 245,
+    "Intelligence": 184,
+    "General Reference & Learning": 125,
+    "Calendars": 88,
+    "Presentation": 76,
+    "General Shopping": 60,
+    "Science & Technology": 57,
+    "Operations": 50,
+    "Quality Assurance": 33
   },
-  "2021-08-12": {},
+  "2021-08-12": {
+    "Email": 444,
+    "Project Management": 423,
+    "Instant Message": 422,
+    "Intelligence": 39,
+    "General Business": 15,
+    "Meetings": 5
+  },
   "2021-08-13": {},
   "2021-08-14": {}
 }

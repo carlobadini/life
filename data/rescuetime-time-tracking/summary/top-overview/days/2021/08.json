@@ -153,7 +153,18 @@
     "Design & Composition": 144,
     "Shopping": 58
   },
-  "15": {},
+  "15": {
+    "Entertainment": 23328,
+    "Shopping": 1158,
+    "Design & Composition": 987,
+    "Communication & Scheduling": 947,
+    "Social Networking": 883,
+    "Business": 823,
+    "Reference & Learning": 450,
+    "Uncategorized": 421,
+    "News & Opinion": 376,
+    "Utilities": 109
+  },
   "16": {},
   "17": {},
   "18": {},

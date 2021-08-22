@@ -60,15 +60,26 @@
     "Utilities": 335
   },
   "2021-08-20": {
-    "Communication & Scheduling": 17021,
+    "Communication & Scheduling": 17095,
     "Social Networking": 6940,
     "Business": 6896,
-    "Reference & Learning": 4315,
+    "Reference & Learning": 4433,
     "Uncategorized": 3254,
     "News & Opinion": 1668,
     "Entertainment": 1553,
     "Shopping": 986,
     "Utilities": 481
   },
-  "2021-08-21": {}
+  "2021-08-21": {
+    "Communication & Scheduling": 10565,
+    "Business": 6063,
+    "Social Networking": 1900,
+    "Reference & Learning": 1251,
+    "Uncategorized": 881,
+    "Entertainment": 431,
+    "News & Opinion": 414,
+    "Utilities": 116,
+    "Design & Composition": 35,
+    "Shopping": 21
+  }
 }

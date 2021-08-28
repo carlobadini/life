@@ -28,12 +28,18 @@
     "score": 73
   },
   "2021-08-26": {
-    "steps": 6573,
-    "total": 197,
-    "cal_active": 328,
-    "cal_total": 2387,
-    "score": 78
+    "steps": 7139,
+    "total": 235,
+    "cal_active": 355,
+    "cal_total": 2491,
+    "score": 79
   },
-  "2021-08-27": {},
+  "2021-08-27": {
+    "steps": 7519,
+    "total": 268,
+    "cal_active": 388,
+    "cal_total": 2538,
+    "score": 79
+  },
   "2021-08-28": {}
 }

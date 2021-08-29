@@ -119,7 +119,7 @@
     "Internet Utilities": 7
   },
   "2021-08-27": {
-    "Meetings": 9758,
+    "Meetings": 10923,
     "Email": 4638,
     "Instant Message": 4537,
     "Uncategorized": 3184,
@@ -146,5 +146,28 @@
     "General Design & Composition": 15,
     "General Shopping": 7
   },
-  "2021-08-28": {}
+  "2021-08-28": {
+    "Meetings": 4007,
+    "Instant Message": 3854,
+    "General Business": 2608,
+    "General News & Opinion": 1926,
+    "Uncategorized": 1305,
+    "Project Management": 1167,
+    "Intelligence": 1023,
+    "Travel & Outdoors": 922,
+    "Email": 916,
+    "Marketing": 351,
+    "Professional Networking": 304,
+    "Sales": 284,
+    "Presentation": 265,
+    "Search": 237,
+    "Browsers": 170,
+    "Video": 152,
+    "Writing": 20,
+    "Employment": 12,
+    "General Utilities": 7,
+    "Games": 4,
+    "Design & Planning": 3,
+    "General Social Networking": 2
+  }
 }

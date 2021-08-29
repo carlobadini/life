@@ -58,7 +58,7 @@
     "Utilities": 414
   },
   "2021-08-27": {
-    "Communication & Scheduling": 19016,
+    "Communication & Scheduling": 20181,
     "Business": 4241,
     "Uncategorized": 3184,
     "Social Networking": 2947,
@@ -69,5 +69,16 @@
     "Utilities": 225,
     "Shopping": 73
   },
-  "2021-08-28": {}
+  "2021-08-28": {
+    "Communication & Scheduling": 8777,
+    "Business": 5433,
+    "News & Opinion": 1926,
+    "Uncategorized": 1305,
+    "Reference & Learning": 1171,
+    "Social Networking": 306,
+    "Design & Composition": 285,
+    "Utilities": 177,
+    "Entertainment": 156,
+    "Software Development": 3
+  }
 }

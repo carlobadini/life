@@ -10,10 +10,16 @@
     "steps": 6236,
     "total": 265,
     "cal_active": 271,
-    "cal_total": 2407,
-    "score": 75
+    "cal_total": 2408,
+    "score": 76
   },
-  "3": {},
+  "3": {
+    "steps": 4041,
+    "total": 137,
+    "cal_active": 235,
+    "cal_total": 2266,
+    "score": 81
+  },
   "4": {},
   "5": {},
   "6": {},

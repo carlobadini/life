@@ -91,7 +91,27 @@
     "Legal & Gov't": 15,
     "Internet Utilities": 6
   },
-  "2021-09-9": {},
+  "2021-09-9": {
+    "Meetings": 30889,
+    "Email": 2264,
+    "Instant Message": 1621,
+    "Professional Networking": 1527,
+    "Uncategorized": 1496,
+    "General Business": 1306,
+    "Marketing": 1208,
+    "Project Management": 1060,
+    "Intelligence": 937,
+    "General Reference & Learning": 927,
+    "Video": 693,
+    "Search": 251,
+    "General Utilities": 206,
+    "Calendars": 123,
+    "General News & Opinion": 86,
+    "Browsers": 65,
+    "Travel & Outdoors": 50,
+    "General Social Networking": 45,
+    "General Entertainment": 39
+  },
   "2021-09-10": {},
   "2021-09-11": {}
 }

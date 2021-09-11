@@ -93,10 +93,10 @@
   },
   "2021-09-9": {
     "Meetings": 30889,
-    "Email": 2264,
+    "Email": 2331,
     "Instant Message": 1621,
-    "Professional Networking": 1527,
-    "Uncategorized": 1496,
+    "Professional Networking": 1582,
+    "Uncategorized": 1497,
     "General Business": 1306,
     "Marketing": 1208,
     "Project Management": 1060,
@@ -112,6 +112,22 @@
     "General Social Networking": 45,
     "General Entertainment": 39
   },
-  "2021-09-10": {},
+  "2021-09-10": {
+    "Meetings": 2135,
+    "Instant Message": 1647,
+    "General Social Networking": 1077,
+    "Video": 842,
+    "Marketing": 634,
+    "General Business": 555,
+    "Email": 545,
+    "Uncategorized": 181,
+    "Professional Networking": 170,
+    "Project Management": 118,
+    "Intelligence": 116,
+    "Search": 30,
+    "General Utilities": 25,
+    "Browsers": 23,
+    "General Reference & Learning": 17
+  },
   "2021-09-11": {}
 }

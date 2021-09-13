@@ -232,8 +232,29 @@
     "General Reference & Learning": 17
   },
   "11": {},
-  "12": {},
-  "13": {},
+  "12": {
+    "Video": 11777,
+    "Email": 889,
+    "Uncategorized": 505,
+    "Instant Message": 139,
+    "Browsers": 84,
+    "Engineering & Technology": 68,
+    "Intelligence": 66,
+    "Project Management": 54,
+    "Search": 35,
+    "General Communication & Scheduling": 28,
+    "General Business": 19,
+    "Calendars": 11,
+    "General Utilities": 8
+  },
+  "13": {
+    "Video": 125,
+    "Uncategorized": 72,
+    "Engineering & Technology": 58,
+    "Instant Message": 54,
+    "Calendars": 7,
+    "Browsers": 1
+  },
   "14": {},
   "15": {},
   "16": {},

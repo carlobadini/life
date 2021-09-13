@@ -112,8 +112,21 @@
     "Reference & Learning": 47
   },
   "11": {},
-  "12": {},
-  "13": {},
+  "12": {
+    "Entertainment": 11777,
+    "Communication & Scheduling": 1067,
+    "Uncategorized": 505,
+    "Business": 139,
+    "Reference & Learning": 103,
+    "Utilities": 92
+  },
+  "13": {
+    "Entertainment": 125,
+    "Uncategorized": 72,
+    "Communication & Scheduling": 61,
+    "Reference & Learning": 58,
+    "Utilities": 1
+  },
   "14": {},
   "15": {},
   "16": {},

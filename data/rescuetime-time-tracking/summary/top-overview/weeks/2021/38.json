@@ -18,7 +18,16 @@
     "Shopping": 2
   },
   "2021-09-14": {},
-  "2021-09-15": {},
+  "2021-09-15": {
+    "Entertainment": 14731,
+    "Communication & Scheduling": 5183,
+    "Business": 1595,
+    "Reference & Learning": 655,
+    "Social Networking": 580,
+    "Uncategorized": 315,
+    "Utilities": 95,
+    "News & Opinion": 37
+  },
   "2021-09-16": {},
   "2021-09-17": {},
   "2021-09-18": {}

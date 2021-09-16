@@ -131,7 +131,16 @@
     "Shopping": 2
   },
   "14": {},
-  "15": {},
+  "15": {
+    "Entertainment": 14731,
+    "Communication & Scheduling": 5183,
+    "Business": 1595,
+    "Reference & Learning": 655,
+    "Social Networking": 580,
+    "Uncategorized": 315,
+    "Utilities": 95,
+    "News & Opinion": 37
+  },
   "16": {},
   "17": {},
   "18": {},

@@ -30,7 +30,7 @@
   },
   "2021-09-16": {
     "Communication & Scheduling": 11238,
-    "Business": 4639,
+    "Business": 4803,
     "Uncategorized": 1993,
     "Social Networking": 1622,
     "Reference & Learning": 801,
@@ -39,6 +39,17 @@
     "Design & Composition": 470,
     "Shopping": 116
   },
-  "2021-09-17": {},
+  "2021-09-17": {
+    "Communication & Scheduling": 13697,
+    "Business": 2680,
+    "News & Opinion": 897,
+    "Social Networking": 783,
+    "Reference & Learning": 654,
+    "Uncategorized": 630,
+    "Entertainment": 333,
+    "Design & Composition": 168,
+    "Utilities": 95,
+    "Software Development": 1
+  },
   "2021-09-18": {}
 }

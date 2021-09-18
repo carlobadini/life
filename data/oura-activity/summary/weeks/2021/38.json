@@ -27,11 +27,16 @@
     "cal_total": 2079
   },
   "2021-09-16": {
-    "steps": 102,
-    "total": 4,
-    "cal_active": 4,
-    "cal_total": 1772
+    "steps": 4164,
+    "total": 226,
+    "cal_active": 196,
+    "cal_total": 2317
   },
-  "2021-09-17": {},
+  "2021-09-17": {
+    "steps": 39,
+    "total": 2,
+    "cal_active": 1,
+    "cal_total": 1755
+  },
   "2021-09-18": {}
 }

@@ -104,12 +104,17 @@
     "cal_total": 2317
   },
   "17": {
-    "steps": 39,
-    "total": 2,
-    "cal_active": 1,
-    "cal_total": 1755
+    "steps": 5556,
+    "total": 189,
+    "cal_active": 251,
+    "cal_total": 2295
   },
-  "18": {},
+  "18": {
+    "steps": 9425,
+    "total": 281,
+    "cal_active": 431,
+    "cal_total": 2398
+  },
   "19": {},
   "20": {},
   "21": {},

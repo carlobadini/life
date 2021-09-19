@@ -19,13 +19,13 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1234,
+    "Time Spent (seconds)": 1238,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1009,
+    "Time Spent (seconds)": 1011,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -61,27 +61,27 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 342,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 303,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 250,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 188,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 168,
-    "Number of People": 1,
-    "Category": "General Design & Composition"
   },
   {
     "Rank": 15,

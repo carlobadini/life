@@ -165,16 +165,21 @@
     "Software Development": 1
   },
   "18": {
-    "Communication & Scheduling": 6636,
-    "Social Networking": 1505,
-    "Business": 1084,
+    "Communication & Scheduling": 6639,
+    "Social Networking": 1598,
+    "Business": 1086,
     "Uncategorized": 457,
     "Reference & Learning": 363,
     "News & Opinion": 91,
     "Utilities": 85,
     "Entertainment": 24
   },
-  "19": {},
+  "19": {
+    "Communication & Scheduling": 214,
+    "Business": 144,
+    "Social Networking": 90,
+    "Utilities": 4
+  },
   "20": {},
   "21": {},
   "22": {},

@@ -1,11 +1,23 @@
 {
   "2021-09-19": {
-    "Communication & Scheduling": 214,
-    "Business": 144,
+    "Communication & Scheduling": 295,
+    "Business": 155,
     "Social Networking": 90,
     "Utilities": 4
   },
-  "2021-09-20": {},
+  "2021-09-20": {
+    "Communication & Scheduling": 16152,
+    "Business": 11445,
+    "Social Networking": 3541,
+    "Uncategorized": 1448,
+    "Reference & Learning": 765,
+    "Utilities": 582,
+    "News & Opinion": 298,
+    "Software Development": 223,
+    "Shopping": 95,
+    "Entertainment": 74,
+    "Design & Composition": 69
+  },
   "2021-09-21": {},
   "2021-09-22": {},
   "2021-09-23": {},

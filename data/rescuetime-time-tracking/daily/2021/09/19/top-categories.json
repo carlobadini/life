@@ -1,27 +1,27 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 153,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 149,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 142,
-    "Number of People": 1,
-    "Category": "Project Management"
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 90,
+    "Time Spent (seconds)": 146,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "Email"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 65,
+    "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Category": "Email"
+    "Category": "Professional Networking"
   },
   {
     "Rank": 5,

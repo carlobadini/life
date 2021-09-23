@@ -195,7 +195,7 @@
   },
   "21": {
     "Communication & Scheduling": 19719,
-    "Business": 3230,
+    "Business": 3391,
     "Design & Composition": 2954,
     "Utilities": 640,
     "Social Networking": 633,
@@ -203,7 +203,16 @@
     "Entertainment": 186,
     "Reference & Learning": 96
   },
-  "22": {},
+  "22": {
+    "Communication & Scheduling": 5714,
+    "Uncategorized": 682,
+    "Social Networking": 552,
+    "Business": 343,
+    "Design & Composition": 330,
+    "Reference & Learning": 246,
+    "Entertainment": 85,
+    "Utilities": 51
+  },
   "23": {},
   "24": {},
   "25": {},

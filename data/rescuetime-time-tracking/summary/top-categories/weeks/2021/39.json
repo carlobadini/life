@@ -36,7 +36,7 @@
     "Meetings": 16146,
     "Writing": 2954,
     "Instant Message": 2875,
-    "Project Management": 1663,
+    "Project Management": 1824,
     "General Business": 1050,
     "General Utilities": 583,
     "Email": 571,
@@ -51,7 +51,23 @@
     "Employment": 44,
     "Engineering & Technology": 3
   },
-  "2021-09-22": {},
+  "2021-09-22": {
+    "Meetings": 3104,
+    "Email": 2154,
+    "Uncategorized": 682,
+    "Professional Networking": 467,
+    "Writing": 330,
+    "Project Management": 296,
+    "Instant Message": 271,
+    "Calendars": 185,
+    "Search": 155,
+    "Travel & Outdoors": 91,
+    "General Entertainment": 85,
+    "General Social Networking": 85,
+    "Browsers": 48,
+    "General Business": 47,
+    "General Utilities": 3
+  },
   "2021-09-23": {},
   "2021-09-24": {},
   "2021-09-25": {}

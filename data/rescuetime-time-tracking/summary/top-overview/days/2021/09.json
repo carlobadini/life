@@ -213,8 +213,25 @@
     "Entertainment": 85,
     "Utilities": 51
   },
-  "23": {},
-  "24": {},
+  "23": {
+    "Design & Composition": 1788,
+    "Business": 1147,
+    "Uncategorized": 1146,
+    "Communication & Scheduling": 1110,
+    "Reference & Learning": 745,
+    "Shopping": 189,
+    "Social Networking": 166,
+    "Utilities": 32,
+    "Entertainment": 21
+  },
+  "24": {
+    "Communication & Scheduling": 2652,
+    "Reference & Learning": 337,
+    "Utilities": 33,
+    "Business": 22,
+    "Uncategorized": 14,
+    "Entertainment": 8
+  },
   "25": {},
   "26": {},
   "27": {},

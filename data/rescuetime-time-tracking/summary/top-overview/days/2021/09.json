@@ -225,12 +225,14 @@
     "Entertainment": 21
   },
   "24": {
-    "Communication & Scheduling": 2652,
+    "Communication & Scheduling": 2896,
+    "Entertainment": 1300,
+    "Business": 1290,
+    "Design & Composition": 824,
     "Reference & Learning": 337,
-    "Utilities": 33,
-    "Business": 22,
-    "Uncategorized": 14,
-    "Entertainment": 8
+    "Utilities": 95,
+    "Social Networking": 15,
+    "Uncategorized": 14
   },
   "25": {},
   "26": {},

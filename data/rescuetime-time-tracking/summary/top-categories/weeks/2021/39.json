@@ -88,21 +88,35 @@
   },
   "2021-09-24": {
     "Instant Message": 2228,
-    "Video": 1292,
+    "Video": 1982,
     "Project Management": 844,
     "Writing": 824,
     "Email": 583,
     "Intelligence": 360,
     "Travel & Outdoors": 280,
-    "General Business": 86,
+    "General Business": 91,
     "General Communication & Scheduling": 85,
+    "General Social Networking": 75,
     "Search": 57,
-    "Browsers": 48,
+    "Browsers": 50,
     "General Utilities": 41,
-    "General Social Networking": 15,
     "Uncategorized": 14,
     "Photos": 8,
     "Internet Utilities": 6
   },
-  "2021-09-25": {}
+  "2021-09-25": {
+    "Meetings": 2502,
+    "General Business": 1581,
+    "Instant Message": 604,
+    "Travel & Outdoors": 526,
+    "Professional Networking": 422,
+    "Project Management": 399,
+    "Intelligence": 362,
+    "Uncategorized": 225,
+    "Search": 97,
+    "Engineering & Technology": 29,
+    "Browsers": 28,
+    "General Social Networking": 10,
+    "Writing": 7
+  }
 }

@@ -244,13 +244,24 @@
     "Design & Composition": 7
   },
   "26": {
+    "Business": 295,
     "Communication & Scheduling": 283,
-    "Business": 253,
     "News & Opinion": 36,
     "Reference & Learning": 29,
     "Utilities": 6
   },
-  "27": {},
+  "27": {
+    "Communication & Scheduling": 15006,
+    "Business": 5946,
+    "Social Networking": 4995,
+    "Uncategorized": 2900,
+    "Reference & Learning": 2639,
+    "Entertainment": 1100,
+    "Utilities": 305,
+    "News & Opinion": 60,
+    "Shopping": 13,
+    "Design & Composition": 2
+  },
   "28": {},
   "29": {}
 }

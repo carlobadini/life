@@ -13,7 +13,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 49,
+    "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -39,12 +39,12 @@
     "Rank": 7,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Meetings"
   },
   {
     "Rank": 8,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Category": "Meetings"
+    "Category": "Browsers"
   }
 ]

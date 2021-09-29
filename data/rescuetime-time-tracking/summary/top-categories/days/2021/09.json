@@ -477,8 +477,8 @@
     "Science & Technology": 36,
     "Search": 29,
     "Intelligence": 10,
-    "Meetings": 6,
-    "Browsers": 6
+    "Browsers": 6,
+    "Meetings": 6
   },
   "27": {
     "Meetings": 9426,
@@ -509,6 +509,35 @@
     "Presentation": 2,
     "Office": 1
   },
-  "28": {},
+  "28": {
+    "Meetings": 8608,
+    "General Business": 5701,
+    "Instant Message": 3188,
+    "Uncategorized": 1966,
+    "Email": 1838,
+    "Project Management": 1837,
+    "General Social Networking": 1217,
+    "Video": 904,
+    "Marketing": 782,
+    "Sales": 637,
+    "General Reference & Learning": 578,
+    "General News & Opinion": 531,
+    "Browsers": 447,
+    "Search": 343,
+    "Professional Networking": 336,
+    "Science & Technology": 323,
+    "General Entertainment": 236,
+    "Office": 186,
+    "Intelligence": 172,
+    "Engineering & Technology": 134,
+    "General Design & Composition": 57,
+    "Calendars": 44,
+    "General Utilities": 39,
+    "Employment": 38,
+    "General Communication & Scheduling": 24,
+    "General Shopping": 11,
+    "Writing": 9,
+    "Business & Finance": 2
+  },
   "29": {}
 }

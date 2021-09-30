@@ -41,10 +41,10 @@
   "2021-09-28": {
     "Meetings": 8608,
     "General Business": 5701,
-    "Instant Message": 3188,
+    "Instant Message": 3214,
     "Uncategorized": 1966,
+    "Project Management": 1887,
     "Email": 1838,
-    "Project Management": 1837,
     "General Social Networking": 1217,
     "Video": 904,
     "Marketing": 782,
@@ -68,5 +68,25 @@
     "Writing": 9,
     "Business & Finance": 2
   },
-  "2021-09-29": {}
+  "2021-09-29": {
+    "General Business": 6756,
+    "Instant Message": 1955,
+    "Email": 1686,
+    "Project Management": 1340,
+    "Uncategorized": 1228,
+    "General Social Networking": 1011,
+    "Writing": 914,
+    "Search": 866,
+    "Professional Networking": 490,
+    "Marketing": 301,
+    "General Entertainment": 121,
+    "Browsers": 80,
+    "Meetings": 54,
+    "General News & Opinion": 47,
+    "Internet Utilities": 38,
+    "General Shopping": 24,
+    "Engineering & Technology": 23,
+    "Intelligence": 8,
+    "General Utilities": 4
+  }
 }

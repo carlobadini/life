@@ -285,5 +285,15 @@
     "Entertainment": 121,
     "News & Opinion": 47,
     "Shopping": 24
+  },
+  "30": {
+    "Business": 7390,
+    "Communication & Scheduling": 1721,
+    "Reference & Learning": 1098,
+    "Social Networking": 746,
+    "Design & Composition": 275,
+    "Uncategorized": 263,
+    "News & Opinion": 173,
+    "Utilities": 62
   }
 }

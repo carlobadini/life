@@ -43,15 +43,26 @@
     "Shopping": 24
   },
   "2021-09-30": {
-    "Business": 7390,
-    "Communication & Scheduling": 1721,
-    "Reference & Learning": 1098,
+    "Business": 7398,
+    "Communication & Scheduling": 1872,
+    "Reference & Learning": 1101,
     "Social Networking": 746,
     "Design & Composition": 275,
     "Uncategorized": 263,
     "News & Opinion": 173,
     "Utilities": 62
   },
-  "2021-10-1": {},
+  "2021-10-1": {
+    "Communication & Scheduling": 4472,
+    "Entertainment": 3675,
+    "Business": 1632,
+    "Social Networking": 1619,
+    "Reference & Learning": 1158,
+    "Uncategorized": 828,
+    "News & Opinion": 360,
+    "Utilities": 336,
+    "Shopping": 5,
+    "Design & Composition": 4
+  },
   "2021-10-2": {}
 }

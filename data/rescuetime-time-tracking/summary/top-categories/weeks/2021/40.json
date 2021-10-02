@@ -90,11 +90,11 @@
     "General Utilities": 4
   },
   "2021-09-30": {
-    "General Business": 6478,
-    "Instant Message": 945,
-    "Project Management": 898,
-    "Email": 768,
-    "Search": 628,
+    "General Business": 6480,
+    "Instant Message": 1077,
+    "Project Management": 904,
+    "Email": 787,
+    "Search": 631,
     "Professional Networking": 555,
     "General Reference & Learning": 302,
     "Writing": 275,
@@ -108,6 +108,28 @@
     "Marketing": 3,
     "Calendars": 1
   },
-  "2021-10-1": {},
+  "2021-10-1": {
+    "Video": 3578,
+    "Meetings": 2632,
+    "Instant Message": 1751,
+    "General Business": 1355,
+    "Professional Networking": 1071,
+    "Search": 892,
+    "Uncategorized": 828,
+    "General Social Networking": 548,
+    "General News & Opinion": 355,
+    "General Reference & Learning": 231,
+    "General Utilities": 190,
+    "Project Management": 156,
+    "Browsers": 146,
+    "General Entertainment": 97,
+    "Email": 89,
+    "Intelligence": 69,
+    "Administration": 52,
+    "Food": 35,
+    "Business": 5,
+    "General Shopping": 5,
+    "Writing": 4
+  },
   "2021-10-2": {}
 }

@@ -53,7 +53,7 @@
     "Utilities": 62
   },
   "2021-10-1": {
-    "Communication & Scheduling": 4472,
+    "Communication & Scheduling": 4999,
     "Entertainment": 3675,
     "Business": 1632,
     "Social Networking": 1619,
@@ -64,5 +64,14 @@
     "Shopping": 5,
     "Design & Composition": 4
   },
-  "2021-10-2": {}
+  "2021-10-2": {
+    "Entertainment": 4735,
+    "Business": 2754,
+    "Social Networking": 738,
+    "Communication & Scheduling": 584,
+    "Reference & Learning": 394,
+    "Uncategorized": 124,
+    "Utilities": 89,
+    "Design & Composition": 1
+  }
 }

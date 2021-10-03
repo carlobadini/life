@@ -1,7 +1,7 @@
 {
   "1": {
     "Video": 3578,
-    "Meetings": 2632,
+    "Meetings": 3159,
     "Instant Message": 1751,
     "General Business": 1355,
     "Professional Networking": 1071,
@@ -22,7 +22,23 @@
     "General Shopping": 5,
     "Writing": 4
   },
-  "2": {},
+  "2": {
+    "Video": 4638,
+    "General Business": 2080,
+    "General Social Networking": 593,
+    "Instant Message": 526,
+    "Project Management": 382,
+    "Search": 355,
+    "Intelligence": 292,
+    "Professional Networking": 145,
+    "Uncategorized": 124,
+    "Browsers": 89,
+    "Comedy": 85,
+    "Meetings": 58,
+    "General Reference & Learning": 39,
+    "General Entertainment": 12,
+    "Writing": 1
+  },
   "3": {},
   "4": {},
   "5": {},

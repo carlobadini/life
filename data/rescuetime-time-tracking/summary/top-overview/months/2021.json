@@ -117,16 +117,17 @@
     "Entertainment": 55042
   },
   "10": {
-    "Communication & Scheduling": 6830,
-    "Entertainment": 8643,
-    "Business": 8418,
-    "Social Networking": 2929,
-    "Reference & Learning": 1954,
-    "Uncategorized": 1214,
-    "News & Opinion": 498,
-    "Utilities": 524,
-    "Shopping": 178,
-    "Design & Composition": 151
+    "Communication & Scheduling": 18442,
+    "Entertainment": 8804,
+    "Business": 19818,
+    "Social Networking": 4239,
+    "Reference & Learning": 2733,
+    "Uncategorized": 3063,
+    "News & Opinion": 1029,
+    "Utilities": 2114,
+    "Shopping": 693,
+    "Design & Composition": 196,
+    "Software Development": 1
   },
   "11": {},
   "12": {}

@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4665,
+    "Time Spent (seconds)": 4776,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -25,27 +25,27 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 1030,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 967,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 947,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 934,
     "Number of People": 1,
     "Category": "Professional Networking"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 929,
-    "Number of People": 1,
-    "Category": "Project Management"
   },
   {
     "Rank": 9,

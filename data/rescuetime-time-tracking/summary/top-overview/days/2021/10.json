@@ -70,7 +70,17 @@
     "Entertainment": 112,
     "Shopping": 32
   },
-  "7": {},
+  "7": {
+    "Business": 12882,
+    "Communication & Scheduling": 6787,
+    "Uncategorized": 3890,
+    "Entertainment": 2868,
+    "Social Networking": 2851,
+    "Reference & Learning": 1206,
+    "Shopping": 1173,
+    "News & Opinion": 290,
+    "Utilities": 234
+  },
   "8": {},
   "9": {},
   "10": {},

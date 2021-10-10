@@ -135,7 +135,7 @@
     "General Communication & Scheduling": 2
   },
   "2021-10-8": {
-    "General Business": 8349,
+    "General Business": 8350,
     "Meetings": 5051,
     "Instant Message": 4612,
     "Professional Networking": 3216,
@@ -157,5 +157,31 @@
     "Music": 3,
     "Operations": 2
   },
-  "2021-10-9": {}
+  "2021-10-9": {
+    "General Business": 5099,
+    "Project Management": 3012,
+    "Email": 2119,
+    "Instant Message": 2094,
+    "Uncategorized": 2040,
+    "Travel & Outdoors": 2025,
+    "Video": 1676,
+    "Intelligence": 1413,
+    "General Social Networking": 707,
+    "Professional Networking": 515,
+    "Search": 500,
+    "Browsers": 275,
+    "General News & Opinion": 188,
+    "Meetings": 166,
+    "Sales": 146,
+    "General Design & Composition": 132,
+    "General Entertainment": 127,
+    "General Reference & Learning": 105,
+    "Calendars": 64,
+    "General Utilities": 58,
+    "Design & Planning": 11,
+    "Marketing": 9,
+    "General Shopping": 9,
+    "Engineering & Technology": 7,
+    "Internet Utilities": 4
+  }
 }

@@ -219,12 +219,20 @@
     "Calendars": 64,
     "General Utilities": 58,
     "Design & Planning": 11,
-    "Marketing": 9,
     "General Shopping": 9,
+    "Marketing": 9,
     "Engineering & Technology": 7,
     "Internet Utilities": 4
   },
-  "10": {},
+  "10": {
+    "General Business": 433,
+    "Intelligence": 200,
+    "Project Management": 108,
+    "Instant Message": 105,
+    "General Reference & Learning": 81,
+    "Search": 27,
+    "Browsers": 14
+  },
   "11": {},
   "12": {},
   "13": {},

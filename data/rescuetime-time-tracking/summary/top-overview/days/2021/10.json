@@ -104,7 +104,12 @@
     "Software Development": 11,
     "Shopping": 9
   },
-  "10": {},
+  "10": {
+    "Business": 741,
+    "Reference & Learning": 108,
+    "Communication & Scheduling": 105,
+    "Utilities": 14
+  },
   "11": {},
   "12": {},
   "13": {},

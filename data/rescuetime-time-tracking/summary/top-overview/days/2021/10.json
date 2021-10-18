@@ -177,11 +177,21 @@
     "Communication & Scheduling": 2646,
     "Social Networking": 1443,
     "News & Opinion": 720,
+    "Utilities": 594,
     "Shopping": 448,
-    "Utilities": 445,
     "Entertainment": 391
   },
-  "17": {},
+  "17": {
+    "Entertainment": 28032,
+    "Communication & Scheduling": 508,
+    "Uncategorized": 404,
+    "Utilities": 288,
+    "Reference & Learning": 260,
+    "Business": 207,
+    "Social Networking": 201,
+    "News & Opinion": 190,
+    "Shopping": 57
+  },
   "18": {},
   "19": {},
   "20": {},

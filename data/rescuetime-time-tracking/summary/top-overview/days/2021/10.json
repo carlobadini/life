@@ -182,17 +182,27 @@
     "Entertainment": 391
   },
   "17": {
-    "Entertainment": 28032,
+    "Entertainment": 28385,
     "Communication & Scheduling": 508,
     "Uncategorized": 404,
     "Utilities": 288,
     "Reference & Learning": 260,
-    "Business": 207,
+    "Business": 208,
     "Social Networking": 201,
     "News & Opinion": 190,
     "Shopping": 57
   },
-  "18": {},
+  "18": {
+    "Communication & Scheduling": 17159,
+    "Business": 11095,
+    "Uncategorized": 2094,
+    "Reference & Learning": 1745,
+    "Social Networking": 1512,
+    "News & Opinion": 1214,
+    "Utilities": 607,
+    "Shopping": 135,
+    "Entertainment": 5
+  },
   "19": {},
   "20": {},
   "21": {},

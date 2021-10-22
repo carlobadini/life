@@ -34,8 +34,8 @@
     "Design & Composition": 167
   },
   "2021-10-20": {
-    "Business": 9570,
-    "Communication & Scheduling": 5469,
+    "Business": 9582,
+    "Communication & Scheduling": 5585,
     "Reference & Learning": 1697,
     "Design & Composition": 1593,
     "Uncategorized": 911,
@@ -45,7 +45,17 @@
     "Shopping": 138,
     "Entertainment": 19
   },
-  "2021-10-21": {},
+  "2021-10-21": {
+    "Business": 10300,
+    "Communication & Scheduling": 8633,
+    "Social Networking": 1236,
+    "Entertainment": 950,
+    "Utilities": 663,
+    "Reference & Learning": 616,
+    "Uncategorized": 570,
+    "News & Opinion": 326,
+    "Design & Composition": 37
+  },
   "2021-10-22": {},
   "2021-10-23": {}
 }

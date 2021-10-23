@@ -23,7 +23,17 @@
   },
   "2021-10-19": {},
   "2021-10-20": {},
-  "2021-10-21": {},
+  "2021-10-21": {
+    "score": 78,
+    "score_activity_balance": 91,
+    "score_hrv_balance": 83,
+    "score_previous_day": 88,
+    "score_previous_night": 73,
+    "score_recovery_index": 93,
+    "score_resting_hr": 71,
+    "score_sleep_balance": 68,
+    "score_temperature": 100
+  },
   "2021-10-22": {},
   "2021-10-23": {}
 }

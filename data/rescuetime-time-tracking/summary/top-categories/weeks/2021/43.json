@@ -87,8 +87,8 @@
     "General Social Networking": 139,
     "General Shopping": 138,
     "Business & Finance": 121,
-    "General Utilities": 51,
     "Voice Chat": 51,
+    "General Utilities": 51,
     "General Entertainment": 19,
     "Business": 6
   },
@@ -113,8 +113,8 @@
     "General Entertainment": 16,
     "Intelligence": 13,
     "General Communication & Scheduling": 8,
-    "Accounting": 6,
     "Calendars": 6,
+    "Accounting": 6,
     "Internet Utilities": 3
   },
   "2021-10-22": {
@@ -140,5 +140,26 @@
     "General Entertainment": 15,
     "Sales": 3
   },
-  "2021-10-23": {}
+  "2021-10-23": {
+    "General Business": 3966,
+    "Instant Message": 1915,
+    "Intelligence": 1548,
+    "Project Management": 1173,
+    "Email": 1142,
+    "Professional Networking": 941,
+    "Uncategorized": 498,
+    "General Reference & Learning": 363,
+    "Science & Technology": 306,
+    "Search": 292,
+    "Sales": 202,
+    "General Design & Composition": 183,
+    "General Utilities": 179,
+    "Travel & Outdoors": 167,
+    "Browsers": 128,
+    "General Entertainment": 74,
+    "Office": 67,
+    "Calendars": 35,
+    "Engineering & Technology": 26,
+    "General Social Networking": 26
+  }
 }

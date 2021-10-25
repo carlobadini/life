@@ -540,10 +540,10 @@
     "Sales": 3
   },
   "23": {
-    "General Business": 3966,
+    "General Business": 3970,
     "Instant Message": 1915,
     "Intelligence": 1548,
-    "Project Management": 1173,
+    "Project Management": 1180,
     "Email": 1142,
     "Professional Networking": 941,
     "Uncategorized": 498,
@@ -558,10 +558,24 @@
     "General Entertainment": 74,
     "Office": 67,
     "Calendars": 35,
-    "Engineering & Technology": 26,
-    "General Social Networking": 26
+    "General Social Networking": 26,
+    "Engineering & Technology": 26
   },
-  "24": {},
+  "24": {
+    "Instant Message": 701,
+    "General Business": 331,
+    "General News & Opinion": 242,
+    "Professional Networking": 127,
+    "Search": 122,
+    "General Software Development": 68,
+    "Project Management": 45,
+    "General Social Networking": 45,
+    "Email": 40,
+    "Uncategorized": 40,
+    "Browsers": 36,
+    "Intelligence": 32,
+    "General Entertainment": 3
+  },
   "25": {},
   "26": {},
   "27": {},

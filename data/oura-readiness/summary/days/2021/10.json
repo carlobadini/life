@@ -136,7 +136,17 @@
   "25": {},
   "26": {},
   "27": {},
-  "28": {},
+  "28": {
+    "score": 85,
+    "score_activity_balance": 63,
+    "score_hrv_balance": 89,
+    "score_previous_day": 88,
+    "score_previous_night": 90,
+    "score_recovery_index": 81,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 85,
+    "score_temperature": 100
+  },
   "29": {},
   "30": {}
 }

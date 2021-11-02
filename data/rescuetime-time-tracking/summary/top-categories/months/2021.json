@@ -509,7 +509,7 @@
   "10": {
     "Video": 57078,
     "Meetings": 103589,
-    "Instant Message": 90045,
+    "Instant Message": 90084,
     "General Business": 147219,
     "Professional Networking": 36573,
     "Search": 20473,
@@ -563,6 +563,28 @@
     "Entertainment": 15,
     "Systems Operations": 9
   },
-  "11": {},
+  "11": {
+    "General Business": 12019,
+    "Meetings": 7762,
+    "Instant Message": 3323,
+    "Sales": 2775,
+    "Project Management": 2537,
+    "Email": 1294,
+    "Intelligence": 1221,
+    "Uncategorized": 1167,
+    "Professional Networking": 960,
+    "Search": 400,
+    "Marketing": 343,
+    "Browsers": 146,
+    "General Entertainment": 92,
+    "General News & Opinion": 86,
+    "Customer Relations": 85,
+    "Video": 83,
+    "General Reference & Learning": 47,
+    "Writing": 24,
+    "General Utilities": 24,
+    "Voice Chat": 12,
+    "General Software Development": 12
+  },
   "12": {}
 }

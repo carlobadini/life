@@ -117,7 +117,7 @@
     "Entertainment": 55042
   },
   "10": {
-    "Communication & Scheduling": 244280,
+    "Communication & Scheduling": 244319,
     "Entertainment": 61612,
     "Business": 250107,
     "Social Networking": 51373,
@@ -129,6 +129,17 @@
     "Design & Composition": 7055,
     "Software Development": 326
   },
-  "11": {},
+  "11": {
+    "Business": 18980,
+    "Communication & Scheduling": 12391,
+    "Uncategorized": 1167,
+    "Social Networking": 960,
+    "Reference & Learning": 447,
+    "Entertainment": 175,
+    "Utilities": 170,
+    "News & Opinion": 86,
+    "Design & Composition": 24,
+    "Software Development": 12
+  },
   "12": {}
 }

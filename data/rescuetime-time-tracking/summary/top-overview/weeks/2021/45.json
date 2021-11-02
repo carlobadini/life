@@ -2,11 +2,22 @@
   "2021-10-31": {
     "Entertainment": 3216,
     "Business": 170,
-    "Communication & Scheduling": 120,
+    "Communication & Scheduling": 159,
     "Social Networking": 53,
     "Utilities": 2
   },
-  "2021-11-1": {},
+  "2021-11-1": {
+    "Business": 18980,
+    "Communication & Scheduling": 12391,
+    "Uncategorized": 1167,
+    "Social Networking": 960,
+    "Reference & Learning": 447,
+    "Entertainment": 175,
+    "Utilities": 170,
+    "News & Opinion": 86,
+    "Design & Composition": 24,
+    "Software Development": 12
+  },
   "2021-11-2": {},
   "2021-11-3": {},
   "2021-11-4": {},

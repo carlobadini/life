@@ -35,7 +35,7 @@
     "Entertainment": 54
   },
   "4": {
-    "Business": 15200,
+    "Business": 15247,
     "Communication & Scheduling": 8288,
     "Uncategorized": 2446,
     "Social Networking": 1514,
@@ -46,7 +46,17 @@
     "Utilities": 411,
     "Software Development": 9
   },
-  "5": {},
+  "5": {
+    "Business": 13982,
+    "Communication & Scheduling": 11743,
+    "Entertainment": 1352,
+    "Uncategorized": 1007,
+    "Social Networking": 851,
+    "News & Opinion": 417,
+    "Reference & Learning": 190,
+    "Utilities": 184,
+    "Shopping": 11
+  },
   "6": {},
   "7": {},
   "8": {},

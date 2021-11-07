@@ -109,7 +109,7 @@
     "Meetings": 5501,
     "Instant Message": 5049,
     "Sales": 3294,
-    "Project Management": 1355,
+    "Project Management": 1677,
     "Email": 1180,
     "Video": 1074,
     "Uncategorized": 1007,
@@ -125,5 +125,27 @@
     "General Shopping": 11,
     "General Social Networking": 1
   },
-  "2021-11-6": {}
+  "2021-11-6": {
+    "General Business": 7674,
+    "Intelligence": 2296,
+    "Instant Message": 1449,
+    "Sales": 1349,
+    "Project Management": 1281,
+    "General Social Networking": 1197,
+    "Uncategorized": 1005,
+    "Email": 635,
+    "Meetings": 479,
+    "Professional Networking": 385,
+    "Search": 312,
+    "Science & Technology": 256,
+    "Browsers": 145,
+    "Entertainment": 87,
+    "General Shopping": 59,
+    "General Design & Composition": 57,
+    "Video": 47,
+    "General Entertainment": 32,
+    "Marketing": 20,
+    "General Utilities": 7,
+    "Design & Planning": 2
+  }
 }

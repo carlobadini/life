@@ -1468,13 +1468,13 @@
     "target_miles": 6.21371,
     "to_target_km": 8.9,
     "to_target_miles": 5.530201900000001,
-    "score": 80,
-    "score_meet_daily_targets": 60,
+    "score": 76,
+    "score_meet_daily_targets": 43,
     "score_move_every_hour": 100,
     "score_recovery_time": 100,
     "score_stay_active": 68,
     "score_training_frequency": 71,
-    "score_training_volume": 87,
+    "score_training_volume": 85,
     "rest_mode_state": 0,
     "total": 0
   }

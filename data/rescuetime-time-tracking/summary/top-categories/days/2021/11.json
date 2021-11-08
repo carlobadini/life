@@ -118,7 +118,7 @@
     "General Social Networking": 1
   },
   "6": {
-    "General Business": 7674,
+    "General Business": 7905,
     "Intelligence": 2296,
     "Instant Message": 1449,
     "Sales": 1349,
@@ -140,7 +140,28 @@
     "General Utilities": 7,
     "Design & Planning": 2
   },
-  "7": {},
+  "7": {
+    "General Business": 5234,
+    "Uncategorized": 872,
+    "Video": 867,
+    "Instant Message": 658,
+    "General News & Opinion": 653,
+    "Engineering & Technology": 522,
+    "Electronics": 322,
+    "Project Management": 200,
+    "Sales": 125,
+    "Intelligence": 111,
+    "Accounting": 108,
+    "Email": 75,
+    "Browsers": 55,
+    "Calendars": 50,
+    "Search": 49,
+    "Science & Technology": 44,
+    "Customer Relations": 32,
+    "General Entertainment": 15,
+    "General Software Development": 11,
+    "General Utilities": 7
+  },
   "8": {},
   "9": {},
   "10": {},

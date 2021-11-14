@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 5547,
+    "Time Spent (seconds)": 5550,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2439,
+    "Time Spent (seconds)": 2449,
     "Number of People": 1,
     "Category": "Marketing"
   },
@@ -43,15 +43,15 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 912,
+    "Time Spent (seconds)": 913,
     "Number of People": 1,
-    "Category": "Video"
+    "Category": "Project Management"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 867,
+    "Time Spent (seconds)": 912,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "Video"
   },
   {
     "Rank": 10,
@@ -127,7 +127,7 @@
   },
   {
     "Rank": 22,
-    "Time Spent (seconds)": 242,
+    "Time Spent (seconds)": 244,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -172,5 +172,11 @@
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Category": "General Communication & Scheduling"
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Intelligence"
   }
 ]

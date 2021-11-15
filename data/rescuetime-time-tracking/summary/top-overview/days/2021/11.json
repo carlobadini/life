@@ -143,7 +143,7 @@
     "Design & Composition": 44
   },
   "13": {
-    "Entertainment": 11321,
+    "Entertainment": 13241,
     "Business": 10028,
     "Communication & Scheduling": 4554,
     "Uncategorized": 2675,
@@ -154,7 +154,17 @@
     "Design & Composition": 120,
     "News & Opinion": 96
   },
-  "14": {},
+  "14": {
+    "Entertainment": 1784,
+    "Business": 1270,
+    "Shopping": 683,
+    "Social Networking": 527,
+    "Communication & Scheduling": 453,
+    "Uncategorized": 379,
+    "Software Development": 218,
+    "Reference & Learning": 172,
+    "Utilities": 40
+  },
   "15": {},
   "16": {},
   "17": {},

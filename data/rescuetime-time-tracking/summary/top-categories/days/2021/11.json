@@ -311,7 +311,7 @@
     "Intelligence": 2
   },
   "13": {
-    "Video": 11321,
+    "Video": 13241,
     "General Business": 5620,
     "Uncategorized": 2675,
     "Meetings": 2116,
@@ -335,7 +335,23 @@
     "Science & Technology": 17,
     "General Utilities": 8
   },
-  "14": {},
+  "14": {
+    "Video": 1784,
+    "General Business": 806,
+    "Office": 683,
+    "General Social Networking": 420,
+    "Instant Message": 383,
+    "Uncategorized": 379,
+    "Accounting": 357,
+    "General Software Development": 218,
+    "Search": 172,
+    "Professional Networking": 107,
+    "Intelligence": 75,
+    "Email": 70,
+    "Browsers": 40,
+    "Project Management": 22,
+    "Marketing": 10
+  },
   "15": {},
   "16": {},
   "17": {},

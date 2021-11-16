@@ -19,15 +19,15 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 420,
+    "Time Spent (seconds)": 489,
     "Number of People": 1,
-    "Category": "General Social Networking"
+    "Category": "Instant Message"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 383,
+    "Time Spent (seconds)": 420,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "General Social Networking"
   },
   {
     "Rank": 6,
@@ -61,27 +61,27 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 70,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
     "Rank": 13,
-    "Time Spent (seconds)": 40,
+    "Time Spent (seconds)": 54,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Project Management"
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 22,
+    "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "Browsers"
   },
   {
     "Rank": 15,

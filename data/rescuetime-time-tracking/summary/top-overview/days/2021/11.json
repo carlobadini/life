@@ -166,8 +166,8 @@
     "Utilities": 40
   },
   "15": {
-    "Communication & Scheduling": 18831,
-    "Business": 12757,
+    "Communication & Scheduling": 18948,
+    "Business": 12875,
     "Reference & Learning": 1443,
     "Uncategorized": 1165,
     "News & Opinion": 973,
@@ -178,7 +178,19 @@
     "Shopping": 19,
     "Entertainment": 11
   },
-  "16": {},
+  "16": {
+    "Communication & Scheduling": 19710,
+    "Business": 11642,
+    "Uncategorized": 3684,
+    "Reference & Learning": 2160,
+    "Social Networking": 1594,
+    "Utilities": 1172,
+    "Entertainment": 835,
+    "News & Opinion": 568,
+    "Design & Composition": 499,
+    "Shopping": 43,
+    "Software Development": 4
+  },
   "17": {},
   "18": {},
   "19": {},

@@ -79,7 +79,21 @@
     "General Software Development": 4,
     "Presentation": 2
   },
-  "2021-11-17": {},
+  "2021-11-17": {
+    "General Business": 3904,
+    "Intelligence": 1865,
+    "Email": 1129,
+    "Writing": 893,
+    "Instant Message": 666,
+    "Office": 568,
+    "Professional Networking": 189,
+    "Project Management": 184,
+    "Uncategorized": 142,
+    "General Utilities": 141,
+    "Browsers": 56,
+    "Search": 37,
+    "General Shopping": 5
+  },
   "2021-11-18": {},
   "2021-11-19": {},
   "2021-11-20": {}

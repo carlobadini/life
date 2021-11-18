@@ -191,7 +191,16 @@
     "Shopping": 43,
     "Software Development": 4
   },
-  "17": {},
+  "17": {
+    "Business": 5953,
+    "Communication & Scheduling": 1795,
+    "Design & Composition": 893,
+    "Shopping": 573,
+    "Utilities": 197,
+    "Social Networking": 189,
+    "Uncategorized": 142,
+    "Reference & Learning": 37
+  },
   "18": {},
   "19": {},
   "20": {},

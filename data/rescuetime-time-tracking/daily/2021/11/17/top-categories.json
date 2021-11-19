@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3904,
+    "Time Spent (seconds)": 3918,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1129,
+    "Time Spent (seconds)": 1132,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 666,
+    "Time Spent (seconds)": 758,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -37,27 +37,27 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 189,
-    "Number of People": 1,
-    "Category": "Professional Networking"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 184,
+    "Time Spent (seconds)": 384,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 142,
+    "Rank": 8,
+    "Time Spent (seconds)": 195,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 143,
+    "Number of People": 1,
+    "Category": "General Utilities"
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 141,
+    "Time Spent (seconds)": 142,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 11,

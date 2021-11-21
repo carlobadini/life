@@ -44,6 +44,16 @@
     "score_temperature": 100
   },
   "2021-11-18": {},
-  "2021-11-19": {},
+  "2021-11-19": {
+    "score": 79,
+    "score_activity_balance": 87,
+    "score_hrv_balance": 65,
+    "score_previous_day": 89,
+    "score_previous_night": 75,
+    "score_recovery_index": 70,
+    "score_resting_hr": 91,
+    "score_sleep_balance": 77,
+    "score_temperature": 100
+  },
   "2021-11-20": {}
 }

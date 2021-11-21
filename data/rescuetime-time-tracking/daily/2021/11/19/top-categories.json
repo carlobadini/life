@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7579,
+    "Time Spent (seconds)": 7864,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4166,
+    "Time Spent (seconds)": 4285,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3523,
+    "Time Spent (seconds)": 3585,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -37,27 +37,27 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 1834,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 1790,
     "Number of People": 1,
     "Category": "Sales"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 1624,
+    "Rank": 9,
+    "Time Spent (seconds)": 1689,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 1545,
+    "Rank": 10,
+    "Time Spent (seconds)": 1595,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 1498,
-    "Number of People": 1,
-    "Category": "Project Management"
   },
   {
     "Rank": 11,
@@ -73,13 +73,13 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 1174,
+    "Time Spent (seconds)": 1191,
     "Number of People": 1,
     "Category": "Science & Technology"
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 886,
+    "Time Spent (seconds)": 1100,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -103,13 +103,13 @@
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 267,
+    "Time Spent (seconds)": 292,
     "Number of People": 1,
     "Category": "General Shopping"
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 249,
+    "Time Spent (seconds)": 284,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
@@ -127,7 +127,7 @@
   },
   {
     "Rank": 22,
-    "Time Spent (seconds)": 200,
+    "Time Spent (seconds)": 210,
     "Number of People": 1,
     "Category": "Browsers"
   },

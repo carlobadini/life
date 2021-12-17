@@ -21,13 +21,19 @@
     "score": 52
   },
   "2021-12-15": {
-    "steps": 4957,
-    "total": 222,
-    "cal_active": 247,
-    "cal_total": 2312,
+    "steps": 5812,
+    "total": 276,
+    "cal_active": 291,
+    "cal_total": 2424,
     "score": 52
   },
-  "2021-12-16": {},
+  "2021-12-16": {
+    "steps": 201,
+    "total": 13,
+    "cal_active": 7,
+    "cal_total": 1773,
+    "score": 51
+  },
   "2021-12-17": {},
   "2021-12-18": {}
 }

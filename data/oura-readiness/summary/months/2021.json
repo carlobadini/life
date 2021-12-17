@@ -121,14 +121,14 @@
     "score_temperature": 1750
   },
   "12": {
-    "score": 534,
-    "score_activity_balance": 613,
-    "score_hrv_balance": 642,
-    "score_previous_day": 599,
-    "score_previous_night": 402,
-    "score_recovery_index": 564,
-    "score_resting_hr": 533,
-    "score_sleep_balance": 476,
-    "score_temperature": 677
+    "score": 604,
+    "score_activity_balance": 699,
+    "score_hrv_balance": 734,
+    "score_previous_day": 684,
+    "score_previous_night": 465,
+    "score_recovery_index": 613,
+    "score_resting_hr": 608,
+    "score_sleep_balance": 531,
+    "score_temperature": 769
   }
 }

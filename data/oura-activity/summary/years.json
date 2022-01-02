@@ -7,11 +7,17 @@
     "score": 7895
   },
   "2021": {
-    "steps": 2376558,
-    "total": 87019,
-    "cal_active": 120904,
-    "cal_total": 810337,
-    "score": 22556
+    "steps": 2383135,
+    "total": 87325,
+    "cal_active": 121233,
+    "cal_total": 811007,
+    "score": 22562
   },
-  "2022": {}
+  "2022": {
+    "steps": 13714,
+    "total": 303,
+    "cal_active": 576,
+    "cal_total": 2589,
+    "score": 83
+  }
 }

@@ -135,5 +135,29 @@
     "Audio Editing": 9,
     "Sports": 136
   },
-  "2022": {}
+  "2022": {
+    "Meetings": 17653,
+    "General Business": 9353,
+    "Instant Message": 4315,
+    "Project Management": 4214,
+    "Email": 2611,
+    "Uncategorized": 1341,
+    "Intelligence": 1090,
+    "Presentation": 602,
+    "Science & Technology": 447,
+    "Marketing": 370,
+    "Sales": 364,
+    "General Reference & Learning": 274,
+    "General Utilities": 143,
+    "Accounting": 143,
+    "General Shopping": 110,
+    "Office": 97,
+    "General News & Opinion": 75,
+    "Search": 30,
+    "General Social Networking": 15,
+    "General Entertainment": 12,
+    "Engineering & Technology": 12,
+    "Browsers": 10,
+    "Systems Operations": 5
+  }
 }

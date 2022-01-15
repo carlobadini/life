@@ -48,13 +48,19 @@
   "11": {},
   "12": {},
   "13": {
-    "steps": 1552,
-    "total": 63,
-    "cal_active": 73,
-    "cal_total": 2027,
+    "steps": 1647,
+    "total": 72,
+    "cal_active": 79,
+    "cal_total": 2049,
     "score": 51
   },
-  "14": {},
+  "14": {
+    "steps": 7040,
+    "total": 232,
+    "cal_active": 329,
+    "cal_total": 2434,
+    "score": 48
+  },
   "15": {},
   "16": {},
   "17": {},

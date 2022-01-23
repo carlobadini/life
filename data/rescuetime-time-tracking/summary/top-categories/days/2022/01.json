@@ -342,7 +342,17 @@
     "Legal & Gov't": 2,
     "General Social Networking": 1
   },
-  "22": {},
+  "22": {
+    "Meetings": 3509,
+    "General Business": 318,
+    "Communications": 289,
+    "Project Management": 216,
+    "Writing": 131,
+    "Instant Message": 94,
+    "Uncategorized": 45,
+    "Email": 36,
+    "Browsers": 4
+  },
   "23": {},
   "24": {},
   "25": {},

@@ -165,7 +165,14 @@
     "News & Opinion": 124,
     "Shopping": 23
   },
-  "22": {},
+  "22": {
+    "Communication & Scheduling": 3639,
+    "Business": 534,
+    "Other Work": 289,
+    "Design & Composition": 131,
+    "Uncategorized": 45,
+    "Utilities": 4
+  },
   "23": {},
   "24": {},
   "25": {},

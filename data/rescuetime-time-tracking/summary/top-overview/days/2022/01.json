@@ -166,14 +166,21 @@
     "Shopping": 23
   },
   "22": {
+    "Design & Composition": 9132,
     "Communication & Scheduling": 3639,
-    "Business": 534,
-    "Other Work": 289,
-    "Design & Composition": 131,
-    "Uncategorized": 45,
-    "Utilities": 4
+    "Uncategorized": 1217,
+    "Business": 807,
+    "Other Work": 296,
+    "Utilities": 282,
+    "Reference & Learning": 35,
+    "Social Networking": 1
   },
-  "23": {},
+  "23": {
+    "Reference & Learning": 673,
+    "Design & Composition": 134,
+    "Utilities": 109,
+    "Business": 9
+  },
   "24": {},
   "25": {},
   "26": {},

@@ -17,7 +17,19 @@
     "News & Opinion": 12
   },
   "2022-01-25": {},
-  "2022-01-26": {},
+  "2022-01-26": {
+    "Business": 3577,
+    "Other Work": 2811,
+    "Communication & Scheduling": 1066,
+    "Uncategorized": 248,
+    "Software Development": 118,
+    "News & Opinion": 67,
+    "Design & Composition": 56,
+    "Utilities": 52,
+    "Reference & Learning": 28,
+    "Social Networking": 21,
+    "Entertainment": 1
+  },
   "2022-01-27": {},
   "2022-01-28": {},
   "2022-01-29": {}

@@ -159,6 +159,19 @@
     "cal_total": 2141,
     "score": 82
   },
-  "29": {},
-  "30": {}
+  "29": {
+    "steps": 4050,
+    "total": 159,
+    "cal_active": 189,
+    "cal_total": 2174,
+    "score": 89
+  },
+  "30": {},
+  "31": {
+    "steps": 1390,
+    "total": 44,
+    "cal_active": 68,
+    "cal_total": 1913,
+    "score": 81
+  }
 }

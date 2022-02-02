@@ -1,19 +1,25 @@
 {
   "1": {
     "Communication & Scheduling": 185831,
-    "Business": 146957,
-    "Uncategorized": 36755,
+    "Business": 146969,
+    "Uncategorized": 36769,
     "Design & Composition": 16461,
     "News & Opinion": 7281,
     "Reference & Learning": 13027,
     "Shopping": 3468,
     "Utilities": 4559,
-    "Social Networking": 7916,
+    "Social Networking": 7976,
     "Entertainment": 16862,
     "Software Development": 712,
     "Other Work": 23064
   },
-  "2": {},
+  "2": {
+    "Uncategorized": 1006,
+    "Utilities": 450,
+    "Business": 394,
+    "Communication & Scheduling": 67,
+    "Other Work": 23
+  },
   "3": {},
   "4": {},
   "5": {},

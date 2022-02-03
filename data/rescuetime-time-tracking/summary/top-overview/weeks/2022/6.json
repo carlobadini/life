@@ -17,10 +17,22 @@
     "Uncategorized": 1006,
     "Utilities": 450,
     "Business": 394,
-    "Communication & Scheduling": 67,
-    "Other Work": 23
+    "Other Work": 90,
+    "Communication & Scheduling": 67
   },
-  "2022-02-2": {},
+  "2022-02-2": {
+    "Communication & Scheduling": 11158,
+    "Business": 8112,
+    "Other Work": 2934,
+    "Uncategorized": 1412,
+    "Social Networking": 1346,
+    "Design & Composition": 960,
+    "News & Opinion": 833,
+    "Reference & Learning": 611,
+    "Entertainment": 571,
+    "Utilities": 219,
+    "Software Development": 64
+  },
   "2022-02-3": {},
   "2022-02-4": {},
   "2022-02-5": {}

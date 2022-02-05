@@ -38,7 +38,7 @@
     "Business": 9148,
     "Social Networking": 3186,
     "Uncategorized": 3160,
-    "Other Work": 2991,
+    "Other Work": 3124,
     "Entertainment": 1566,
     "Reference & Learning": 894,
     "Design & Composition": 797,
@@ -46,6 +46,18 @@
     "Shopping": 333,
     "Utilities": 180
   },
-  "2022-02-4": {},
+  "2022-02-4": {
+    "Business": 8278,
+    "Entertainment": 5280,
+    "Other Work": 3281,
+    "Communication & Scheduling": 2321,
+    "Uncategorized": 2078,
+    "Social Networking": 1308,
+    "Reference & Learning": 808,
+    "Design & Composition": 713,
+    "News & Opinion": 282,
+    "Utilities": 113,
+    "Shopping": 62
+  },
   "2022-02-5": {}
 }

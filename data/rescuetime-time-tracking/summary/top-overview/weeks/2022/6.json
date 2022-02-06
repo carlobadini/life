@@ -47,10 +47,10 @@
     "Utilities": 180
   },
   "2022-02-4": {
-    "Business": 8278,
+    "Business": 8279,
     "Entertainment": 5280,
-    "Other Work": 3281,
-    "Communication & Scheduling": 2321,
+    "Other Work": 3306,
+    "Communication & Scheduling": 2323,
     "Uncategorized": 2078,
     "Social Networking": 1308,
     "Reference & Learning": 808,
@@ -59,5 +59,17 @@
     "Utilities": 113,
     "Shopping": 62
   },
-  "2022-02-5": {}
+  "2022-02-5": {
+    "Business": 6375,
+    "Communication & Scheduling": 2820,
+    "News & Opinion": 2313,
+    "Entertainment": 2108,
+    "Uncategorized": 2079,
+    "Social Networking": 1839,
+    "Other Work": 990,
+    "Utilities": 292,
+    "Reference & Learning": 187,
+    "Software Development": 108,
+    "Design & Composition": 8
+  }
 }

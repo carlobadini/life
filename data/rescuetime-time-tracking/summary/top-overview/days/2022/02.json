@@ -69,8 +69,24 @@
     "Other Work": 153,
     "Utilities": 87
   },
-  "7": {},
-  "8": {},
+  "7": {
+    "Communication & Scheduling": 33108,
+    "Business": 9296,
+    "Other Work": 2420,
+    "Design & Composition": 1770,
+    "Uncategorized": 1104,
+    "Reference & Learning": 873,
+    "Utilities": 301,
+    "Software Development": 295,
+    "Social Networking": 126,
+    "Shopping": 102,
+    "Entertainment": 24
+  },
+  "8": {
+    "Business": 827,
+    "Other Work": 119,
+    "Communication & Scheduling": 20
+  },
   "9": {},
   "10": {},
   "11": {},

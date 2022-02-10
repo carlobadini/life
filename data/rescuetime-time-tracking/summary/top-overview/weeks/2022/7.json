@@ -24,10 +24,10 @@
     "Entertainment": 24
   },
   "2022-02-8": {
-    "Business": 9377,
+    "Business": 9389,
     "Communication & Scheduling": 7564,
     "Design & Composition": 5908,
-    "Other Work": 3747,
+    "Other Work": 3838,
     "Uncategorized": 3640,
     "Shopping": 1717,
     "Social Networking": 1683,
@@ -37,7 +37,19 @@
     "Entertainment": 521,
     "Software Development": 5
   },
-  "2022-02-9": {},
+  "2022-02-9": {
+    "Business": 11490,
+    "Communication & Scheduling": 6528,
+    "Other Work": 4697,
+    "Uncategorized": 2951,
+    "Design & Composition": 2606,
+    "Entertainment": 2283,
+    "Reference & Learning": 1103,
+    "Social Networking": 944,
+    "Utilities": 353,
+    "News & Opinion": 162,
+    "Shopping": 135
+  },
   "2022-02-10": {},
   "2022-02-11": {},
   "2022-02-12": {}

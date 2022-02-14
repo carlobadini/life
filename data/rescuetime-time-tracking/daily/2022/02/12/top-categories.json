@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8567,
+    "Time Spent (seconds)": 8572,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3656,
+    "Time Spent (seconds)": 3659,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -25,33 +25,33 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1407,
+    "Time Spent (seconds)": 1414,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1131,
+    "Time Spent (seconds)": 1146,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 1012,
+    "Number of People": 1,
+    "Category": "Office"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 1008,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 980,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 954,
-    "Number of People": 1,
-    "Category": "Office"
   },
   {
     "Rank": 10,
@@ -61,13 +61,13 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 734,
+    "Time Spent (seconds)": 751,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 727,
+    "Time Spent (seconds)": 733,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -139,7 +139,7 @@
   },
   {
     "Rank": 24,
-    "Time Spent (seconds)": 87,
+    "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
@@ -171,13 +171,13 @@
     "Rank": 29,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Category": "Business"
+    "Category": "Presentation"
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Category": "Presentation"
+    "Category": "Business"
   },
   {
     "Rank": 31,

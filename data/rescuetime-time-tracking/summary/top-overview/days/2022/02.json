@@ -164,7 +164,18 @@
     "News & Opinion": 6,
     "Design & Composition": 5
   },
-  "14": {},
+  "14": {
+    "Communication & Scheduling": 16258,
+    "Business": 11345,
+    "Other Work": 2999,
+    "Uncategorized": 1250,
+    "Design & Composition": 1083,
+    "News & Opinion": 481,
+    "Entertainment": 472,
+    "Reference & Learning": 410,
+    "Utilities": 155,
+    "Software Development": 64
+  },
   "15": {},
   "16": {},
   "17": {},

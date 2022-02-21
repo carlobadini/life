@@ -165,17 +165,17 @@
     "Entertainment": 43,
     "General News & Opinion": 40,
     "Accounting": 16,
-    "General Design & Composition": 13,
     "General Reference & Learning": 13,
+    "General Design & Composition": 13,
     "General Entertainment": 10,
     "General Shopping": 6,
     "Employment": 2,
     "General Communication & Scheduling": 1
   },
   "2022-02-19": {
-    "General Business": 3463,
+    "General Business": 3465,
     "Presentation": 1437,
-    "Communications": 1409,
+    "Communications": 1412,
     "Email": 1298,
     "Uncategorized": 1204,
     "Project Management": 910,
@@ -186,13 +186,13 @@
     "Writing": 365,
     "Sales": 286,
     "General Software Development": 215,
+    "General Reference & Learning": 180,
     "General News & Opinion": 173,
     "General Utilities": 165,
     "Search": 165,
     "Browsers": 69,
     "General Communication & Scheduling": 29,
     "Operations": 27,
-    "General Entertainment": 20,
-    "General Reference & Learning": 13
+    "General Entertainment": 20
   }
 }

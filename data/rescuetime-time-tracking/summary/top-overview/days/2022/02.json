@@ -301,13 +301,24 @@
     "Communication & Scheduling": 5189,
     "Other Work": 2569,
     "Reference & Learning": 1775,
-    "Business": 1649,
+    "Business": 1771,
     "Social Networking": 1536,
     "Uncategorized": 1237,
     "Utilities": 672,
     "Entertainment": 224
   },
-  "25": {},
+  "25": {
+    "Communication & Scheduling": 6587,
+    "Other Work": 4335,
+    "Uncategorized": 3540,
+    "News & Opinion": 3385,
+    "Business": 3162,
+    "Design & Composition": 2663,
+    "Social Networking": 1938,
+    "Reference & Learning": 1035,
+    "Utilities": 659,
+    "Entertainment": 316
+  },
   "26": {},
   "27": {}
 }

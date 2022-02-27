@@ -167,5 +167,24 @@
     "Travel & Outdoors": 17,
     "Writing": 1
   },
-  "2022-02-26": {}
+  "2022-02-26": {
+    "General Business": 2651,
+    "General News & Opinion": 2390,
+    "Professional Networking": 1111,
+    "Project Management": 917,
+    "General Reference & Learning": 850,
+    "Uncategorized": 845,
+    "Search": 831,
+    "General Software Development": 790,
+    "Communications": 643,
+    "Video": 442,
+    "Sales": 336,
+    "Instant Message": 323,
+    "Meetings": 169,
+    "General Social Networking": 163,
+    "General Entertainment": 117,
+    "Marketing": 114,
+    "Browsers": 50,
+    "Email": 47
+  }
 }

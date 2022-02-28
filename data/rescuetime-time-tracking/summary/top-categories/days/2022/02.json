@@ -703,5 +703,18 @@
     "Browsers": 50,
     "Email": 47
   },
-  "27": {}
+  "27": {
+    "General News & Opinion": 637,
+    "Communications": 301,
+    "Search": 257,
+    "General Software Development": 232,
+    "Instant Message": 146,
+    "Marketing": 13,
+    "Email": 9,
+    "General Business": 6,
+    "Project Management": 4,
+    "Browsers": 4,
+    "General Utilities": 3,
+    "General Entertainment": 2
+  }
 }

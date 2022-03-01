@@ -340,5 +340,17 @@
     "Business": 23,
     "Utilities": 7,
     "Entertainment": 2
+  },
+  "28": {
+    "Communication & Scheduling": 7334,
+    "Business": 1665,
+    "News & Opinion": 893,
+    "Social Networking": 579,
+    "Reference & Learning": 499,
+    "Uncategorized": 401,
+    "Software Development": 357,
+    "Design & Composition": 306,
+    "Other Work": 128,
+    "Utilities": 60
   }
 }

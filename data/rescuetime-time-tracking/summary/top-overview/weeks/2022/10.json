@@ -21,7 +21,18 @@
     "Other Work": 128,
     "Utilities": 60
   },
-  "2022-03-1": {},
+  "2022-03-1": {
+    "News & Opinion": 2790,
+    "Communication & Scheduling": 2548,
+    "Social Networking": 2006,
+    "Reference & Learning": 1754,
+    "Business": 1616,
+    "Uncategorized": 1049,
+    "Other Work": 912,
+    "Entertainment": 715,
+    "Software Development": 652,
+    "Utilities": 114
+  },
   "2022-03-2": {},
   "2022-03-3": {},
   "2022-03-4": {},

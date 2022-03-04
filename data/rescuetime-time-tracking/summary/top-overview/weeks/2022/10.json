@@ -46,7 +46,19 @@
     "Entertainment": 180,
     "Software Development": 103
   },
-  "2022-03-3": {},
+  "2022-03-3": {
+    "Business": 3622,
+    "Other Work": 3378,
+    "News & Opinion": 2567,
+    "Uncategorized": 2171,
+    "Communication & Scheduling": 1558,
+    "Reference & Learning": 1525,
+    "Social Networking": 586,
+    "Entertainment": 294,
+    "Design & Composition": 249,
+    "Utilities": 207,
+    "Software Development": 3
+  },
   "2022-03-4": {},
   "2022-03-5": {}
 }

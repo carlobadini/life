@@ -104,6 +104,32 @@
     "General Social Networking": 2,
     "File Sharing": 1
   },
-  "2022-03-4": {},
+  "2022-03-4": {
+    "Meetings": 5730,
+    "Voice Chat": 4729,
+    "General News & Opinion": 3382,
+    "Science & Technology": 2553,
+    "Project Management": 1515,
+    "Communications": 1483,
+    "Uncategorized": 1133,
+    "Instant Message": 1059,
+    "General Business": 1009,
+    "Search": 871,
+    "Professional Networking": 740,
+    "Intelligence": 505,
+    "General Social Networking": 377,
+    "Email": 331,
+    "General Utilities": 231,
+    "Travel & Outdoors": 180,
+    "Presentation": 145,
+    "Sports": 127,
+    "Browsers": 78,
+    "General Software Development": 62,
+    "Business": 59,
+    "Business & Finance": 39,
+    "Marketing": 36,
+    "General Entertainment": 7,
+    "Video": 1
+  },
   "2022-03-5": {}
 }

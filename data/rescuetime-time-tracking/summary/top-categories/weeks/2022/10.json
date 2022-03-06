@@ -131,5 +131,32 @@
     "General Entertainment": 7,
     "Video": 1
   },
-  "2022-03-5": {}
+  "2022-03-5": {
+    "Video": 2725,
+    "General Business": 2429,
+    "Professional Networking": 1842,
+    "Project Management": 1650,
+    "General News & Opinion": 1471,
+    "Email": 1139,
+    "Uncategorized": 1104,
+    "Search": 927,
+    "Instant Message": 919,
+    "Communications": 797,
+    "Science & Technology": 247,
+    "Intelligence": 239,
+    "Sales": 227,
+    "Office": 179,
+    "Meetings": 158,
+    "General Shopping": 157,
+    "Browsers": 90,
+    "General Software Development": 71,
+    "Clothes & Personal": 68,
+    "Home & Garden": 56,
+    "General Entertainment": 53,
+    "General Social Networking": 41,
+    "Customer Relations": 23,
+    "General Communication & Scheduling": 15,
+    "General Utilities": 14,
+    "Marketing": 9
+  }
 }

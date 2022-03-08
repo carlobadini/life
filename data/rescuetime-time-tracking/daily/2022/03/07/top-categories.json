@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 6546,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4114,
+    "Number of People": 1,
+    "Category": "Presentation"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 3811,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 3137,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2756,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 2146,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1827,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1489,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 1292,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 1286,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 628,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 584,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 547,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 483,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 457,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 443,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 387,
+    "Number of People": 1,
+    "Category": "Home & Garden"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 316,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 216,
+    "Number of People": 1,
+    "Category": "Sales"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 196,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 182,
+    "Number of People": 1,
+    "Category": "Clothes & Personal"
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Category": "Office"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Category": "Graphic Design"
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "General Communication & Scheduling"
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Video"
+  }
+]

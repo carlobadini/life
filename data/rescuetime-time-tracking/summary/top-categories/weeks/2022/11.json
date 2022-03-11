@@ -110,7 +110,27 @@
     "Business & Finance": 7,
     "General Utilities": 6
   },
-  "2022-03-10": {},
+  "2022-03-10": {
+    "Meetings": 16444,
+    "General Business": 4884,
+    "Communications": 3062,
+    "Email": 2375,
+    "Project Management": 1931,
+    "Uncategorized": 882,
+    "General Reference & Learning": 612,
+    "Search": 391,
+    "Instant Message": 344,
+    "Professional Networking": 326,
+    "General News & Opinion": 322,
+    "Intelligence": 139,
+    "Marketing": 103,
+    "Science & Technology": 85,
+    "Browsers": 75,
+    "General Social Networking": 48,
+    "Sales": 45,
+    "General Utilities": 32,
+    "General Entertainment": 17
+  },
   "2022-03-11": {},
   "2022-03-12": {}
 }

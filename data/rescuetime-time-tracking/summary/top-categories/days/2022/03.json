@@ -370,8 +370,8 @@
     "Employment": 55,
     "General Entertainment": 31,
     "Calendars": 28,
-    "Marketing": 2,
-    "Travel & Outdoors": 2
+    "Travel & Outdoors": 2,
+    "Marketing": 2
   },
   "15": {
     "Professional Networking": 4324,
@@ -399,10 +399,31 @@
     "Presentation": 17,
     "Writing": 14,
     "General Entertainment": 13,
-    "Operations": 2,
-    "General Utilities": 2
+    "General Utilities": 2,
+    "Operations": 2
   },
-  "16": {},
+  "16": {
+    "General Business": 4026,
+    "Communications": 1308,
+    "Uncategorized": 1170,
+    "Instant Message": 992,
+    "Professional Networking": 686,
+    "Meetings": 623,
+    "Search": 548,
+    "Email": 472,
+    "General Shopping": 320,
+    "Project Management": 307,
+    "General News & Opinion": 289,
+    "Science & Technology": 242,
+    "Browsers": 182,
+    "General Social Networking": 164,
+    "Video": 127,
+    "General Entertainment": 119,
+    "General Design & Composition": 79,
+    "Intelligence": 72,
+    "Marketing": 64,
+    "General Reference & Learning": 2
+  },
   "17": {},
   "18": {},
   "19": {},

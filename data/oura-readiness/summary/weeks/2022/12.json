@@ -15,5 +15,15 @@
   "2022-03-16": {},
   "2022-03-17": {},
   "2022-03-18": {},
-  "2022-03-19": {}
+  "2022-03-19": {
+    "score": 81,
+    "score_activity_balance": 74,
+    "score_hrv_balance": 85,
+    "score_previous_day": 89,
+    "score_previous_night": 65,
+    "score_recovery_index": 100,
+    "score_resting_hr": 89,
+    "score_sleep_balance": 74,
+    "score_temperature": 98
+  }
 }

@@ -1,18 +1,30 @@
 {
   "2022-03-20": {
-    "Business": 5533,
+    "Business": 5535,
     "News & Opinion": 2332,
     "Utilities": 1937,
     "Shopping": 1182,
     "Communication & Scheduling": 1131,
     "Reference & Learning": 743,
     "Entertainment": 605,
-    "Other Work": 279,
+    "Other Work": 286,
     "Uncategorized": 213,
     "Social Networking": 175,
     "Software Development": 25
   },
-  "2022-03-21": {},
+  "2022-03-21": {
+    "Business": 12683,
+    "Communication & Scheduling": 11367,
+    "Uncategorized": 4498,
+    "Other Work": 4108,
+    "Social Networking": 1373,
+    "Entertainment": 1196,
+    "Reference & Learning": 855,
+    "News & Opinion": 659,
+    "Utilities": 614,
+    "Design & Composition": 235,
+    "Software Development": 92
+  },
   "2022-03-22": {},
   "2022-03-23": {},
   "2022-03-24": {},

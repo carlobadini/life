@@ -289,7 +289,7 @@
   "23": {
     "Communication & Scheduling": 18752,
     "Other Work": 5655,
-    "Business": 5362,
+    "Business": 5435,
     "Design & Composition": 3708,
     "Uncategorized": 2974,
     "Social Networking": 1435,
@@ -300,7 +300,18 @@
     "Shopping": 77,
     "Entertainment": 54
   },
-  "24": {},
+  "24": {
+    "Uncategorized": 2587,
+    "Social Networking": 2028,
+    "Communication & Scheduling": 1939,
+    "Reference & Learning": 1176,
+    "Other Work": 998,
+    "Business": 942,
+    "Design & Composition": 592,
+    "News & Opinion": 388,
+    "Utilities": 88,
+    "Entertainment": 54
+  },
   "25": {},
   "26": {},
   "27": {},

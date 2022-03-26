@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1882,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1820,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1390,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1282,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1125,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1001,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 939,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 868,
+    "Number of People": 1,
+    "Category": "Office"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 503,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 471,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 304,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 216,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 211,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 93,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Category": "Electronics"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Clothes & Personal"
+  }
+]

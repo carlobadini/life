@@ -109,8 +109,8 @@
     "General Software Development": 163,
     "General Utilities": 90,
     "General Reference & Learning": 61,
-    "General Shopping": 58,
     "Science & Technology": 58,
+    "General Shopping": 58,
     "General Entertainment": 54,
     "Presentation": 43,
     "Engineering & Drafting": 38,
@@ -165,5 +165,30 @@
     "General Shopping": 8,
     "Clothes & Personal": 1
   },
-  "2022-03-26": {}
+  "2022-03-26": {
+    "Meetings": 4733,
+    "Uncategorized": 2199,
+    "Video": 2121,
+    "General Business": 1665,
+    "Project Management": 1359,
+    "Professional Networking": 1355,
+    "Communications": 1141,
+    "Search": 904,
+    "Email": 739,
+    "Instant Message": 633,
+    "General Design & Composition": 583,
+    "General Reference & Learning": 563,
+    "Presentation": 434,
+    "Sales": 223,
+    "General Software Development": 168,
+    "General Social Networking": 137,
+    "General News & Opinion": 133,
+    "Science & Technology": 115,
+    "Browsers": 110,
+    "Intelligence": 109,
+    "General Entertainment": 61,
+    "Marketing": 42,
+    "Calendars": 17,
+    "Clothes & Personal": 2
+  }
 }

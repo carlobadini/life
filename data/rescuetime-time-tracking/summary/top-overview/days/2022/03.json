@@ -324,7 +324,20 @@
     "Utilities": 100,
     "News & Opinion": 93
   },
-  "26": {},
+  "26": {
+    "Communication & Scheduling": 6122,
+    "Business": 3398,
+    "Uncategorized": 2199,
+    "Entertainment": 2182,
+    "Social Networking": 1492,
+    "Reference & Learning": 1467,
+    "Other Work": 1141,
+    "Design & Composition": 1017,
+    "News & Opinion": 248,
+    "Software Development": 168,
+    "Utilities": 110,
+    "Shopping": 2
+  },
   "27": {},
   "28": {},
   "29": {},

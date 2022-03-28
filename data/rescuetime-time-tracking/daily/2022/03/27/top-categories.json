@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 7341,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1071,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 534,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 404,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 280,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 180,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 124,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 95,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Email"
+  }
+]

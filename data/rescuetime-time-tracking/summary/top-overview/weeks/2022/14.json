@@ -10,7 +10,19 @@
     "News & Opinion": 70,
     "Utilities": 44
   },
-  "2022-03-28": {},
+  "2022-03-28": {
+    "Communication & Scheduling": 15711,
+    "Business": 10277,
+    "News & Opinion": 3401,
+    "Other Work": 1811,
+    "Design & Composition": 1778,
+    "Social Networking": 1614,
+    "Uncategorized": 1177,
+    "Reference & Learning": 1045,
+    "Entertainment": 1026,
+    "Shopping": 719,
+    "Utilities": 688
+  },
   "2022-03-29": {},
   "2022-03-30": {}
 }

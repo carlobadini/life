@@ -7,12 +7,18 @@
     "score": 71
   },
   "2022-03-28": {
-    "steps": 1804,
-    "total": 92,
-    "cal_active": 93,
-    "cal_total": 2021,
-    "score": 63
+    "steps": 4785,
+    "total": 221,
+    "cal_active": 244,
+    "cal_total": 2358,
+    "score": 60
   },
-  "2022-03-29": {},
+  "2022-03-29": {
+    "steps": 4845,
+    "total": 230,
+    "cal_active": 232,
+    "cal_total": 2304,
+    "score": 69
+  },
   "2022-03-30": {}
 }

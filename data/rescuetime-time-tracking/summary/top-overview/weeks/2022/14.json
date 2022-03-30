@@ -14,7 +14,7 @@
     "Communication & Scheduling": 15711,
     "Business": 10277,
     "News & Opinion": 3401,
-    "Other Work": 1811,
+    "Other Work": 1827,
     "Design & Composition": 1778,
     "Social Networking": 1614,
     "Uncategorized": 1177,
@@ -23,6 +23,16 @@
     "Shopping": 719,
     "Utilities": 688
   },
-  "2022-03-29": {},
+  "2022-03-29": {
+    "Communication & Scheduling": 18007,
+    "Other Work": 3445,
+    "Business": 2758,
+    "Uncategorized": 1121,
+    "Social Networking": 847,
+    "News & Opinion": 422,
+    "Reference & Learning": 409,
+    "Design & Composition": 294,
+    "Utilities": 205
+  },
   "2022-03-30": {}
 }

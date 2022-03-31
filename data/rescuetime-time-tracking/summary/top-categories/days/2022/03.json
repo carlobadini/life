@@ -756,5 +756,32 @@
     "Employment": 8,
     "Marketing": 7
   },
-  "30": {}
+  "30": {
+    "General Business": 5950,
+    "Meetings": 5479,
+    "Uncategorized": 4659,
+    "Professional Networking": 2783,
+    "Email": 2542,
+    "General Social Networking": 2502,
+    "Project Management": 2278,
+    "Video": 2141,
+    "Communications": 1555,
+    "Office": 1455,
+    "General News & Opinion": 1346,
+    "General Design & Composition": 1042,
+    "Search": 694,
+    "General Reference & Learning": 551,
+    "Instant Message": 543,
+    "Science & Technology": 402,
+    "General Shopping": 294,
+    "Intelligence": 257,
+    "General Entertainment": 247,
+    "Browsers": 240,
+    "Marketing": 203,
+    "Presentation": 91,
+    "Home & Garden": 83,
+    "Internet Utilities": 38,
+    "Calendars": 30,
+    "General Utilities": 9
+  }
 }

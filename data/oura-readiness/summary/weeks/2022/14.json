@@ -55,5 +55,15 @@
     "score_temperature": 92
   },
   "2022-04-1": {},
-  "2022-04-2": {}
+  "2022-04-2": {
+    "score": 53,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 77,
+    "score_previous_day": 98,
+    "score_previous_night": 15,
+    "score_recovery_index": 25,
+    "score_resting_hr": 36,
+    "score_sleep_balance": 52,
+    "score_temperature": 94
+  }
 }

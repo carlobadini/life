@@ -52,7 +52,19 @@
     "Entertainment": 137,
     "News & Opinion": 29
   },
-  "5": {},
+  "5": {
+    "Business": 11482,
+    "Communication & Scheduling": 5382,
+    "Other Work": 4790,
+    "Entertainment": 3455,
+    "Social Networking": 3204,
+    "News & Opinion": 2093,
+    "Uncategorized": 1225,
+    "Reference & Learning": 1015,
+    "Utilities": 523,
+    "Shopping": 313,
+    "Design & Composition": 254
+  },
   "6": {},
   "7": {},
   "8": {},

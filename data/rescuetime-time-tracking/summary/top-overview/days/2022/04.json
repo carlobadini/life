@@ -91,7 +91,18 @@
     "News & Opinion": 129,
     "Shopping": 103
   },
-  "8": {},
+  "8": {
+    "Business": 11151,
+    "Communication & Scheduling": 5712,
+    "Social Networking": 4834,
+    "Uncategorized": 1232,
+    "Other Work": 1145,
+    "Entertainment": 982,
+    "Reference & Learning": 436,
+    "Utilities": 173,
+    "News & Opinion": 172,
+    "Design & Composition": 125
+  },
   "9": {},
   "10": {},
   "11": {},

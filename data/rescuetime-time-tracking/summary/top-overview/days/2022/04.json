@@ -107,7 +107,7 @@
     "Business": 4777,
     "Social Networking": 3922,
     "Communication & Scheduling": 3387,
-    "Uncategorized": 2524,
+    "Uncategorized": 2526,
     "Other Work": 1068,
     "Design & Composition": 871,
     "Entertainment": 554,
@@ -117,7 +117,16 @@
     "News & Opinion": 106,
     "Software Development": 46
   },
-  "10": {},
+  "10": {
+    "Business": 3858,
+    "Uncategorized": 1420,
+    "Reference & Learning": 1150,
+    "Utilities": 1038,
+    "Social Networking": 850,
+    "Communication & Scheduling": 560,
+    "Other Work": 240,
+    "Entertainment": 167
+  },
   "11": {},
   "12": {},
   "13": {},

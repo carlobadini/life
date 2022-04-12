@@ -175,16 +175,16 @@
     "General Design & Composition": 697,
     "Video": 420,
     "Search": 333,
-    "Intelligence": 178,
     "Office": 178,
+    "Intelligence": 178,
     "Clothes & Personal": 164,
     "General Utilities": 161,
     "Presentation": 150,
     "General Entertainment": 134,
     "General Reference & Learning": 115,
     "Browsers": 111,
-    "Customer Relations": 105,
     "General News & Opinion": 105,
+    "Customer Relations": 105,
     "General Shopping": 95,
     "General Software Development": 46,
     "Writing": 24,
@@ -195,7 +195,7 @@
     "General Communication & Scheduling": 9,
     "Administration": 5,
     "Employment": 2,
-    "Electronics": 1,
-    "Sports": 1
+    "Sports": 1,
+    "Electronics": 1
   }
 }

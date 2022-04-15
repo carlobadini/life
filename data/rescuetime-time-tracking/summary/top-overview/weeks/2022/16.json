@@ -49,7 +49,20 @@
     "Design & Composition": 181,
     "Shopping": 68
   },
-  "2022-04-14": {},
+  "2022-04-14": {
+    "Business": 14501,
+    "Entertainment": 4770,
+    "Other Work": 2704,
+    "Social Networking": 2424,
+    "Uncategorized": 2080,
+    "Communication & Scheduling": 1695,
+    "Reference & Learning": 1559,
+    "Design & Composition": 484,
+    "News & Opinion": 163,
+    "Utilities": 161,
+    "Shopping": 158,
+    "Software Development": 51
+  },
   "2022-04-15": {},
   "2022-04-16": {}
 }

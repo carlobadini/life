@@ -50,19 +50,30 @@
     "Shopping": 68
   },
   "2022-04-14": {
-    "Business": 14501,
+    "Business": 14861,
     "Entertainment": 4770,
-    "Other Work": 2704,
-    "Social Networking": 2424,
+    "Other Work": 2808,
+    "Social Networking": 2435,
     "Uncategorized": 2080,
     "Communication & Scheduling": 1695,
-    "Reference & Learning": 1559,
+    "Reference & Learning": 1586,
     "Design & Composition": 484,
+    "Utilities": 165,
     "News & Opinion": 163,
-    "Utilities": 161,
     "Shopping": 158,
     "Software Development": 51
   },
-  "2022-04-15": {},
+  "2022-04-15": {
+    "Communication & Scheduling": 5338,
+    "Business": 4540,
+    "Social Networking": 2102,
+    "Entertainment": 1996,
+    "Uncategorized": 1295,
+    "Other Work": 1053,
+    "Reference & Learning": 688,
+    "Utilities": 72,
+    "News & Opinion": 11,
+    "Software Development": 5
+  },
   "2022-04-16": {}
 }

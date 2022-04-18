@@ -206,8 +206,22 @@
     "Shopping": 4,
     "Software Development": 2
   },
-  "17": {},
-  "18": {},
+  "17": {
+    "Entertainment": 6750,
+    "Communication & Scheduling": 1278,
+    "Design & Composition": 1222,
+    "Shopping": 638,
+    "News & Opinion": 464,
+    "Business": 260,
+    "Uncategorized": 186,
+    "Utilities": 87,
+    "Reference & Learning": 43,
+    "Social Networking": 28
+  },
+  "18": {
+    "Entertainment": 252,
+    "Design & Composition": 41
+  },
   "19": {},
   "20": {},
   "21": {},

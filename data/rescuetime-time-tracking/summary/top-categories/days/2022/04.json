@@ -442,8 +442,8 @@
     "General Shopping": 4,
     "Marketing": 3,
     "General Software Development": 2,
-    "Video": 1,
-    "Sales": 1
+    "Sales": 1,
+    "Video": 1
   },
   "17": {
     "Video": 6672,
@@ -464,8 +464,21 @@
     "General Utilities": 7
   },
   "18": {
+    "General Design & Composition": 1137,
+    "Communications": 538,
+    "Project Management": 466,
+    "Uncategorized": 446,
+    "General Business": 332,
     "Video": 252,
-    "General Design & Composition": 41
+    "Search": 233,
+    "General Reference & Learning": 225,
+    "Email": 106,
+    "Professional Networking": 92,
+    "Intelligence": 80,
+    "Browsers": 45,
+    "General Shopping": 34,
+    "General Entertainment": 25,
+    "General Software Development": 24
   },
   "19": {},
   "20": {},

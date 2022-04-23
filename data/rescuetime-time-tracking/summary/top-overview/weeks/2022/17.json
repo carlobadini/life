@@ -62,6 +62,25 @@
     "Reference & Learning": 470,
     "Entertainment": 7
   },
-  "2022-04-22": {},
-  "2022-04-23": {}
+  "2022-04-22": {
+    "Uncategorized": 5720,
+    "Communication & Scheduling": 5223,
+    "Business": 5154,
+    "Entertainment": 3731,
+    "Social Networking": 3200,
+    "Other Work": 1777,
+    "Shopping": 1349,
+    "Design & Composition": 859,
+    "Reference & Learning": 833,
+    "News & Opinion": 693,
+    "Utilities": 305,
+    "Software Development": 51
+  },
+  "2022-04-23": {
+    "Entertainment": 1991,
+    "Social Networking": 78,
+    "Business": 60,
+    "Reference & Learning": 54,
+    "Utilities": 4
+  }
 }

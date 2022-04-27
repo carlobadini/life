@@ -14,11 +14,11 @@
     "Software Development": 4
   },
   "2022-04-25": {
-    "Business": 10892,
+    "Business": 11055,
     "Communication & Scheduling": 5735,
     "Uncategorized": 5168,
     "Social Networking": 4582,
-    "Other Work": 3350,
+    "Other Work": 3427,
     "Design & Composition": 3059,
     "Reference & Learning": 2276,
     "Utilities": 713,
@@ -27,8 +27,27 @@
     "Entertainment": 62,
     "Shopping": 42
   },
-  "2022-04-26": {},
-  "2022-04-27": {},
+  "2022-04-26": {
+    "Other Work": 5435,
+    "Business": 3992,
+    "Communication & Scheduling": 3278,
+    "News & Opinion": 2727,
+    "Entertainment": 2387,
+    "Design & Composition": 1294,
+    "Reference & Learning": 1229,
+    "Social Networking": 1211,
+    "Uncategorized": 1012,
+    "Utilities": 276
+  },
+  "2022-04-27": {
+    "Entertainment": 7001,
+    "Uncategorized": 27,
+    "Business": 21,
+    "Reference & Learning": 14,
+    "Social Networking": 14,
+    "Communication & Scheduling": 13,
+    "Utilities": 9
+  },
   "2022-04-28": {},
   "2022-04-29": {}
 }

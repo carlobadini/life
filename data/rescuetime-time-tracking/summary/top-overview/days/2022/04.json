@@ -336,13 +336,18 @@
     "Utilities": 276
   },
   "27": {
-    "Entertainment": 7001,
-    "Uncategorized": 27,
-    "Business": 21,
-    "Reference & Learning": 14,
-    "Social Networking": 14,
-    "Communication & Scheduling": 13,
-    "Utilities": 9
+    "Entertainment": 8389,
+    "Communication & Scheduling": 5669,
+    "Business": 4109,
+    "Uncategorized": 4064,
+    "Reference & Learning": 4053,
+    "Other Work": 4017,
+    "Social Networking": 3864,
+    "Design & Composition": 1711,
+    "News & Opinion": 713,
+    "Utilities": 606,
+    "Software Development": 397,
+    "Shopping": 45
   },
   "28": {},
   "29": {}

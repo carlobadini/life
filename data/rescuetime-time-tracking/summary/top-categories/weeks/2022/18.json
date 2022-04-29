@@ -61,8 +61,8 @@
     "Maps & Regional": 54,
     "Engineering & Drafting": 51,
     "Electronics": 42,
-    "Video": 3,
     "Engineering & Technology": 3,
+    "Video": 3,
     "General Social Networking": 1
   },
   "2022-04-26": {
@@ -90,8 +90,8 @@
     "Internet Utilities": 24,
     "Engineering & Drafting": 8,
     "General Communication & Scheduling": 6,
-    "General Social Networking": 1,
-    "Operations": 1
+    "Operations": 1,
+    "General Social Networking": 1
   },
   "2022-04-27": {
     "Video": 7933,
@@ -127,6 +127,30 @@
     "Employment": 4,
     "Accounting": 1
   },
-  "2022-04-28": {},
+  "2022-04-28": {
+    "Meetings": 2025,
+    "Communications": 903,
+    "Project Management": 780,
+    "Professional Networking": 649,
+    "Uncategorized": 587,
+    "Email": 515,
+    "General Business": 500,
+    "General News & Opinion": 490,
+    "General Reference & Learning": 473,
+    "Sales": 369,
+    "Search": 335,
+    "Writing": 334,
+    "Instant Message": 251,
+    "Browsers": 118,
+    "Marketing": 58,
+    "Calendars": 51,
+    "Science & Technology": 35,
+    "Intelligence": 18,
+    "General Design & Composition": 17,
+    "General Utilities": 6,
+    "General Entertainment": 4,
+    "Business & Finance": 2,
+    "File Sharing": 2
+  },
   "2022-04-29": {}
 }

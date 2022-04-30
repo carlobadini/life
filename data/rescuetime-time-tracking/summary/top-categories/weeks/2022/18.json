@@ -152,5 +152,29 @@
     "Business & Finance": 2,
     "File Sharing": 2
   },
-  "2022-04-29": {}
+  "2022-04-29": {
+    "General Business": 2464,
+    "Professional Networking": 1888,
+    "Marketing": 1864,
+    "Uncategorized": 1552,
+    "General News & Opinion": 1427,
+    "Video": 1335,
+    "Search": 965,
+    "General Design & Composition": 908,
+    "Project Management": 810,
+    "Communications": 785,
+    "Email": 435,
+    "Sales": 335,
+    "General Social Networking": 267,
+    "General Reference & Learning": 218,
+    "Browsers": 123,
+    "Intelligence": 122,
+    "Meetings": 105,
+    "Travel & Outdoors": 53,
+    "Food": 44,
+    "General Utilities": 34,
+    "Instant Message": 33,
+    "General Software Development": 24,
+    "Business": 1
+  }
 }

@@ -7,19 +7,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 4142,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 4132,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 4106,
-    "Number of People": 1,
-    "Category": "Professional Networking"
-  },
-  {
     "Rank": 4,
-    "Time Spent (seconds)": 3157,
+    "Time Spent (seconds)": 3226,
     "Number of People": 1,
     "Category": "Communications"
   },
@@ -43,13 +43,13 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1968,
+    "Time Spent (seconds)": 1995,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 1936,
+    "Time Spent (seconds)": 1937,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -61,13 +61,13 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 881,
+    "Time Spent (seconds)": 1003,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 713,
+    "Time Spent (seconds)": 723,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -79,7 +79,7 @@
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 284,
+    "Time Spent (seconds)": 288,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
@@ -91,15 +91,15 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 216,
+    "Time Spent (seconds)": 239,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Reference & Learning"
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 196,
+    "Time Spent (seconds)": 221,
     "Number of People": 1,
-    "Category": "General Reference & Learning"
+    "Category": "Browsers"
   },
   {
     "Rank": 18,
@@ -115,7 +115,7 @@
   },
   {
     "Rank": 20,
-    "Time Spent (seconds)": 131,
+    "Time Spent (seconds)": 136,
     "Number of People": 1,
     "Category": "Intelligence"
   },

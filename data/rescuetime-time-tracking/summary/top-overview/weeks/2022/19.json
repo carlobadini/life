@@ -54,7 +54,19 @@
     "Shopping": 80,
     "Software Development": 3
   },
-  "2022-05-5": {},
+  "2022-05-5": {
+    "Business": 6076,
+    "Uncategorized": 5534,
+    "Other Work": 4869,
+    "Communication & Scheduling": 1881,
+    "Reference & Learning": 1312,
+    "Social Networking": 1245,
+    "Design & Composition": 200,
+    "Utilities": 137,
+    "News & Opinion": 94,
+    "Entertainment": 87,
+    "Software Development": 1
+  },
   "2022-05-6": {},
   "2022-05-7": {}
 }

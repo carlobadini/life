@@ -29,11 +29,17 @@
     "score": 50
   },
   "2022-05-6": {
-    "steps": 2105,
-    "total": 88,
-    "cal_active": 99,
-    "cal_total": 1966,
-    "score": 51
+    "steps": 6898,
+    "total": 306,
+    "cal_active": 335,
+    "cal_total": 2509,
+    "score": 53
   },
-  "2022-05-7": {}
+  "2022-05-7": {
+    "steps": 133,
+    "total": 7,
+    "cal_active": 6,
+    "cal_total": 1761,
+    "score": 52
+  }
 }

@@ -69,9 +69,9 @@
   },
   "2022-05-6": {
     "Uncategorized": 10342,
-    "Business": 6861,
+    "Business": 6863,
     "Communication & Scheduling": 6019,
-    "Other Work": 3559,
+    "Other Work": 3605,
     "Reference & Learning": 2909,
     "Social Networking": 2749,
     "Shopping": 1277,
@@ -80,5 +80,17 @@
     "News & Opinion": 116,
     "Entertainment": 95
   },
-  "2022-05-7": {}
+  "2022-05-7": {
+    "Business": 5893,
+    "Communication & Scheduling": 2840,
+    "Uncategorized": 2735,
+    "Social Networking": 1579,
+    "Other Work": 1141,
+    "Design & Composition": 669,
+    "Shopping": 662,
+    "News & Opinion": 505,
+    "Reference & Learning": 316,
+    "Entertainment": 234,
+    "Utilities": 233
+  }
 }

@@ -93,7 +93,18 @@
     "Entertainment": 234,
     "Utilities": 233
   },
-  "8": {},
+  "8": {
+    "Business": 2770,
+    "Uncategorized": 1501,
+    "Design & Composition": 1333,
+    "Communication & Scheduling": 1310,
+    "Social Networking": 1077,
+    "Other Work": 585,
+    "News & Opinion": 304,
+    "Reference & Learning": 287,
+    "Entertainment": 150,
+    "Utilities": 106
+  },
   "9": {},
   "10": {},
   "11": {},

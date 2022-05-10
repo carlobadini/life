@@ -105,7 +105,20 @@
     "Entertainment": 150,
     "Utilities": 106
   },
-  "9": {},
+  "9": {
+    "Business": 9110,
+    "Communication & Scheduling": 6912,
+    "Uncategorized": 3826,
+    "Other Work": 2992,
+    "Shopping": 2811,
+    "Reference & Learning": 2352,
+    "Social Networking": 2072,
+    "News & Opinion": 811,
+    "Design & Composition": 653,
+    "Entertainment": 531,
+    "Utilities": 259,
+    "Software Development": 170
+  },
   "10": {},
   "11": {},
   "12": {},

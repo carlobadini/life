@@ -11,7 +11,20 @@
     "Entertainment": 150,
     "Utilities": 106
   },
-  "2022-05-9": {},
+  "2022-05-9": {
+    "Business": 9110,
+    "Communication & Scheduling": 6912,
+    "Uncategorized": 3826,
+    "Other Work": 2992,
+    "Shopping": 2811,
+    "Reference & Learning": 2352,
+    "Social Networking": 2072,
+    "News & Opinion": 811,
+    "Design & Composition": 653,
+    "Entertainment": 531,
+    "Utilities": 259,
+    "Software Development": 170
+  },
   "2022-05-10": {},
   "2022-05-11": {},
   "2022-05-12": {},

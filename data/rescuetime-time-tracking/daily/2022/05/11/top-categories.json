@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8592,
+    "Time Spent (seconds)": 8631,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6391,
+    "Time Spent (seconds)": 6415,
     "Number of People": 1,
     "Category": "Communications"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 3463,
+    "Time Spent (seconds)": 3466,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -31,7 +31,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1662,
+    "Time Spent (seconds)": 1684,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -55,7 +55,7 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 748,
+    "Time Spent (seconds)": 752,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -145,15 +145,15 @@
   },
   {
     "Rank": 25,
-    "Time Spent (seconds)": 11,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Category": "Accounting"
+    "Category": "Business & Finance"
   },
   {
     "Rank": 26,
-    "Time Spent (seconds)": 10,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Category": "Business & Finance"
+    "Category": "Accounting"
   },
   {
     "Rank": 27,

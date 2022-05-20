@@ -42,7 +42,7 @@
     "Entertainment": 21
   },
   "2022-05-18": {
-    "Other Work": 6562,
+    "Other Work": 6595,
     "Business": 5910,
     "Social Networking": 4227,
     "Uncategorized": 3872,
@@ -54,7 +54,20 @@
     "News & Opinion": 474,
     "Entertainment": 277
   },
-  "2022-05-19": {},
+  "2022-05-19": {
+    "Other Work": 5207,
+    "Business": 2857,
+    "Communication & Scheduling": 2783,
+    "Uncategorized": 1980,
+    "Social Networking": 1857,
+    "News & Opinion": 582,
+    "Reference & Learning": 369,
+    "Utilities": 359,
+    "Shopping": 258,
+    "Entertainment": 64,
+    "Design & Composition": 57,
+    "Software Development": 17
+  },
   "2022-05-20": {},
   "2022-05-21": {}
 }

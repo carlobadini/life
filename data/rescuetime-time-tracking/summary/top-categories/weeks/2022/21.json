@@ -77,7 +77,7 @@
     "Video": 2
   },
   "2022-05-18": {
-    "Communications": 6562,
+    "Communications": 6595,
     "Uncategorized": 3872,
     "Operations": 2594,
     "Email": 2402,
@@ -106,7 +106,35 @@
     "Graphic Design": 29,
     "Calendars": 21
   },
-  "2022-05-19": {},
+  "2022-05-19": {
+    "Communications": 5207,
+    "Uncategorized": 1980,
+    "Meetings": 1571,
+    "Professional Networking": 1550,
+    "Project Management": 874,
+    "Email": 806,
+    "General Business": 749,
+    "Marketing": 626,
+    "General News & Opinion": 555,
+    "Accounting": 481,
+    "Instant Message": 405,
+    "General Social Networking": 307,
+    "Office": 258,
+    "General Utilities": 250,
+    "Search": 233,
+    "General Reference & Learning": 136,
+    "Browsers": 109,
+    "Intelligence": 72,
+    "Comedy": 64,
+    "Operations": 55,
+    "Presentation": 42,
+    "Business": 27,
+    "General Software Development": 17,
+    "General Design & Composition": 10,
+    "Engineering & Drafting": 3,
+    "Writing": 2,
+    "Calendars": 1
+  },
   "2022-05-20": {},
   "2022-05-21": {}
 }

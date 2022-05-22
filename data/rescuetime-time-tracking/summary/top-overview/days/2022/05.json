@@ -256,7 +256,7 @@
   },
   "20": {
     "Uncategorized": 1266,
-    "Business": 1051,
+    "Business": 1230,
     "Social Networking": 932,
     "Communication & Scheduling": 612,
     "Other Work": 410,
@@ -265,7 +265,19 @@
     "Shopping": 93,
     "Utilities": 60
   },
-  "21": {},
+  "21": {
+    "Business": 4474,
+    "Communication & Scheduling": 3191,
+    "Uncategorized": 1304,
+    "Other Work": 1280,
+    "Social Networking": 948,
+    "Shopping": 606,
+    "Reference & Learning": 419,
+    "Design & Composition": 186,
+    "Utilities": 132,
+    "Entertainment": 42,
+    "Software Development": 3
+  },
   "22": {},
   "23": {},
   "24": {},

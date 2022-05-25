@@ -1,80 +1,164 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1003,
+    "Time Spent (seconds)": 6583,
     "Number of People": 1,
-    "Category": "Project Management"
+    "Category": "Office"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 738,
+    "Time Spent (seconds)": 5957,
     "Number of People": 1,
-    "Category": "General Business"
+    "Category": "Meetings"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 361,
+    "Time Spent (seconds)": 5083,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 241,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 171,
+    "Time Spent (seconds)": 4921,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
+    "Rank": 5,
+    "Time Spent (seconds)": 3312,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 105,
+    "Time Spent (seconds)": 2799,
     "Number of People": 1,
     "Category": "Search"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 77,
+    "Time Spent (seconds)": 2774,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 2768,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 1501,
+    "Number of People": 1,
+    "Category": "Home & Garden"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 1326,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 1150,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 804,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 672,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 570,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 44,
-    "Number of People": 1,
-    "Category": "General News & Opinion"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 31,
+    "Rank": 15,
+    "Time Spent (seconds)": 500,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 16,
+    "Rank": 16,
+    "Time Spent (seconds)": 477,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 5,
+    "Rank": 17,
+    "Time Spent (seconds)": 383,
     "Number of People": 1,
-    "Category": "General Reference & Learning"
+    "Category": "General Utilities"
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 4,
+    "Rank": 18,
+    "Time Spent (seconds)": 100,
+    "Number of People": 1,
+    "Category": "Accounting"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Category": "Operations"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 59,
+    "Number of People": 1,
+    "Category": "Clothes & Personal"
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 13,
+    "Rank": 23,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Category": "Employment"
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Category": "Engineering & Drafting"
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "Marketing"
+    "Category": "General Software Development"
   }
 ]

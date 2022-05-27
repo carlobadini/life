@@ -39,12 +39,12 @@
     "Software Development": 2
   },
   "2022-05-25": {
-    "Business": 13133,
+    "Business": 13456,
     "Uncategorized": 4768,
     "Reference & Learning": 3724,
     "Communication & Scheduling": 3186,
     "Shopping": 3103,
-    "Other Work": 2731,
+    "Other Work": 2808,
     "Entertainment": 1882,
     "Social Networking": 432,
     "Utilities": 315,
@@ -52,7 +52,19 @@
     "News & Opinion": 11,
     "Software Development": 1
   },
-  "2022-05-26": {},
+  "2022-05-26": {
+    "Business": 19443,
+    "Communication & Scheduling": 1576,
+    "Social Networking": 1499,
+    "Other Work": 1085,
+    "Uncategorized": 577,
+    "Reference & Learning": 141,
+    "Shopping": 98,
+    "Utilities": 81,
+    "Design & Composition": 44,
+    "News & Opinion": 27,
+    "Entertainment": 5
+  },
   "2022-05-27": {},
   "2022-05-28": {}
 }

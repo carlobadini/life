@@ -78,10 +78,10 @@
     "General Software Development": 2
   },
   "2022-05-25": {
-    "General Business": 11834,
+    "General Business": 12157,
     "Uncategorized": 4768,
     "Office": 2944,
-    "Communications": 2731,
+    "Communications": 2808,
     "Meetings": 2015,
     "Video": 1847,
     "Home & Garden": 1519,
@@ -112,7 +112,28 @@
     "General News & Opinion": 1,
     "Maps & Regional": 1
   },
-  "2022-05-26": {},
+  "2022-05-26": {
+    "General Business": 18998,
+    "Meetings": 1130,
+    "Communications": 1085,
+    "General Social Networking": 831,
+    "Professional Networking": 668,
+    "Uncategorized": 577,
+    "Project Management": 374,
+    "Instant Message": 233,
+    "Email": 213,
+    "Office": 98,
+    "Search": 94,
+    "Intelligence": 71,
+    "General Design & Composition": 44,
+    "General Utilities": 41,
+    "Browsers": 40,
+    "General Reference & Learning": 39,
+    "Science & Technology": 27,
+    "Travel & Outdoors": 8,
+    "General Entertainment": 4,
+    "Video": 1
+  },
   "2022-05-27": {},
   "2022-05-28": {}
 }

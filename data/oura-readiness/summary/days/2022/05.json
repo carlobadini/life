@@ -98,7 +98,14 @@
     "score_resting_hr": 99,
     "score_temperature": 94
   },
-  "26": {},
+  "26": {
+    "score": 81,
+    "score_previous_day": 95,
+    "score_previous_night": 100,
+    "score_recovery_index": 24,
+    "score_resting_hr": 90,
+    "score_temperature": 100
+  },
   "27": {},
   "28": {},
   "29": {},

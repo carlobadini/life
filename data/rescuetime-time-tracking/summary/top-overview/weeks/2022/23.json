@@ -1,6 +1,6 @@
 {
   "2022-05-29": {
-    "Business": 6524,
+    "Business": 6613,
     "Uncategorized": 3405,
     "Entertainment": 3018,
     "Reference & Learning": 2740,
@@ -8,10 +8,23 @@
     "News & Opinion": 1653,
     "Social Networking": 1215,
     "Utilities": 565,
-    "Other Work": 338,
+    "Other Work": 340,
     "Software Development": 72,
     "Shopping": 68,
     "Design & Composition": 5
   },
-  "2022-05-30": {}
+  "2022-05-30": {
+    "Communication & Scheduling": 13640,
+    "Business": 6148,
+    "Other Work": 5464,
+    "Social Networking": 5377,
+    "Uncategorized": 1699,
+    "Reference & Learning": 1495,
+    "News & Opinion": 920,
+    "Entertainment": 554,
+    "Shopping": 438,
+    "Utilities": 431,
+    "Design & Composition": 188,
+    "Software Development": 3
+  }
 }

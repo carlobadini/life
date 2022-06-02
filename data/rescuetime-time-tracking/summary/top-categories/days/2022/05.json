@@ -776,13 +776,13 @@
     "General Shopping": 68,
     "Entertainment": 57,
     "Marketing": 24,
-    "Calendars": 13,
     "Comedy": 13,
     "Engineering & Technology": 13,
+    "Calendars": 13,
     "Science & Technology": 9,
     "General Social Networking": 7,
-    "Internet Utilities": 5,
-    "Writing": 5
+    "Writing": 5,
+    "Internet Utilities": 5
   },
   "30": {
     "Meetings": 9731,
@@ -816,7 +816,7 @@
   },
   "31": {
     "General Business": 16261,
-    "Communications": 4690,
+    "Communications": 4757,
     "Meetings": 2683,
     "Instant Message": 2398,
     "Email": 2321,

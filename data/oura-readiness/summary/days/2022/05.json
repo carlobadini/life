@@ -119,5 +119,13 @@
   },
   "28": {},
   "29": {},
-  "30": {}
+  "30": {},
+  "31": {
+    "score": 74,
+    "score_previous_night": 72,
+    "score_recovery_index": 77,
+    "score_resting_hr": 81,
+    "score_sleep_balance": 71,
+    "score_temperature": 100
+  }
 }

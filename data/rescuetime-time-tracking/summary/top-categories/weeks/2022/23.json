@@ -85,7 +85,7 @@
   },
   "2022-06-1": {
     "General Business": 10061,
-    "Communications": 3280,
+    "Communications": 3356,
     "Meetings": 3187,
     "Instant Message": 2507,
     "Project Management": 2379,
@@ -93,7 +93,7 @@
     "Professional Networking": 1106,
     "Marketing": 955,
     "Video": 821,
-    "Uncategorized": 763,
+    "Uncategorized": 765,
     "Office": 619,
     "General Shopping": 513,
     "General News & Opinion": 458,
@@ -112,7 +112,27 @@
     "General Communication & Scheduling": 2,
     "General Design & Composition": 2
   },
-  "2022-06-2": {},
+  "2022-06-2": {
+    "General Business": 8521,
+    "Communications": 2036,
+    "Meetings": 1293,
+    "Email": 1166,
+    "Uncategorized": 898,
+    "Project Management": 639,
+    "Professional Networking": 479,
+    "Instant Message": 455,
+    "Intelligence": 285,
+    "General Entertainment": 173,
+    "Science & Technology": 120,
+    "Browsers": 84,
+    "General Reference & Learning": 80,
+    "General Shopping": 64,
+    "Video": 47,
+    "Marketing": 29,
+    "Search": 27,
+    "Travel & Outdoors": 13,
+    "General Design & Composition": 1
+  },
   "2022-06-3": {},
   "2022-06-4": {}
 }

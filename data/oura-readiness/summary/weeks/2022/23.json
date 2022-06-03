@@ -9,7 +9,15 @@
     "score_sleep_balance": 71,
     "score_temperature": 100
   },
-  "2022-06-1": {},
+  "2022-06-1": {
+    "score": 76,
+    "score_previous_day": 73,
+    "score_previous_night": 70,
+    "score_recovery_index": 72,
+    "score_resting_hr": 90,
+    "score_sleep_balance": 73,
+    "score_temperature": 100
+  },
   "2022-06-2": {},
   "2022-06-3": {},
   "2022-06-4": {}

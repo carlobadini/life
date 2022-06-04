@@ -14,7 +14,7 @@
     "Design & Composition": 2
   },
   "2": {
-    "Business": 9474,
+    "Business": 9512,
     "Communication & Scheduling": 2914,
     "Other Work": 2036,
     "Uncategorized": 898,
@@ -26,7 +26,19 @@
     "Shopping": 64,
     "Design & Composition": 1
   },
-  "3": {},
+  "3": {
+    "Communication & Scheduling": 4105,
+    "Other Work": 3221,
+    "Business": 3106,
+    "Reference & Learning": 2139,
+    "Shopping": 1524,
+    "Social Networking": 1352,
+    "Uncategorized": 771,
+    "Utilities": 624,
+    "News & Opinion": 302,
+    "Design & Composition": 253,
+    "Entertainment": 55
+  },
   "4": {},
   "5": {},
   "6": {},

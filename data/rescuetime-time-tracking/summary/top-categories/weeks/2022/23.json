@@ -109,8 +109,8 @@
     "General Reference & Learning": 43,
     "General Software Development": 21,
     "Customer Relations": 3,
-    "General Design & Composition": 2,
-    "General Communication & Scheduling": 2
+    "General Communication & Scheduling": 2,
+    "General Design & Composition": 2
   },
   "2022-06-2": {
     "General Business": 8521,
@@ -134,7 +134,7 @@
     "General Design & Composition": 1
   },
   "2022-06-3": {
-    "Communications": 3221,
+    "Communications": 3287,
     "Email": 2108,
     "Instant Message": 1976,
     "General Reference & Learning": 1631,
@@ -158,5 +158,26 @@
     "Engineering & Technology": 21,
     "General Entertainment": 2
   },
-  "2022-06-4": {}
+  "2022-06-4": {
+    "General Business": 3010,
+    "Uncategorized": 2068,
+    "Communications": 1733,
+    "Video": 1683,
+    "Instant Message": 752,
+    "Project Management": 711,
+    "Email": 621,
+    "Office": 552,
+    "Search": 408,
+    "General Shopping": 326,
+    "Browsers": 268,
+    "Professional Networking": 249,
+    "General Utilities": 237,
+    "General Social Networking": 169,
+    "General Reference & Learning": 167,
+    "Intelligence": 116,
+    "Marketing": 114,
+    "Engineering & Technology": 95,
+    "General News & Opinion": 67,
+    "Travel & Outdoors": 7
+  }
 }

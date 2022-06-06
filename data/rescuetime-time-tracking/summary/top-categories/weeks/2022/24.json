@@ -1,12 +1,25 @@
 {
   "2022-06-5": {
-    "Video": 654,
-    "Office": 213,
-    "Browsers": 53,
-    "Intelligence": 28,
+    "General News & Opinion": 3943,
+    "Video": 3662,
+    "Office": 220,
+    "Intelligence": 116,
+    "Uncategorized": 84,
+    "Browsers": 74,
+    "General Entertainment": 58,
+    "General Utilities": 31,
+    "Instant Message": 8,
+    "Photos": 6,
+    "Search": 3,
+    "General Reference & Learning": 1,
     "Communications": 1
   },
-  "2022-06-6": {},
+  "2022-06-6": {
+    "Project Management": 169,
+    "Communications": 57,
+    "General Utilities": 45,
+    "Professional Networking": 39
+  },
   "2022-06-7": {},
   "2022-06-8": {},
   "2022-06-9": {},

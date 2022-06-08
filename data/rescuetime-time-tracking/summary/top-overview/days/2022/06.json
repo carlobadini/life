@@ -76,7 +76,16 @@
     "Entertainment": 5,
     "Shopping": 2
   },
-  "7": {},
+  "7": {
+    "Business": 8550,
+    "Communication & Scheduling": 4911,
+    "Reference & Learning": 1751,
+    "Uncategorized": 609,
+    "Social Networking": 547,
+    "Design & Composition": 293,
+    "Other Work": 214,
+    "Utilities": 163
+  },
   "8": {},
   "9": {},
   "10": {},

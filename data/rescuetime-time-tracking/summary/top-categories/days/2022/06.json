@@ -170,7 +170,22 @@
     "Calendars": 14,
     "General Social Networking": 3
   },
-  "9": {},
+  "9": {
+    "General Business": 3748,
+    "Communications": 331,
+    "Project Management": 305,
+    "Search": 256,
+    "Instant Message": 240,
+    "Professional Networking": 173,
+    "General News & Opinion": 112,
+    "Science & Technology": 72,
+    "Uncategorized": 68,
+    "Email": 40,
+    "Browsers": 28,
+    "Intelligence": 18,
+    "Marketing": 14,
+    "General Utilities": 8
+  },
   "10": {},
   "11": {},
   "12": {},

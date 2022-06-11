@@ -51,9 +51,21 @@
     "Reference & Learning": 256,
     "News & Opinion": 184,
     "Social Networking": 173,
-    "Uncategorized": 68,
+    "Uncategorized": 114,
     "Utilities": 36
   },
-  "2022-06-10": {},
+  "2022-06-10": {
+    "Business": 4138,
+    "Communication & Scheduling": 3586,
+    "Uncategorized": 3510,
+    "Social Networking": 2451,
+    "Other Work": 1625,
+    "Reference & Learning": 665,
+    "Entertainment": 413,
+    "Utilities": 313,
+    "Shopping": 276,
+    "News & Opinion": 172,
+    "Software Development": 128
+  },
   "2022-06-11": {}
 }

@@ -90,22 +90,22 @@
     "General Utilities": 8
   },
   "2022-06-10": {
-    "Uncategorized": 3510,
-    "General Business": 2632,
+    "Uncategorized": 3518,
+    "General Business": 2633,
     "Professional Networking": 2450,
-    "Email": 2377,
-    "Communications": 1625,
-    "Project Management": 1292,
+    "Email": 2381,
+    "Communications": 1633,
+    "Project Management": 1435,
     "Instant Message": 1209,
     "Search": 477,
     "Video": 385,
     "Clothes & Personal": 236,
-    "General News & Opinion": 172,
     "General Reference & Learning": 172,
+    "General News & Opinion": 172,
     "General Utilities": 163,
     "Browsers": 150,
     "General Software Development": 128,
-    "Marketing": 95,
+    "Marketing": 102,
     "Intelligence": 61,
     "Operations": 58,
     "General Shopping": 40,
@@ -114,5 +114,13 @@
     "Health & Medicine": 8,
     "General Social Networking": 1
   },
-  "2022-06-11": {}
+  "2022-06-11": {
+    "Travel & Outdoors": 683,
+    "Instant Message": 458,
+    "Uncategorized": 34,
+    "Project Management": 8,
+    "Browsers": 5,
+    "Communications": 2,
+    "Search": 2
+  }
 }

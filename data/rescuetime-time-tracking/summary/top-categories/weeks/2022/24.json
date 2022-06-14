@@ -100,8 +100,8 @@
     "Search": 477,
     "Video": 385,
     "Clothes & Personal": 236,
-    "General Reference & Learning": 172,
     "General News & Opinion": 172,
+    "General Reference & Learning": 172,
     "General Utilities": 163,
     "Browsers": 150,
     "General Software Development": 128,
@@ -120,7 +120,7 @@
     "Uncategorized": 34,
     "Project Management": 8,
     "Browsers": 5,
-    "Search": 2,
-    "Communications": 2
+    "Communications": 2,
+    "Search": 2
   }
 }

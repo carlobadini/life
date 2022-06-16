@@ -13,8 +13,8 @@
     "Search": 35,
     "General Reference & Learning": 15,
     "Browsers": 7,
-    "General Social Networking": 2,
-    "General Shopping": 2
+    "General Shopping": 2,
+    "General Social Networking": 2
   },
   "2022-06-13": {
     "Meetings": 6217,
@@ -71,7 +71,30 @@
     "General Utilities": 13,
     "Science & Technology": 1
   },
-  "2022-06-15": {},
+  "2022-06-15": {
+    "General Business": 3610,
+    "Uncategorized": 2295,
+    "Communications": 2092,
+    "Meetings": 1929,
+    "Writing": 1812,
+    "Project Management": 1340,
+    "Instant Message": 716,
+    "Professional Networking": 675,
+    "Email": 580,
+    "Search": 272,
+    "Presentation": 108,
+    "Intelligence": 93,
+    "Browsers": 86,
+    "General Shopping": 77,
+    "General Entertainment": 71,
+    "Office": 71,
+    "Travel & Outdoors": 61,
+    "General Reference & Learning": 47,
+    "General Utilities": 30,
+    "Science & Technology": 16,
+    "Marketing": 9,
+    "Engineering & Technology": 5
+  },
   "2022-06-16": {},
   "2022-06-17": {},
   "2022-06-18": {}

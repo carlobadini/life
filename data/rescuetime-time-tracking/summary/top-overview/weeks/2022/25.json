@@ -38,19 +38,32 @@
     "News & Opinion": 116
   },
   "2022-06-15": {
-    "Business": 5052,
+    "Business": 5135,
     "Communication & Scheduling": 3225,
     "Uncategorized": 2295,
-    "Other Work": 2092,
+    "Other Work": 2141,
     "Design & Composition": 1920,
-    "Social Networking": 675,
+    "Social Networking": 698,
     "Reference & Learning": 385,
     "Shopping": 148,
-    "Utilities": 116,
+    "Utilities": 118,
     "Entertainment": 71,
     "News & Opinion": 16
   },
-  "2022-06-16": {},
+  "2022-06-16": {
+    "Business": 11539,
+    "Other Work": 8954,
+    "Uncategorized": 4430,
+    "Communication & Scheduling": 3729,
+    "Entertainment": 2454,
+    "Social Networking": 1189,
+    "Reference & Learning": 770,
+    "News & Opinion": 415,
+    "Utilities": 123,
+    "Software Development": 61,
+    "Shopping": 4,
+    "Design & Composition": 2
+  },
   "2022-06-17": {},
   "2022-06-18": {}
 }

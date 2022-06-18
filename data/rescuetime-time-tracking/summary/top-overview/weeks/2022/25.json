@@ -51,8 +51,8 @@
     "News & Opinion": 16
   },
   "2022-06-16": {
-    "Business": 11539,
-    "Other Work": 8954,
+    "Business": 11873,
+    "Other Work": 9063,
     "Uncategorized": 4430,
     "Communication & Scheduling": 3729,
     "Entertainment": 2454,
@@ -64,6 +64,15 @@
     "Shopping": 4,
     "Design & Composition": 2
   },
-  "2022-06-17": {},
+  "2022-06-17": {
+    "Uncategorized": 1350,
+    "Business": 1100,
+    "Design & Composition": 659,
+    "Communication & Scheduling": 344,
+    "Other Work": 249,
+    "Utilities": 119,
+    "Reference & Learning": 73,
+    "Entertainment": 1
+  },
   "2022-06-18": {}
 }

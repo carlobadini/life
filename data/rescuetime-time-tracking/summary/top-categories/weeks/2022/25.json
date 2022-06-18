@@ -86,8 +86,8 @@
     "Intelligence": 93,
     "Browsers": 88,
     "General Shopping": 77,
-    "General Entertainment": 71,
     "Office": 71,
+    "General Entertainment": 71,
     "Travel & Outdoors": 61,
     "General Reference & Learning": 47,
     "General Utilities": 30,
@@ -97,11 +97,11 @@
   },
   "2022-06-16": {
     "General Business": 9547,
-    "Communications": 8954,
+    "Communications": 9063,
     "Uncategorized": 4430,
     "Video": 2276,
+    "Project Management": 2130,
     "Meetings": 1900,
-    "Project Management": 1796,
     "Professional Networking": 1188,
     "Instant Message": 1042,
     "Email": 787,
@@ -123,6 +123,23 @@
     "Engineering & Drafting": 2,
     "General Social Networking": 1
   },
-  "2022-06-17": {},
+  "2022-06-17": {
+    "Uncategorized": 1350,
+    "Writing": 659,
+    "General Business": 573,
+    "Project Management": 291,
+    "Communications": 249,
+    "Intelligence": 206,
+    "Email": 195,
+    "Instant Message": 146,
+    "General Utilities": 100,
+    "Search": 46,
+    "Marketing": 28,
+    "General Reference & Learning": 27,
+    "Browsers": 19,
+    "General Communication & Scheduling": 3,
+    "Sales": 2,
+    "Video": 1
+  },
   "2022-06-18": {}
 }

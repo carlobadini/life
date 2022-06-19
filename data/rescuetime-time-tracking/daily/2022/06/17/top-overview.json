@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1100,
+    "Time Spent (seconds)": 1144,
     "Number of People": 1,
     "Category": "Business"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 249,
+    "Time Spent (seconds)": 337,
     "Number of People": 1,
     "Category": "Other Work"
   },
@@ -43,6 +43,12 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Category": "Entertainment"

@@ -52,7 +52,17 @@
     "Voice Chat": 2,
     "General News & Opinion": 1
   },
-  "2022-06-21": {},
+  "2022-06-21": {
+    "General Entertainment": 963,
+    "Project Management": 279,
+    "Intelligence": 151,
+    "Communications": 79,
+    "Email": 30,
+    "General Utilities": 26,
+    "General News & Opinion": 25,
+    "General Business": 20,
+    "Marketing": 7
+  },
   "2022-06-22": {},
   "2022-06-23": {},
   "2022-06-24": {},

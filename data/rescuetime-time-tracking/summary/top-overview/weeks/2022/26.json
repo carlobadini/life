@@ -29,13 +29,26 @@
   },
   "2022-06-21": {
     "Entertainment": 963,
-    "Business": 457,
-    "Other Work": 79,
+    "Business": 502,
+    "Other Work": 181,
     "Communication & Scheduling": 30,
     "Utilities": 26,
     "News & Opinion": 25
   },
-  "2022-06-22": {},
+  "2022-06-22": {
+    "Business": 13730,
+    "Communication & Scheduling": 9935,
+    "Other Work": 5187,
+    "Entertainment": 3600,
+    "Uncategorized": 2464,
+    "Reference & Learning": 1940,
+    "News & Opinion": 1802,
+    "Shopping": 1593,
+    "Social Networking": 1373,
+    "Design & Composition": 356,
+    "Utilities": 262,
+    "Software Development": 28
+  },
   "2022-06-23": {},
   "2022-06-24": {},
   "2022-06-25": {}

@@ -55,13 +55,13 @@
     "score_hrv_balance": 490
   },
   "6": {
-    "score": 428,
-    "score_previous_day": 329,
-    "score_previous_night": 401,
-    "score_recovery_index": 373,
-    "score_resting_hr": 458,
+    "score": 499,
+    "score_previous_day": 423,
+    "score_previous_night": 486,
+    "score_recovery_index": 409,
+    "score_resting_hr": 522,
     "score_sleep_balance": 377,
-    "score_temperature": 570,
+    "score_temperature": 667,
     "score_hrv_balance": 324,
     "score_activity_balance": 202
   },

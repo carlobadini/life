@@ -126,7 +126,7 @@
     "General Business": 7874,
     "Marketing": 6929,
     "Meetings": 5021,
-    "Communications": 4869,
+    "Communications": 4922,
     "Uncategorized": 2743,
     "Project Management": 1815,
     "Email": 1555,
@@ -152,5 +152,30 @@
     "Maps & Regional": 2,
     "General Software Development": 1
   },
-  "2022-06-25": {}
+  "2022-06-25": {
+    "General Business": 11540,
+    "Project Management": 2668,
+    "Communications": 2484,
+    "Uncategorized": 1877,
+    "Marketing": 1245,
+    "Instant Message": 787,
+    "Search": 777,
+    "Professional Networking": 775,
+    "Email": 741,
+    "Sales": 414,
+    "Browsers": 365,
+    "Meetings": 330,
+    "General Reference & Learning": 267,
+    "General Social Networking": 109,
+    "General Entertainment": 104,
+    "Intelligence": 49,
+    "General Shopping": 38,
+    "Engineering & Drafting": 25,
+    "General Utilities": 23,
+    "Science & Technology": 11,
+    "Electronics": 10,
+    "Business & Finance": 3,
+    "General Software Development": 1,
+    "Home & Garden": 1
+  }
 }

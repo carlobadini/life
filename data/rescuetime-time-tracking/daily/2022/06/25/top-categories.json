@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 11540,
+    "Time Spent (seconds)": 11542,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -31,21 +31,21 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 789,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 787,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 777,
+    "Rank": 8,
+    "Time Spent (seconds)": 781,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 775,
-    "Number of People": 1,
-    "Category": "Professional Networking"
   },
   {
     "Rank": 9,
@@ -61,7 +61,7 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 365,
+    "Time Spent (seconds)": 369,
     "Number of People": 1,
     "Category": "Browsers"
   },

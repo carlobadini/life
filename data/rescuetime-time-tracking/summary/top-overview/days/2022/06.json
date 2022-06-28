@@ -309,7 +309,7 @@
     "Software Development": 1
   },
   "26": {
-    "Business": 5494,
+    "Business": 5650,
     "Uncategorized": 3171,
     "Social Networking": 1675,
     "Communication & Scheduling": 1520,
@@ -321,7 +321,20 @@
     "Shopping": 139,
     "Entertainment": 19
   },
-  "27": {},
+  "27": {
+    "Communication & Scheduling": 16666,
+    "Business": 12039,
+    "Other Work": 4879,
+    "Reference & Learning": 1789,
+    "Social Networking": 1594,
+    "Uncategorized": 1329,
+    "Shopping": 350,
+    "Utilities": 300,
+    "News & Opinion": 173,
+    "Design & Composition": 105,
+    "Entertainment": 69,
+    "Software Development": 10
+  },
   "28": {},
   "29": {}
 }

@@ -83,8 +83,28 @@
     "General Entertainment": 55,
     "International": 11,
     "General Social Networking": 2,
-    "Clothes & Personal": 1,
-    "General Software Development": 1
+    "General Software Development": 1,
+    "Clothes & Personal": 1
   },
-  "2022-06-29": {}
+  "2022-06-29": {
+    "General Business": 6634,
+    "Communications": 5729,
+    "Uncategorized": 3526,
+    "Project Management": 2865,
+    "Search": 842,
+    "Instant Message": 640,
+    "General Reference & Learning": 503,
+    "Email": 429,
+    "General News & Opinion": 327,
+    "Browsers": 314,
+    "Professional Networking": 260,
+    "Marketing": 225,
+    "General Utilities": 161,
+    "General Entertainment": 129,
+    "Intelligence": 89,
+    "General Shopping": 75,
+    "Office": 55,
+    "Entertainment": 50,
+    "Science & Technology": 26
+  }
 }

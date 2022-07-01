@@ -83,14 +83,14 @@
     "General Entertainment": 55,
     "International": 11,
     "General Social Networking": 2,
-    "General Software Development": 1,
-    "Clothes & Personal": 1
+    "Clothes & Personal": 1,
+    "General Software Development": 1
   },
   "2022-06-29": {
     "General Business": 6634,
-    "Communications": 5729,
+    "Communications": 5792,
     "Uncategorized": 3526,
-    "Project Management": 2865,
+    "Project Management": 2876,
     "Search": 842,
     "Instant Message": 640,
     "General Reference & Learning": 503,
@@ -106,5 +106,36 @@
     "Office": 55,
     "Entertainment": 50,
     "Science & Technology": 26
-  }
+  },
+  "2022-06-30": {
+    "Meetings": 10787,
+    "Communications": 5073,
+    "General Business": 4337,
+    "Uncategorized": 2883,
+    "Marketing": 2260,
+    "Professional Networking": 2108,
+    "Video": 2072,
+    "Project Management": 1267,
+    "Email": 796,
+    "Search": 762,
+    "General Software Development": 380,
+    "Instant Message": 374,
+    "Design & Planning": 300,
+    "General Design & Composition": 273,
+    "Sales": 218,
+    "General Reference & Learning": 193,
+    "Browsers": 165,
+    "Travel & Outdoors": 158,
+    "Entertainment": 152,
+    "General News & Opinion": 132,
+    "General Entertainment": 128,
+    "Intelligence": 93,
+    "General Utilities": 84,
+    "Science & Technology": 63,
+    "Engineering & Drafting": 47,
+    "Calendars": 44,
+    "General Social Networking": 1
+  },
+  "2022-07-1": {},
+  "2022-07-2": {}
 }

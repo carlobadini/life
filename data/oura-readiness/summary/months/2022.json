@@ -65,7 +65,14 @@
     "score_hrv_balance": 418,
     "score_activity_balance": 202
   },
-  "7": {},
+  "7": {
+    "score": 88,
+    "score_previous_day": 70,
+    "score_previous_night": 68,
+    "score_recovery_index": 100,
+    "score_resting_hr": 92,
+    "score_temperature": 96
+  },
   "8": {},
   "9": {},
   "10": {},

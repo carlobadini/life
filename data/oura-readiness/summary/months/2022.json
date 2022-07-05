@@ -66,12 +66,12 @@
     "score_activity_balance": 202
   },
   "7": {
-    "score": 88,
-    "score_previous_day": 70,
-    "score_previous_night": 68,
-    "score_recovery_index": 100,
-    "score_resting_hr": 92,
-    "score_temperature": 96
+    "score": 157,
+    "score_previous_day": 150,
+    "score_previous_night": 113,
+    "score_recovery_index": 147,
+    "score_resting_hr": 192,
+    "score_temperature": 191
   },
   "8": {},
   "9": {},

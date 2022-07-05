@@ -1,7 +1,7 @@
 {
   "2022-07-3": {
     "Uncategorized": 8893,
-    "Business": 7957,
+    "Business": 8031,
     "Reference & Learning": 5374,
     "Shopping": 2187,
     "Communication & Scheduling": 1556,
@@ -9,10 +9,23 @@
     "Utilities": 386,
     "Entertainment": 195,
     "News & Opinion": 87,
-    "Other Work": 4,
-    "Software Development": 4
+    "Software Development": 4,
+    "Other Work": 4
   },
-  "2022-07-4": {},
+  "2022-07-4": {
+    "Business": 11140,
+    "Communication & Scheduling": 10875,
+    "Other Work": 5642,
+    "Reference & Learning": 4300,
+    "Entertainment": 2456,
+    "Uncategorized": 1377,
+    "Design & Composition": 876,
+    "Social Networking": 709,
+    "Shopping": 650,
+    "News & Opinion": 505,
+    "Utilities": 270,
+    "Software Development": 25
+  },
   "2022-07-5": {},
   "2022-07-6": {},
   "2022-07-7": {},

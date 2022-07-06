@@ -13,9 +13,9 @@
     "Other Work": 4
   },
   "2022-07-4": {
-    "Business": 11140,
+    "Business": 11203,
     "Communication & Scheduling": 10875,
-    "Other Work": 5642,
+    "Other Work": 5710,
     "Reference & Learning": 4300,
     "Entertainment": 2456,
     "Uncategorized": 1377,
@@ -26,7 +26,20 @@
     "Utilities": 270,
     "Software Development": 25
   },
-  "2022-07-5": {},
+  "2022-07-5": {
+    "Business": 14900,
+    "Communication & Scheduling": 10258,
+    "Other Work": 4948,
+    "Reference & Learning": 3141,
+    "Uncategorized": 1972,
+    "Social Networking": 367,
+    "Design & Composition": 276,
+    "Entertainment": 258,
+    "Utilities": 243,
+    "News & Opinion": 34,
+    "Shopping": 7,
+    "Software Development": 1
+  },
   "2022-07-6": {},
   "2022-07-7": {},
   "2022-07-8": {},

@@ -157,8 +157,8 @@
     "Intelligence": 147,
     "Office": 51,
     "Marketing": 47,
-    "General Utilities": 39,
     "Science & Technology": 39,
+    "General Utilities": 39,
     "Internet Utilities": 29,
     "General Design & Composition": 17
   },
@@ -188,8 +188,21 @@
     "General Software Development": 6,
     "Employment": 2
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Video": 188,
+    "Intelligence": 52,
+    "Search": 8,
+    "Professional Networking": 4,
+    "Browsers": 2,
+    "Communications": 1
+  },
+  "9": {
+    "General Entertainment": 441,
+    "Uncategorized": 78,
+    "Video": 6,
+    "Communications": 3,
+    "Intelligence": 2
+  },
   "10": {},
   "11": {},
   "12": {},

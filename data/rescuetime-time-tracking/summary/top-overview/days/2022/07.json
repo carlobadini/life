@@ -94,8 +94,20 @@
     "Utilities": 268,
     "Software Development": 6
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Entertainment": 188,
+    "Business": 52,
+    "Reference & Learning": 8,
+    "Social Networking": 4,
+    "Utilities": 2,
+    "Other Work": 1
+  },
+  "9": {
+    "Entertainment": 447,
+    "Uncategorized": 78,
+    "Other Work": 3,
+    "Business": 2
+  },
   "10": {},
   "11": {},
   "12": {},

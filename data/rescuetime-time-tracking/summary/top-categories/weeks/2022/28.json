@@ -118,8 +118,8 @@
     "Sales": 501,
     "Video": 354,
     "General Entertainment": 227,
-    "General News & Opinion": 190,
     "Writing": 190,
+    "General News & Opinion": 190,
     "General Utilities": 153,
     "Science & Technology": 136,
     "Engineering & Drafting": 126,
@@ -140,10 +140,18 @@
     "Communications": 1
   },
   "2022-07-9": {
-    "General Entertainment": 441,
-    "Uncategorized": 78,
-    "Video": 6,
+    "General News & Opinion": 3226,
+    "Video": 3097,
+    "Meetings": 993,
+    "General Entertainment": 444,
+    "Uncategorized": 176,
+    "Instant Message": 125,
+    "Email": 86,
+    "Intelligence": 55,
+    "Browsers": 15,
+    "Professional Networking": 11,
+    "Search": 9,
     "Communications": 3,
-    "Intelligence": 2
+    "General Social Networking": 2
   }
 }

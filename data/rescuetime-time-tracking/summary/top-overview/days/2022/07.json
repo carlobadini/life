@@ -103,12 +103,24 @@
     "Other Work": 1
   },
   "9": {
-    "Entertainment": 447,
-    "Uncategorized": 78,
-    "Other Work": 3,
-    "Business": 2
+    "Entertainment": 3541,
+    "News & Opinion": 3226,
+    "Communication & Scheduling": 1204,
+    "Uncategorized": 176,
+    "Business": 55,
+    "Utilities": 15,
+    "Social Networking": 13,
+    "Reference & Learning": 9,
+    "Other Work": 3
   },
-  "10": {},
+  "10": {
+    "Entertainment": 29,
+    "Business": 17,
+    "News & Opinion": 16,
+    "Utilities": 15,
+    "Uncategorized": 1,
+    "Social Networking": 1
+  },
   "11": {},
   "12": {},
   "13": {},

@@ -133,7 +133,18 @@
     "Entertainment": 195,
     "Utilities": 158
   },
-  "12": {},
+  "12": {
+    "Business": 11429,
+    "Communication & Scheduling": 7694,
+    "Other Work": 4956,
+    "Uncategorized": 4435,
+    "Reference & Learning": 2974,
+    "Entertainment": 2679,
+    "Social Networking": 852,
+    "Shopping": 387,
+    "Utilities": 205,
+    "News & Opinion": 143
+  },
   "13": {},
   "14": {},
   "15": {},

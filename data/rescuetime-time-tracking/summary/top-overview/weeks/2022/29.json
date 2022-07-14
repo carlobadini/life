@@ -31,7 +31,19 @@
     "Utilities": 205,
     "News & Opinion": 143
   },
-  "2022-07-13": {},
+  "2022-07-13": {
+    "Business": 16062,
+    "Uncategorized": 5868,
+    "Reference & Learning": 4248,
+    "Communication & Scheduling": 4180,
+    "Entertainment": 2880,
+    "Other Work": 2242,
+    "Social Networking": 2225,
+    "News & Opinion": 638,
+    "Shopping": 608,
+    "Utilities": 510,
+    "Software Development": 25
+  },
   "2022-07-14": {},
   "2022-07-15": {},
   "2022-07-16": {}

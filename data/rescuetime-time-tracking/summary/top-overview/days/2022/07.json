@@ -145,7 +145,19 @@
     "Utilities": 205,
     "News & Opinion": 143
   },
-  "13": {},
+  "13": {
+    "Business": 16062,
+    "Uncategorized": 5868,
+    "Reference & Learning": 4248,
+    "Communication & Scheduling": 4180,
+    "Entertainment": 2880,
+    "Other Work": 2242,
+    "Social Networking": 2225,
+    "News & Opinion": 638,
+    "Shopping": 608,
+    "Utilities": 510,
+    "Software Development": 25
+  },
   "14": {},
   "15": {},
   "16": {},

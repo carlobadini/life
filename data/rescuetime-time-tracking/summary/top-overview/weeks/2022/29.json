@@ -70,5 +70,17 @@
     "News & Opinion": 320,
     "Design & Composition": 157
   },
-  "2022-07-16": {}
+  "2022-07-16": {
+    "Business": 2286,
+    "Uncategorized": 2217,
+    "Communication & Scheduling": 1820,
+    "Entertainment": 1530,
+    "Social Networking": 1430,
+    "Reference & Learning": 831,
+    "Shopping": 379,
+    "Utilities": 132,
+    "Other Work": 108,
+    "News & Opinion": 58,
+    "Software Development": 4
+  }
 }

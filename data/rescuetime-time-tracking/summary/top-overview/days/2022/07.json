@@ -197,7 +197,19 @@
     "News & Opinion": 58,
     "Software Development": 4
   },
-  "17": {},
+  "17": {
+    "Entertainment": 6919,
+    "Business": 2319,
+    "Uncategorized": 737,
+    "Other Work": 436,
+    "News & Opinion": 407,
+    "Reference & Learning": 139,
+    "Communication & Scheduling": 126,
+    "Social Networking": 79,
+    "Utilities": 34,
+    "Design & Composition": 3,
+    "Shopping": 2
+  },
   "18": {},
   "19": {},
   "20": {},

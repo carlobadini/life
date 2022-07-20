@@ -222,7 +222,19 @@
     "News & Opinion": 379,
     "Shopping": 55
   },
-  "19": {},
+  "19": {
+    "Business": 12619,
+    "Communication & Scheduling": 5875,
+    "Other Work": 3883,
+    "Uncategorized": 2409,
+    "Reference & Learning": 2246,
+    "Entertainment": 1441,
+    "Social Networking": 600,
+    "Utilities": 437,
+    "News & Opinion": 388,
+    "Software Development": 84,
+    "Design & Composition": 68
+  },
   "20": {},
   "21": {},
   "22": {},

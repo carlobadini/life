@@ -235,8 +235,24 @@
     "Software Development": 84,
     "Design & Composition": 68
   },
-  "20": {},
-  "21": {},
+  "20": {
+    "Business": 4226,
+    "Reference & Learning": 3146,
+    "Design & Composition": 3094,
+    "Other Work": 2823,
+    "Uncategorized": 2627,
+    "Communication & Scheduling": 2615,
+    "Social Networking": 1268,
+    "Entertainment": 855,
+    "Utilities": 195,
+    "News & Opinion": 100,
+    "Shopping": 1
+  },
+  "21": {
+    "Business": 1526,
+    "Other Work": 222,
+    "Communication & Scheduling": 19
+  },
   "22": {},
   "23": {},
   "24": {},

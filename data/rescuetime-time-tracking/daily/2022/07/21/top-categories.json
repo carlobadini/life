@@ -1,0 +1,38 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1055,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 334,
+    "Number of People": 1,
+    "Category": "Sales"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 222,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 123,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  }
+]

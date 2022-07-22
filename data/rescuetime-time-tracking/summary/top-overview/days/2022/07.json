@@ -249,11 +249,21 @@
     "Shopping": 1
   },
   "21": {
-    "Business": 1526,
-    "Other Work": 222,
-    "Communication & Scheduling": 19
+    "Business": 6828,
+    "Entertainment": 3685,
+    "Other Work": 3672,
+    "Communication & Scheduling": 1235,
+    "Social Networking": 945,
+    "Uncategorized": 385,
+    "Utilities": 223,
+    "Reference & Learning": 222,
+    "Design & Composition": 107,
+    "Shopping": 78
   },
-  "22": {},
+  "22": {
+    "Entertainment": 9,
+    "Business": 2
+  },
   "23": {},
   "24": {},
   "25": {},

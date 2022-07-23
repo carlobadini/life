@@ -68,8 +68,8 @@
     "General Software Development": 84,
     "Presentation": 62,
     "Travel & Outdoors": 59,
-    "Health & Medicine": 29,
     "Engineering & Technology": 29,
+    "Health & Medicine": 29,
     "Legal & Gov't": 28,
     "Society": 23,
     "Administration": 14,
@@ -136,8 +136,26 @@
     "General Shopping": 5
   },
   "2022-07-22": {
-    "General Entertainment": 9,
-    "Intelligence": 2
+    "Communications": 6238,
+    "Video": 6046,
+    "General Business": 4244,
+    "Meetings": 1267,
+    "Uncategorized": 1196,
+    "Search": 599,
+    "Project Management": 523,
+    "General Reference & Learning": 411,
+    "Professional Networking": 279,
+    "Instant Message": 262,
+    "Travel & Outdoors": 246,
+    "Email": 237,
+    "General News & Opinion": 219,
+    "General Entertainment": 186,
+    "Browsers": 86,
+    "Intelligence": 78,
+    "Internet Utilities": 38,
+    "Marketing": 27,
+    "General Social Networking": 10,
+    "General Shopping": 6
   },
   "2022-07-23": {}
 }

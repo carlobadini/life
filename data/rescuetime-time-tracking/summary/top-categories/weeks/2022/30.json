@@ -102,9 +102,9 @@
     "General Utilities": 40,
     "Regional": 21,
     "Health & Medicine": 14,
+    "General Reference & Learning": 11,
     "Music": 11,
     "Comedy": 11,
-    "General Reference & Learning": 11,
     "Engineering & Drafting": 6,
     "Science & Technology": 5,
     "Writing": 4,
@@ -132,8 +132,8 @@
     "Clothes & Personal": 73,
     "General Reference & Learning": 19,
     "Travel & Outdoors": 6,
-    "Marketing": 5,
-    "General Shopping": 5
+    "General Shopping": 5,
+    "Marketing": 5
   },
   "2022-07-22": {
     "Communications": 6238,
@@ -157,5 +157,28 @@
     "General Social Networking": 10,
     "General Shopping": 6
   },
-  "2022-07-23": {}
+  "2022-07-23": {
+    "General Business": 5072,
+    "Professional Networking": 1550,
+    "Project Management": 1224,
+    "Uncategorized": 1212,
+    "Communications": 858,
+    "Instant Message": 607,
+    "Email": 514,
+    "Meetings": 427,
+    "Search": 378,
+    "Clothes & Personal": 265,
+    "General Shopping": 253,
+    "Marketing": 177,
+    "Browsers": 115,
+    "Intelligence": 114,
+    "Video": 84,
+    "General News & Opinion": 61,
+    "Writing": 53,
+    "General Utilities": 22,
+    "Sales": 17,
+    "General Communication & Scheduling": 10,
+    "General Reference & Learning": 10,
+    "General Software Development": 2
+  }
 }

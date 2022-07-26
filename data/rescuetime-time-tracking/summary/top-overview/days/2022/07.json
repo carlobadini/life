@@ -297,7 +297,19 @@
     "Utilities": 74,
     "Shopping": 64
   },
-  "25": {},
+  "25": {
+    "Business": 15476,
+    "Communication & Scheduling": 4098,
+    "Other Work": 2861,
+    "Entertainment": 2640,
+    "Uncategorized": 2414,
+    "Design & Composition": 1385,
+    "Reference & Learning": 1273,
+    "Social Networking": 616,
+    "News & Opinion": 339,
+    "Utilities": 236,
+    "Shopping": 93
+  },
   "26": {},
   "27": {},
   "28": {},

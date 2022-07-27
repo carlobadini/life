@@ -11,9 +11,9 @@
     "Shopping": 64
   },
   "2022-07-25": {
-    "Business": 15476,
+    "Business": 15477,
     "Communication & Scheduling": 4098,
-    "Other Work": 2861,
+    "Other Work": 2923,
     "Entertainment": 2640,
     "Uncategorized": 2414,
     "Design & Composition": 1385,
@@ -23,7 +23,20 @@
     "Utilities": 236,
     "Shopping": 93
   },
-  "2022-07-26": {},
+  "2022-07-26": {
+    "Business": 16262,
+    "Other Work": 5596,
+    "Entertainment": 5261,
+    "Social Networking": 4338,
+    "Communication & Scheduling": 3153,
+    "Uncategorized": 3132,
+    "Reference & Learning": 1518,
+    "News & Opinion": 565,
+    "Utilities": 522,
+    "Design & Composition": 371,
+    "Shopping": 202,
+    "Software Development": 1
+  },
   "2022-07-27": {},
   "2022-07-28": {},
   "2022-07-29": {},

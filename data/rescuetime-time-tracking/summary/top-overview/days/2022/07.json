@@ -324,7 +324,19 @@
     "Shopping": 202,
     "Software Development": 1
   },
-  "27": {},
+  "27": {
+    "Entertainment": 8268,
+    "Business": 8227,
+    "Communication & Scheduling": 3097,
+    "Other Work": 2987,
+    "Social Networking": 2425,
+    "Uncategorized": 1978,
+    "Design & Composition": 1507,
+    "News & Opinion": 910,
+    "Reference & Learning": 548,
+    "Shopping": 463,
+    "Utilities": 433
+  },
   "28": {},
   "29": {},
   "30": {}

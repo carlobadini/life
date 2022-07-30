@@ -51,18 +51,30 @@
     "Utilities": 433
   },
   "2022-07-28": {
-    "Business": 7666,
+    "Business": 7708,
     "Communication & Scheduling": 6801,
     "Other Work": 2984,
     "Uncategorized": 2169,
     "Entertainment": 1937,
-    "Reference & Learning": 1824,
+    "Reference & Learning": 1902,
     "Social Networking": 1616,
     "News & Opinion": 861,
     "Utilities": 562,
     "Design & Composition": 239,
     "Shopping": 2
   },
-  "2022-07-29": {},
+  "2022-07-29": {
+    "Business": 8013,
+    "Entertainment": 3983,
+    "Communication & Scheduling": 3522,
+    "Other Work": 3416,
+    "Reference & Learning": 928,
+    "Shopping": 846,
+    "Uncategorized": 551,
+    "Social Networking": 337,
+    "Utilities": 150,
+    "News & Opinion": 129,
+    "Design & Composition": 2
+  },
   "2022-07-30": {}
 }

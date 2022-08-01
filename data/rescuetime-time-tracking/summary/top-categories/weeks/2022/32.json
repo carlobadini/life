@@ -1,11 +1,31 @@
 {
   "2022-07-31": {
-    "Video": 3660,
-    "Uncategorized": 187,
-    "Professional Networking": 134,
-    "Search": 117,
-    "General Business": 25,
-    "Browsers": 18,
-    "Intelligence": 6
-  }
+    "Video": 3662,
+    "General Business": 3280,
+    "General Shopping": 1747,
+    "Uncategorized": 833,
+    "Communications": 545,
+    "Project Management": 472,
+    "General News & Opinion": 458,
+    "Instant Message": 281,
+    "Intelligence": 270,
+    "Email": 262,
+    "Search": 220,
+    "Professional Networking": 199,
+    "Sales": 141,
+    "Browsers": 108,
+    "Clothes & Personal": 105,
+    "Design & Planning": 52,
+    "General Reference & Learning": 37,
+    "Presentation": 29,
+    "General Entertainment": 20,
+    "General Utilities": 17,
+    "Marketing": 16
+  },
+  "2022-08-1": {},
+  "2022-08-2": {},
+  "2022-08-3": {},
+  "2022-08-4": {},
+  "2022-08-5": {},
+  "2022-08-6": {}
 }

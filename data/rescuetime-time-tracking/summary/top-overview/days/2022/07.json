@@ -376,11 +376,17 @@
     "News & Opinion": 36
   },
   "31": {
-    "Entertainment": 3660,
-    "Uncategorized": 187,
-    "Social Networking": 134,
-    "Reference & Learning": 117,
-    "Business": 31,
-    "Utilities": 18
+    "Business": 4179,
+    "Entertainment": 3682,
+    "Shopping": 1852,
+    "Uncategorized": 833,
+    "Other Work": 545,
+    "Communication & Scheduling": 543,
+    "News & Opinion": 458,
+    "Reference & Learning": 257,
+    "Social Networking": 199,
+    "Utilities": 125,
+    "Software Development": 52,
+    "Design & Composition": 29
   }
 }

@@ -1,5 +1,18 @@
 {
-  "1": {},
+  "1": {
+    "Entertainment": 3845,
+    "Business": 3644,
+    "Shopping": 1886,
+    "Uncategorized": 1841,
+    "Reference & Learning": 1157,
+    "Utilities": 459,
+    "News & Opinion": 380,
+    "Communication & Scheduling": 354,
+    "Other Work": 196,
+    "Social Networking": 103,
+    "Design & Composition": 50,
+    "Software Development": 13
+  },
   "2": {},
   "3": {},
   "4": {},

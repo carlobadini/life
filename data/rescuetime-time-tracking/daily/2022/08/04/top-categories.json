@@ -1,0 +1,32 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Browsers"
+  }
+]

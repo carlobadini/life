@@ -27,8 +27,26 @@
     "Utilities": 149,
     "Software Development": 16
   },
-  "3": {},
-  "4": {},
+  "3": {
+    "Business": 7723,
+    "Other Work": 6710,
+    "Communication & Scheduling": 4098,
+    "Design & Composition": 3818,
+    "Entertainment": 2692,
+    "Shopping": 2552,
+    "Uncategorized": 1722,
+    "Reference & Learning": 1132,
+    "Social Networking": 611,
+    "Utilities": 426,
+    "News & Opinion": 336,
+    "Software Development": 131
+  },
+  "4": {
+    "Business": 334,
+    "Other Work": 106,
+    "Design & Composition": 11,
+    "Utilities": 9
+  },
   "5": {},
   "6": {},
   "7": {},

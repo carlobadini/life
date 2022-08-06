@@ -128,6 +128,32 @@
     "General Communication & Scheduling": 25,
     "General Shopping": 3
   },
-  "2022-08-5": {},
+  "2022-08-5": {
+    "Video": 7640,
+    "Communications": 6034,
+    "General News & Opinion": 3561,
+    "Meetings": 3080,
+    "Marketing": 2732,
+    "General Business": 2428,
+    "Project Management": 2081,
+    "Sales": 1908,
+    "Email": 1068,
+    "Professional Networking": 1005,
+    "Uncategorized": 937,
+    "General Social Networking": 934,
+    "Search": 654,
+    "Intelligence": 363,
+    "Browsers": 341,
+    "Presentation": 327,
+    "Operations": 222,
+    "General Design & Composition": 176,
+    "Maps & Regional": 112,
+    "Instant Message": 93,
+    "General Entertainment": 91,
+    "Engineering & Drafting": 46,
+    "Travel & Outdoors": 12,
+    "General Utilities": 2,
+    "General Reference & Learning": 1
+  },
   "2022-08-6": {}
 }

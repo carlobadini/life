@@ -38,7 +38,20 @@
     "Shopping": 1,
     "Software Development": 1
   },
-  "2022-08-10": {},
+  "2022-08-10": {
+    "Social Networking": 7238,
+    "Communication & Scheduling": 6372,
+    "Business": 5784,
+    "Other Work": 3079,
+    "Entertainment": 1991,
+    "Uncategorized": 1942,
+    "Reference & Learning": 1746,
+    "Shopping": 840,
+    "News & Opinion": 282,
+    "Utilities": 241,
+    "Design & Composition": 65,
+    "Software Development": 2
+  },
   "2022-08-11": {},
   "2022-08-12": {},
   "2022-08-13": {}

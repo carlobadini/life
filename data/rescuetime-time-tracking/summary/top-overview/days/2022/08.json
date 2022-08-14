@@ -161,13 +161,22 @@
     "News & Opinion": 37
   },
   "13": {
-    "Entertainment": 651,
-    "Business": 20,
-    "Other Work": 7,
-    "Reference & Learning": 5,
-    "Utilities": 3
+    "Business": 8813,
+    "Entertainment": 4338,
+    "News & Opinion": 3639,
+    "Communication & Scheduling": 2607,
+    "Other Work": 1228,
+    "Uncategorized": 1218,
+    "Social Networking": 651,
+    "Reference & Learning": 316,
+    "Utilities": 113,
+    "Design & Composition": 50
   },
-  "14": {},
+  "14": {
+    "Entertainment": 1432,
+    "Business": 68,
+    "Utilities": 4
+  },
   "15": {},
   "16": {},
   "17": {},

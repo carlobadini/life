@@ -54,7 +54,20 @@
     "News & Opinion": 55,
     "Entertainment": 1
   },
-  "2022-08-18": {},
+  "2022-08-18": {
+    "Communication & Scheduling": 11061,
+    "Business": 7940,
+    "Other Work": 6447,
+    "Uncategorized": 3543,
+    "Entertainment": 2466,
+    "Reference & Learning": 973,
+    "Social Networking": 616,
+    "News & Opinion": 364,
+    "Utilities": 123,
+    "Shopping": 37,
+    "Design & Composition": 17,
+    "Software Development": 4
+  },
   "2022-08-19": {},
   "2022-08-20": {}
 }

@@ -273,7 +273,20 @@
     "Communication & Scheduling": 35,
     "Utilities": 3
   },
-  "22": {},
+  "22": {
+    "Business": 6475,
+    "Communication & Scheduling": 4102,
+    "Other Work": 3664,
+    "News & Opinion": 2468,
+    "Entertainment": 1929,
+    "Social Networking": 1584,
+    "Design & Composition": 1068,
+    "Uncategorized": 519,
+    "Reference & Learning": 398,
+    "Shopping": 136,
+    "Software Development": 131,
+    "Utilities": 120
+  },
   "23": {},
   "24": {},
   "25": {},

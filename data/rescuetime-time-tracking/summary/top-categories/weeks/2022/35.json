@@ -110,8 +110,8 @@
     "General Entertainment": 42,
     "General Utilities": 28,
     "General Shopping": 19,
-    "General Social Networking": 9,
     "Engineering & Drafting": 9,
+    "General Social Networking": 9,
     "General Communication & Scheduling": 6,
     "Video": 3,
     "General Software Development": 1
@@ -142,5 +142,21 @@
     "Calendars": 14,
     "Maps & Regional": 1
   },
-  "2022-08-27": {}
+  "2022-08-27": {
+    "General Business": 1154,
+    "Meetings": 1036,
+    "General Entertainment": 907,
+    "Project Management": 698,
+    "Uncategorized": 671,
+    "Communications": 525,
+    "Instant Message": 446,
+    "Professional Networking": 59,
+    "Sales": 52,
+    "Browsers": 47,
+    "Marketing": 32,
+    "Search": 32,
+    "Office": 9,
+    "Intelligence": 7,
+    "General Utilities": 2
+  }
 }

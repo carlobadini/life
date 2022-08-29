@@ -684,7 +684,15 @@
     "Intelligence": 7,
     "General Utilities": 2
   },
-  "28": {},
+  "28": {
+    "Project Management": 385,
+    "Communications": 204,
+    "Instant Message": 89,
+    "Uncategorized": 6,
+    "Meetings": 4,
+    "General Business": 2,
+    "Browsers": 1
+  },
   "29": {},
   "30": {}
 }

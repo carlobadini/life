@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 385,
+    "Time Spent (seconds)": 391,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -19,24 +19,18 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 5,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
-    "Rank": 6,
+    "Rank": 5,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 7,
+    "Rank": 6,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Category": "Browsers"

@@ -1,11 +1,23 @@
 {
   "2022-08-28": {
-    "Business": 387,
+    "Business": 393,
     "Other Work": 204,
     "Communication & Scheduling": 93,
-    "Uncategorized": 6,
     "Utilities": 1
   },
-  "2022-08-29": {},
+  "2022-08-29": {
+    "Business": 14686,
+    "Communication & Scheduling": 6004,
+    "Other Work": 3652,
+    "Reference & Learning": 2271,
+    "Uncategorized": 2171,
+    "Entertainment": 2127,
+    "Social Networking": 899,
+    "News & Opinion": 703,
+    "Utilities": 364,
+    "Shopping": 249,
+    "Design & Composition": 192,
+    "Software Development": 16
+  },
   "2022-08-30": {}
 }

@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5263,
+    "Time Spent (seconds)": 5265,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 2171,
+    "Time Spent (seconds)": 2209,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -61,7 +61,7 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 906,
+    "Time Spent (seconds)": 932,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -145,21 +145,21 @@
   },
   {
     "Rank": 25,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Category": "Administration"
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Category": "Engineering & Technology"
-  },
-  {
-    "Rank": 27,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
-    "Category": "Marketing"
   },
   {
     "Rank": 28,

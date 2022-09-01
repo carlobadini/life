@@ -58,5 +58,12 @@
   "27": {},
   "28": {},
   "29": {},
-  "30": {}
+  "30": {
+    "score": 67,
+    "score_previous_day": 95,
+    "score_previous_night": 58,
+    "score_recovery_index": 34,
+    "score_resting_hr": 81,
+    "score_temperature": 68
+  }
 }

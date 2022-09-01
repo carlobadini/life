@@ -65,10 +65,17 @@
   "28": {},
   "29": {},
   "30": {
-    "steps": 3708,
-    "total": 115,
-    "cal_active": 154,
-    "cal_total": 2163,
-    "score": 50
+    "steps": 4397,
+    "total": 144,
+    "cal_active": 183,
+    "cal_total": 2252,
+    "score": 48
+  },
+  "31": {
+    "steps": 3678,
+    "total": 168,
+    "cal_active": 167,
+    "cal_total": 2154,
+    "score": 46
   }
 }

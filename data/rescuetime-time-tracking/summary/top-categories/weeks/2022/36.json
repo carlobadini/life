@@ -63,7 +63,39 @@
     "General Shopping": 11,
     "Society": 7,
     "Email": 3,
-    "General News & Opinion": 2,
-    "General Design & Composition": 2
-  }
+    "General Design & Composition": 2,
+    "General News & Opinion": 2
+  },
+  "2022-08-31": {
+    "Intelligence": 7253,
+    "Uncategorized": 4729,
+    "Communications": 4130,
+    "General Business": 2327,
+    "Email": 1903,
+    "Meetings": 1650,
+    "Science & Technology": 1474,
+    "Video": 1372,
+    "Project Management": 1368,
+    "General News & Opinion": 1149,
+    "Travel & Outdoors": 635,
+    "Instant Message": 514,
+    "Search": 415,
+    "Sales": 415,
+    "Professional Networking": 367,
+    "Browsers": 315,
+    "Marketing": 279,
+    "General Shopping": 189,
+    "Writing": 86,
+    "General Reference & Learning": 58,
+    "General Communication & Scheduling": 46,
+    "General Entertainment": 23,
+    "Presentation": 22,
+    "General Software Development": 6,
+    "Society": 2,
+    "General Utilities": 2,
+    "General Social Networking": 1
+  },
+  "2022-09-1": {},
+  "2022-09-2": {},
+  "2022-09-3": {}
 }

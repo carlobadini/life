@@ -4,18 +4,24 @@
   "2022-08-30": {
     "steps": 4397,
     "total": 144,
-    "cal_active": 183,
-    "cal_total": 2252,
+    "cal_active": 185,
+    "cal_total": 2271,
     "score": 48
   },
   "2022-08-31": {
-    "steps": 3678,
-    "total": 168,
-    "cal_active": 167,
-    "cal_total": 2154,
+    "steps": 5101,
+    "total": 232,
+    "cal_active": 246,
+    "cal_total": 2371,
     "score": 46
   },
-  "2022-09-1": {},
+  "2022-09-1": {
+    "steps": 6546,
+    "total": 229,
+    "cal_active": 309,
+    "cal_total": 2463,
+    "score": 47
+  },
   "2022-09-2": {},
   "2022-09-3": {}
 }

@@ -1,14 +1,12 @@
 [
   {
     "summary_date": "2022-08-30",
-    "period_id": 3,
     "score": 67,
     "score_previous_day": 95,
     "score_previous_night": 58,
     "score_recovery_index": 34,
     "score_resting_hr": 81,
     "score_temperature": 68,
-    "rest_mode_state": 0,
     "score_hrv_balance": null,
     "score_sleep_balance": null
   }

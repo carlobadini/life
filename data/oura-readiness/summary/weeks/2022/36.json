@@ -9,6 +9,14 @@
     "score_resting_hr": 81,
     "score_temperature": 68
   },
+  "2022-08-31": {
+    "score": 86,
+    "score_previous_day": 86,
+    "score_previous_night": 73,
+    "score_recovery_index": 84,
+    "score_resting_hr": 99,
+    "score_temperature": 86
+  },
   "2022-09-1": {},
   "2022-09-2": {},
   "2022-09-3": {}

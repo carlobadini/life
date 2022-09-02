@@ -54,7 +54,16 @@
   "26": {},
   "27": {},
   "28": {},
-  "29": {},
+  "29": {
+    "total": 510,
+    "rem": 0,
+    "awake": 570,
+    "deep": 300,
+    "duration": 1080,
+    "efficiency": 47,
+    "light": 210,
+    "score": 34
+  },
   "30": {
     "total": 24660,
     "rem": 1650,
@@ -64,5 +73,15 @@
     "efficiency": 87,
     "light": 15630,
     "score": 69
+  },
+  "31": {
+    "total": 23280,
+    "rem": 2790,
+    "awake": 3240,
+    "deep": 10290,
+    "duration": 26520,
+    "efficiency": 88,
+    "light": 10200,
+    "score": 75
   }
 }

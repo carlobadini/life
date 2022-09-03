@@ -764,8 +764,8 @@
     "General News & Opinion": 1149,
     "Travel & Outdoors": 635,
     "Instant Message": 514,
-    "Sales": 415,
     "Search": 415,
+    "Sales": 415,
     "Professional Networking": 367,
     "Browsers": 315,
     "Marketing": 279,
@@ -776,8 +776,8 @@
     "General Entertainment": 23,
     "Presentation": 22,
     "General Software Development": 6,
-    "Society": 2,
     "General Utilities": 2,
+    "Society": 2,
     "General Social Networking": 1
   }
 }

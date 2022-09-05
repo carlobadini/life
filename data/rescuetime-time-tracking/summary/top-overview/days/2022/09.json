@@ -28,15 +28,25 @@
     "Social Networking": 157
   },
   "3": {
-    "Business": 3874,
+    "Business": 3878,
     "Communication & Scheduling": 627,
-    "Reference & Learning": 560,
+    "Reference & Learning": 588,
     "Other Work": 415,
-    "Utilities": 318,
+    "Utilities": 331,
     "Uncategorized": 236,
     "Social Networking": 175
   },
-  "4": {},
+  "4": {
+    "Social Networking": 1561,
+    "Business": 1537,
+    "Uncategorized": 626,
+    "Communication & Scheduling": 534,
+    "Other Work": 393,
+    "News & Opinion": 156,
+    "Entertainment": 88,
+    "Reference & Learning": 58,
+    "Utilities": 43
+  },
   "5": {},
   "6": {},
   "7": {},

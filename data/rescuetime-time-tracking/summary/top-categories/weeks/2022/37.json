@@ -16,8 +16,8 @@
     "Employment": 14,
     "Marketing": 5,
     "General Social Networking": 2,
-    "Meetings": 1,
-    "Science & Technology": 1
+    "Science & Technology": 1,
+    "Meetings": 1
   },
   "2022-09-5": {
     "Email": 2503,
@@ -61,7 +61,33 @@
     "General Communication & Scheduling": 5,
     "General Software Development": 3
   },
-  "2022-09-7": {},
+  "2022-09-7": {
+    "Meetings": 5900,
+    "Communications": 4294,
+    "General Business": 3027,
+    "Professional Networking": 2582,
+    "Video": 2238,
+    "Project Management": 1957,
+    "Uncategorized": 1750,
+    "Marketing": 1739,
+    "Email": 1455,
+    "General Reference & Learning": 1332,
+    "General Social Networking": 1266,
+    "General Software Development": 899,
+    "Search": 457,
+    "Instant Message": 404,
+    "Accounting": 237,
+    "Intelligence": 173,
+    "Science & Technology": 167,
+    "General Utilities": 147,
+    "Browsers": 123,
+    "General Entertainment": 76,
+    "General News & Opinion": 46,
+    "General Shopping": 24,
+    "General Communication & Scheduling": 12,
+    "Engineering & Technology": 11,
+    "Travel & Outdoors": 10
+  },
   "2022-09-8": {},
   "2022-09-9": {},
   "2022-09-10": {}

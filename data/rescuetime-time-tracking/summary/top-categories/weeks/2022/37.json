@@ -88,7 +88,38 @@
     "Engineering & Technology": 11,
     "Travel & Outdoors": 10
   },
-  "2022-09-8": {},
-  "2022-09-9": {},
+  "2022-09-8": {
+    "Meetings": 9750,
+    "Communications": 2774,
+    "General Business": 2421,
+    "General Reference & Learning": 1401,
+    "Marketing": 1293,
+    "General News & Opinion": 1062,
+    "General Design & Composition": 613,
+    "Uncategorized": 574,
+    "Project Management": 477,
+    "Instant Message": 462,
+    "Professional Networking": 420,
+    "Engineering & Technology": 327,
+    "Email": 288,
+    "General Utilities": 206,
+    "Sales": 176,
+    "Browsers": 175,
+    "Intelligence": 114,
+    "Search": 93,
+    "General Entertainment": 50,
+    "General Software Development": 33,
+    "General Communication & Scheduling": 11
+  },
+  "2022-09-9": {
+    "Communications": 72,
+    "Project Management": 37,
+    "Uncategorized": 34,
+    "Meetings": 24,
+    "Professional Networking": 16,
+    "Marketing": 6,
+    "Instant Message": 4,
+    "Search": 2
+  },
   "2022-09-10": {}
 }

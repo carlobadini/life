@@ -61,12 +61,26 @@
     "Software Development": 33
   },
   "2022-09-9": {
-    "Other Work": 72,
-    "Business": 43,
-    "Uncategorized": 34,
-    "Communication & Scheduling": 28,
-    "Social Networking": 16,
-    "Reference & Learning": 2
+    "Business": 6437,
+    "Communication & Scheduling": 5382,
+    "Other Work": 4398,
+    "Uncategorized": 3976,
+    "Reference & Learning": 2656,
+    "Social Networking": 2070,
+    "Entertainment": 1975,
+    "Design & Composition": 682,
+    "Utilities": 525,
+    "News & Opinion": 514,
+    "Shopping": 134
   },
-  "2022-09-10": {}
+  "2022-09-10": {
+    "Business": 661,
+    "Other Work": 296,
+    "Social Networking": 68,
+    "Communication & Scheduling": 38,
+    "Reference & Learning": 12,
+    "Utilities": 2,
+    "Uncategorized": 1,
+    "Entertainment": 1
+  }
 }

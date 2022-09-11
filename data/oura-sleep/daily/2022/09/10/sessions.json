@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "summary_date": "2022-09-10",
+    "period_id": 0,
+    "timestamp": "2022-09-11T00:00:00.000Z",
+    "is_longest": 1,
+    "timezone": 120,
+    "bedtime_end": "2022-09-10T22:35:01+02:00",
+    "bedtime_start": "2022-09-10T22:17:01+02:00",
+    "breath_average": 13.125,
+    "average_breath_variation": 3.75,
+    "duration": 1080,
+    "total": 210,
+    "awake": 870,
+    "rem": 0,
+    "deep": 0,
+    "light": 210,
+    "midpoint_time": 480,
+    "efficiency": 19,
+    "restless": 6,
+    "onset_latency": 0,
+    "got_up_count": 0,
+    "wake_up_count": 0,
+    "hr_5min": [
+      0,
+      63,
+      63,
+      63
+    ],
+    "hr_average": 58.875,
+    "hr_lowest": 63,
+    "lowest_heart_rate_time_offset": 300,
+    "hypnogram_5min": "4211",
+    "rmssd": 54,
+    "rmssd_5min": [
+      0,
+      45,
+      47,
+      54
+    ],
+    "score": 26,
+    "score_alignment": 52,
+    "score_deep": 1,
+    "score_disturbances": 99,
+    "score_efficiency": 1,
+    "score_latency": 59,
+    "score_rem": 1,
+    "score_total": 1,
+    "bedtime_start_delta": -6179,
+    "bedtime_end_delta": -5099,
+    "midpoint_at_delta": -5699
+  }
+]

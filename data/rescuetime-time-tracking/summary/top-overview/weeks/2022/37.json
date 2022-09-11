@@ -74,13 +74,15 @@
     "Shopping": 134
   },
   "2022-09-10": {
-    "Business": 661,
-    "Other Work": 296,
-    "Social Networking": 68,
-    "Communication & Scheduling": 38,
-    "Reference & Learning": 12,
-    "Utilities": 2,
-    "Uncategorized": 1,
-    "Entertainment": 1
+    "Entertainment": 4353,
+    "Business": 3482,
+    "Social Networking": 1644,
+    "Other Work": 1132,
+    "Uncategorized": 1088,
+    "Communication & Scheduling": 842,
+    "Reference & Learning": 410,
+    "News & Opinion": 285,
+    "Utilities": 155,
+    "Shopping": 72
   }
 }

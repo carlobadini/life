@@ -140,18 +140,25 @@
     "Business": 1
   },
   "2022-09-10": {
-    "Project Management": 505,
-    "Communications": 296,
-    "Intelligence": 138,
-    "General Social Networking": 66,
-    "Instant Message": 33,
-    "Marketing": 18,
-    "Search": 12,
-    "Email": 3,
-    "Professional Networking": 2,
-    "Meetings": 2,
-    "Browsers": 2,
-    "Uncategorized": 1,
-    "Video": 1
+    "Video": 4190,
+    "General Business": 2028,
+    "Professional Networking": 1480,
+    "Communications": 1132,
+    "Uncategorized": 1088,
+    "Project Management": 690,
+    "Meetings": 455,
+    "Search": 410,
+    "Marketing": 292,
+    "Intelligence": 249,
+    "Entertainment": 226,
+    "Sales": 223,
+    "Instant Message": 218,
+    "Email": 169,
+    "General Social Networking": 164,
+    "General Entertainment": 163,
+    "General Utilities": 92,
+    "General Shopping": 72,
+    "Browsers": 63,
+    "Science & Technology": 59
   }
 }

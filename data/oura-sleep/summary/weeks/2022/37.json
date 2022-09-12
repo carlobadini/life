@@ -42,13 +42,13 @@
     "score": 75
   },
   "2022-09-10": {
-    "total": 210,
-    "rem": 0,
-    "awake": 870,
-    "deep": 0,
-    "duration": 1080,
-    "efficiency": 19,
-    "light": 210,
-    "score": 26
+    "total": 25080,
+    "rem": 2040,
+    "awake": 3600,
+    "deep": 8880,
+    "duration": 28680,
+    "efficiency": 87,
+    "light": 14160,
+    "score": 73
   }
 }

@@ -1,0 +1,44 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 356,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 144,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Browsers"
+  }
+]

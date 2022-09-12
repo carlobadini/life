@@ -122,8 +122,24 @@
     "Utilities": 155,
     "Shopping": 72
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Business": 8094,
+    "Social Networking": 1011,
+    "Other Work": 960,
+    "Communication & Scheduling": 652,
+    "Uncategorized": 557,
+    "Reference & Learning": 185,
+    "Utilities": 141,
+    "News & Opinion": 43,
+    "Shopping": 2
+  },
+  "12": {
+    "Business": 358,
+    "Communication & Scheduling": 187,
+    "Social Networking": 144,
+    "Other Work": 75,
+    "Utilities": 2
+  },
   "13": {},
   "14": {},
   "15": {},

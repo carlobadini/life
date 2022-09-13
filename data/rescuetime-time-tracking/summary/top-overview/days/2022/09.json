@@ -134,11 +134,16 @@
     "Shopping": 2
   },
   "12": {
-    "Business": 358,
-    "Communication & Scheduling": 187,
-    "Social Networking": 144,
-    "Other Work": 75,
-    "Utilities": 2
+    "Social Networking": 3579,
+    "Business": 3114,
+    "Design & Composition": 2861,
+    "Communication & Scheduling": 2390,
+    "Other Work": 920,
+    "Reference & Learning": 324,
+    "News & Opinion": 320,
+    "Uncategorized": 249,
+    "Entertainment": 97,
+    "Utilities": 85
   },
   "13": {},
   "14": {},

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 245,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 200,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  }
+]

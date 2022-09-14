@@ -12,7 +12,7 @@
   },
   "2022-09-12": {
     "Social Networking": 3579,
-    "Business": 3114,
+    "Business": 3205,
     "Design & Composition": 2861,
     "Communication & Scheduling": 2390,
     "Other Work": 920,
@@ -22,7 +22,15 @@
     "Entertainment": 97,
     "Utilities": 85
   },
-  "2022-09-13": {},
+  "2022-09-13": {
+    "Social Networking": 245,
+    "Business": 206,
+    "Other Work": 56,
+    "Uncategorized": 16,
+    "Reference & Learning": 9,
+    "Communication & Scheduling": 4,
+    "Utilities": 4
+  },
   "2022-09-14": {},
   "2022-09-15": {},
   "2022-09-16": {},

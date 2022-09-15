@@ -40,14 +40,25 @@
   "2022-09-13": {
     "Professional Networking": 245,
     "General Business": 200,
-    "Communications": 56,
+    "Communications": 70,
     "Uncategorized": 16,
     "Search": 9,
     "Project Management": 6,
     "Browsers": 4,
     "Instant Message": 4
   },
-  "2022-09-14": {},
+  "2022-09-14": {
+    "Professional Networking": 226,
+    "Uncategorized": 194,
+    "Instant Message": 66,
+    "Communications": 18,
+    "Search": 17,
+    "Browsers": 11,
+    "Email": 4,
+    "General Utilities": 3,
+    "Intelligence": 2,
+    "General Business": 1
+  },
   "2022-09-15": {},
   "2022-09-16": {},
   "2022-09-17": {}

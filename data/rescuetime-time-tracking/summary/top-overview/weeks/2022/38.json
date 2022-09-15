@@ -25,13 +25,21 @@
   "2022-09-13": {
     "Social Networking": 245,
     "Business": 206,
-    "Other Work": 56,
+    "Other Work": 70,
     "Uncategorized": 16,
     "Reference & Learning": 9,
-    "Communication & Scheduling": 4,
-    "Utilities": 4
+    "Utilities": 4,
+    "Communication & Scheduling": 4
   },
-  "2022-09-14": {},
+  "2022-09-14": {
+    "Social Networking": 226,
+    "Uncategorized": 194,
+    "Communication & Scheduling": 70,
+    "Other Work": 18,
+    "Reference & Learning": 17,
+    "Utilities": 14,
+    "Business": 3
+  },
   "2022-09-15": {},
   "2022-09-16": {},
   "2022-09-17": {}

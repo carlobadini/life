@@ -50,16 +50,30 @@
   "2022-09-14": {
     "Professional Networking": 226,
     "Uncategorized": 194,
-    "Instant Message": 66,
+    "Instant Message": 69,
     "Communications": 18,
     "Search": 17,
     "Browsers": 11,
+    "Intelligence": 5,
     "Email": 4,
     "General Utilities": 3,
-    "Intelligence": 2,
     "General Business": 1
   },
-  "2022-09-15": {},
+  "2022-09-15": {
+    "Video": 6164,
+    "General News & Opinion": 1920,
+    "Professional Networking": 294,
+    "Uncategorized": 152,
+    "Search": 96,
+    "Intelligence": 72,
+    "General Social Networking": 67,
+    "General Reference & Learning": 49,
+    "General Business": 40,
+    "Project Management": 34,
+    "Communications": 22,
+    "Instant Message": 21,
+    "Browsers": 16
+  },
   "2022-09-16": {},
   "2022-09-17": {}
 }

@@ -283,8 +283,8 @@
     "Uncategorized": 16,
     "Search": 9,
     "Project Management": 6,
-    "Browsers": 4,
-    "Instant Message": 4
+    "Instant Message": 4,
+    "Browsers": 4
   },
   "14": {
     "Professional Networking": 226,
@@ -313,7 +313,24 @@
     "Instant Message": 21,
     "Browsers": 16
   },
-  "16": {},
+  "16": {
+    "Professional Networking": 1441,
+    "Communications": 1085,
+    "General Reference & Learning": 947,
+    "Search": 325,
+    "Travel & Outdoors": 231,
+    "Uncategorized": 217,
+    "General Business": 182,
+    "Browsers": 77,
+    "Meetings": 47,
+    "Marketing": 45,
+    "Intelligence": 22,
+    "General News & Opinion": 12,
+    "General Communication & Scheduling": 7,
+    "General Utilities": 6,
+    "Email": 4,
+    "Project Management": 4
+  },
   "17": {},
   "18": {},
   "19": {},

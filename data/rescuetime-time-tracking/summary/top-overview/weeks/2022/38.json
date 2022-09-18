@@ -52,14 +52,25 @@
     "Utilities": 16
   },
   "2022-09-16": {
-    "Reference & Learning": 1503,
+    "Reference & Learning": 1577,
     "Social Networking": 1441,
     "Other Work": 1085,
-    "Business": 253,
+    "Business": 285,
     "Uncategorized": 217,
     "Utilities": 83,
     "Communication & Scheduling": 58,
     "News & Opinion": 12
   },
-  "2022-09-17": {}
+  "2022-09-17": {
+    "Entertainment": 5064,
+    "Business": 780,
+    "Social Networking": 776,
+    "Other Work": 721,
+    "Reference & Learning": 604,
+    "News & Opinion": 478,
+    "Uncategorized": 387,
+    "Utilities": 343,
+    "Shopping": 267,
+    "Communication & Scheduling": 15
+  }
 }

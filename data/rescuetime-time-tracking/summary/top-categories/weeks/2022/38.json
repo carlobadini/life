@@ -77,14 +77,14 @@
   "2022-09-16": {
     "Professional Networking": 1441,
     "Communications": 1085,
-    "General Reference & Learning": 947,
-    "Search": 325,
+    "General Reference & Learning": 983,
+    "Search": 363,
     "Travel & Outdoors": 231,
     "Uncategorized": 217,
     "General Business": 182,
     "Browsers": 77,
+    "Marketing": 77,
     "Meetings": 47,
-    "Marketing": 45,
     "Intelligence": 22,
     "General News & Opinion": 12,
     "General Communication & Scheduling": 7,
@@ -92,5 +92,22 @@
     "Email": 4,
     "Project Management": 4
   },
-  "2022-09-17": {}
+  "2022-09-17": {
+    "Video": 5064,
+    "Professional Networking": 776,
+    "Communications": 721,
+    "Project Management": 672,
+    "Search": 591,
+    "Science & Technology": 469,
+    "Uncategorized": 387,
+    "General Utilities": 307,
+    "Office": 267,
+    "Marketing": 55,
+    "Intelligence": 53,
+    "Browsers": 36,
+    "Email": 14,
+    "General Reference & Learning": 13,
+    "Regional": 9,
+    "General Communication & Scheduling": 1
+  }
 }

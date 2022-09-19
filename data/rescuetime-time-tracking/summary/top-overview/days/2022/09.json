@@ -196,7 +196,18 @@
     "Shopping": 267,
     "Communication & Scheduling": 15
   },
-  "18": {},
+  "18": {
+    "Entertainment": 9611,
+    "Business": 922,
+    "Communication & Scheduling": 407,
+    "Uncategorized": 365,
+    "Other Work": 338,
+    "News & Opinion": 289,
+    "Reference & Learning": 271,
+    "Shopping": 153,
+    "Social Networking": 72,
+    "Utilities": 35
+  },
   "19": {},
   "20": {},
   "21": {},

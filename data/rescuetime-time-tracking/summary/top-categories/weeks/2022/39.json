@@ -61,8 +61,8 @@
     "Meetings": 433,
     "General Entertainment": 373,
     "Travel & Outdoors": 372,
-    "General Reference & Learning": 285,
     "Marketing": 285,
+    "General Reference & Learning": 285,
     "Search": 245,
     "Internet Utilities": 200,
     "General News & Opinion": 196,
@@ -93,7 +93,28 @@
     "Intelligence": 15,
     "General Utilities": 10
   },
-  "2022-09-22": {},
-  "2022-09-23": {},
+  "2022-09-22": {
+    "Presentation": 1879,
+    "General Reference & Learning": 1531,
+    "Intelligence": 105,
+    "Video": 75,
+    "Communications": 19,
+    "General Utilities": 13,
+    "Search": 6,
+    "Browsers": 6,
+    "General Communication & Scheduling": 3
+  },
+  "2022-09-23": {
+    "Travel & Outdoors": 240,
+    "Project Management": 133,
+    "Writing": 78,
+    "Email": 66,
+    "Uncategorized": 62,
+    "General Reference & Learning": 3,
+    "Browsers": 3,
+    "General Business": 2,
+    "Presentation": 1,
+    "Search": 1
+  },
   "2022-09-24": {}
 }

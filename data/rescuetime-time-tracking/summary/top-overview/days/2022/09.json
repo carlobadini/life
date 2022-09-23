@@ -245,8 +245,23 @@
     "Social Networking": 56,
     "Utilities": 51
   },
-  "22": {},
-  "23": {},
+  "22": {
+    "Design & Composition": 1879,
+    "Reference & Learning": 1537,
+    "Business": 105,
+    "Entertainment": 75,
+    "Other Work": 19,
+    "Utilities": 19,
+    "Communication & Scheduling": 3
+  },
+  "23": {
+    "Reference & Learning": 244,
+    "Business": 135,
+    "Design & Composition": 79,
+    "Communication & Scheduling": 66,
+    "Uncategorized": 62,
+    "Utilities": 3
+  },
   "24": {},
   "25": {},
   "26": {},

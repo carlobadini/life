@@ -255,14 +255,21 @@
     "Communication & Scheduling": 3
   },
   "23": {
-    "Reference & Learning": 244,
-    "Business": 135,
-    "Design & Composition": 79,
-    "Communication & Scheduling": 66,
-    "Uncategorized": 62,
-    "Utilities": 3
+    "Communication & Scheduling": 1474,
+    "Uncategorized": 1369,
+    "Reference & Learning": 1117,
+    "Utilities": 565,
+    "Business": 427,
+    "Shopping": 177,
+    "Software Development": 87,
+    "Design & Composition": 84,
+    "Other Work": 10,
+    "Social Networking": 5,
+    "Entertainment": 3
   },
-  "24": {},
+  "24": {
+    "Other Work": 1
+  },
   "25": {},
   "26": {},
   "27": {},

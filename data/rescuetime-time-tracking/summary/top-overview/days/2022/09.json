@@ -268,16 +268,26 @@
     "Entertainment": 3
   },
   "24": {
-    "Other Work": 1057,
-    "Communication & Scheduling": 248,
+    "Other Work": 1094,
+    "Communication & Scheduling": 437,
     "News & Opinion": 145,
     "Business": 113,
+    "Uncategorized": 57,
+    "Social Networking": 45,
     "Design & Composition": 23,
-    "Uncategorized": 21,
     "Reference & Learning": 7,
     "Utilities": 6
   },
-  "25": {},
+  "25": {
+    "Business": 1040,
+    "Social Networking": 630,
+    "Uncategorized": 325,
+    "Other Work": 305,
+    "Communication & Scheduling": 278,
+    "Reference & Learning": 67,
+    "Design & Composition": 9,
+    "Utilities": 5
+  },
   "26": {},
   "27": {},
   "28": {},

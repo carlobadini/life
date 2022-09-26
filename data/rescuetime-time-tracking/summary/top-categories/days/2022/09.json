@@ -477,17 +477,29 @@
     "Presentation": 1
   },
   "24": {
-    "Communications": 1057,
-    "Instant Message": 188,
+    "Communications": 1094,
+    "Instant Message": 377,
     "Society": 145,
     "Project Management": 113,
     "Email": 60,
+    "Uncategorized": 57,
+    "Professional Networking": 45,
     "Writing": 23,
-    "Uncategorized": 21,
     "Search": 7,
     "General Utilities": 6
   },
-  "25": {},
+  "25": {
+    "Project Management": 1019,
+    "Professional Networking": 630,
+    "Uncategorized": 325,
+    "Communications": 305,
+    "Instant Message": 261,
+    "Search": 67,
+    "General Business": 21,
+    "Email": 17,
+    "Writing": 9,
+    "Browsers": 5
+  },
   "26": {},
   "27": {},
   "28": {},

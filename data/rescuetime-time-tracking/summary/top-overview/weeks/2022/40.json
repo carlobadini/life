@@ -9,8 +9,27 @@
     "Design & Composition": 9,
     "Utilities": 5
   },
-  "2022-09-26": {},
-  "2022-09-27": {},
+  "2022-09-26": {
+    "News & Opinion": 965,
+    "Social Networking": 619,
+    "Reference & Learning": 597,
+    "Business": 483,
+    "Communication & Scheduling": 211,
+    "Design & Composition": 175,
+    "Other Work": 123,
+    "Uncategorized": 48,
+    "Utilities": 25
+  },
+  "2022-09-27": {
+    "Uncategorized": 1719,
+    "Shopping": 918,
+    "Reference & Learning": 429,
+    "Communication & Scheduling": 205,
+    "Social Networking": 107,
+    "Business": 65,
+    "Utilities": 55,
+    "Other Work": 14
+  },
   "2022-09-28": {},
   "2022-09-29": {}
 }

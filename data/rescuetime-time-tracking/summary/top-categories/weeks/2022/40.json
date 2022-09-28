@@ -11,8 +11,34 @@
     "Writing": 9,
     "Browsers": 5
   },
-  "2022-09-26": {},
-  "2022-09-27": {},
+  "2022-09-26": {
+    "Society": 965,
+    "Professional Networking": 619,
+    "Project Management": 413,
+    "Search": 374,
+    "Travel & Outdoors": 223,
+    "Writing": 163,
+    "Communications": 123,
+    "Email": 117,
+    "Instant Message": 94,
+    "Intelligence": 70,
+    "Uncategorized": 48,
+    "Browsers": 25,
+    "Engineering & Drafting": 12
+  },
+  "2022-09-27": {
+    "Uncategorized": 1719,
+    "Office": 918,
+    "Travel & Outdoors": 252,
+    "Instant Message": 179,
+    "Search": 177,
+    "Professional Networking": 107,
+    "Intelligence": 64,
+    "Browsers": 55,
+    "Email": 26,
+    "Communications": 14,
+    "Project Management": 1
+  },
   "2022-09-28": {},
   "2022-09-29": {}
 }

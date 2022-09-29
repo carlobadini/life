@@ -22,7 +22,7 @@
   },
   "2022-09-27": {
     "Uncategorized": 1719,
-    "Shopping": 918,
+    "Shopping": 1040,
     "Reference & Learning": 429,
     "Communication & Scheduling": 205,
     "Social Networking": 107,
@@ -30,6 +30,15 @@
     "Utilities": 55,
     "Other Work": 14
   },
-  "2022-09-28": {},
+  "2022-09-28": {
+    "Communication & Scheduling": 2187,
+    "Uncategorized": 585,
+    "Business": 563,
+    "Social Networking": 167,
+    "Reference & Learning": 32,
+    "Utilities": 14,
+    "Shopping": 12,
+    "Other Work": 10
+  },
   "2022-09-29": {}
 }

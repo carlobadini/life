@@ -28,7 +28,7 @@
   },
   "2022-09-27": {
     "Uncategorized": 1719,
-    "Office": 918,
+    "Office": 1040,
     "Travel & Outdoors": 252,
     "Instant Message": 179,
     "Search": 177,
@@ -39,6 +39,20 @@
     "Communications": 14,
     "Project Management": 1
   },
-  "2022-09-28": {},
+  "2022-09-28": {
+    "Meetings": 2095,
+    "Uncategorized": 585,
+    "Project Management": 491,
+    "Professional Networking": 167,
+    "Sales": 69,
+    "Instant Message": 64,
+    "Search": 31,
+    "Email": 28,
+    "Browsers": 14,
+    "Office": 12,
+    "Communications": 10,
+    "Intelligence": 3,
+    "Travel & Outdoors": 1
+  },
   "2022-09-29": {}
 }

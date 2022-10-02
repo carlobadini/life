@@ -81,21 +81,21 @@
     "General Social Networking": 1
   },
   "2022-09-30": {
-    "Uncategorized": 1038,
+    "Uncategorized": 1102,
     "Engineering & Technology": 967,
-    "General Shopping": 471,
+    "General Shopping": 472,
     "Electronics": 354,
-    "Search": 322,
+    "Search": 343,
     "Instant Message": 241,
-    "Browsers": 172,
-    "Professional Networking": 158,
+    "Browsers": 187,
+    "Professional Networking": 159,
+    "General News & Opinion": 156,
     "Travel & Outdoors": 126,
-    "General News & Opinion": 97,
+    "General Business": 73,
     "Intelligence": 68,
     "Project Management": 64,
+    "General Reference & Learning": 62,
     "Communications": 49,
-    "General Business": 49,
-    "General Reference & Learning": 45,
     "General Communication & Scheduling": 35,
     "Business": 33,
     "Email": 25,
@@ -105,5 +105,14 @@
     "Sales": 8,
     "Office": 4
   },
-  "2022-10-1": {}
+  "2022-10-1": {
+    "Meetings": 3560,
+    "General Business": 351,
+    "Project Management": 338,
+    "Communications": 140,
+    "Professional Networking": 49,
+    "General Reference & Learning": 19,
+    "General News & Opinion": 2,
+    "General Shopping": 1
+  }
 }

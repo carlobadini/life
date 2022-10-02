@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1038,
+    "Time Spent (seconds)": 1102,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 471,
+    "Time Spent (seconds)": 472,
     "Number of People": 1,
     "Category": "General Shopping"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 322,
+    "Time Spent (seconds)": 343,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -37,57 +37,57 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 172,
+    "Time Spent (seconds)": 187,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 158,
+    "Time Spent (seconds)": 159,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 156,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 126,
     "Number of People": 1,
     "Category": "Travel & Outdoors"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 97,
+    "Rank": 11,
+    "Time Spent (seconds)": 73,
     "Number of People": 1,
-    "Category": "General News & Opinion"
+    "Category": "General Business"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 64,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 49,
-    "Number of People": 1,
-    "Category": "Communications"
-  },
-  {
     "Rank": 14,
-    "Time Spent (seconds)": 49,
+    "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Category": "General Business"
+    "Category": "General Reference & Learning"
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 45,
+    "Time Spent (seconds)": 49,
     "Number of People": 1,
-    "Category": "General Reference & Learning"
+    "Category": "Communications"
   },
   {
     "Rank": 16,

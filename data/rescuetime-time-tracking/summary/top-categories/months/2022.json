@@ -485,12 +485,13 @@
   "10": {
     "Meetings": 3560,
     "General Business": 351,
-    "Project Management": 338,
+    "Project Management": 346,
     "Communications": 140,
     "Professional Networking": 49,
     "General Reference & Learning": 19,
     "General News & Opinion": 2,
-    "General Shopping": 1
+    "General Shopping": 1,
+    "Intelligence": 10
   },
   "11": {},
   "12": {}

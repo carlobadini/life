@@ -1,8 +1,23 @@
 {
   "2022-10-2": {
-    "Business": 18
+    "Business": 18,
+    "Entertainment": 16,
+    "Communication & Scheduling": 5
   },
-  "2022-10-3": {},
+  "2022-10-3": {
+    "Communication & Scheduling": 9185,
+    "Business": 4178,
+    "Uncategorized": 2051,
+    "Other Work": 1944,
+    "Reference & Learning": 891,
+    "Entertainment": 837,
+    "Design & Composition": 495,
+    "Utilities": 367,
+    "Shopping": 237,
+    "News & Opinion": 220,
+    "Social Networking": 201,
+    "Software Development": 12
+  },
   "2022-10-4": {},
   "2022-10-5": {},
   "2022-10-6": {},

@@ -67,8 +67,8 @@
     "Marketing": 43,
     "File Sharing": 14,
     "Business": 14,
-    "Engineering & Drafting": 8,
     "Office": 8,
+    "Engineering & Drafting": 8,
     "Writing": 3
   },
   "5": {
@@ -93,7 +93,25 @@
     "File Sharing": 4,
     "General Software Development": 3
   },
-  "6": {},
+  "6": {
+    "Professional Networking": 973,
+    "General Reference & Learning": 697,
+    "Uncategorized": 562,
+    "Communications": 490,
+    "General Shopping": 416,
+    "Email": 378,
+    "Search": 348,
+    "General Entertainment": 342,
+    "Video": 339,
+    "Travel & Outdoors": 270,
+    "Marketing": 262,
+    "Browsers": 202,
+    "Intelligence": 83,
+    "General Design & Composition": 77,
+    "Project Management": 44,
+    "General Business": 39,
+    "General Utilities": 4
+  },
   "7": {},
   "8": {},
   "9": {},

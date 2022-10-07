@@ -52,7 +52,18 @@
     "News & Opinion": 80,
     "Software Development": 3
   },
-  "6": {},
+  "6": {
+    "Reference & Learning": 1315,
+    "Social Networking": 973,
+    "Entertainment": 681,
+    "Uncategorized": 562,
+    "Other Work": 490,
+    "Business": 428,
+    "Shopping": 416,
+    "Communication & Scheduling": 378,
+    "Utilities": 206,
+    "Design & Composition": 77
+  },
   "7": {},
   "8": {},
   "9": {},

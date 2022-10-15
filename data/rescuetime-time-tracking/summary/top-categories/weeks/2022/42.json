@@ -135,6 +135,32 @@
     "Marketing": 13,
     "General Communication & Scheduling": 5
   },
-  "2022-10-14": {},
+  "2022-10-14": {
+    "Uncategorized": 6341,
+    "General Business": 4038,
+    "Communications": 2969,
+    "Project Management": 2592,
+    "Email": 2512,
+    "Meetings": 1842,
+    "Professional Networking": 1473,
+    "General Reference & Learning": 1021,
+    "Search": 901,
+    "General Social Networking": 873,
+    "Video": 477,
+    "Office": 383,
+    "General Software Development": 354,
+    "Instant Message": 336,
+    "General News & Opinion": 315,
+    "Marketing": 290,
+    "General Utilities": 181,
+    "Home & Garden": 177,
+    "Browsers": 139,
+    "Accounting": 116,
+    "General Shopping": 107,
+    "Engineering & Technology": 98,
+    "Intelligence": 88,
+    "General Entertainment": 34,
+    "Clothes & Personal": 7
+  },
   "2022-10-15": {}
 }

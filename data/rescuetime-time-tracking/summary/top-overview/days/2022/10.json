@@ -144,8 +144,22 @@
     "Utilities": 320,
     "News & Opinion": 315
   },
-  "15": {},
-  "16": {},
+  "15": {
+    "Entertainment": 7988,
+    "Business": 5200,
+    "News & Opinion": 3547,
+    "Reference & Learning": 2270,
+    "Uncategorized": 1467,
+    "Communication & Scheduling": 1195,
+    "Other Work": 910,
+    "Social Networking": 909,
+    "Shopping": 652,
+    "Utilities": 381,
+    "Design & Composition": 200
+  },
+  "16": {
+    "Entertainment": 355
+  },
   "17": {},
   "18": {},
   "19": {},

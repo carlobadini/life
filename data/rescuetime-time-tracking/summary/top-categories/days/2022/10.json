@@ -303,8 +303,21 @@
     "Marketing": 3
   },
   "16": {
-    "Video": 353,
-    "General Entertainment": 2
+    "Uncategorized": 605,
+    "Communications": 375,
+    "Video": 357,
+    "General Social Networking": 145,
+    "Meetings": 112,
+    "Search": 108,
+    "Project Management": 105,
+    "General Reference & Learning": 63,
+    "Calendars": 54,
+    "General Utilities": 46,
+    "Intelligence": 43,
+    "Browsers": 29,
+    "Sales": 21,
+    "General Entertainment": 7,
+    "General Communication & Scheduling": 4
   },
   "17": {},
   "18": {},

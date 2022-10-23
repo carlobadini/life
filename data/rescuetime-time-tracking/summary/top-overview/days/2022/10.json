@@ -234,8 +234,26 @@
     "Utilities": 386,
     "Social Networking": 50
   },
-  "22": {},
-  "23": {},
+  "22": {
+    "Business": 6559,
+    "Entertainment": 4711,
+    "Communication & Scheduling": 4524,
+    "Reference & Learning": 3227,
+    "Uncategorized": 2473,
+    "Social Networking": 1477,
+    "Other Work": 1020,
+    "News & Opinion": 363,
+    "Shopping": 295,
+    "Utilities": 178,
+    "Software Development": 113
+  },
+  "23": {
+    "Entertainment": 3265,
+    "Uncategorized": 443,
+    "Business": 28,
+    "Reference & Learning": 26,
+    "Utilities": 10
+  },
   "24": {},
   "25": {},
   "26": {},

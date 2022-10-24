@@ -1,13 +1,21 @@
 {
   "2022-10-23": {
-    "Video": 3265,
-    "Uncategorized": 443,
-    "Intelligence": 28,
-    "General Reference & Learning": 17,
-    "Browsers": 10,
-    "Search": 9
+    "Video": 4974,
+    "Uncategorized": 501,
+    "Games": 390,
+    "Communications": 349,
+    "Intelligence": 162,
+    "Project Management": 47,
+    "Search": 46,
+    "General Communication & Scheduling": 25,
+    "Internet Utilities": 19,
+    "General Reference & Learning": 18,
+    "Browsers": 14
   },
-  "2022-10-24": {},
+  "2022-10-24": {
+    "Video": 2432,
+    "Intelligence": 25
+  },
   "2022-10-25": {},
   "2022-10-26": {},
   "2022-10-27": {},

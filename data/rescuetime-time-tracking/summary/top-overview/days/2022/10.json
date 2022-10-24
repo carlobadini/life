@@ -248,13 +248,18 @@
     "Software Development": 113
   },
   "23": {
-    "Entertainment": 3265,
-    "Uncategorized": 443,
-    "Business": 28,
-    "Reference & Learning": 26,
-    "Utilities": 10
+    "Entertainment": 5364,
+    "Uncategorized": 501,
+    "Other Work": 349,
+    "Business": 209,
+    "Reference & Learning": 64,
+    "Utilities": 33,
+    "Communication & Scheduling": 25
   },
-  "24": {},
+  "24": {
+    "Entertainment": 2432,
+    "Business": 25
+  },
   "25": {},
   "26": {},
   "27": {},

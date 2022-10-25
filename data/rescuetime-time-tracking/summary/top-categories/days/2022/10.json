@@ -473,9 +473,9 @@
     "General Software Development": 109,
     "Marketing": 17,
     "General News & Opinion": 9,
+    "General Shopping": 4,
     "Systems Operations": 4,
     "General Utilities": 4,
-    "General Shopping": 4,
     "General Communication & Scheduling": 3,
     "General Social Networking": 1
   },
@@ -493,8 +493,22 @@
     "Browsers": 14
   },
   "24": {
-    "Video": 2432,
-    "Intelligence": 25
+    "Video": 3345,
+    "Communications": 1784,
+    "Search": 583,
+    "Uncategorized": 389,
+    "Travel & Outdoors": 362,
+    "Project Management": 304,
+    "Browsers": 135,
+    "Email": 134,
+    "Professional Networking": 117,
+    "General Utilities": 95,
+    "General Business": 85,
+    "Intelligence": 72,
+    "Marketing": 71,
+    "General News & Opinion": 11,
+    "General Reference & Learning": 4,
+    "Science & Technology": 2
   },
   "25": {},
   "26": {},

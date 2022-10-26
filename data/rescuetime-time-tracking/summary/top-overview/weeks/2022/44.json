@@ -10,17 +10,35 @@
   },
   "2022-10-24": {
     "Entertainment": 3345,
-    "Other Work": 1784,
+    "Other Work": 1824,
     "Reference & Learning": 949,
-    "Business": 532,
+    "Business": 533,
     "Uncategorized": 389,
     "Utilities": 230,
     "Communication & Scheduling": 134,
     "Social Networking": 117,
     "News & Opinion": 13
   },
-  "2022-10-25": {},
-  "2022-10-26": {},
+  "2022-10-25": {
+    "Business": 10251,
+    "Design & Composition": 6334,
+    "Other Work": 4022,
+    "Uncategorized": 3973,
+    "Communication & Scheduling": 3095,
+    "Social Networking": 1911,
+    "Reference & Learning": 1476,
+    "News & Opinion": 1142,
+    "Entertainment": 374,
+    "Utilities": 369,
+    "Software Development": 29,
+    "Shopping": 20
+  },
+  "2022-10-26": {
+    "Design & Composition": 875,
+    "Business": 39,
+    "Reference & Learning": 12,
+    "Utilities": 10
+  },
   "2022-10-27": {},
   "2022-10-28": {},
   "2022-10-29": {}

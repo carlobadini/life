@@ -649,5 +649,20 @@
     "Engineering & Technology": 6,
     "General Shopping": 4
   },
-  "30": {}
+  "30": {
+    "Video": 2924,
+    "Project Management": 1423,
+    "Communications": 1187,
+    "General Design & Composition": 814,
+    "Uncategorized": 375,
+    "General News & Opinion": 251,
+    "General Business": 193,
+    "Email": 90,
+    "Intelligence": 58,
+    "Search": 42,
+    "General Utilities": 25,
+    "Browsers": 23,
+    "General Entertainment": 14,
+    "Marketing": 1
+  }
 }

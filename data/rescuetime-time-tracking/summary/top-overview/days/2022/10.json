@@ -333,5 +333,15 @@
     "Software Development": 9,
     "Shopping": 4
   },
-  "30": {}
+  "30": {
+    "Entertainment": 2938,
+    "Business": 1675,
+    "Other Work": 1187,
+    "Design & Composition": 814,
+    "Uncategorized": 375,
+    "News & Opinion": 251,
+    "Communication & Scheduling": 90,
+    "Utilities": 48,
+    "Reference & Learning": 42
+  }
 }

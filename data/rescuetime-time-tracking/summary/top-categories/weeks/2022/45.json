@@ -113,7 +113,30 @@
     "Travel & Outdoors": 2,
     "General Social Networking": 1
   },
-  "2022-11-3": {},
+  "2022-11-3": {
+    "Communications": 5665,
+    "Project Management": 5397,
+    "General Business": 4390,
+    "Marketing": 2697,
+    "Email": 2110,
+    "Meetings": 1802,
+    "Uncategorized": 1093,
+    "Professional Networking": 993,
+    "Office": 967,
+    "General Reference & Learning": 848,
+    "General Utilities": 542,
+    "General Software Development": 404,
+    "General Design & Composition": 355,
+    "General News & Opinion": 346,
+    "Accounting": 336,
+    "Search": 305,
+    "Video": 292,
+    "Browsers": 216,
+    "Instant Message": 169,
+    "Science & Technology": 169,
+    "Intelligence": 85,
+    "General Shopping": 17
+  },
   "2022-11-4": {},
   "2022-11-5": {}
 }

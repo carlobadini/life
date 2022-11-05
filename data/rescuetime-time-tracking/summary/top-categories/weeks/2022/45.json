@@ -137,6 +137,25 @@
     "Intelligence": 85,
     "General Shopping": 17
   },
-  "2022-11-4": {},
+  "2022-11-4": {
+    "Communications": 5403,
+    "Meetings": 2881,
+    "Uncategorized": 1281,
+    "Marketing": 1255,
+    "Project Management": 1045,
+    "Email": 876,
+    "General Business": 752,
+    "Instant Message": 334,
+    "General News & Opinion": 272,
+    "Search": 184,
+    "Science & Technology": 136,
+    "Sales": 114,
+    "Office": 111,
+    "Professional Networking": 104,
+    "General Communication & Scheduling": 57,
+    "Browsers": 48,
+    "Intelligence": 15,
+    "General Utilities": 11
+  },
   "2022-11-5": {}
 }

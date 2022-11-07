@@ -52,7 +52,7 @@
     "Utilities": 59
   },
   "5": {
-    "Entertainment": 9302,
+    "Entertainment": 9433,
     "Other Work": 1601,
     "Social Networking": 414,
     "Uncategorized": 410,
@@ -63,7 +63,20 @@
     "Communication & Scheduling": 146,
     "News & Opinion": 1
   },
-  "6": {},
+  "6": {
+    "Communication & Scheduling": 3486,
+    "Entertainment": 3164,
+    "Business": 2198,
+    "Social Networking": 1100,
+    "Other Work": 676,
+    "Uncategorized": 564,
+    "Reference & Learning": 544,
+    "News & Opinion": 524,
+    "Design & Composition": 323,
+    "Utilities": 138,
+    "Shopping": 60,
+    "Software Development": 20
+  },
   "7": {},
   "8": {},
   "9": {},

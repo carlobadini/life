@@ -90,7 +90,20 @@
     "Shopping": 121,
     "News & Opinion": 51
   },
-  "8": {},
+  "8": {
+    "Uncategorized": 8733,
+    "Business": 7092,
+    "Communication & Scheduling": 3905,
+    "Other Work": 2627,
+    "News & Opinion": 2006,
+    "Reference & Learning": 1199,
+    "Social Networking": 1125,
+    "Entertainment": 779,
+    "Utilities": 463,
+    "Design & Composition": 376,
+    "Software Development": 336,
+    "Shopping": 46
+  },
   "9": {},
   "10": {},
   "11": {},

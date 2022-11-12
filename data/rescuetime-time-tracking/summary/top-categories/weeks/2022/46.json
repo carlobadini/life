@@ -99,8 +99,8 @@
     "Science & Technology": 8,
     "General Software Development": 5,
     "General Entertainment": 2,
-    "General Social Networking": 1,
-    "Video": 1
+    "Video": 1,
+    "General Social Networking": 1
   },
   "2022-11-10": {
     "Communications": 8160,
@@ -131,6 +131,31 @@
     "General Utilities": 1,
     "General Entertainment": 1
   },
-  "2022-11-11": {},
+  "2022-11-11": {
+    "Uncategorized": 4514,
+    "Communications": 4121,
+    "General Business": 3299,
+    "Meetings": 2747,
+    "Instant Message": 2169,
+    "Project Management": 1429,
+    "Email": 1377,
+    "Professional Networking": 1352,
+    "General News & Opinion": 1208,
+    "General Social Networking": 908,
+    "Marketing": 737,
+    "Travel & Outdoors": 596,
+    "General Software Development": 501,
+    "Office": 407,
+    "Search": 344,
+    "Browsers": 339,
+    "Intelligence": 219,
+    "General Utilities": 179,
+    "General Design & Composition": 138,
+    "Entertainment": 118,
+    "Internet Utilities": 29,
+    "General Communication & Scheduling": 5,
+    "Data Modeling & Analysis": 2,
+    "General Reference & Learning": 1
+  },
   "2022-11-12": {}
 }

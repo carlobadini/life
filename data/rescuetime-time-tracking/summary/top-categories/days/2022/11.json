@@ -222,8 +222,8 @@
     "Science & Technology": 8,
     "General Software Development": 5,
     "General Entertainment": 2,
-    "Video": 1,
-    "General Social Networking": 1
+    "General Social Networking": 1,
+    "Video": 1
   },
   "10": {
     "Communications": 8160,
@@ -251,8 +251,8 @@
     "Data Modeling & Analysis": 7,
     "Sales": 4,
     "Engineering & Technology": 3,
-    "General Utilities": 1,
-    "General Entertainment": 1
+    "General Entertainment": 1,
+    "General Utilities": 1
   },
   "11": {
     "Uncategorized": 4514,
@@ -280,7 +280,31 @@
     "Data Modeling & Analysis": 2,
     "General Reference & Learning": 1
   },
-  "12": {},
+  "12": {
+    "Video": 5186,
+    "Uncategorized": 3899,
+    "Communications": 1134,
+    "Professional Networking": 1034,
+    "Search": 508,
+    "General Communication & Scheduling": 440,
+    "Science & Technology": 423,
+    "Games": 323,
+    "General Design & Composition": 253,
+    "Email": 238,
+    "Project Management": 208,
+    "General Business": 198,
+    "Engineering & Technology": 144,
+    "Instant Message": 122,
+    "Browsers": 100,
+    "General Social Networking": 64,
+    "General Shopping": 56,
+    "Meetings": 34,
+    "General Utilities": 24,
+    "Intelligence": 21,
+    "Business": 18,
+    "General News & Opinion": 9,
+    "File Sharing": 5
+  },
   "13": {},
   "14": {},
   "15": {},

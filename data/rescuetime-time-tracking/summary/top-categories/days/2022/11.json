@@ -251,8 +251,8 @@
     "Data Modeling & Analysis": 7,
     "Sales": 4,
     "Engineering & Technology": 3,
-    "General Entertainment": 1,
-    "General Utilities": 1
+    "General Utilities": 1,
+    "General Entertainment": 1
   },
   "11": {
     "Uncategorized": 4514,
@@ -305,7 +305,27 @@
     "General News & Opinion": 9,
     "File Sharing": 5
   },
-  "13": {},
+  "13": {
+    "Video": 2860,
+    "Professional Networking": 2840,
+    "Project Management": 1994,
+    "Uncategorized": 766,
+    "Instant Message": 648,
+    "Communications": 606,
+    "General Shopping": 484,
+    "Writing": 475,
+    "General News & Opinion": 375,
+    "Search": 357,
+    "Email": 334,
+    "General Business": 212,
+    "Games": 188,
+    "Business & Finance": 147,
+    "Browsers": 90,
+    "Intelligence": 88,
+    "General Reference & Learning": 27,
+    "General Utilities": 11,
+    "General Social Networking": 1
+  },
   "14": {},
   "15": {},
   "16": {},

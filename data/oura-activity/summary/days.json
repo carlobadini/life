@@ -1,0 +1,4369 @@
+{
+  "2020-08-01": {},
+  "2020-08-02": {},
+  "2020-08-03": {},
+  "2020-08-04": {},
+  "2020-08-05": {},
+  "2020-08-06": {},
+  "2020-08-07": {},
+  "2020-08-08": {},
+  "2020-08-09": {},
+  "2020-08-10": {},
+  "2020-08-11": {},
+  "2020-08-12": {},
+  "2020-08-13": {},
+  "2020-08-14": {},
+  "2020-08-15": {},
+  "2020-08-16": {},
+  "2020-08-17": {},
+  "2020-08-18": {},
+  "2020-08-19": {},
+  "2020-08-20": {},
+  "2020-08-21": {},
+  "2020-08-22": {},
+  "2020-08-23": {},
+  "2020-08-24": {},
+  "2020-08-25": {},
+  "2020-08-26": {
+    "steps": 2655,
+    "total": 145,
+    "cal_active": 127,
+    "cal_total": 2239,
+    "score": 93
+  },
+  "2020-08-27": {
+    "steps": 8413,
+    "total": 356,
+    "cal_active": 733,
+    "cal_total": 2926,
+    "score": 95
+  },
+  "2020-08-28": {
+    "steps": 7629,
+    "total": 369,
+    "cal_active": 351,
+    "cal_total": 2617,
+    "score": 87
+  },
+  "2020-08-29": {
+    "steps": 7072,
+    "total": 266,
+    "cal_active": 321,
+    "cal_total": 2407,
+    "score": 86
+  },
+  "2020-08-30": {
+    "steps": 8657,
+    "total": 350,
+    "cal_active": 406,
+    "cal_total": 2555,
+    "score": 86
+  },
+  "2020-08-31": {
+    "steps": 7915,
+    "total": 317,
+    "cal_active": 390,
+    "cal_total": 2547,
+    "score": 78
+  },
+  "2020-09-01": {
+    "steps": 6404,
+    "total": 298,
+    "cal_active": 597,
+    "cal_total": 2780,
+    "score": 77
+  },
+  "2020-09-02": {
+    "steps": 8528,
+    "total": 329,
+    "cal_active": 378,
+    "cal_total": 2580,
+    "score": 74
+  },
+  "2020-09-03": {
+    "steps": 7297,
+    "total": 321,
+    "cal_active": 556,
+    "cal_total": 2690,
+    "score": 76
+  },
+  "2020-09-04": {
+    "steps": 4348,
+    "total": 202,
+    "cal_active": 211,
+    "cal_total": 2370,
+    "score": 74
+  },
+  "2020-09-05": {
+    "steps": 16791,
+    "total": 442,
+    "cal_active": 695,
+    "cal_total": 2851,
+    "score": 88
+  },
+  "2020-09-06": {
+    "steps": 6151,
+    "total": 327,
+    "cal_active": 510,
+    "cal_total": 2609,
+    "score": 91
+  },
+  "2020-09-07": {
+    "steps": 7306,
+    "total": 286,
+    "cal_active": 343,
+    "cal_total": 2507,
+    "score": 88
+  },
+  "2020-09-08": {
+    "steps": 8528,
+    "total": 326,
+    "cal_active": 382,
+    "cal_total": 2582,
+    "score": 81
+  },
+  "2020-09-09": {
+    "steps": 5647,
+    "total": 280,
+    "cal_active": 561,
+    "cal_total": 2723,
+    "score": 89
+  },
+  "2020-09-10": {
+    "steps": 6976,
+    "total": 305,
+    "cal_active": 329,
+    "cal_total": 2530,
+    "score": 81
+  },
+  "2020-09-11": {
+    "steps": 13448,
+    "total": 499,
+    "cal_active": 873,
+    "cal_total": 3156,
+    "score": 89
+  },
+  "2020-09-12": {
+    "steps": 5858,
+    "total": 199,
+    "cal_active": 264,
+    "cal_total": 2319,
+    "score": 89
+  },
+  "2020-09-13": {
+    "steps": 8200,
+    "total": 324,
+    "cal_active": 596,
+    "cal_total": 2696,
+    "score": 92
+  },
+  "2020-09-14": {
+    "steps": 6929,
+    "total": 268,
+    "cal_active": 325,
+    "cal_total": 2507,
+    "score": 87
+  },
+  "2020-09-15": {
+    "steps": 9629,
+    "total": 318,
+    "cal_active": 451,
+    "cal_total": 2643,
+    "score": 87
+  },
+  "2020-09-16": {
+    "steps": 2101,
+    "total": 143,
+    "cal_active": 339,
+    "cal_total": 2346,
+    "score": 89
+  },
+  "2020-09-17": {
+    "steps": 7077,
+    "total": 271,
+    "cal_active": 329,
+    "cal_total": 2505,
+    "score": 82
+  },
+  "2020-09-18": {
+    "steps": 9867,
+    "total": 321,
+    "cal_active": 450,
+    "cal_total": 2657,
+    "score": 75
+  },
+  "2020-09-19": {
+    "steps": 7366,
+    "total": 318,
+    "cal_active": 340,
+    "cal_total": 2502,
+    "score": 73
+  },
+  "2020-09-20": {
+    "steps": 5763,
+    "total": 243,
+    "cal_active": 246,
+    "cal_total": 2397,
+    "score": 63
+  },
+  "2020-09-21": {
+    "steps": 6663,
+    "total": 260,
+    "cal_active": 313,
+    "cal_total": 2499,
+    "score": 58
+  },
+  "2020-09-22": {
+    "steps": 7231,
+    "total": 399,
+    "cal_active": 607,
+    "cal_total": 2797,
+    "score": 75
+  },
+  "2020-09-23": {
+    "steps": 6708,
+    "total": 318,
+    "cal_active": 318,
+    "cal_total": 2548,
+    "score": 62
+  },
+  "2020-09-24": {
+    "steps": 8875,
+    "total": 294,
+    "cal_active": 401,
+    "cal_total": 2576,
+    "score": 67
+  },
+  "2020-09-25": {
+    "steps": 6658,
+    "total": 277,
+    "cal_active": 321,
+    "cal_total": 2469,
+    "score": 66
+  },
+  "2020-09-26": {
+    "steps": 4562,
+    "total": 135,
+    "cal_active": 207,
+    "cal_total": 2270,
+    "score": 68
+  },
+  "2020-09-27": {
+    "steps": 8823,
+    "total": 311,
+    "cal_active": 410,
+    "cal_total": 2531,
+    "score": 68
+  },
+  "2020-09-28": {
+    "steps": 7262,
+    "total": 279,
+    "cal_active": 346,
+    "cal_total": 2562,
+    "score": 63
+  },
+  "2020-09-29": {
+    "steps": 5292,
+    "total": 270,
+    "cal_active": 548,
+    "cal_total": 2668,
+    "score": 73
+  },
+  "2020-09-30": {
+    "steps": 4357,
+    "total": 284,
+    "cal_active": 472,
+    "cal_total": 2650,
+    "score": 71
+  },
+  "2020-10-01": {
+    "steps": 5115,
+    "total": 264,
+    "cal_active": 255,
+    "cal_total": 2414,
+    "score": 71
+  },
+  "2020-10-02": {
+    "steps": 8905,
+    "total": 312,
+    "cal_active": 643,
+    "cal_total": 2822,
+    "score": 78
+  },
+  "2020-10-03": {
+    "steps": 9540,
+    "total": 402,
+    "cal_active": 468,
+    "cal_total": 2647,
+    "score": 81
+  },
+  "2020-10-04": {
+    "steps": 5927,
+    "total": 255,
+    "cal_active": 273,
+    "cal_total": 2355,
+    "score": 80
+  },
+  "2020-10-05": {
+    "steps": 6903,
+    "total": 260,
+    "cal_active": 349,
+    "cal_total": 2532,
+    "score": 77
+  },
+  "2020-10-06": {
+    "steps": 8249,
+    "total": 335,
+    "cal_active": 696,
+    "cal_total": 2900,
+    "score": 81
+  },
+  "2020-10-07": {
+    "steps": 8421,
+    "total": 310,
+    "cal_active": 372,
+    "cal_total": 2523,
+    "score": 77
+  },
+  "2020-10-08": {
+    "steps": 7632,
+    "total": 347,
+    "cal_active": 370,
+    "cal_total": 2570,
+    "score": 76
+  },
+  "2020-10-09": {
+    "steps": 11319,
+    "total": 353,
+    "cal_active": 497,
+    "cal_total": 2682,
+    "score": 73
+  },
+  "2020-10-10": {
+    "steps": 5259,
+    "total": 201,
+    "cal_active": 242,
+    "cal_total": 2320,
+    "score": 74
+  },
+  "2020-10-11": {
+    "steps": 64,
+    "total": 5,
+    "cal_active": 3,
+    "cal_total": 1972,
+    "score": 76
+  },
+  "2020-10-12": {
+    "steps": 6190,
+    "total": 302,
+    "cal_active": 300,
+    "cal_total": 2444,
+    "score": 68
+  },
+  "2020-10-13": {
+    "steps": 4405,
+    "total": 262,
+    "cal_active": 210,
+    "cal_total": 2382,
+    "score": 55
+  },
+  "2020-10-14": {
+    "steps": 4486,
+    "total": 242,
+    "cal_active": 221,
+    "cal_total": 2382,
+    "score": 52
+  },
+  "2020-10-15": {
+    "steps": 4835,
+    "total": 241,
+    "cal_active": 238,
+    "cal_total": 2400,
+    "score": 51
+  },
+  "2020-10-16": {
+    "steps": 8389,
+    "total": 337,
+    "cal_active": 411,
+    "cal_total": 2551,
+    "score": 52
+  },
+  "2020-10-17": {
+    "steps": 3579,
+    "total": 117,
+    "cal_active": 165,
+    "cal_total": 2188,
+    "score": 52
+  },
+  "2020-10-18": {
+    "steps": 9805,
+    "total": 391,
+    "cal_active": 747,
+    "cal_total": 2953,
+    "score": 72
+  },
+  "2020-10-19": {
+    "steps": 6724,
+    "total": 301,
+    "cal_active": 600,
+    "cal_total": 2770,
+    "score": 76
+  },
+  "2020-10-20": {
+    "steps": 7238,
+    "total": 238,
+    "cal_active": 338,
+    "cal_total": 2506,
+    "score": 73
+  },
+  "2020-10-21": {
+    "steps": 300,
+    "total": 20,
+    "cal_active": 14,
+    "cal_total": 1811,
+    "score": 74
+  },
+  "2020-10-22": {},
+  "2020-10-23": {
+    "steps": 7261,
+    "total": 277,
+    "cal_active": 349,
+    "cal_total": 2532,
+    "score": 74
+  },
+  "2020-10-24": {
+    "steps": 3344,
+    "total": 176,
+    "cal_active": 151,
+    "cal_total": 2235,
+    "score": 72
+  },
+  "2020-10-25": {
+    "steps": 9383,
+    "total": 312,
+    "cal_active": 413,
+    "cal_total": 2573,
+    "score": 65
+  },
+  "2020-10-26": {
+    "steps": 5032,
+    "total": 223,
+    "cal_active": 237,
+    "cal_total": 2399,
+    "score": 51
+  },
+  "2020-10-27": {
+    "steps": 1320,
+    "total": 81,
+    "cal_active": 59,
+    "cal_total": 2052,
+    "score": 56
+  },
+  "2020-10-28": {
+    "steps": 7522,
+    "total": 275,
+    "cal_active": 372,
+    "cal_total": 2545,
+    "score": 52
+  },
+  "2020-10-29": {
+    "steps": 6223,
+    "total": 314,
+    "cal_active": 318,
+    "cal_total": 2535,
+    "score": 49
+  },
+  "2020-10-30": {
+    "steps": 6998,
+    "total": 278,
+    "cal_active": 340,
+    "cal_total": 2488,
+    "score": 53
+  },
+  "2020-10-31": {
+    "steps": 6041,
+    "total": 215,
+    "cal_active": 288,
+    "cal_total": 2413,
+    "score": 56
+  },
+  "2020-11-01": {
+    "steps": 2449,
+    "total": 113,
+    "cal_active": 114,
+    "cal_total": 2189,
+    "score": 58
+  },
+  "2020-11-02": {
+    "steps": 11330,
+    "total": 363,
+    "cal_active": 539,
+    "cal_total": 2738,
+    "score": 56
+  },
+  "2020-11-03": {
+    "steps": 7845,
+    "total": 241,
+    "cal_active": 365,
+    "cal_total": 2490,
+    "score": 56
+  },
+  "2020-11-04": {
+    "steps": 10065,
+    "total": 299,
+    "cal_active": 460,
+    "cal_total": 2637,
+    "score": 58
+  },
+  "2020-11-05": {
+    "steps": 7518,
+    "total": 316,
+    "cal_active": 406,
+    "cal_total": 2600,
+    "score": 55
+  },
+  "2020-11-06": {
+    "steps": 5757,
+    "total": 266,
+    "cal_active": 285,
+    "cal_total": 2469,
+    "score": 55
+  },
+  "2020-11-07": {
+    "steps": 6396,
+    "total": 264,
+    "cal_active": 287,
+    "cal_total": 2501,
+    "score": 59
+  },
+  "2020-11-08": {
+    "steps": 4300,
+    "total": 154,
+    "cal_active": 192,
+    "cal_total": 2239,
+    "score": 57
+  },
+  "2020-11-09": {
+    "steps": 5301,
+    "total": 257,
+    "cal_active": 255,
+    "cal_total": 2438,
+    "score": 57
+  },
+  "2020-11-10": {},
+  "2020-11-11": {
+    "steps": 4912,
+    "total": 236,
+    "cal_active": 236,
+    "cal_total": 2381,
+    "score": 56
+  },
+  "2020-11-12": {
+    "steps": 4423,
+    "total": 219,
+    "cal_active": 219,
+    "cal_total": 2379,
+    "score": 54
+  },
+  "2020-11-13": {
+    "steps": 6676,
+    "total": 259,
+    "cal_active": 327,
+    "cal_total": 2499,
+    "score": 59
+  },
+  "2020-11-14": {
+    "steps": 4067,
+    "total": 205,
+    "cal_active": 201,
+    "cal_total": 2289,
+    "score": 65
+  },
+  "2020-11-15": {
+    "steps": 7996,
+    "total": 307,
+    "cal_active": 414,
+    "cal_total": 2516,
+    "score": 63
+  },
+  "2020-11-16": {
+    "steps": 6361,
+    "total": 241,
+    "cal_active": 292,
+    "cal_total": 2391,
+    "score": 60
+  },
+  "2020-11-17": {
+    "steps": 7293,
+    "total": 226,
+    "cal_active": 328,
+    "cal_total": 2412,
+    "score": 61
+  },
+  "2020-11-18": {
+    "steps": 7176,
+    "total": 269,
+    "cal_active": 345,
+    "cal_total": 2505,
+    "score": 72
+  },
+  "2020-11-19": {
+    "steps": 5916,
+    "total": 271,
+    "cal_active": 294,
+    "cal_total": 2480,
+    "score": 71
+  },
+  "2020-11-20": {
+    "steps": 6588,
+    "total": 295,
+    "cal_active": 328,
+    "cal_total": 2502,
+    "score": 69
+  },
+  "2020-11-21": {
+    "steps": 5037,
+    "total": 258,
+    "cal_active": 249,
+    "cal_total": 2403,
+    "score": 65
+  },
+  "2020-11-22": {
+    "steps": 5999,
+    "total": 269,
+    "cal_active": 276,
+    "cal_total": 2362,
+    "score": 66
+  },
+  "2020-11-23": {
+    "steps": 6097,
+    "total": 274,
+    "cal_active": 292,
+    "cal_total": 2432,
+    "score": 60
+  },
+  "2020-11-24": {
+    "steps": 5752,
+    "total": 234,
+    "cal_active": 270,
+    "cal_total": 2412,
+    "score": 49
+  },
+  "2020-11-25": {
+    "steps": 6529,
+    "total": 243,
+    "cal_active": 302,
+    "cal_total": 2461,
+    "score": 52
+  },
+  "2020-11-26": {
+    "steps": 4764,
+    "total": 227,
+    "cal_active": 232,
+    "cal_total": 2398,
+    "score": 50
+  },
+  "2020-11-27": {
+    "steps": 7893,
+    "total": 257,
+    "cal_active": 353,
+    "cal_total": 2426,
+    "score": 53
+  },
+  "2020-11-28": {},
+  "2020-11-29": {},
+  "2020-12-01": {},
+  "2020-12-02": {},
+  "2020-12-03": {},
+  "2020-12-04": {},
+  "2020-12-05": {},
+  "2020-12-06": {},
+  "2020-12-07": {},
+  "2020-12-08": {},
+  "2020-12-09": {},
+  "2020-12-10": {},
+  "2020-12-11": {
+    "steps": 398,
+    "total": 29,
+    "cal_active": 20,
+    "cal_total": 2033,
+    "score": 50
+  },
+  "2020-12-12": {
+    "steps": 8877,
+    "total": 293,
+    "cal_active": 426,
+    "cal_total": 2600,
+    "score": 49
+  },
+  "2020-12-13": {
+    "steps": 7417,
+    "total": 220,
+    "cal_active": 336,
+    "cal_total": 2431,
+    "score": 54
+  },
+  "2020-12-14": {
+    "steps": 7465,
+    "total": 356,
+    "cal_active": 389,
+    "cal_total": 2585,
+    "score": 60
+  },
+  "2020-12-15": {
+    "steps": 6140,
+    "total": 316,
+    "cal_active": 299,
+    "cal_total": 2486,
+    "score": 57
+  },
+  "2020-12-16": {
+    "steps": 7099,
+    "total": 284,
+    "cal_active": 326,
+    "cal_total": 2509,
+    "score": 61
+  },
+  "2020-12-17": {
+    "steps": 6801,
+    "total": 297,
+    "cal_active": 340,
+    "cal_total": 2529,
+    "score": 61
+  },
+  "2020-12-18": {
+    "steps": 10970,
+    "total": 417,
+    "cal_active": 538,
+    "cal_total": 2763,
+    "score": 71
+  },
+  "2020-12-19": {
+    "steps": 5367,
+    "total": 253,
+    "cal_active": 274,
+    "cal_total": 2409,
+    "score": 68
+  },
+  "2020-12-20": {
+    "steps": 3883,
+    "total": 193,
+    "cal_active": 198,
+    "cal_total": 2275,
+    "score": 67
+  },
+  "2020-12-21": {
+    "steps": 8524,
+    "total": 275,
+    "cal_active": 505,
+    "cal_total": 2690,
+    "score": 77
+  },
+  "2020-12-22": {
+    "steps": 9410,
+    "total": 331,
+    "cal_active": 545,
+    "cal_total": 2728,
+    "score": 83
+  },
+  "2020-12-23": {
+    "steps": 9149,
+    "total": 406,
+    "cal_active": 463,
+    "cal_total": 2697,
+    "score": 84
+  },
+  "2020-12-24": {
+    "steps": 9896,
+    "total": 344,
+    "cal_active": 561,
+    "cal_total": 2762,
+    "score": 84
+  },
+  "2020-12-25": {
+    "steps": 8768,
+    "total": 342,
+    "cal_active": 537,
+    "cal_total": 2707,
+    "score": 84
+  },
+  "2020-12-26": {
+    "steps": 5627,
+    "total": 251,
+    "cal_active": 268,
+    "cal_total": 2433,
+    "score": 78
+  },
+  "2020-12-27": {
+    "steps": 411,
+    "total": 33,
+    "cal_active": 18,
+    "cal_total": 1948,
+    "score": 94
+  },
+  "2020-12-28": {
+    "steps": 5695,
+    "total": 252,
+    "cal_active": 274,
+    "cal_total": 2386,
+    "score": 79
+  },
+  "2020-12-29": {
+    "steps": 10312,
+    "total": 337,
+    "cal_active": 589,
+    "cal_total": 2784,
+    "score": 83
+  },
+  "2020-12-30": {
+    "steps": 12258,
+    "total": 401,
+    "cal_active": 717,
+    "cal_total": 2940,
+    "score": 89
+  },
+  "2020-12-31": {
+    "steps": 12702,
+    "total": 467,
+    "cal_active": 620,
+    "cal_total": 2877,
+    "score": 88
+  },
+  "2021-01-01": {
+    "steps": 5680,
+    "total": 258,
+    "cal_active": 272,
+    "cal_total": 2332,
+    "score": 81
+  },
+  "2021-01-02": {
+    "steps": 4764,
+    "total": 200,
+    "cal_active": 235,
+    "cal_total": 2348,
+    "score": 82
+  },
+  "2021-01-03": {},
+  "2021-01-04": {
+    "steps": 3402,
+    "total": 89,
+    "cal_active": 278,
+    "cal_total": 2310,
+    "score": 87
+  },
+  "2021-01-05": {
+    "steps": 8032,
+    "total": 267,
+    "cal_active": 527,
+    "cal_total": 2696,
+    "score": 83
+  },
+  "2021-01-06": {
+    "steps": 7430,
+    "total": 312,
+    "cal_active": 363,
+    "cal_total": 2571,
+    "score": 78
+  },
+  "2021-01-07": {
+    "steps": 9852,
+    "total": 294,
+    "cal_active": 604,
+    "cal_total": 2819,
+    "score": 77
+  },
+  "2021-01-08": {
+    "steps": 9751,
+    "total": 418,
+    "cal_active": 464,
+    "cal_total": 2709,
+    "score": 88
+  },
+  "2021-01-09": {
+    "steps": 6663,
+    "total": 227,
+    "cal_active": 322,
+    "cal_total": 2472,
+    "score": 84
+  },
+  "2021-01-10": {
+    "steps": 723,
+    "total": 29,
+    "cal_active": 29,
+    "cal_total": 1970,
+    "score": 89
+  },
+  "2021-01-11": {
+    "steps": 5200,
+    "total": 233,
+    "cal_active": 245,
+    "cal_total": 2397,
+    "score": 81
+  },
+  "2021-01-12": {
+    "steps": 4679,
+    "total": 228,
+    "cal_active": 237,
+    "cal_total": 2388,
+    "score": 0
+  },
+  "2021-01-13": {
+    "steps": 8600,
+    "total": 358,
+    "cal_active": 405,
+    "cal_total": 2603,
+    "score": 0
+  },
+  "2021-01-14": {
+    "steps": 8741,
+    "total": 302,
+    "cal_active": 547,
+    "cal_total": 2745,
+    "score": 80
+  },
+  "2021-01-15": {
+    "steps": 7542,
+    "total": 291,
+    "cal_active": 364,
+    "cal_total": 2553,
+    "score": 72
+  },
+  "2021-01-16": {
+    "steps": 10513,
+    "total": 274,
+    "cal_active": 567,
+    "cal_total": 2716,
+    "score": 83
+  },
+  "2021-01-17": {
+    "steps": 4120,
+    "total": 220,
+    "cal_active": 196,
+    "cal_total": 2314,
+    "score": 76
+  },
+  "2021-01-18": {
+    "steps": 9219,
+    "total": 347,
+    "cal_active": 580,
+    "cal_total": 2772,
+    "score": 88
+  },
+  "2021-01-19": {
+    "steps": 24,
+    "total": 2,
+    "cal_active": 1,
+    "cal_total": 1965,
+    "score": 88
+  },
+  "2021-01-20": {
+    "steps": 7399,
+    "total": 312,
+    "cal_active": 363,
+    "cal_total": 2576,
+    "score": 83
+  },
+  "2021-01-21": {
+    "steps": 7711,
+    "total": 251,
+    "cal_active": 465,
+    "cal_total": 2626,
+    "score": 77
+  },
+  "2021-01-22": {
+    "steps": 6837,
+    "total": 301,
+    "cal_active": 320,
+    "cal_total": 2490,
+    "score": 79
+  },
+  "2021-01-23": {
+    "steps": 7014,
+    "total": 316,
+    "cal_active": 344,
+    "cal_total": 2529,
+    "score": 67
+  },
+  "2021-01-24": {
+    "steps": 5086,
+    "total": 212,
+    "cal_active": 238,
+    "cal_total": 2374,
+    "score": 66
+  },
+  "2021-01-25": {
+    "steps": 112,
+    "total": 7,
+    "cal_active": 5,
+    "cal_total": 1971,
+    "score": 55
+  },
+  "2021-01-26": {
+    "steps": 5505,
+    "total": 238,
+    "cal_active": 267,
+    "cal_total": 2445,
+    "score": 56
+  },
+  "2021-01-27": {
+    "steps": 4243,
+    "total": 198,
+    "cal_active": 209,
+    "cal_total": 2323,
+    "score": 55
+  },
+  "2021-01-28": {
+    "steps": 4426,
+    "total": 205,
+    "cal_active": 224,
+    "cal_total": 2360,
+    "score": 49
+  },
+  "2021-01-29": {
+    "steps": 4454,
+    "total": 217,
+    "cal_active": 219,
+    "cal_total": 2355,
+    "score": 45
+  },
+  "2021-01-30": {
+    "steps": 5837,
+    "total": 266,
+    "cal_active": 287,
+    "cal_total": 2411,
+    "score": 50
+  },
+  "2021-01-31": {
+    "steps": 9123,
+    "total": 261,
+    "cal_active": 417,
+    "cal_total": 2533,
+    "score": 53
+  },
+  "2021-02-01": {},
+  "2021-02-02": {
+    "steps": 5292,
+    "total": 251,
+    "cal_active": 258,
+    "cal_total": 2482,
+    "score": 57
+  },
+  "2021-02-03": {},
+  "2021-02-04": {},
+  "2021-02-05": {},
+  "2021-02-06": {
+    "steps": 1138,
+    "total": 46,
+    "cal_active": 64,
+    "cal_total": 1923,
+    "score": 51
+  },
+  "2021-02-07": {
+    "steps": 8040,
+    "total": 289,
+    "cal_active": 409,
+    "cal_total": 2503,
+    "score": 53
+  },
+  "2021-02-08": {
+    "steps": 7357,
+    "total": 370,
+    "cal_active": 700,
+    "cal_total": 2917,
+    "score": 73
+  },
+  "2021-02-09": {
+    "steps": 7489,
+    "total": 359,
+    "cal_active": 708,
+    "cal_total": 2872,
+    "score": 78
+  },
+  "2021-02-10": {
+    "steps": 4050,
+    "total": 217,
+    "cal_active": 195,
+    "cal_total": 2354,
+    "score": 72
+  },
+  "2021-02-11": {
+    "steps": 7250,
+    "total": 257,
+    "cal_active": 337,
+    "cal_total": 2555,
+    "score": 73
+  },
+  "2021-02-12": {
+    "steps": 15575,
+    "total": 507,
+    "cal_active": 735,
+    "cal_total": 2996,
+    "score": 83
+  },
+  "2021-02-13": {
+    "steps": 5778,
+    "total": 226,
+    "cal_active": 271,
+    "cal_total": 2333,
+    "score": 86
+  },
+  "2021-02-14": {},
+  "2021-02-15": {
+    "steps": 2831,
+    "total": 130,
+    "cal_active": 546,
+    "cal_total": 2559,
+    "score": 89
+  },
+  "2021-02-16": {
+    "steps": 8774,
+    "total": 406,
+    "cal_active": 920,
+    "cal_total": 3117,
+    "score": 86
+  },
+  "2021-02-17": {
+    "steps": 8591,
+    "total": 307,
+    "cal_active": 450,
+    "cal_total": 2649,
+    "score": 87
+  },
+  "2021-02-18": {
+    "steps": 6746,
+    "total": 355,
+    "cal_active": 687,
+    "cal_total": 2889,
+    "score": 94
+  },
+  "2021-02-19": {
+    "steps": 8645,
+    "total": 327,
+    "cal_active": 416,
+    "cal_total": 2554,
+    "score": 89
+  },
+  "2021-02-20": {
+    "steps": 6831,
+    "total": 302,
+    "cal_active": 319,
+    "cal_total": 2463,
+    "score": 84
+  },
+  "2021-02-21": {
+    "steps": 14702,
+    "total": 382,
+    "cal_active": 760,
+    "cal_total": 2893,
+    "score": 96
+  },
+  "2021-02-22": {
+    "steps": 6314,
+    "total": 355,
+    "cal_active": 643,
+    "cal_total": 2855,
+    "score": 94
+  },
+  "2021-02-23": {
+    "steps": 7909,
+    "total": 429,
+    "cal_active": 713,
+    "cal_total": 2893,
+    "score": 96
+  },
+  "2021-02-24": {
+    "steps": 5284,
+    "total": 256,
+    "cal_active": 247,
+    "cal_total": 2403,
+    "score": 88
+  },
+  "2021-02-25": {
+    "steps": 7563,
+    "total": 310,
+    "cal_active": 356,
+    "cal_total": 2480,
+    "score": 93
+  },
+  "2021-02-26": {
+    "steps": 3235,
+    "total": 143,
+    "cal_active": 139,
+    "cal_total": 2125,
+    "score": 88
+  },
+  "2021-02-27": {},
+  "2021-03-01": {},
+  "2021-03-02": {
+    "steps": 5764,
+    "total": 228,
+    "cal_active": 270,
+    "cal_total": 2437,
+    "score": 51
+  },
+  "2021-03-03": {
+    "steps": 5992,
+    "total": 252,
+    "cal_active": 301,
+    "cal_total": 2453,
+    "score": 54
+  },
+  "2021-03-04": {
+    "steps": 5584,
+    "total": 260,
+    "cal_active": 298,
+    "cal_total": 2454,
+    "score": 50
+  },
+  "2021-03-05": {
+    "steps": 8026,
+    "total": 312,
+    "cal_active": 380,
+    "cal_total": 2570,
+    "score": 51
+  },
+  "2021-03-06": {
+    "steps": 12497,
+    "total": 406,
+    "cal_active": 705,
+    "cal_total": 2927,
+    "score": 77
+  },
+  "2021-03-07": {
+    "steps": 358,
+    "total": 20,
+    "cal_active": 18,
+    "cal_total": 1943,
+    "score": 81
+  },
+  "2021-03-08": {
+    "steps": 8167,
+    "total": 360,
+    "cal_active": 405,
+    "cal_total": 2600,
+    "score": 78
+  },
+  "2021-03-09": {
+    "steps": 4570,
+    "total": 301,
+    "cal_active": 607,
+    "cal_total": 2773,
+    "score": 84
+  },
+  "2021-03-10": {
+    "steps": 6413,
+    "total": 296,
+    "cal_active": 293,
+    "cal_total": 2462,
+    "score": 83
+  },
+  "2021-03-11": {
+    "steps": 5381,
+    "total": 329,
+    "cal_active": 658,
+    "cal_total": 2853,
+    "score": 88
+  },
+  "2021-03-12": {
+    "steps": 5771,
+    "total": 356,
+    "cal_active": 660,
+    "cal_total": 2874,
+    "score": 89
+  },
+  "2021-03-13": {
+    "steps": 8823,
+    "total": 242,
+    "cal_active": 551,
+    "cal_total": 2611,
+    "score": 93
+  },
+  "2021-03-14": {
+    "steps": 10674,
+    "total": 278,
+    "cal_active": 494,
+    "cal_total": 2603,
+    "score": 87
+  },
+  "2021-03-15": {
+    "steps": 5726,
+    "total": 349,
+    "cal_active": 687,
+    "cal_total": 2884,
+    "score": 87
+  },
+  "2021-03-16": {
+    "steps": 8551,
+    "total": 383,
+    "cal_active": 412,
+    "cal_total": 2605,
+    "score": 81
+  },
+  "2021-03-17": {
+    "steps": 5033,
+    "total": 269,
+    "cal_active": 453,
+    "cal_total": 2626,
+    "score": 67
+  },
+  "2021-03-18": {
+    "steps": 6635,
+    "total": 258,
+    "cal_active": 299,
+    "cal_total": 2441,
+    "score": 71
+  },
+  "2021-03-19": {
+    "steps": 7281,
+    "total": 293,
+    "cal_active": 369,
+    "cal_total": 2560,
+    "score": 79
+  },
+  "2021-03-20": {
+    "steps": 9347,
+    "total": 468,
+    "cal_active": 659,
+    "cal_total": 2881,
+    "score": 82
+  },
+  "2021-03-21": {
+    "steps": 11378,
+    "total": 325,
+    "cal_active": 557,
+    "cal_total": 2715,
+    "score": 85
+  },
+  "2021-03-22": {
+    "steps": 7355,
+    "total": 388,
+    "cal_active": 669,
+    "cal_total": 2890,
+    "score": 84
+  },
+  "2021-03-23": {
+    "steps": 6427,
+    "total": 296,
+    "cal_active": 331,
+    "cal_total": 2533,
+    "score": 80
+  },
+  "2021-03-24": {
+    "steps": 170,
+    "total": 10,
+    "cal_active": 7,
+    "cal_total": 1918,
+    "score": 89
+  },
+  "2021-03-25": {
+    "steps": 5343,
+    "total": 310,
+    "cal_active": 274,
+    "cal_total": 2466,
+    "score": 83
+  },
+  "2021-03-26": {
+    "steps": 7144,
+    "total": 304,
+    "cal_active": 344,
+    "cal_total": 2530,
+    "score": 81
+  },
+  "2021-03-27": {
+    "steps": 14066,
+    "total": 415,
+    "cal_active": 819,
+    "cal_total": 3034,
+    "score": 83
+  },
+  "2021-03-28": {
+    "steps": 7900,
+    "total": 238,
+    "cal_active": 349,
+    "cal_total": 2437,
+    "score": 81
+  },
+  "2021-03-29": {
+    "steps": 8122,
+    "total": 307,
+    "cal_active": 378,
+    "cal_total": 2577,
+    "score": 73
+  },
+  "2021-03-30": {
+    "steps": 5938,
+    "total": 184,
+    "cal_active": 281,
+    "cal_total": 2348,
+    "score": 79
+  },
+  "2021-03-31": {
+    "steps": 7776,
+    "total": 346,
+    "cal_active": 354,
+    "cal_total": 2461,
+    "score": 80
+  },
+  "2021-04-01": {
+    "steps": 9109,
+    "total": 389,
+    "cal_active": 420,
+    "cal_total": 2692,
+    "score": 74
+  },
+  "2021-04-02": {
+    "steps": 11526,
+    "total": 354,
+    "cal_active": 516,
+    "cal_total": 2673,
+    "score": 83
+  },
+  "2021-04-03": {
+    "steps": 1197,
+    "total": 70,
+    "cal_active": 52,
+    "cal_total": 2075,
+    "score": 75
+  },
+  "2021-04-04": {
+    "steps": 14461,
+    "total": 361,
+    "cal_active": 615,
+    "cal_total": 2696,
+    "score": 81
+  },
+  "2021-04-05": {
+    "steps": 5559,
+    "total": 273,
+    "cal_active": 273,
+    "cal_total": 2432,
+    "score": 78
+  },
+  "2021-04-06": {
+    "steps": 7040,
+    "total": 337,
+    "cal_active": 367,
+    "cal_total": 2572,
+    "score": 77
+  },
+  "2021-04-07": {
+    "steps": 6390,
+    "total": 315,
+    "cal_active": 313,
+    "cal_total": 2509,
+    "score": 70
+  },
+  "2021-04-08": {
+    "steps": 6240,
+    "total": 328,
+    "cal_active": 315,
+    "cal_total": 2515,
+    "score": 69
+  },
+  "2021-04-09": {
+    "steps": 1963,
+    "total": 105,
+    "cal_active": 105,
+    "cal_total": 2157,
+    "score": 63
+  },
+  "2021-04-10": {
+    "steps": 7146,
+    "total": 256,
+    "cal_active": 340,
+    "cal_total": 2441,
+    "score": 67
+  },
+  "2021-04-11": {
+    "steps": 9835,
+    "total": 193,
+    "cal_active": 397,
+    "cal_total": 2473,
+    "score": 59
+  },
+  "2021-04-12": {
+    "steps": 4754,
+    "total": 216,
+    "cal_active": 241,
+    "cal_total": 2377,
+    "score": 60
+  },
+  "2021-04-13": {
+    "steps": 6567,
+    "total": 302,
+    "cal_active": 333,
+    "cal_total": 2522,
+    "score": 59
+  },
+  "2021-04-14": {
+    "steps": 7175,
+    "total": 321,
+    "cal_active": 352,
+    "cal_total": 2546,
+    "score": 61
+  },
+  "2021-04-15": {
+    "steps": 8773,
+    "total": 388,
+    "cal_active": 420,
+    "cal_total": 2674,
+    "score": 60
+  },
+  "2021-04-16": {},
+  "2021-04-17": {
+    "steps": 522,
+    "total": 32,
+    "cal_active": 29,
+    "cal_total": 2044,
+    "score": 61
+  },
+  "2021-04-18": {
+    "steps": 9073,
+    "total": 276,
+    "cal_active": 447,
+    "cal_total": 2539,
+    "score": 60
+  },
+  "2021-04-19": {
+    "steps": 10942,
+    "total": 408,
+    "cal_active": 483,
+    "cal_total": 2696,
+    "score": 58
+  },
+  "2021-04-20": {
+    "steps": 14821,
+    "total": 459,
+    "cal_active": 657,
+    "cal_total": 2845,
+    "score": 68
+  },
+  "2021-04-21": {
+    "steps": 13747,
+    "total": 338,
+    "cal_active": 584,
+    "cal_total": 2732,
+    "score": 74
+  },
+  "2021-04-22": {
+    "steps": 14799,
+    "total": 561,
+    "cal_active": 671,
+    "cal_total": 2880,
+    "score": 79
+  },
+  "2021-04-23": {
+    "steps": 11191,
+    "total": 305,
+    "cal_active": 485,
+    "cal_total": 2615,
+    "score": 73
+  },
+  "2021-04-24": {},
+  "2021-04-25": {},
+  "2021-04-26": {},
+  "2021-04-27": {},
+  "2021-04-28": {},
+  "2021-04-29": {
+    "steps": 49,
+    "total": 3,
+    "cal_active": 2,
+    "cal_total": 1959,
+    "score": 51
+  },
+  "2021-04-30": {
+    "steps": 4850,
+    "total": 213,
+    "cal_active": 240,
+    "cal_total": 2389,
+    "score": 45
+  },
+  "2021-05-01": {
+    "steps": 7774,
+    "total": 356,
+    "cal_active": 383,
+    "cal_total": 2563,
+    "score": 50
+  },
+  "2021-05-02": {
+    "steps": 5615,
+    "total": 265,
+    "cal_active": 283,
+    "cal_total": 2384,
+    "score": 51
+  },
+  "2021-05-03": {
+    "steps": 5640,
+    "total": 277,
+    "cal_active": 289,
+    "cal_total": 2466,
+    "score": 52
+  },
+  "2021-05-04": {
+    "steps": 6086,
+    "total": 244,
+    "cal_active": 308,
+    "cal_total": 2457,
+    "score": 50
+  },
+  "2021-05-05": {
+    "steps": 6536,
+    "total": 208,
+    "cal_active": 336,
+    "cal_total": 2500,
+    "score": 55
+  },
+  "2021-05-06": {
+    "steps": 4609,
+    "total": 191,
+    "cal_active": 243,
+    "cal_total": 2376,
+    "score": 55
+  },
+  "2021-05-07": {
+    "steps": 11699,
+    "total": 466,
+    "cal_active": 579,
+    "cal_total": 2850,
+    "score": 68
+  },
+  "2021-05-08": {
+    "steps": 10146,
+    "total": 334,
+    "cal_active": 594,
+    "cal_total": 2734,
+    "score": 78
+  },
+  "2021-05-09": {
+    "steps": 18989,
+    "total": 409,
+    "cal_active": 849,
+    "cal_total": 3026,
+    "score": 84
+  },
+  "2021-05-10": {
+    "steps": 8765,
+    "total": 350,
+    "cal_active": 393,
+    "cal_total": 2551,
+    "score": 85
+  },
+  "2021-05-11": {},
+  "2021-05-12": {},
+  "2021-05-13": {},
+  "2021-05-14": {
+    "steps": 5560,
+    "total": 267,
+    "cal_active": 264,
+    "cal_total": 2456,
+    "score": 74
+  },
+  "2021-05-15": {
+    "steps": 4871,
+    "total": 207,
+    "cal_active": 250,
+    "cal_total": 2395,
+    "score": 65
+  },
+  "2021-05-16": {
+    "steps": 7859,
+    "total": 273,
+    "cal_active": 380,
+    "cal_total": 2521,
+    "score": 64
+  },
+  "2021-05-17": {
+    "steps": 6378,
+    "total": 299,
+    "cal_active": 310,
+    "cal_total": 2482,
+    "score": 59
+  },
+  "2021-05-18": {
+    "steps": 6666,
+    "total": 291,
+    "cal_active": 314,
+    "cal_total": 2480,
+    "score": 60
+  },
+  "2021-05-19": {
+    "steps": 1790,
+    "total": 83,
+    "cal_active": 82,
+    "cal_total": 2058,
+    "score": 64
+  },
+  "2021-05-20": {
+    "steps": 7281,
+    "total": 261,
+    "cal_active": 330,
+    "cal_total": 2461,
+    "score": 57
+  },
+  "2021-05-21": {
+    "steps": 12687,
+    "total": 355,
+    "cal_active": 598,
+    "cal_total": 2721,
+    "score": 73
+  },
+  "2021-05-22": {
+    "steps": 9924,
+    "total": 357,
+    "cal_active": 458,
+    "cal_total": 2606,
+    "score": 69
+  },
+  "2021-05-23": {
+    "steps": 8162,
+    "total": 244,
+    "cal_active": 347,
+    "cal_total": 2430,
+    "score": 67
+  },
+  "2021-05-24": {
+    "steps": 5803,
+    "total": 205,
+    "cal_active": 294,
+    "cal_total": 2451,
+    "score": 63
+  },
+  "2021-05-25": {
+    "steps": 848,
+    "total": 32,
+    "cal_active": 42,
+    "cal_total": 2027,
+    "score": 71
+  },
+  "2021-05-26": {
+    "steps": 6895,
+    "total": 252,
+    "cal_active": 324,
+    "cal_total": 2500,
+    "score": 65
+  },
+  "2021-05-27": {
+    "steps": 12230,
+    "total": 343,
+    "cal_active": 562,
+    "cal_total": 2735,
+    "score": 76
+  },
+  "2021-05-28": {
+    "steps": 9926,
+    "total": 360,
+    "cal_active": 477,
+    "cal_total": 2669,
+    "score": 70
+  },
+  "2021-05-29": {
+    "steps": 12856,
+    "total": 408,
+    "cal_active": 596,
+    "cal_total": 2793,
+    "score": 77
+  },
+  "2021-05-30": {
+    "steps": 3749,
+    "total": 184,
+    "cal_active": 177,
+    "cal_total": 2203,
+    "score": 79
+  },
+  "2021-05-31": {
+    "steps": 8546,
+    "total": 304,
+    "cal_active": 404,
+    "cal_total": 2569,
+    "score": 78
+  },
+  "2021-06-01": {
+    "steps": 10740,
+    "total": 394,
+    "cal_active": 527,
+    "cal_total": 2732,
+    "score": 83
+  },
+  "2021-06-02": {
+    "steps": 9319,
+    "total": 373,
+    "cal_active": 443,
+    "cal_total": 2707,
+    "score": 78
+  },
+  "2021-06-03": {
+    "steps": 5409,
+    "total": 247,
+    "cal_active": 277,
+    "cal_total": 2459,
+    "score": 67
+  },
+  "2021-06-04": {
+    "steps": 8786,
+    "total": 370,
+    "cal_active": 440,
+    "cal_total": 2708,
+    "score": 70
+  },
+  "2021-06-05": {
+    "steps": 6349,
+    "total": 252,
+    "cal_active": 325,
+    "cal_total": 2486,
+    "score": 60
+  },
+  "2021-06-06": {
+    "steps": 5476,
+    "total": 98,
+    "cal_active": 232,
+    "cal_total": 2245,
+    "score": 70
+  },
+  "2021-06-07": {
+    "steps": 3302,
+    "total": 211,
+    "cal_active": 160,
+    "cal_total": 2331,
+    "score": 60
+  },
+  "2021-06-08": {
+    "steps": 3793,
+    "total": 200,
+    "cal_active": 178,
+    "cal_total": 2315,
+    "score": 52
+  },
+  "2021-06-09": {
+    "steps": 9600,
+    "total": 387,
+    "cal_active": 448,
+    "cal_total": 2658,
+    "score": 54
+  },
+  "2021-06-10": {
+    "steps": 9629,
+    "total": 383,
+    "cal_active": 470,
+    "cal_total": 2671,
+    "score": 56
+  },
+  "2021-06-11": {
+    "steps": 7919,
+    "total": 287,
+    "cal_active": 379,
+    "cal_total": 2522,
+    "score": 57
+  },
+  "2021-06-12": {
+    "steps": 10386,
+    "total": 315,
+    "cal_active": 653,
+    "cal_total": 2831,
+    "score": 65
+  },
+  "2021-06-13": {
+    "steps": 13457,
+    "total": 283,
+    "cal_active": 596,
+    "cal_total": 2705,
+    "score": 70
+  },
+  "2021-06-14": {
+    "steps": 8939,
+    "total": 238,
+    "cal_active": 616,
+    "cal_total": 2795,
+    "score": 72
+  },
+  "2021-06-15": {
+    "steps": 6503,
+    "total": 198,
+    "cal_active": 290,
+    "cal_total": 2445,
+    "score": 70
+  },
+  "2021-06-16": {
+    "steps": 8559,
+    "total": 270,
+    "cal_active": 393,
+    "cal_total": 2609,
+    "score": 83
+  },
+  "2021-06-17": {
+    "steps": 9502,
+    "total": 321,
+    "cal_active": 447,
+    "cal_total": 2696,
+    "score": 80
+  },
+  "2021-06-18": {
+    "steps": 7925,
+    "total": 316,
+    "cal_active": 385,
+    "cal_total": 2532,
+    "score": 84
+  },
+  "2021-06-19": {
+    "steps": 9478,
+    "total": 307,
+    "cal_active": 483,
+    "cal_total": 2649,
+    "score": 77
+  },
+  "2021-06-20": {
+    "steps": 14991,
+    "total": 319,
+    "cal_active": 648,
+    "cal_total": 2747,
+    "score": 76
+  },
+  "2021-06-21": {
+    "steps": 6728,
+    "total": 246,
+    "cal_active": 362,
+    "cal_total": 2463,
+    "score": 69
+  },
+  "2021-06-22": {
+    "steps": 2691,
+    "total": 160,
+    "cal_active": 140,
+    "cal_total": 2222,
+    "score": 77
+  },
+  "2021-06-23": {
+    "steps": 7186,
+    "total": 263,
+    "cal_active": 388,
+    "cal_total": 2521,
+    "score": 77
+  },
+  "2021-06-24": {
+    "steps": 6760,
+    "total": 253,
+    "cal_active": 394,
+    "cal_total": 2567,
+    "score": 75
+  },
+  "2021-06-25": {
+    "steps": 11702,
+    "total": 323,
+    "cal_active": 742,
+    "cal_total": 2950,
+    "score": 80
+  },
+  "2021-06-26": {
+    "steps": 7231,
+    "total": 280,
+    "cal_active": 352,
+    "cal_total": 2571,
+    "score": 76
+  },
+  "2021-06-27": {
+    "steps": 19094,
+    "total": 352,
+    "cal_active": 735,
+    "cal_total": 2816,
+    "score": 84
+  },
+  "2021-06-28": {
+    "steps": 7223,
+    "total": 308,
+    "cal_active": 382,
+    "cal_total": 2567,
+    "score": 81
+  },
+  "2021-06-29": {
+    "steps": 6638,
+    "total": 247,
+    "cal_active": 323,
+    "cal_total": 2491,
+    "score": 79
+  },
+  "2021-06-30": {
+    "steps": 3528,
+    "total": 108,
+    "cal_active": 192,
+    "cal_total": 2187,
+    "score": 85
+  },
+  "2021-07-01": {
+    "steps": 10393,
+    "total": 263,
+    "cal_active": 681,
+    "cal_total": 2793,
+    "score": 85
+  },
+  "2021-07-02": {
+    "steps": 7230,
+    "total": 276,
+    "cal_active": 357,
+    "cal_total": 2553,
+    "score": 79
+  },
+  "2021-07-03": {},
+  "2021-07-04": {
+    "steps": 4535,
+    "total": 229,
+    "cal_active": 215,
+    "cal_total": 2331,
+    "score": 74
+  },
+  "2021-07-05": {
+    "steps": 5886,
+    "total": 300,
+    "cal_active": 275,
+    "cal_total": 2474,
+    "score": 69
+  },
+  "2021-07-06": {
+    "steps": 1793,
+    "total": 82,
+    "cal_active": 92,
+    "cal_total": 2055
+  },
+  "2021-07-07": {
+    "steps": 5220,
+    "total": 289,
+    "cal_active": 262,
+    "cal_total": 2413,
+    "score": 85
+  },
+  "2021-07-08": {
+    "steps": 3167,
+    "total": 142,
+    "cal_active": 150,
+    "cal_total": 2193,
+    "score": 81
+  },
+  "2021-07-09": {
+    "steps": 8120,
+    "total": 333,
+    "cal_active": 431,
+    "cal_total": 2635,
+    "score": 71
+  },
+  "2021-07-10": {
+    "steps": 15626,
+    "total": 494,
+    "cal_active": 701,
+    "cal_total": 2935,
+    "score": 82
+  },
+  "2021-07-11": {
+    "steps": 8315,
+    "total": 274,
+    "cal_active": 363,
+    "cal_total": 2418,
+    "score": 86
+  },
+  "2021-07-12": {
+    "steps": 6301,
+    "total": 227,
+    "cal_active": 341,
+    "cal_total": 2487,
+    "score": 81
+  },
+  "2021-07-13": {
+    "steps": 6086,
+    "total": 212,
+    "cal_active": 303,
+    "cal_total": 2432,
+    "score": 78
+  },
+  "2021-07-14": {
+    "steps": 6890,
+    "total": 219,
+    "cal_active": 350,
+    "cal_total": 2434,
+    "score": 79
+  },
+  "2021-07-15": {
+    "steps": 8817,
+    "total": 281,
+    "cal_active": 518,
+    "cal_total": 2626,
+    "score": 85
+  },
+  "2021-07-16": {
+    "steps": 8180,
+    "total": 283,
+    "cal_active": 426,
+    "cal_total": 2599,
+    "score": 82
+  },
+  "2021-07-17": {
+    "steps": 4189,
+    "total": 211,
+    "cal_active": 192,
+    "cal_total": 2316,
+    "score": 71
+  },
+  "2021-07-18": {
+    "steps": 16136,
+    "total": 385,
+    "cal_active": 741,
+    "cal_total": 2842,
+    "score": 82
+  },
+  "2021-07-19": {
+    "steps": 6445,
+    "total": 239,
+    "cal_active": 358,
+    "cal_total": 2481,
+    "score": 81
+  },
+  "2021-07-20": {
+    "steps": 4214,
+    "total": 124,
+    "cal_active": 227,
+    "cal_total": 2200,
+    "score": 85
+  },
+  "2021-07-21": {
+    "steps": 5281,
+    "total": 174,
+    "cal_active": 269,
+    "cal_total": 2290,
+    "score": 85
+  },
+  "2021-07-22": {
+    "steps": 9476,
+    "total": 304,
+    "cal_active": 490,
+    "cal_total": 2653,
+    "score": 75
+  },
+  "2021-07-23": {
+    "steps": 5742,
+    "total": 207,
+    "cal_active": 298,
+    "cal_total": 2420,
+    "score": 75
+  },
+  "2021-07-24": {
+    "steps": 16490,
+    "total": 380,
+    "cal_active": 893,
+    "cal_total": 3083,
+    "score": 82
+  },
+  "2021-07-25": {
+    "steps": 9870,
+    "total": 271,
+    "cal_active": 455,
+    "cal_total": 2534,
+    "score": 76
+  },
+  "2021-07-26": {
+    "steps": 5950,
+    "total": 212,
+    "cal_active": 301,
+    "cal_total": 2454,
+    "score": 73
+  },
+  "2021-07-27": {
+    "steps": 5358,
+    "total": 197,
+    "cal_active": 279,
+    "cal_total": 2334,
+    "score": 80
+  },
+  "2021-07-28": {
+    "steps": 5748,
+    "total": 224,
+    "cal_active": 285,
+    "cal_total": 2413,
+    "score": 78
+  },
+  "2021-07-29": {},
+  "2021-07-30": {
+    "steps": 7460,
+    "total": 294,
+    "cal_active": 404,
+    "cal_total": 2592,
+    "score": 74
+  },
+  "2021-07-31": {
+    "steps": 4765,
+    "total": 250,
+    "cal_active": 227,
+    "cal_total": 2283,
+    "score": 65
+  },
+  "2021-08-01": {
+    "steps": 7181,
+    "total": 279,
+    "cal_active": 342,
+    "cal_total": 2424,
+    "score": 59
+  },
+  "2021-08-02": {
+    "steps": 5883,
+    "total": 204,
+    "cal_active": 305,
+    "cal_total": 2375,
+    "score": 64
+  },
+  "2021-08-03": {
+    "steps": 7044,
+    "total": 205,
+    "cal_active": 365,
+    "cal_total": 2487,
+    "score": 67
+  },
+  "2021-08-04": {
+    "steps": 4636,
+    "total": 166,
+    "cal_active": 233,
+    "cal_total": 2313,
+    "score": 68
+  },
+  "2021-08-05": {
+    "steps": 1915,
+    "total": 54,
+    "cal_active": 110,
+    "cal_total": 2091,
+    "score": 66
+  },
+  "2021-08-06": {
+    "steps": 1393,
+    "total": 52,
+    "cal_active": 61,
+    "cal_total": 2058,
+    "score": 64
+  },
+  "2021-08-07": {
+    "steps": 7384,
+    "total": 293,
+    "cal_active": 349,
+    "cal_total": 2414,
+    "score": 61
+  },
+  "2021-08-08": {
+    "steps": 14413,
+    "total": 481,
+    "cal_active": 666,
+    "cal_total": 2835,
+    "score": 69
+  },
+  "2021-08-09": {
+    "steps": 18987,
+    "total": 552,
+    "cal_active": 861,
+    "cal_total": 3063,
+    "score": 80
+  },
+  "2021-08-10": {
+    "steps": 7410,
+    "total": 273,
+    "cal_active": 385,
+    "cal_total": 2549,
+    "score": 69
+  },
+  "2021-08-11": {
+    "steps": 7539,
+    "total": 284,
+    "cal_active": 389,
+    "cal_total": 2565,
+    "score": 62
+  },
+  "2021-08-12": {
+    "steps": 5159,
+    "total": 229,
+    "cal_active": 276,
+    "cal_total": 2412,
+    "score": 65
+  },
+  "2021-08-13": {
+    "steps": 10606,
+    "total": 372,
+    "cal_active": 562,
+    "cal_total": 2719,
+    "score": 83
+  },
+  "2021-08-14": {
+    "steps": 12764,
+    "total": 365,
+    "cal_active": 597,
+    "cal_total": 2761,
+    "score": 89
+  },
+  "2021-08-15": {
+    "steps": 8426,
+    "total": 236,
+    "cal_active": 402,
+    "cal_total": 2460,
+    "score": 84
+  },
+  "2021-08-16": {
+    "steps": 6119,
+    "total": 271,
+    "cal_active": 320,
+    "cal_total": 2525,
+    "score": 74
+  },
+  "2021-08-17": {
+    "steps": 5716,
+    "total": 208,
+    "cal_active": 278,
+    "cal_total": 2394,
+    "score": 81
+  },
+  "2021-08-18": {
+    "steps": 8675,
+    "total": 302,
+    "cal_active": 425,
+    "cal_total": 2579,
+    "score": 80
+  },
+  "2021-08-19": {
+    "steps": 6842,
+    "total": 279,
+    "cal_active": 327,
+    "cal_total": 2529,
+    "score": 77
+  },
+  "2021-08-20": {
+    "steps": 5528,
+    "total": 240,
+    "cal_active": 277,
+    "cal_total": 2412,
+    "score": 71
+  },
+  "2021-08-21": {
+    "steps": 15036,
+    "total": 476,
+    "cal_active": 738,
+    "cal_total": 2975,
+    "score": 72
+  },
+  "2021-08-22": {
+    "steps": 10560,
+    "total": 191,
+    "cal_active": 428,
+    "cal_total": 2473,
+    "score": 71
+  },
+  "2021-08-23": {
+    "steps": 4848,
+    "total": 168,
+    "cal_active": 239,
+    "cal_total": 2418,
+    "score": 69
+  },
+  "2021-08-24": {
+    "steps": 7813,
+    "total": 244,
+    "cal_active": 405,
+    "cal_total": 2532,
+    "score": 74
+  },
+  "2021-08-25": {
+    "steps": 7156,
+    "total": 259,
+    "cal_active": 341,
+    "cal_total": 2511,
+    "score": 73
+  },
+  "2021-08-26": {
+    "steps": 7139,
+    "total": 235,
+    "cal_active": 355,
+    "cal_total": 2491,
+    "score": 79
+  },
+  "2021-08-27": {
+    "steps": 7694,
+    "total": 281,
+    "cal_active": 396,
+    "cal_total": 2566,
+    "score": 79
+  },
+  "2021-08-28": {
+    "steps": 7904,
+    "total": 236,
+    "cal_active": 580,
+    "cal_total": 2692,
+    "score": 80
+  },
+  "2021-08-29": {},
+  "2021-08-30": {
+    "steps": 4854,
+    "total": 186,
+    "cal_active": 240,
+    "cal_total": 2394,
+    "score": 77
+  },
+  "2021-08-31": {
+    "steps": 6855,
+    "total": 257,
+    "cal_active": 325,
+    "cal_total": 2494,
+    "score": 72
+  },
+  "2021-09-01": {
+    "steps": 11113,
+    "total": 372,
+    "cal_active": 530,
+    "cal_total": 2745,
+    "score": 81
+  },
+  "2021-09-02": {
+    "steps": 6236,
+    "total": 265,
+    "cal_active": 271,
+    "cal_total": 2408,
+    "score": 76
+  },
+  "2021-09-03": {
+    "steps": 4051,
+    "total": 138,
+    "cal_active": 236,
+    "cal_total": 2271,
+    "score": 81
+  },
+  "2021-09-04": {
+    "steps": 9613,
+    "total": 388,
+    "cal_active": 477,
+    "cal_total": 2639,
+    "score": 70
+  },
+  "2021-09-05": {
+    "steps": 11080,
+    "total": 306,
+    "cal_active": 502,
+    "cal_total": 2588,
+    "score": 76
+  },
+  "2021-09-06": {
+    "steps": 6765,
+    "total": 269,
+    "cal_active": 343,
+    "cal_total": 2490,
+    "score": 74
+  },
+  "2021-09-07": {
+    "steps": 8344,
+    "total": 290,
+    "cal_active": 429,
+    "cal_total": 2599,
+    "score": 76
+  },
+  "2021-09-08": {
+    "steps": 6322,
+    "total": 251,
+    "cal_active": 326,
+    "cal_total": 2507,
+    "score": 67
+  },
+  "2021-09-09": {},
+  "2021-09-10": {
+    "steps": 19780,
+    "total": 525,
+    "cal_active": 842,
+    "cal_total": 3057,
+    "score": 82
+  },
+  "2021-09-11": {
+    "steps": 20808,
+    "total": 668,
+    "cal_active": 901,
+    "cal_total": 3118,
+    "score": 89
+  },
+  "2021-09-12": {
+    "steps": 7291,
+    "total": 285,
+    "cal_active": 323,
+    "cal_total": 2466,
+    "score": 81
+  },
+  "2021-09-13": {
+    "steps": 6377,
+    "total": 272,
+    "cal_active": 307,
+    "cal_total": 2417,
+    "score": 79
+  },
+  "2021-09-14": {
+    "steps": 1978,
+    "total": 97,
+    "cal_active": 103,
+    "cal_total": 2061,
+    "score": 79
+  },
+  "2021-09-15": {
+    "steps": 2238,
+    "total": 94,
+    "cal_active": 109,
+    "cal_total": 2079
+  },
+  "2021-09-16": {
+    "steps": 4164,
+    "total": 226,
+    "cal_active": 196,
+    "cal_total": 2317
+  },
+  "2021-09-17": {
+    "steps": 5556,
+    "total": 189,
+    "cal_active": 251,
+    "cal_total": 2295
+  },
+  "2021-09-18": {
+    "steps": 15118,
+    "total": 453,
+    "cal_active": 689,
+    "cal_total": 2849
+  },
+  "2021-09-19": {
+    "steps": 7380,
+    "total": 299,
+    "cal_active": 354,
+    "cal_total": 2394
+  },
+  "2021-09-20": {
+    "steps": 3078,
+    "total": 181,
+    "cal_active": 161,
+    "cal_total": 2216,
+    "score": 88
+  },
+  "2021-09-21": {
+    "steps": 7966,
+    "total": 283,
+    "cal_active": 386,
+    "cal_total": 2518,
+    "score": 84
+  },
+  "2021-09-22": {
+    "steps": 6060,
+    "total": 281,
+    "cal_active": 276,
+    "cal_total": 2420,
+    "score": 78
+  },
+  "2021-09-23": {
+    "steps": 7080,
+    "total": 293,
+    "cal_active": 327,
+    "cal_total": 2500,
+    "score": 74
+  },
+  "2021-09-24": {
+    "steps": 9594,
+    "total": 281,
+    "cal_active": 424,
+    "cal_total": 2539,
+    "score": 82
+  },
+  "2021-09-25": {
+    "steps": 25585,
+    "total": 726,
+    "cal_active": 1088,
+    "cal_total": 3350,
+    "score": 88
+  },
+  "2021-09-26": {
+    "steps": 6460,
+    "total": 303,
+    "cal_active": 306,
+    "cal_total": 2429,
+    "score": 79
+  },
+  "2021-09-27": {
+    "steps": 6873,
+    "total": 257,
+    "cal_active": 313,
+    "cal_total": 2403,
+    "score": 82
+  },
+  "2021-09-28": {
+    "steps": 7656,
+    "total": 305,
+    "cal_active": 362,
+    "cal_total": 2463,
+    "score": 84
+  },
+  "2021-09-29": {
+    "steps": 8113,
+    "total": 282,
+    "cal_active": 375,
+    "cal_total": 2486,
+    "score": 82
+  },
+  "2021-09-30": {
+    "steps": 7064,
+    "total": 212,
+    "cal_active": 292,
+    "cal_total": 2433,
+    "score": 75
+  },
+  "2021-10-01": {},
+  "2021-10-02": {},
+  "2021-10-03": {},
+  "2021-10-04": {
+    "steps": 6028,
+    "total": 210,
+    "cal_active": 293,
+    "cal_total": 2418,
+    "score": 52
+  },
+  "2021-10-05": {
+    "steps": 6986,
+    "total": 234,
+    "cal_active": 334,
+    "cal_total": 2457,
+    "score": 51
+  },
+  "2021-10-06": {
+    "steps": 6494,
+    "total": 300,
+    "cal_active": 315,
+    "cal_total": 2428,
+    "score": 55
+  },
+  "2021-10-07": {
+    "steps": 12634,
+    "total": 331,
+    "cal_active": 653,
+    "cal_total": 2820,
+    "score": 68
+  },
+  "2021-10-08": {
+    "steps": 5110,
+    "total": 189,
+    "cal_active": 279,
+    "cal_total": 2367,
+    "score": 66
+  },
+  "2021-10-09": {
+    "steps": 2421,
+    "total": 91,
+    "cal_active": 113,
+    "cal_total": 1980,
+    "score": 67
+  },
+  "2021-10-10": {},
+  "2021-10-11": {},
+  "2021-10-12": {},
+  "2021-10-13": {},
+  "2021-10-14": {},
+  "2021-10-15": {},
+  "2021-10-16": {
+    "steps": 3051,
+    "total": 198,
+    "cal_active": 141,
+    "cal_total": 2250,
+    "score": 50
+  },
+  "2021-10-17": {
+    "steps": 3078,
+    "total": 163,
+    "cal_active": 135,
+    "cal_total": 2085,
+    "score": 47
+  },
+  "2021-10-18": {
+    "steps": 8352,
+    "total": 288,
+    "cal_active": 419,
+    "cal_total": 2540,
+    "score": 54
+  },
+  "2021-10-19": {
+    "steps": 6068,
+    "total": 239,
+    "cal_active": 310,
+    "cal_total": 2435,
+    "score": 52
+  },
+  "2021-10-20": {
+    "steps": 1851,
+    "total": 89,
+    "cal_active": 90,
+    "cal_total": 2090,
+    "score": 52
+  },
+  "2021-10-21": {
+    "steps": 7481,
+    "total": 220,
+    "cal_active": 330,
+    "cal_total": 2468,
+    "score": 56
+  },
+  "2021-10-22": {
+    "steps": 12066,
+    "total": 286,
+    "cal_active": 605,
+    "cal_total": 2728,
+    "score": 70
+  },
+  "2021-10-23": {
+    "steps": 14825,
+    "total": 472,
+    "cal_active": 647,
+    "cal_total": 2846,
+    "score": 76
+  },
+  "2021-10-24": {
+    "steps": 11842,
+    "total": 349,
+    "cal_active": 492,
+    "cal_total": 2571,
+    "score": 83
+  },
+  "2021-10-25": {
+    "steps": 13619,
+    "total": 341,
+    "cal_active": 568,
+    "cal_total": 2652,
+    "score": 85
+  },
+  "2021-10-26": {
+    "steps": 1922,
+    "total": 73,
+    "cal_active": 106,
+    "cal_total": 2115,
+    "score": 73
+  },
+  "2021-10-27": {},
+  "2021-10-28": {
+    "steps": 6081,
+    "total": 221,
+    "cal_active": 290,
+    "cal_total": 2422,
+    "score": 78
+  },
+  "2021-10-29": {
+    "steps": 5773,
+    "total": 208,
+    "cal_active": 282,
+    "cal_total": 2386,
+    "score": 69
+  },
+  "2021-10-30": {
+    "steps": 12722,
+    "total": 427,
+    "cal_active": 607,
+    "cal_total": 2826,
+    "score": 76
+  },
+  "2021-10-31": {
+    "steps": 6525,
+    "total": 268,
+    "cal_active": 306,
+    "cal_total": 2336,
+    "score": 82
+  },
+  "2021-11-01": {
+    "steps": 5562,
+    "total": 178,
+    "cal_active": 301,
+    "cal_total": 2367,
+    "score": 77
+  },
+  "2021-11-02": {
+    "steps": 6472,
+    "total": 261,
+    "cal_active": 303,
+    "cal_total": 2422,
+    "score": 72
+  },
+  "2021-11-03": {
+    "steps": 5784,
+    "total": 230,
+    "cal_active": 308,
+    "cal_total": 2417,
+    "score": 74
+  },
+  "2021-11-04": {
+    "steps": 10120,
+    "total": 326,
+    "cal_active": 466,
+    "cal_total": 2600,
+    "score": 81
+  },
+  "2021-11-05": {
+    "steps": 10509,
+    "total": 337,
+    "cal_active": 487,
+    "cal_total": 2674,
+    "score": 81
+  },
+  "2021-11-06": {
+    "steps": 3285,
+    "total": 124,
+    "cal_active": 147,
+    "cal_total": 2111,
+    "score": 81
+  },
+  "2021-11-07": {
+    "steps": 6657,
+    "total": 256,
+    "cal_active": 304,
+    "cal_total": 2360,
+    "score": 73
+  },
+  "2021-11-08": {
+    "steps": 6306,
+    "total": 235,
+    "cal_active": 328,
+    "cal_total": 2455,
+    "score": 72
+  },
+  "2021-11-09": {
+    "steps": 5135,
+    "total": 215,
+    "cal_active": 263,
+    "cal_total": 2379,
+    "score": 59
+  },
+  "2021-11-10": {
+    "steps": 5522,
+    "total": 223,
+    "cal_active": 274,
+    "cal_total": 2396,
+    "score": 63
+  },
+  "2021-11-11": {
+    "steps": 3256,
+    "total": 127,
+    "cal_active": 146,
+    "cal_total": 2207,
+    "score": 58
+  },
+  "2021-11-12": {},
+  "2021-11-13": {},
+  "2021-11-14": {
+    "steps": 3418,
+    "total": 183,
+    "cal_active": 157,
+    "cal_total": 2194,
+    "score": 52
+  },
+  "2021-11-15": {
+    "steps": 5304,
+    "total": 272,
+    "cal_active": 259,
+    "cal_total": 2414,
+    "score": 48
+  },
+  "2021-11-16": {
+    "steps": 4713,
+    "total": 222,
+    "cal_active": 224,
+    "cal_total": 2341,
+    "score": 47
+  },
+  "2021-11-17": {
+    "steps": 13995,
+    "total": 376,
+    "cal_active": 652,
+    "cal_total": 2806,
+    "score": 66
+  },
+  "2021-11-18": {
+    "steps": 8174,
+    "total": 295,
+    "cal_active": 403,
+    "cal_total": 2542,
+    "score": 76
+  },
+  "2021-11-19": {
+    "steps": 3706,
+    "total": 180,
+    "cal_active": 179,
+    "cal_total": 2288,
+    "score": 70
+  },
+  "2021-11-20": {
+    "steps": 7337,
+    "total": 306,
+    "cal_active": 369,
+    "cal_total": 2503,
+    "score": 71
+  },
+  "2021-11-21": {
+    "steps": 10046,
+    "total": 271,
+    "cal_active": 463,
+    "cal_total": 2551,
+    "score": 81
+  },
+  "2021-11-22": {
+    "steps": 8945,
+    "total": 285,
+    "cal_active": 409,
+    "cal_total": 2546,
+    "score": 83
+  },
+  "2021-11-23": {
+    "steps": 4043,
+    "total": 179,
+    "cal_active": 201,
+    "cal_total": 2313,
+    "score": 76
+  },
+  "2021-11-24": {
+    "steps": 3015,
+    "total": 130,
+    "cal_active": 148,
+    "cal_total": 2164,
+    "score": 73
+  },
+  "2021-11-25": {},
+  "2021-11-26": {},
+  "2021-11-27": {},
+  "2021-11-28": {
+    "steps": 1167,
+    "total": 52,
+    "cal_active": 57,
+    "cal_total": 2028,
+    "score": 57
+  },
+  "2021-11-29": {
+    "steps": 3549,
+    "total": 196,
+    "cal_active": 177,
+    "cal_total": 2238,
+    "score": 46
+  },
+  "2021-11-30": {
+    "steps": 4424,
+    "total": 251,
+    "cal_active": 226,
+    "cal_total": 2325,
+    "score": 48
+  },
+  "2021-12-01": {
+    "steps": 6368,
+    "total": 260,
+    "cal_active": 314,
+    "cal_total": 2456,
+    "score": 47
+  },
+  "2021-12-02": {
+    "steps": 6182,
+    "total": 307,
+    "cal_active": 308,
+    "cal_total": 2416,
+    "score": 53
+  },
+  "2021-12-03": {
+    "steps": 5897,
+    "total": 273,
+    "cal_active": 296,
+    "cal_total": 2414,
+    "score": 53
+  },
+  "2021-12-04": {
+    "steps": 9314,
+    "total": 352,
+    "cal_active": 465,
+    "cal_total": 2614,
+    "score": 59
+  },
+  "2021-12-05": {
+    "steps": 7991,
+    "total": 283,
+    "cal_active": 387,
+    "cal_total": 2447,
+    "score": 57
+  },
+  "2021-12-06": {
+    "steps": 6044,
+    "total": 253,
+    "cal_active": 293,
+    "cal_total": 2420,
+    "score": 53
+  },
+  "2021-12-07": {
+    "steps": 4880,
+    "total": 204,
+    "cal_active": 231,
+    "cal_total": 2322,
+    "score": 52
+  },
+  "2021-12-08": {},
+  "2021-12-09": {},
+  "2021-12-10": {},
+  "2021-12-11": {},
+  "2021-12-12": {
+    "steps": 6483,
+    "total": 223,
+    "cal_active": 302,
+    "cal_total": 2356,
+    "score": 54
+  },
+  "2021-12-13": {
+    "steps": 5955,
+    "total": 200,
+    "cal_active": 285,
+    "cal_total": 2378,
+    "score": 50
+  },
+  "2021-12-14": {
+    "steps": 7748,
+    "total": 346,
+    "cal_active": 378,
+    "cal_total": 2549,
+    "score": 52
+  },
+  "2021-12-15": {
+    "steps": 5812,
+    "total": 276,
+    "cal_active": 291,
+    "cal_total": 2424,
+    "score": 52
+  },
+  "2021-12-16": {
+    "steps": 5760,
+    "total": 303,
+    "cal_active": 282,
+    "cal_total": 2436,
+    "score": 51
+  },
+  "2021-12-17": {
+    "steps": 5560,
+    "total": 151,
+    "cal_active": 271,
+    "cal_total": 2347,
+    "score": 59
+  },
+  "2021-12-18": {
+    "steps": 5154,
+    "total": 213,
+    "cal_active": 254,
+    "cal_total": 2393,
+    "score": 46
+  },
+  "2021-12-19": {
+    "steps": 5480,
+    "total": 268,
+    "cal_active": 267,
+    "cal_total": 2339,
+    "score": 53
+  },
+  "2021-12-20": {
+    "steps": 9272,
+    "total": 275,
+    "cal_active": 415,
+    "cal_total": 2532,
+    "score": 59
+  },
+  "2021-12-21": {
+    "steps": 6452,
+    "total": 275,
+    "cal_active": 309,
+    "cal_total": 2368,
+    "score": 62
+  },
+  "2021-12-22": {
+    "steps": 6148,
+    "total": 229,
+    "cal_active": 339,
+    "cal_total": 2356,
+    "score": 65
+  },
+  "2021-12-23": {
+    "steps": 5422,
+    "total": 211,
+    "cal_active": 243,
+    "cal_total": 2339,
+    "score": 54
+  },
+  "2021-12-24": {
+    "steps": 6836,
+    "total": 310,
+    "cal_active": 328,
+    "cal_total": 2421,
+    "score": 61
+  },
+  "2021-12-25": {
+    "steps": 5671,
+    "total": 258,
+    "cal_active": 273,
+    "cal_total": 2313,
+    "score": 58
+  },
+  "2021-12-26": {
+    "steps": 7612,
+    "total": 326,
+    "cal_active": 384,
+    "cal_total": 2474,
+    "score": 58
+  },
+  "2021-12-27": {
+    "steps": 5012,
+    "total": 198,
+    "cal_active": 225,
+    "cal_total": 2217,
+    "score": 58
+  },
+  "2021-12-28": {
+    "steps": 5248,
+    "total": 241,
+    "cal_active": 246,
+    "cal_total": 2327,
+    "score": 50
+  },
+  "2021-12-29": {
+    "steps": 4699,
+    "total": 199,
+    "cal_active": 216,
+    "cal_total": 2349,
+    "score": 48
+  },
+  "2021-12-30": {
+    "steps": 11662,
+    "total": 349,
+    "cal_active": 547,
+    "cal_total": 2697,
+    "score": 64
+  },
+  "2021-12-31": {
+    "steps": 13445,
+    "total": 513,
+    "cal_active": 686,
+    "cal_total": 2932,
+    "score": 78
+  },
+  "2022-01-01": {
+    "steps": 13803,
+    "total": 305,
+    "cal_active": 580,
+    "cal_total": 2690,
+    "score": 83
+  },
+  "2022-01-02": {
+    "steps": 6380,
+    "total": 242,
+    "cal_active": 294,
+    "cal_total": 2348,
+    "score": 82
+  },
+  "2022-01-03": {
+    "steps": 6426,
+    "total": 165,
+    "cal_active": 293,
+    "cal_total": 2330,
+    "score": 77
+  },
+  "2022-01-04": {
+    "steps": 3980,
+    "total": 125,
+    "cal_active": 190,
+    "cal_total": 2213,
+    "score": 73
+  },
+  "2022-01-05": {
+    "steps": 5033,
+    "total": 217,
+    "cal_active": 224,
+    "cal_total": 2295,
+    "score": 78
+  },
+  "2022-01-06": {
+    "steps": 3423,
+    "total": 180,
+    "cal_active": 165,
+    "cal_total": 2118,
+    "score": 71
+  },
+  "2022-01-07": {},
+  "2022-01-08": {},
+  "2022-01-09": {},
+  "2022-01-10": {},
+  "2022-01-11": {},
+  "2022-01-12": {},
+  "2022-01-13": {
+    "steps": 1647,
+    "total": 72,
+    "cal_active": 79,
+    "cal_total": 2049,
+    "score": 51
+  },
+  "2022-01-14": {
+    "steps": 7268,
+    "total": 246,
+    "cal_active": 340,
+    "cal_total": 2506,
+    "score": 44
+  },
+  "2022-01-15": {
+    "steps": 6990,
+    "total": 298,
+    "cal_active": 328,
+    "cal_total": 2403,
+    "score": 53
+  },
+  "2022-01-16": {
+    "steps": 5915,
+    "total": 237,
+    "cal_active": 265,
+    "cal_total": 2309,
+    "score": 51
+  },
+  "2022-01-17": {
+    "steps": 4832,
+    "total": 200,
+    "cal_active": 211,
+    "cal_total": 2326,
+    "score": 51
+  },
+  "2022-01-18": {
+    "steps": 5090,
+    "total": 193,
+    "cal_active": 209,
+    "cal_total": 2314,
+    "score": 51
+  },
+  "2022-01-19": {
+    "steps": 7654,
+    "total": 324,
+    "cal_active": 357,
+    "cal_total": 2482,
+    "score": 52
+  },
+  "2022-01-20": {
+    "steps": 5913,
+    "total": 277,
+    "cal_active": 302,
+    "cal_total": 2417,
+    "score": 54
+  },
+  "2022-01-21": {
+    "steps": 10907,
+    "total": 365,
+    "cal_active": 592,
+    "cal_total": 2744,
+    "score": 70
+  },
+  "2022-01-22": {
+    "steps": 6712,
+    "total": 285,
+    "cal_active": 301,
+    "cal_total": 2470,
+    "score": 57
+  },
+  "2022-01-23": {
+    "steps": 1359,
+    "total": 83,
+    "cal_active": 60,
+    "cal_total": 2002,
+    "score": 70
+  },
+  "2022-01-24": {
+    "steps": 10432,
+    "total": 382,
+    "cal_active": 462,
+    "cal_total": 2534,
+    "score": 74
+  },
+  "2022-01-25": {
+    "steps": 15542,
+    "total": 504,
+    "cal_active": 715,
+    "cal_total": 2865,
+    "score": 79
+  },
+  "2022-01-26": {
+    "steps": 16331,
+    "total": 472,
+    "cal_active": 727,
+    "cal_total": 2873,
+    "score": 88
+  },
+  "2022-01-27": {
+    "steps": 31402,
+    "total": 843,
+    "cal_active": 1374,
+    "cal_total": 3679,
+    "score": 93
+  },
+  "2022-01-28": {
+    "steps": 3750,
+    "total": 143,
+    "cal_active": 168,
+    "cal_total": 2141,
+    "score": 82
+  },
+  "2022-01-29": {
+    "steps": 4050,
+    "total": 159,
+    "cal_active": 189,
+    "cal_total": 2174,
+    "score": 89
+  },
+  "2022-01-30": {},
+  "2022-01-31": {
+    "steps": 14559,
+    "total": 372,
+    "cal_active": 620,
+    "cal_total": 2777,
+    "score": 91
+  },
+  "2022-02-01": {
+    "steps": 1832,
+    "total": 92,
+    "cal_active": 82,
+    "cal_total": 2006,
+    "score": 78
+  },
+  "2022-02-02": {
+    "steps": 5981,
+    "total": 223,
+    "cal_active": 260,
+    "cal_total": 2355,
+    "score": 71
+  },
+  "2022-02-03": {
+    "steps": 1143,
+    "total": 47,
+    "cal_active": 54,
+    "cal_total": 1864,
+    "score": 61
+  },
+  "2022-02-04": {},
+  "2022-02-05": {},
+  "2022-02-06": {
+    "steps": 5339,
+    "total": 270,
+    "cal_active": 269,
+    "cal_total": 2422,
+    "score": 61
+  },
+  "2022-02-07": {
+    "steps": 6540,
+    "total": 292,
+    "cal_active": 302,
+    "cal_total": 2467,
+    "score": 52
+  },
+  "2022-02-08": {
+    "steps": 4020,
+    "total": 196,
+    "cal_active": 199,
+    "cal_total": 2284,
+    "score": 57
+  },
+  "2022-02-09": {
+    "steps": 3504,
+    "total": 176,
+    "cal_active": 173,
+    "cal_total": 2251,
+    "score": 57
+  },
+  "2022-02-10": {
+    "steps": 4731,
+    "total": 231,
+    "cal_active": 229,
+    "cal_total": 2334,
+    "score": 57
+  },
+  "2022-02-11": {
+    "steps": 7271,
+    "total": 253,
+    "cal_active": 376,
+    "cal_total": 2495,
+    "score": 63
+  },
+  "2022-02-12": {
+    "steps": 8503,
+    "total": 330,
+    "cal_active": 404,
+    "cal_total": 2536,
+    "score": 66
+  },
+  "2022-02-13": {
+    "steps": 14833,
+    "total": 410,
+    "cal_active": 838,
+    "cal_total": 2960,
+    "score": 80
+  },
+  "2022-02-14": {
+    "steps": 6106,
+    "total": 270,
+    "cal_active": 300,
+    "cal_total": 2451,
+    "score": 68
+  },
+  "2022-02-15": {
+    "steps": 4394,
+    "total": 176,
+    "cal_active": 206,
+    "cal_total": 2277,
+    "score": 66
+  },
+  "2022-02-16": {
+    "steps": 8004,
+    "total": 288,
+    "cal_active": 413,
+    "cal_total": 2573,
+    "score": 72
+  },
+  "2022-02-17": {
+    "steps": 6244,
+    "total": 241,
+    "cal_active": 340,
+    "cal_total": 2485,
+    "score": 77
+  },
+  "2022-02-18": {
+    "steps": 4877,
+    "total": 193,
+    "cal_active": 230,
+    "cal_total": 2324,
+    "score": 76
+  },
+  "2022-02-19": {
+    "steps": 7818,
+    "total": 317,
+    "cal_active": 367,
+    "cal_total": 2480,
+    "score": 77
+  },
+  "2022-02-20": {
+    "steps": 6628,
+    "total": 342,
+    "cal_active": 316,
+    "cal_total": 2408,
+    "score": 68
+  },
+  "2022-02-21": {
+    "steps": 6715,
+    "total": 269,
+    "cal_active": 327,
+    "cal_total": 2463,
+    "score": 64
+  },
+  "2022-02-22": {
+    "steps": 4206,
+    "total": 209,
+    "cal_active": 205,
+    "cal_total": 2272,
+    "score": 62
+  },
+  "2022-02-23": {
+    "steps": 5669,
+    "total": 228,
+    "cal_active": 271,
+    "cal_total": 2387,
+    "score": 57
+  },
+  "2022-02-24": {
+    "steps": 7252,
+    "total": 272,
+    "cal_active": 352,
+    "cal_total": 2509,
+    "score": 51
+  },
+  "2022-02-25": {
+    "steps": 9264,
+    "total": 327,
+    "cal_active": 443,
+    "cal_total": 2635,
+    "score": 55
+  },
+  "2022-02-26": {
+    "steps": 1283,
+    "total": 58,
+    "cal_active": 56,
+    "cal_total": 1910,
+    "score": 52
+  },
+  "2022-02-27": {},
+  "2022-03-01": {},
+  "2022-03-02": {},
+  "2022-03-03": {},
+  "2022-03-04": {},
+  "2022-03-05": {
+    "steps": 111,
+    "total": 9,
+    "cal_active": 6,
+    "cal_total": 1958,
+    "score": 50
+  },
+  "2022-03-06": {
+    "steps": 8083,
+    "total": 313,
+    "cal_active": 382,
+    "cal_total": 2471,
+    "score": 48
+  },
+  "2022-03-07": {
+    "steps": 5300,
+    "total": 246,
+    "cal_active": 240,
+    "cal_total": 2376,
+    "score": 48
+  },
+  "2022-03-08": {
+    "steps": 6201,
+    "total": 243,
+    "cal_active": 285,
+    "cal_total": 2359,
+    "score": 52
+  },
+  "2022-03-09": {
+    "steps": 8003,
+    "total": 265,
+    "cal_active": 362,
+    "cal_total": 2476,
+    "score": 54
+  },
+  "2022-03-10": {
+    "steps": 11778,
+    "total": 415,
+    "cal_active": 579,
+    "cal_total": 2827,
+    "score": 68
+  },
+  "2022-03-11": {
+    "steps": 3895,
+    "total": 219,
+    "cal_active": 183,
+    "cal_total": 2278,
+    "score": 66
+  },
+  "2022-03-12": {
+    "steps": 8541,
+    "total": 351,
+    "cal_active": 419,
+    "cal_total": 2540,
+    "score": 67
+  },
+  "2022-03-13": {
+    "steps": 12479,
+    "total": 326,
+    "cal_active": 598,
+    "cal_total": 2704,
+    "score": 77
+  },
+  "2022-03-14": {
+    "steps": 6037,
+    "total": 274,
+    "cal_active": 307,
+    "cal_total": 2440,
+    "score": 75
+  },
+  "2022-03-15": {},
+  "2022-03-16": {},
+  "2022-03-17": {},
+  "2022-03-18": {},
+  "2022-03-19": {
+    "steps": 5082,
+    "total": 220,
+    "cal_active": 248,
+    "cal_total": 2348,
+    "score": 60
+  },
+  "2022-03-20": {
+    "steps": 8060,
+    "total": 281,
+    "cal_active": 371,
+    "cal_total": 2452,
+    "score": 52
+  },
+  "2022-03-21": {
+    "steps": 5587,
+    "total": 275,
+    "cal_active": 272,
+    "cal_total": 2412,
+    "score": 51
+  },
+  "2022-03-22": {
+    "steps": 5936,
+    "total": 222,
+    "cal_active": 284,
+    "cal_total": 2380,
+    "score": 53
+  },
+  "2022-03-23": {
+    "steps": 5251,
+    "total": 232,
+    "cal_active": 259,
+    "cal_total": 2383,
+    "score": 52
+  },
+  "2022-03-24": {
+    "steps": 9492,
+    "total": 309,
+    "cal_active": 426,
+    "cal_total": 2503,
+    "score": 58
+  },
+  "2022-03-25": {
+    "steps": 8795,
+    "total": 349,
+    "cal_active": 380,
+    "cal_total": 2540,
+    "score": 51
+  },
+  "2022-03-26": {
+    "steps": 8007,
+    "total": 292,
+    "cal_active": 402,
+    "cal_total": 2579,
+    "score": 54
+  },
+  "2022-03-27": {
+    "steps": 15592,
+    "total": 394,
+    "cal_active": 720,
+    "cal_total": 2793,
+    "score": 71
+  },
+  "2022-03-28": {
+    "steps": 4785,
+    "total": 221,
+    "cal_active": 244,
+    "cal_total": 2358,
+    "score": 60
+  },
+  "2022-03-29": {
+    "steps": 6367,
+    "total": 294,
+    "cal_active": 327,
+    "cal_total": 2466,
+    "score": 69
+  },
+  "2022-03-30": {
+    "steps": 5727,
+    "total": 232,
+    "cal_active": 279,
+    "cal_total": 2376,
+    "score": 70
+  },
+  "2022-03-31": {
+    "steps": 12490,
+    "total": 571,
+    "cal_active": 580,
+    "cal_total": 2825,
+    "score": 75
+  },
+  "2022-04-01": {
+    "steps": 4313,
+    "total": 206,
+    "cal_active": 198,
+    "cal_total": 2263,
+    "score": 72
+  },
+  "2022-04-02": {
+    "steps": 4433,
+    "total": 233,
+    "cal_active": 201,
+    "cal_total": 2266,
+    "score": 74
+  },
+  "2022-04-03": {
+    "steps": 6867,
+    "total": 218,
+    "cal_active": 309,
+    "cal_total": 2334,
+    "score": 66
+  },
+  "2022-04-04": {
+    "steps": 7508,
+    "total": 270,
+    "cal_active": 382,
+    "cal_total": 2504,
+    "score": 71
+  },
+  "2022-04-05": {
+    "steps": 4530,
+    "total": 200,
+    "cal_active": 226,
+    "cal_total": 2294,
+    "score": 70
+  },
+  "2022-04-06": {
+    "steps": 4075,
+    "total": 209,
+    "cal_active": 196,
+    "cal_total": 2291,
+    "score": 67
+  },
+  "2022-04-07": {
+    "steps": 6475,
+    "total": 305,
+    "cal_active": 329,
+    "cal_total": 2477,
+    "score": 65
+  },
+  "2022-04-08": {
+    "steps": 7813,
+    "total": 300,
+    "cal_active": 390,
+    "cal_total": 2547,
+    "score": 62
+  },
+  "2022-04-09": {
+    "steps": 7001,
+    "total": 251,
+    "cal_active": 498,
+    "cal_total": 2601,
+    "score": 76
+  },
+  "2022-04-10": {
+    "steps": 7546,
+    "total": 292,
+    "cal_active": 362,
+    "cal_total": 2516,
+    "score": 68
+  },
+  "2022-04-11": {
+    "steps": 6631,
+    "total": 259,
+    "cal_active": 341,
+    "cal_total": 2476,
+    "score": 63
+  },
+  "2022-04-12": {
+    "steps": 6491,
+    "total": 266,
+    "cal_active": 303,
+    "cal_total": 2402,
+    "score": 54
+  },
+  "2022-04-13": {
+    "steps": 6167,
+    "total": 266,
+    "cal_active": 282,
+    "cal_total": 2393,
+    "score": 50
+  },
+  "2022-04-14": {
+    "steps": 2836,
+    "total": 98,
+    "cal_active": 127,
+    "cal_total": 2131,
+    "score": 62
+  },
+  "2022-04-15": {
+    "steps": 6368,
+    "total": 256,
+    "cal_active": 324,
+    "cal_total": 2400,
+    "score": 59
+  },
+  "2022-04-16": {
+    "steps": 11606,
+    "total": 410,
+    "cal_active": 507,
+    "cal_total": 2651,
+    "score": 64
+  },
+  "2022-04-17": {
+    "steps": 16951,
+    "total": 347,
+    "cal_active": 710,
+    "cal_total": 2783,
+    "score": 75
+  },
+  "2022-04-18": {
+    "steps": 11647,
+    "total": 315,
+    "cal_active": 482,
+    "cal_total": 2520,
+    "score": 78
+  },
+  "2022-04-19": {},
+  "2022-04-20": {
+    "steps": 59,
+    "total": 3,
+    "cal_active": 3,
+    "cal_total": 1942,
+    "score": 81
+  },
+  "2022-04-21": {
+    "steps": 8286,
+    "total": 321,
+    "cal_active": 372,
+    "cal_total": 2519,
+    "score": 75
+  },
+  "2022-04-22": {
+    "steps": 6802,
+    "total": 269,
+    "cal_active": 332,
+    "cal_total": 2443,
+    "score": 74
+  },
+  "2022-04-23": {
+    "steps": 10358,
+    "total": 358,
+    "cal_active": 485,
+    "cal_total": 2648,
+    "score": 78
+  },
+  "2022-04-24": {
+    "steps": 4418,
+    "total": 209,
+    "cal_active": 238,
+    "cal_total": 2314,
+    "score": 67
+  },
+  "2022-04-25": {
+    "steps": 430,
+    "total": 21,
+    "cal_active": 25,
+    "cal_total": 1985,
+    "score": 57
+  },
+  "2022-04-26": {
+    "steps": 5137,
+    "total": 219,
+    "cal_active": 241,
+    "cal_total": 2335,
+    "score": 60
+  },
+  "2022-04-27": {
+    "steps": 6978,
+    "total": 273,
+    "cal_active": 334,
+    "cal_total": 2437,
+    "score": 57
+  },
+  "2022-04-28": {
+    "steps": 6807,
+    "total": 190,
+    "cal_active": 297,
+    "cal_total": 2336,
+    "score": 59
+  },
+  "2022-04-29": {
+    "steps": 6178,
+    "total": 208,
+    "cal_active": 276,
+    "cal_total": 2321,
+    "score": 58
+  },
+  "2022-04-30": {
+    "steps": 7526,
+    "total": 202,
+    "cal_active": 304,
+    "cal_total": 2347,
+    "score": 57
+  },
+  "2022-05-01": {},
+  "2022-05-02": {
+    "steps": 148,
+    "total": 5,
+    "cal_active": 5,
+    "cal_total": 1918,
+    "score": 57
+  },
+  "2022-05-03": {
+    "steps": 7261,
+    "total": 292,
+    "cal_active": 349,
+    "cal_total": 2449,
+    "score": 53
+  },
+  "2022-05-04": {
+    "steps": 6625,
+    "total": 270,
+    "cal_active": 306,
+    "cal_total": 2451,
+    "score": 50
+  },
+  "2022-05-05": {
+    "steps": 5437,
+    "total": 284,
+    "cal_active": 277,
+    "cal_total": 2442,
+    "score": 50
+  },
+  "2022-05-06": {
+    "steps": 6898,
+    "total": 306,
+    "cal_active": 335,
+    "cal_total": 2509,
+    "score": 53
+  },
+  "2022-05-07": {
+    "steps": 5420,
+    "total": 246,
+    "cal_active": 288,
+    "cal_total": 2418,
+    "score": 53
+  },
+  "2022-05-08": {
+    "steps": 8105,
+    "total": 335,
+    "cal_active": 386,
+    "cal_total": 2461,
+    "score": 61
+  },
+  "2022-05-09": {
+    "steps": 82,
+    "total": 3,
+    "cal_active": 3,
+    "cal_total": 1755,
+    "score": 62
+  },
+  "2022-05-10": {},
+  "2022-05-11": {},
+  "2022-05-12": {},
+  "2022-05-13": {},
+  "2022-05-14": {},
+  "2022-05-15": {},
+  "2022-05-16": {},
+  "2022-05-17": {},
+  "2022-05-18": {},
+  "2022-05-19": {},
+  "2022-05-20": {},
+  "2022-05-21": {},
+  "2022-05-22": {},
+  "2022-05-23": {},
+  "2022-05-24": {},
+  "2022-05-25": {
+    "steps": 10567,
+    "total": 345,
+    "cal_active": 477,
+    "cal_total": 2672,
+    "score": 58
+  },
+  "2022-05-26": {
+    "steps": 4530,
+    "total": 180,
+    "cal_active": 216,
+    "cal_total": 2272,
+    "score": 63
+  },
+  "2022-05-27": {
+    "steps": 9215,
+    "total": 387,
+    "cal_active": 445,
+    "cal_total": 2608,
+    "score": 64
+  },
+  "2022-05-28": {
+    "steps": 8995,
+    "total": 363,
+    "cal_active": 433,
+    "cal_total": 2533,
+    "score": 69
+  },
+  "2022-05-29": {
+    "steps": 5342,
+    "total": 164,
+    "cal_active": 230,
+    "cal_total": 2249,
+    "score": 69
+  },
+  "2022-05-30": {},
+  "2022-05-31": {
+    "steps": 7,
+    "total": 0,
+    "cal_active": 0,
+    "cal_total": 1931,
+    "score": 68
+  },
+  "2022-06-01": {
+    "steps": 11531,
+    "total": 318,
+    "cal_active": 515,
+    "cal_total": 2659,
+    "score": 66
+  },
+  "2022-06-02": {
+    "steps": 11310,
+    "total": 446,
+    "cal_active": 504,
+    "cal_total": 2714,
+    "score": 72
+  },
+  "2022-06-03": {
+    "steps": 9669,
+    "total": 378,
+    "cal_active": 432,
+    "cal_total": 2577,
+    "score": 78
+  },
+  "2022-06-04": {
+    "steps": 21499,
+    "total": 509,
+    "cal_active": 928,
+    "cal_total": 3104,
+    "score": 86
+  },
+  "2022-06-05": {
+    "steps": 1090,
+    "total": 46,
+    "cal_active": 58,
+    "cal_total": 2021,
+    "score": 85
+  },
+  "2022-06-06": {
+    "steps": 8448,
+    "total": 322,
+    "cal_active": 392,
+    "cal_total": 2480,
+    "score": 88
+  },
+  "2022-06-07": {
+    "steps": 8173,
+    "total": 263,
+    "cal_active": 342,
+    "cal_total": 2460,
+    "score": 85
+  },
+  "2022-06-08": {
+    "steps": 3255,
+    "total": 169,
+    "cal_active": 142,
+    "cal_total": 2165,
+    "score": 76
+  },
+  "2022-06-09": {},
+  "2022-06-10": {},
+  "2022-06-11": {},
+  "2022-06-12": {},
+  "2022-06-13": {},
+  "2022-06-14": {},
+  "2022-06-15": {},
+  "2022-06-16": {},
+  "2022-06-17": {},
+  "2022-06-18": {},
+  "2022-06-19": {},
+  "2022-06-20": {},
+  "2022-06-21": {
+    "steps": 7,
+    "total": 0,
+    "cal_active": 0,
+    "cal_total": 1935,
+    "score": 50
+  },
+  "2022-06-22": {
+    "steps": 6000,
+    "total": 314,
+    "cal_active": 285,
+    "cal_total": 2426,
+    "score": 54
+  },
+  "2022-06-23": {
+    "steps": 8966,
+    "total": 342,
+    "cal_active": 469,
+    "cal_total": 2653,
+    "score": 65
+  },
+  "2022-06-24": {
+    "steps": 4789,
+    "total": 217,
+    "cal_active": 239,
+    "cal_total": 2218,
+    "score": 62
+  },
+  "2022-06-25": {},
+  "2022-06-26": {},
+  "2022-06-27": {},
+  "2022-06-28": {},
+  "2022-06-29": {},
+  "2022-07-01": {},
+  "2022-07-02": {
+    "steps": 2745,
+    "total": 73,
+    "cal_active": 116,
+    "cal_total": 2105,
+    "score": 50
+  },
+  "2022-07-03": {
+    "steps": 11167,
+    "total": 345,
+    "cal_active": 488,
+    "cal_total": 2593,
+    "score": 57
+  },
+  "2022-07-04": {
+    "steps": 4544,
+    "total": 267,
+    "cal_active": 229,
+    "cal_total": 2364,
+    "score": 55
+  },
+  "2022-07-05": {
+    "steps": 6095,
+    "total": 233,
+    "cal_active": 294,
+    "cal_total": 2410,
+    "score": 58
+  },
+  "2022-07-06": {
+    "steps": 4688,
+    "total": 188,
+    "cal_active": 225,
+    "cal_total": 2193,
+    "score": 58
+  },
+  "2022-07-07": {},
+  "2022-07-08": {},
+  "2022-07-09": {},
+  "2022-07-10": {},
+  "2022-07-11": {},
+  "2022-07-12": {},
+  "2022-07-13": {},
+  "2022-07-14": {},
+  "2022-07-15": {},
+  "2022-07-16": {},
+  "2022-07-17": {},
+  "2022-07-18": {},
+  "2022-07-19": {},
+  "2022-07-20": {},
+  "2022-07-21": {},
+  "2022-07-22": {},
+  "2022-07-23": {},
+  "2022-07-24": {},
+  "2022-07-25": {},
+  "2022-07-26": {},
+  "2022-07-27": {},
+  "2022-07-28": {},
+  "2022-07-29": {},
+  "2022-07-30": {},
+  "2022-08-01": {},
+  "2022-08-02": {},
+  "2022-08-03": {},
+  "2022-08-04": {},
+  "2022-08-05": {},
+  "2022-08-06": {},
+  "2022-08-07": {},
+  "2022-08-08": {},
+  "2022-08-09": {},
+  "2022-08-10": {},
+  "2022-08-11": {},
+  "2022-08-12": {},
+  "2022-08-13": {},
+  "2022-08-14": {},
+  "2022-08-15": {
+    "steps": 706,
+    "total": 29,
+    "cal_active": 30,
+    "cal_total": 2020,
+    "score": 50
+  },
+  "2022-08-16": {
+    "steps": 15889,
+    "total": 484,
+    "cal_active": 751,
+    "cal_total": 2938,
+    "score": 64
+  },
+  "2022-08-17": {
+    "steps": 14160,
+    "total": 453,
+    "cal_active": 660,
+    "cal_total": 2856,
+    "score": 76
+  },
+  "2022-08-18": {
+    "steps": 9461,
+    "total": 360,
+    "cal_active": 455,
+    "cal_total": 2616,
+    "score": 84
+  },
+  "2022-08-19": {
+    "steps": 13518,
+    "total": 542,
+    "cal_active": 646,
+    "cal_total": 2929,
+    "score": 84
+  },
+  "2022-08-20": {
+    "steps": 2786,
+    "total": 108,
+    "cal_active": 132,
+    "cal_total": 2024,
+    "score": 81
+  },
+  "2022-08-21": {},
+  "2022-08-22": {},
+  "2022-08-23": {},
+  "2022-08-24": {},
+  "2022-08-25": {},
+  "2022-08-26": {},
+  "2022-08-27": {},
+  "2022-08-28": {},
+  "2022-08-29": {},
+  "2022-08-30": {
+    "steps": 4397,
+    "total": 144,
+    "cal_active": 185,
+    "cal_total": 2271,
+    "score": 48
+  },
+  "2022-08-31": {
+    "steps": 5101,
+    "total": 232,
+    "cal_active": 246,
+    "cal_total": 2371,
+    "score": 46
+  },
+  "2022-09-01": {
+    "steps": 6546,
+    "total": 229,
+    "cal_active": 309,
+    "cal_total": 2465,
+    "score": 47
+  },
+  "2022-09-02": {
+    "steps": 9459,
+    "total": 329,
+    "cal_active": 465,
+    "cal_total": 2611,
+    "score": 65
+  },
+  "2022-09-03": {},
+  "2022-09-04": {},
+  "2022-09-05": {},
+  "2022-09-06": {
+    "steps": 732,
+    "total": 22,
+    "cal_active": 35,
+    "cal_total": 1994,
+    "score": 61
+  },
+  "2022-09-07": {
+    "steps": 7847,
+    "total": 264,
+    "cal_active": 358,
+    "cal_total": 2493,
+    "score": 57
+  },
+  "2022-09-08": {
+    "steps": 9296,
+    "total": 318,
+    "cal_active": 446,
+    "cal_total": 2600,
+    "score": 56
+  },
+  "2022-09-09": {
+    "steps": 5858,
+    "total": 220,
+    "cal_active": 287,
+    "cal_total": 2436,
+    "score": 50
+  },
+  "2022-09-10": {
+    "steps": 3115,
+    "total": 153,
+    "cal_active": 161,
+    "cal_total": 2181,
+    "score": 54
+  },
+  "2022-09-11": {
+    "steps": 13045,
+    "total": 547,
+    "cal_active": 604,
+    "cal_total": 2831,
+    "score": 64
+  },
+  "2022-09-12": {
+    "steps": 9236,
+    "total": 471,
+    "cal_active": 431,
+    "cal_total": 2672,
+    "score": 64
+  },
+  "2022-09-13": {
+    "steps": 13771,
+    "total": 677,
+    "cal_active": 645,
+    "cal_total": 2918,
+    "score": 71
+  },
+  "2022-09-14": {
+    "steps": 11723,
+    "total": 576,
+    "cal_active": 551,
+    "cal_total": 2812,
+    "score": 71
+  },
+  "2022-09-15": {
+    "steps": 330,
+    "total": 16,
+    "cal_active": 12,
+    "cal_total": 1969,
+    "score": 67
+  },
+  "2022-09-16": {},
+  "2022-09-17": {
+    "steps": 440,
+    "total": 24,
+    "cal_active": 18,
+    "cal_total": 1999,
+    "score": 73
+  },
+  "2022-09-18": {
+    "steps": 3641,
+    "total": 164,
+    "cal_active": 163,
+    "cal_total": 2164,
+    "score": 65
+  },
+  "2022-09-19": {
+    "steps": 9354,
+    "total": 323,
+    "cal_active": 424,
+    "cal_total": 2579,
+    "score": 59
+  },
+  "2022-09-20": {
+    "steps": 8274,
+    "total": 343,
+    "cal_active": 423,
+    "cal_total": 2573,
+    "score": 60
+  },
+  "2022-09-21": {
+    "steps": 1247,
+    "total": 35,
+    "cal_active": 67,
+    "cal_total": 1886,
+    "score": 52
+  },
+  "2022-09-22": {},
+  "2022-09-23": {},
+  "2022-09-24": {},
+  "2022-09-25": {},
+  "2022-09-26": {},
+  "2022-09-27": {},
+  "2022-09-28": {},
+  "2022-09-29": {},
+  "2022-10-01": {},
+  "2022-10-02": {},
+  "2022-10-03": {},
+  "2022-10-04": {},
+  "2022-10-05": {},
+  "2022-10-06": {},
+  "2022-10-07": {},
+  "2022-10-08": {},
+  "2022-10-09": {},
+  "2022-10-10": {},
+  "2022-10-11": {},
+  "2022-10-12": {},
+  "2022-10-13": {},
+  "2022-10-14": {},
+  "2022-10-15": {},
+  "2022-10-16": {},
+  "2022-10-17": {},
+  "2022-10-18": {},
+  "2022-10-19": {},
+  "2022-10-20": {},
+  "2022-10-21": {},
+  "2022-10-22": {},
+  "2022-10-23": {},
+  "2022-10-24": {},
+  "2022-10-25": {},
+  "2022-10-26": {},
+  "2022-10-27": {},
+  "2022-10-28": {},
+  "2022-10-29": {},
+  "2022-10-30": {}
+}

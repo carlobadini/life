@@ -25,7 +25,20 @@
     "Shopping": 35,
     "News & Opinion": 18
   },
-  "2022-11-15": {},
+  "2022-11-15": {
+    "Social Networking": 9674,
+    "Uncategorized": 7319,
+    "Communication & Scheduling": 4467,
+    "Business": 4206,
+    "Entertainment": 3514,
+    "Other Work": 2763,
+    "Reference & Learning": 2589,
+    "News & Opinion": 1467,
+    "Design & Composition": 1357,
+    "Utilities": 444,
+    "Software Development": 137,
+    "Shopping": 59
+  },
   "2022-11-16": {},
   "2022-11-17": {},
   "2022-11-18": {},

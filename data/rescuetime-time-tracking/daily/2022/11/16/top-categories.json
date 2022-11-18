@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4290,
+    "Time Spent (seconds)": 4367,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -13,13 +13,13 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2673,
+    "Time Spent (seconds)": 2679,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2636,
+    "Time Spent (seconds)": 2667,
     "Number of People": 1,
     "Category": "Writing"
   },
@@ -31,7 +31,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 2120,
+    "Time Spent (seconds)": 2158,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
@@ -123,13 +123,13 @@
     "Rank": 21,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "General Software Development"
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "General Utilities"
   },
   {
     "Rank": 23,

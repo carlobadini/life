@@ -322,7 +322,20 @@
     "News & Opinion": 26,
     "Software Development": 1
   },
-  "25": {},
+  "25": {
+    "Business": 4028,
+    "Other Work": 3476,
+    "Social Networking": 3433,
+    "Entertainment": 2304,
+    "Uncategorized": 2114,
+    "Communication & Scheduling": 1760,
+    "Reference & Learning": 1300,
+    "News & Opinion": 1026,
+    "Shopping": 652,
+    "Utilities": 145,
+    "Design & Composition": 8,
+    "Software Development": 2
+  },
   "26": {},
   "27": {},
   "28": {},

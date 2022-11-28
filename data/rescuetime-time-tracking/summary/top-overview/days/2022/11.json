@@ -349,7 +349,15 @@
     "Design & Composition": 15,
     "Software Development": 6
   },
-  "27": {},
+  "27": {
+    "Entertainment": 15855,
+    "Social Networking": 279,
+    "Reference & Learning": 81,
+    "Business": 64,
+    "Uncategorized": 54,
+    "Utilities": 28,
+    "Communication & Scheduling": 3
+  },
   "28": {},
   "29": {}
 }

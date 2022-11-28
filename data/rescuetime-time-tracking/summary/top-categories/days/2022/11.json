@@ -683,7 +683,18 @@
     "Marketing": 3,
     "File Sharing": 2
   },
-  "27": {},
+  "27": {
+    "Video": 15855,
+    "Professional Networking": 279,
+    "Search": 81,
+    "Uncategorized": 54,
+    "Intelligence": 54,
+    "Browsers": 24,
+    "General Business": 7,
+    "General Utilities": 4,
+    "Instant Message": 3,
+    "Project Management": 3
+  },
   "28": {},
   "29": {}
 }

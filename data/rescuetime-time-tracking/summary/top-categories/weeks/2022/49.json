@@ -43,5 +43,29 @@
     "General Communication & Scheduling": 3,
     "General Social Networking": 2
   },
-  "2022-11-29": {}
+  "2022-11-29": {
+    "Email": 4158,
+    "Professional Networking": 3944,
+    "Video": 2180,
+    "Communications": 1553,
+    "General Business": 1386,
+    "General Design & Composition": 1020,
+    "Uncategorized": 848,
+    "Project Management": 687,
+    "Instant Message": 609,
+    "Search": 487,
+    "Intelligence": 234,
+    "General Reference & Learning": 228,
+    "Meetings": 219,
+    "General News & Opinion": 172,
+    "Browsers": 116,
+    "Accounting": 80,
+    "Calendars": 38,
+    "General Software Development": 38,
+    "Science & Technology": 27,
+    "Marketing": 25,
+    "General Utilities": 13,
+    "Regional": 3,
+    "General Communication & Scheduling": 3
+  }
 }

@@ -51,7 +51,7 @@
     "General Business": 1386,
     "General Design & Composition": 1020,
     "Uncategorized": 848,
-    "Project Management": 687,
+    "Project Management": 785,
     "Instant Message": 609,
     "Search": 487,
     "Intelligence": 234,
@@ -67,5 +67,32 @@
     "General Utilities": 13,
     "Regional": 3,
     "General Communication & Scheduling": 3
-  }
+  },
+  "2022-11-30": {
+    "General Business": 3365,
+    "Communications": 2461,
+    "Instant Message": 2361,
+    "Meetings": 1422,
+    "Email": 1383,
+    "Video": 1307,
+    "Project Management": 1198,
+    "Professional Networking": 1024,
+    "Uncategorized": 1000,
+    "General Social Networking": 793,
+    "General Design & Composition": 576,
+    "Search": 393,
+    "Calendars": 384,
+    "Browsers": 150,
+    "Intelligence": 149,
+    "General News & Opinion": 98,
+    "Marketing": 62,
+    "General Utilities": 33,
+    "Employment": 33,
+    "General Entertainment": 25,
+    "General Software Development": 14,
+    "General Reference & Learning": 3
+  },
+  "2022-12-1": {},
+  "2022-12-2": {},
+  "2022-12-3": {}
 }

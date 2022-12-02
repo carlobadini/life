@@ -594,5 +594,29 @@
     "Administration": 7,
     "Regional": 3
   },
-  "12": {}
+  "12": {
+    "General Business": 6877,
+    "Communications": 2614,
+    "Professional Networking": 2174,
+    "Instant Message": 2058,
+    "Video": 1647,
+    "General Entertainment": 1507,
+    "Project Management": 1159,
+    "Meetings": 1156,
+    "General Reference & Learning": 1048,
+    "Email": 777,
+    "General Utilities": 688,
+    "Uncategorized": 643,
+    "Marketing": 469,
+    "Search": 459,
+    "Writing": 250,
+    "Travel & Outdoors": 179,
+    "Intelligence": 117,
+    "General News & Opinion": 109,
+    "Browsers": 103,
+    "Internet Utilities": 101,
+    "General Social Networking": 67,
+    "Calendars": 48,
+    "General Communication & Scheduling": 11
+  }
 }

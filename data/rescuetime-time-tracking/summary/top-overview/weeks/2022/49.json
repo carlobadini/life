@@ -60,6 +60,17 @@
     "Design & Composition": 250,
     "News & Opinion": 109
   },
-  "2022-12-2": {},
+  "2022-12-2": {
+    "Business": 4363,
+    "Communication & Scheduling": 3384,
+    "Reference & Learning": 1668,
+    "Social Networking": 1610,
+    "Other Work": 1276,
+    "Uncategorized": 1023,
+    "Entertainment": 288,
+    "Utilities": 182,
+    "News & Opinion": 94,
+    "Software Development": 3
+  },
   "2022-12-3": {}
 }

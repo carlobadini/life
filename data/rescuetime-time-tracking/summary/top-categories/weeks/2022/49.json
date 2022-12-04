@@ -142,5 +142,28 @@
     "International": 2,
     "Marketing": 1
   },
-  "2022-12-3": {}
+  "2022-12-3": {
+    "General Business": 6394,
+    "Video": 3491,
+    "Communications": 3198,
+    "Professional Networking": 3179,
+    "Project Management": 1777,
+    "General Reference & Learning": 1415,
+    "Search": 1055,
+    "Uncategorized": 938,
+    "Meetings": 665,
+    "General Design & Composition": 467,
+    "Instant Message": 382,
+    "Business & Finance": 295,
+    "Email": 252,
+    "General Entertainment": 218,
+    "Browsers": 218,
+    "Intelligence": 32,
+    "Marketing": 30,
+    "General News & Opinion": 29,
+    "General Communication & Scheduling": 4,
+    "Customer Relations": 4,
+    "General Utilities": 4,
+    "General Social Networking": 1
+  }
 }

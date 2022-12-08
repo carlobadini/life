@@ -40,7 +40,20 @@
     "News & Opinion": 136,
     "Software Development": 1
   },
-  "2022-12-7": {},
+  "2022-12-7": {
+    "Design & Composition": 6010,
+    "Business": 5031,
+    "Social Networking": 4780,
+    "Entertainment": 4422,
+    "Uncategorized": 4187,
+    "Communication & Scheduling": 2604,
+    "Other Work": 2024,
+    "News & Opinion": 960,
+    "Reference & Learning": 942,
+    "Utilities": 134,
+    "Software Development": 86,
+    "Shopping": 77
+  },
   "2022-12-8": {},
   "2022-12-9": {},
   "2022-12-10": {}

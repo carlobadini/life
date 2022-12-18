@@ -64,7 +64,7 @@
   },
   "2022-12-16": {
     "Communication & Scheduling": 6300,
-    "Business": 5626,
+    "Business": 5709,
     "Social Networking": 3187,
     "Design & Composition": 1900,
     "Other Work": 1655,
@@ -75,5 +75,17 @@
     "Utilities": 230,
     "News & Opinion": 222
   },
-  "2022-12-17": {}
+  "2022-12-17": {
+    "Entertainment": 6445,
+    "Social Networking": 3862,
+    "News & Opinion": 1483,
+    "Reference & Learning": 994,
+    "Uncategorized": 783,
+    "Other Work": 523,
+    "Design & Composition": 273,
+    "Communication & Scheduling": 271,
+    "Business": 189,
+    "Utilities": 188,
+    "Shopping": 57
+  }
 }

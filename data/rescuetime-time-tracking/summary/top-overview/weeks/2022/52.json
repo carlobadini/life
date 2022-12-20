@@ -1,6 +1,6 @@
 {
   "2022-12-18": {
-    "Business": 3588,
+    "Business": 3721,
     "Communication & Scheduling": 1648,
     "Social Networking": 1383,
     "Other Work": 1312,
@@ -11,7 +11,20 @@
     "Utilities": 130,
     "Entertainment": 85
   },
-  "2022-12-19": {},
+  "2022-12-19": {
+    "Business": 9378,
+    "Communication & Scheduling": 6260,
+    "Social Networking": 3844,
+    "Uncategorized": 3820,
+    "Entertainment": 2917,
+    "Other Work": 2621,
+    "Reference & Learning": 1436,
+    "Design & Composition": 400,
+    "Utilities": 146,
+    "Shopping": 75,
+    "News & Opinion": 15,
+    "Software Development": 2
+  },
   "2022-12-20": {},
   "2022-12-21": {},
   "2022-12-22": {},

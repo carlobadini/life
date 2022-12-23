@@ -52,7 +52,19 @@
     "Entertainment": 300,
     "Shopping": 177
   },
-  "2022-12-22": {},
+  "2022-12-22": {
+    "Entertainment": 6323,
+    "Business": 2950,
+    "Communication & Scheduling": 2927,
+    "Social Networking": 2793,
+    "Design & Composition": 2525,
+    "Uncategorized": 2098,
+    "Other Work": 1330,
+    "Utilities": 494,
+    "Reference & Learning": 429,
+    "News & Opinion": 216,
+    "Shopping": 165
+  },
   "2022-12-23": {},
   "2022-12-24": {}
 }

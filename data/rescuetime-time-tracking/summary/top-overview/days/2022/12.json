@@ -286,7 +286,18 @@
     "News & Opinion": 216,
     "Shopping": 165
   },
-  "23": {},
+  "23": {
+    "Business": 2873,
+    "Other Work": 2247,
+    "Social Networking": 2094,
+    "Communication & Scheduling": 1171,
+    "Uncategorized": 822,
+    "News & Opinion": 466,
+    "Reference & Learning": 239,
+    "Entertainment": 101,
+    "Utilities": 60,
+    "Design & Composition": 6
+  },
   "24": {},
   "25": {},
   "26": {},

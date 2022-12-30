@@ -644,7 +644,7 @@
     "General Social Networking": 1
   },
   "28": {
-    "General Design & Composition": 10332,
+    "General Design & Composition": 10379,
     "Professional Networking": 2217,
     "Editing & IDEs": 1633,
     "Communications": 1574,
@@ -654,10 +654,10 @@
     "General Reference & Learning": 1043,
     "Project Management": 871,
     "Search": 761,
-    "General Business": 620,
+    "General Business": 622,
     "Travel & Outdoors": 552,
     "Video": 493,
-    "Email": 372,
+    "Email": 375,
     "General Shopping": 270,
     "Browsers": 177,
     "Clothes & Personal": 107,
@@ -671,6 +671,29 @@
     "General Software Development": 8,
     "Maps & Regional": 1
   },
-  "29": {},
+  "29": {
+    "General Design & Composition": 10843,
+    "Professional Networking": 2861,
+    "General Social Networking": 2853,
+    "Uncategorized": 1882,
+    "Project Management": 1849,
+    "Email": 1770,
+    "General Business": 1595,
+    "Communications": 1335,
+    "Video": 1316,
+    "Search": 473,
+    "Instant Message": 445,
+    "General Reference & Learning": 313,
+    "General Entertainment": 270,
+    "Games": 209,
+    "Meetings": 192,
+    "General News & Opinion": 174,
+    "Intelligence": 125,
+    "Browsers": 105,
+    "Writing": 43,
+    "Presentation": 33,
+    "Science & Technology": 18,
+    "General Utilities": 4
+  },
   "30": {}
 }

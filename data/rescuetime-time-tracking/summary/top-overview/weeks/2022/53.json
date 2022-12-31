@@ -53,5 +53,21 @@
     "News & Opinion": 192,
     "Utilities": 109
   },
-  "2022-12-30": {}
+  "2022-12-30": {
+    "Design & Composition": 8983,
+    "Reference & Learning": 5581,
+    "Communication & Scheduling": 3569,
+    "Business": 3276,
+    "Social Networking": 2424,
+    "Uncategorized": 1962,
+    "Other Work": 1660,
+    "Entertainment": 993,
+    "News & Opinion": 501,
+    "Utilities": 349,
+    "Software Development": 38,
+    "Shopping": 25
+  },
+  "2022-12-31": {
+    "Business": 5
+  }
 }

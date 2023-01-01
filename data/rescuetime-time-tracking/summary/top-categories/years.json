@@ -142,7 +142,7 @@
     "Project Management": 530504,
     "Email": 391254,
     "Uncategorized": 709072,
-    "Intelligence": 85024,
+    "Intelligence": 85025,
     "Presentation": 44810,
     "Science & Technology": 31825,
     "Marketing": 201461,
@@ -201,5 +201,6 @@
     "Quality Assurance": 466,
     "Video Editing": 4,
     "Data Modeling & Analysis": 9
-  }
+  },
+  "2023": {}
 }

@@ -202,5 +202,32 @@
     "Video Editing": 4,
     "Data Modeling & Analysis": 9
   },
-  "2023": {}
+  "2023": {
+    "Meetings": 6200,
+    "Uncategorized": 3573,
+    "Communications": 3326,
+    "Professional Networking": 3290,
+    "Project Management": 3183,
+    "General Business": 2781,
+    "General Reference & Learning": 2707,
+    "Email": 1846,
+    "Video": 1667,
+    "Writing": 1553,
+    "Search": 1208,
+    "Instant Message": 1067,
+    "General Design & Composition": 743,
+    "General News & Opinion": 228,
+    "General Social Networking": 151,
+    "General Utilities": 147,
+    "Health & Medicine": 141,
+    "Intelligence": 135,
+    "Browsers": 115,
+    "Office": 98,
+    "Travel & Outdoors": 96,
+    "Calendars": 76,
+    "Science & Technology": 65,
+    "General Entertainment": 29,
+    "General Communication & Scheduling": 3,
+    "General Software Development": 2
+  }
 }

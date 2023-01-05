@@ -15,7 +15,17 @@
     "Shopping": 98,
     "Software Development": 2
   },
-  "4": {},
+  "4": {
+    "Business": 9897,
+    "Social Networking": 3671,
+    "Entertainment": 3187,
+    "Other Work": 2853,
+    "Design & Composition": 2654,
+    "Communication & Scheduling": 1192,
+    "Reference & Learning": 1114,
+    "Uncategorized": 855,
+    "Utilities": 55
+  },
   "5": {},
   "6": {},
   "7": {},

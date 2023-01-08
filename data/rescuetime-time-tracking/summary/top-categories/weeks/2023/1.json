@@ -108,5 +108,30 @@
     "General Entertainment": 1,
     "Writing": 1
   },
-  "2023-01-7": {}
+  "2023-01-7": {
+    "General Design & Composition": 8900,
+    "Video": 6401,
+    "Uncategorized": 3566,
+    "Professional Networking": 3504,
+    "Project Management": 1832,
+    "General Social Networking": 1344,
+    "General Reference & Learning": 1241,
+    "General Business": 961,
+    "Communications": 874,
+    "Meetings": 693,
+    "Search": 606,
+    "Email": 602,
+    "General Software Development": 199,
+    "Instant Message": 181,
+    "General News & Opinion": 161,
+    "Browsers": 146,
+    "Intelligence": 117,
+    "Engineering & Drafting": 87,
+    "General Entertainment": 76,
+    "Marketing": 60,
+    "Food": 12,
+    "General Communication & Scheduling": 5,
+    "Science & Technology": 1,
+    "General Utilities": 1
+  }
 }

@@ -1,68 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1425,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 1410,
+    "Time Spent (seconds)": 10479,
     "Number of People": 1,
     "Category": "Business"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 500,
+    "Rank": 2,
+    "Time Spent (seconds)": 5128,
     "Number of People": 1,
-    "Category": "Social Networking"
+    "Category": "Design & Composition"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 419,
+    "Rank": 3,
+    "Time Spent (seconds)": 4830,
     "Number of People": 1,
     "Category": "Other Work"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 175,
-    "Number of People": 1,
-    "Category": "Reference & Learning"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 69,
+    "Rank": 4,
+    "Time Spent (seconds)": 4408,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 33,
-    "Number of People": 1,
-    "Category": "News & Opinion"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 21,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 15,
-    "Number of People": 1,
-    "Category": "Software Development"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 11,
+    "Rank": 5,
+    "Time Spent (seconds)": 2713,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 3,
+    "Rank": 6,
+    "Time Spent (seconds)": 2422,
     "Number of People": 1,
-    "Category": "Design & Composition"
+    "Category": "Social Networking"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1979,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1305,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 648,
+    "Number of People": 1,
+    "Category": "News & Opinion"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 328,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 145,
+    "Number of People": 1,
+    "Category": "Software Development"
   }
 ]

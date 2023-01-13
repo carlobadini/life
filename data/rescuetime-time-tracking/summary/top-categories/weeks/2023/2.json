@@ -93,7 +93,30 @@
     "International": 32,
     "General Communication & Scheduling": 14
   },
-  "2023-01-12": {},
+  "2023-01-12": {
+    "Communications": 8328,
+    "General News & Opinion": 5018,
+    "General Business": 4574,
+    "Uncategorized": 3095,
+    "General Design & Composition": 2708,
+    "General Social Networking": 1393,
+    "Email": 901,
+    "Project Management": 749,
+    "Instant Message": 694,
+    "Video": 667,
+    "General Utilities": 526,
+    "Meetings": 490,
+    "General Reference & Learning": 460,
+    "Professional Networking": 434,
+    "Internet Utilities": 341,
+    "Travel & Outdoors": 217,
+    "Browsers": 210,
+    "Marketing": 205,
+    "Search": 170,
+    "Intelligence": 68,
+    "General Software Development": 57,
+    "Sales": 30
+  },
   "2023-01-13": {},
   "2023-01-14": {}
 }

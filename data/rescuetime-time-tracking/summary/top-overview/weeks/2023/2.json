@@ -61,6 +61,22 @@
     "Entertainment": 667,
     "Software Development": 57
   },
-  "2023-01-13": {},
-  "2023-01-14": {}
+  "2023-01-13": {
+    "Reference & Learning": 6293,
+    "Business": 4601,
+    "News & Opinion": 4253,
+    "Other Work": 2757,
+    "Communication & Scheduling": 2516,
+    "Uncategorized": 2096,
+    "Design & Composition": 587,
+    "Shopping": 227,
+    "Entertainment": 183,
+    "Utilities": 169,
+    "Software Development": 2
+  },
+  "2023-01-14": {
+    "Business": 252,
+    "Other Work": 73,
+    "Reference & Learning": 2
+  }
 }

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 5525,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4253,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 3410,
+    "Number of People": 1,
+    "Category": "Administration"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 2757,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2096,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1316,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 756,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 623,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 588,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 587,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 444,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 333,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 227,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 183,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 180,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 101,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  }
+]

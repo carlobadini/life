@@ -204,7 +204,19 @@
     "Shopping": 243,
     "Software Development": 99
   },
-  "19": {},
+  "19": {
+    "Business": 6205,
+    "Uncategorized": 5878,
+    "Social Networking": 687,
+    "Utilities": 316,
+    "Design & Composition": 216,
+    "News & Opinion": 177,
+    "Reference & Learning": 99,
+    "Entertainment": 59,
+    "Communication & Scheduling": 40,
+    "Other Work": 9,
+    "Software Development": 2
+  },
   "20": {},
   "21": {},
   "22": {},

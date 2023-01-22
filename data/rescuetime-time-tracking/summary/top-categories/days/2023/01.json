@@ -388,8 +388,8 @@
     "Professional Networking": 1286,
     "Search": 918,
     "Writing": 907,
-    "General Design & Composition": 819,
     "General News & Opinion": 819,
+    "General Design & Composition": 819,
     "Email": 751,
     "Browsers": 695,
     "Video": 601,
@@ -431,8 +431,20 @@
     "General Social Networking": 1
   },
   "20": {},
-  "21": {},
-  "22": {},
+  "21": {
+    "Uncategorized": 428,
+    "Video": 261,
+    "Intelligence": 83,
+    "Search": 49,
+    "General Entertainment": 15,
+    "Browsers": 6,
+    "Writing": 5
+  },
+  "22": {
+    "Video": 261,
+    "Uncategorized": 210,
+    "Intelligence": 158
+  },
   "23": {},
   "24": {},
   "25": {},

@@ -218,8 +218,19 @@
     "Software Development": 2
   },
   "20": {},
-  "21": {},
-  "22": {},
+  "21": {
+    "Uncategorized": 428,
+    "Entertainment": 276,
+    "Business": 83,
+    "Reference & Learning": 49,
+    "Utilities": 6,
+    "Design & Composition": 5
+  },
+  "22": {
+    "Entertainment": 261,
+    "Uncategorized": 210,
+    "Business": 158
+  },
   "23": {},
   "24": {},
   "25": {},

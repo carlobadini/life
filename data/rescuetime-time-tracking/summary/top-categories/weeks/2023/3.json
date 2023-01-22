@@ -90,8 +90,8 @@
     "Professional Networking": 1286,
     "Search": 918,
     "Writing": 907,
-    "General Design & Composition": 819,
     "General News & Opinion": 819,
+    "General Design & Composition": 819,
     "Email": 751,
     "Browsers": 695,
     "Video": 601,
@@ -133,5 +133,13 @@
     "General Social Networking": 1
   },
   "2023-01-20": {},
-  "2023-01-21": {}
+  "2023-01-21": {
+    "Uncategorized": 428,
+    "Video": 261,
+    "Intelligence": 83,
+    "Search": 49,
+    "General Entertainment": 15,
+    "Browsers": 6,
+    "Writing": 5
+  }
 }

@@ -231,8 +231,18 @@
     "Uncategorized": 210,
     "Business": 158
   },
-  "23": {},
-  "24": {},
+  "23": {
+    "Entertainment": 3709,
+    "Uncategorized": 454,
+    "Reference & Learning": 120,
+    "Business": 75,
+    "Utilities": 17
+  },
+  "24": {
+    "Entertainment": 4951,
+    "Business": 49,
+    "Utilities": 2
+  },
   "25": {},
   "26": {},
   "27": {},

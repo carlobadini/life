@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 3635,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 454,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 120,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 74,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Category": "Browsers"
+  }
+]

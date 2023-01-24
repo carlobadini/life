@@ -4,8 +4,19 @@
     "Uncategorized": 210,
     "Intelligence": 158
   },
-  "2023-01-23": {},
-  "2023-01-24": {},
+  "2023-01-23": {
+    "Video": 3635,
+    "Uncategorized": 454,
+    "Search": 120,
+    "Intelligence": 75,
+    "General Entertainment": 74,
+    "Browsers": 17
+  },
+  "2023-01-24": {
+    "Video": 4951,
+    "Intelligence": 49,
+    "Browsers": 2
+  },
   "2023-01-25": {},
   "2023-01-26": {},
   "2023-01-27": {},

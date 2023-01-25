@@ -454,11 +454,21 @@
     "Browsers": 17
   },
   "24": {
-    "Video": 4951,
+    "Video": 11504,
+    "Search": 1421,
+    "Uncategorized": 406,
+    "Travel & Outdoors": 113,
+    "Browsers": 102,
+    "General Entertainment": 102,
     "Intelligence": 49,
-    "Browsers": 2
+    "Professional Networking": 4
   },
-  "25": {},
+  "25": {
+    "Video": 3893,
+    "Intelligence": 36,
+    "Search": 23,
+    "Browsers": 6
+  },
   "26": {},
   "27": {},
   "28": {},

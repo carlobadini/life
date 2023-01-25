@@ -239,11 +239,19 @@
     "Utilities": 17
   },
   "24": {
-    "Entertainment": 4951,
+    "Entertainment": 11606,
+    "Reference & Learning": 1534,
+    "Uncategorized": 406,
+    "Utilities": 102,
     "Business": 49,
-    "Utilities": 2
+    "Social Networking": 4
   },
-  "25": {},
+  "25": {
+    "Entertainment": 3893,
+    "Business": 36,
+    "Reference & Learning": 23,
+    "Utilities": 6
+  },
   "26": {},
   "27": {},
   "28": {},

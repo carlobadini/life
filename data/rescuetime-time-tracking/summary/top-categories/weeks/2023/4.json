@@ -23,12 +23,19 @@
     "Professional Networking": 4
   },
   "2023-01-25": {
-    "Video": 3893,
-    "Intelligence": 36,
-    "Search": 23,
-    "Browsers": 6
+    "Video": 6965,
+    "Intelligence": 58,
+    "Browsers": 40,
+    "General Reference & Learning": 31,
+    "Search": 26
   },
-  "2023-01-26": {},
+  "2023-01-26": {
+    "Video": 3888,
+    "Intelligence": 52,
+    "Search": 5,
+    "Browsers": 3,
+    "General Entertainment": 1
+  },
   "2023-01-27": {},
   "2023-01-28": {}
 }

@@ -20,12 +20,17 @@
     "Social Networking": 4
   },
   "2023-01-25": {
-    "Entertainment": 3893,
-    "Business": 36,
-    "Reference & Learning": 23,
-    "Utilities": 6
+    "Entertainment": 6965,
+    "Business": 58,
+    "Reference & Learning": 57,
+    "Utilities": 40
   },
-  "2023-01-26": {},
+  "2023-01-26": {
+    "Entertainment": 3889,
+    "Business": 52,
+    "Reference & Learning": 5,
+    "Utilities": 3
+  },
   "2023-01-27": {},
   "2023-01-28": {}
 }

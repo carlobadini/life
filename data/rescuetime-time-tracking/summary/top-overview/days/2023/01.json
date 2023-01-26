@@ -247,12 +247,17 @@
     "Social Networking": 4
   },
   "25": {
-    "Entertainment": 3893,
-    "Business": 36,
-    "Reference & Learning": 23,
-    "Utilities": 6
+    "Entertainment": 6965,
+    "Business": 58,
+    "Reference & Learning": 57,
+    "Utilities": 40
   },
-  "26": {},
+  "26": {
+    "Entertainment": 3889,
+    "Business": 52,
+    "Reference & Learning": 5,
+    "Utilities": 3
+  },
   "27": {},
   "28": {},
   "29": {},

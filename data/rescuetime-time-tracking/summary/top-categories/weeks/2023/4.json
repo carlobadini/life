@@ -30,12 +30,18 @@
     "Search": 26
   },
   "2023-01-26": {
-    "Video": 3888,
+    "Video": 4104,
     "Intelligence": 52,
     "Search": 5,
     "Browsers": 3,
     "General Entertainment": 1
   },
-  "2023-01-27": {},
+  "2023-01-27": {
+    "Video": 209,
+    "Professional Networking": 199,
+    "Project Management": 33,
+    "Search": 9,
+    "Browsers": 1
+  },
   "2023-01-28": {}
 }

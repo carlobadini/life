@@ -471,13 +471,19 @@
     "Search": 26
   },
   "26": {
-    "Video": 3888,
+    "Video": 4104,
     "Intelligence": 52,
     "Search": 5,
     "Browsers": 3,
     "General Entertainment": 1
   },
-  "27": {},
+  "27": {
+    "Video": 209,
+    "Professional Networking": 199,
+    "Project Management": 33,
+    "Search": 9,
+    "Browsers": 1
+  },
   "28": {},
   "29": {},
   "30": {}

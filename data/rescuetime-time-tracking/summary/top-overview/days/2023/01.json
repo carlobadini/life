@@ -253,12 +253,18 @@
     "Utilities": 40
   },
   "26": {
-    "Entertainment": 3889,
+    "Entertainment": 4105,
     "Business": 52,
     "Reference & Learning": 5,
     "Utilities": 3
   },
-  "27": {},
+  "27": {
+    "Entertainment": 209,
+    "Social Networking": 199,
+    "Business": 33,
+    "Reference & Learning": 9,
+    "Utilities": 1
+  },
   "28": {},
   "29": {},
   "30": {}

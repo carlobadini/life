@@ -266,7 +266,17 @@
     "Business": 99,
     "Utilities": 11
   },
-  "28": {},
-  "29": {},
-  "30": {}
+  "28": {
+    "Uncategorized": 451,
+    "Business": 111
+  },
+  "29": {
+    "Entertainment": 5904,
+    "Business": 74,
+    "Uncategorized": 6
+  },
+  "30": {
+    "Entertainment": 9221,
+    "Business": 29
+  }
 }

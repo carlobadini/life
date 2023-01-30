@@ -489,7 +489,17 @@
     "Browsers": 6,
     "General Utilities": 5
   },
-  "28": {},
-  "29": {},
-  "30": {}
+  "28": {
+    "Uncategorized": 451,
+    "Intelligence": 111
+  },
+  "29": {
+    "Video": 5904,
+    "Intelligence": 74,
+    "Uncategorized": 6
+  },
+  "30": {
+    "Video": 9221,
+    "Intelligence": 29
+  }
 }

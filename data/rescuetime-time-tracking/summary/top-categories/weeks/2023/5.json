@@ -26,14 +26,14 @@
     "Project Management": 162,
     "General Social Networking": 100,
     "General Entertainment": 85,
-    "Browsers": 69,
     "General Communication & Scheduling": 69,
+    "Browsers": 69,
     "General News & Opinion": 53,
     "General Shopping": 18,
     "General Business": 6,
+    "Business": 1,
     "File Sharing": 1,
-    "Travel & Outdoors": 1,
-    "Business": 1
+    "Travel & Outdoors": 1
   },
   "2023-02-1": {
     "Communications": 5855,
@@ -63,7 +63,34 @@
     "Marketing": 7,
     "General Utilities": 1
   },
-  "2023-02-2": {},
+  "2023-02-2": {
+    "Professional Networking": 5674,
+    "Uncategorized": 4891,
+    "Video": 4618,
+    "General Business": 3730,
+    "Email": 2031,
+    "Project Management": 1717,
+    "General Reference & Learning": 1652,
+    "General Social Networking": 1423,
+    "Communications": 1025,
+    "Meetings": 853,
+    "Search": 747,
+    "General Utilities": 605,
+    "Intelligence": 386,
+    "Sports": 376,
+    "Games": 260,
+    "General News & Opinion": 208,
+    "Browsers": 184,
+    "Instant Message": 137,
+    "Entertainment": 129,
+    "Operations": 120,
+    "Marketing": 115,
+    "General Entertainment": 67,
+    "Calendars": 18,
+    "Science & Technology": 12,
+    "Writing": 7,
+    "General Shopping": 3
+  },
   "2023-02-3": {},
   "2023-02-4": {}
 }

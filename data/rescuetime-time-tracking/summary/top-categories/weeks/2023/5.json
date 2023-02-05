@@ -97,8 +97,8 @@
     "Meetings": 2109,
     "Professional Networking": 1829,
     "General Business": 1513,
+    "Video": 1403,
     "Email": 1288,
-    "Video": 1254,
     "Uncategorized": 1069,
     "Instant Message": 557,
     "Communications": 402,
@@ -110,5 +110,24 @@
     "General Utilities": 24,
     "Clothes & Personal": 23
   },
-  "2023-02-4": {}
+  "2023-02-4": {
+    "Video": 26747,
+    "General Design & Composition": 1983,
+    "General Social Networking": 934,
+    "Games": 842,
+    "Uncategorized": 490,
+    "General News & Opinion": 325,
+    "Communications": 271,
+    "Meetings": 224,
+    "Intelligence": 123,
+    "Accounting": 121,
+    "Search": 97,
+    "Professional Networking": 95,
+    "Instant Message": 81,
+    "Writing": 77,
+    "General Reference & Learning": 65,
+    "Browsers": 41,
+    "Project Management": 18,
+    "Email": 8
+  }
 }

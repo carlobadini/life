@@ -31,15 +31,30 @@
     "Communication & Scheduling": 3954,
     "Reference & Learning": 3143,
     "Social Networking": 1829,
-    "Entertainment": 1492,
+    "Entertainment": 1641,
     "Uncategorized": 1069,
     "Other Work": 402,
     "News & Opinion": 179,
     "Utilities": 89,
     "Shopping": 23
   },
-  "4": {},
-  "5": {},
+  "4": {
+    "Entertainment": 27589,
+    "Design & Composition": 2060,
+    "Social Networking": 1029,
+    "Uncategorized": 490,
+    "News & Opinion": 325,
+    "Communication & Scheduling": 313,
+    "Other Work": 271,
+    "Business": 262,
+    "Reference & Learning": 162,
+    "Utilities": 41
+  },
+  "5": {
+    "Entertainment": 4931,
+    "Design & Composition": 30,
+    "Business": 6
+  },
   "6": {},
   "7": {},
   "8": {},

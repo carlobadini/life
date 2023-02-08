@@ -24,8 +24,8 @@
     "Employment": 3,
     "Sales": 3,
     "General Software Development": 2,
-    "Writing": 1,
-    "Meetings": 1
+    "Meetings": 1,
+    "Writing": 1
   },
   "2023-02-6": {
     "General Design & Composition": 6952,
@@ -56,7 +56,31 @@
     "General Communication & Scheduling": 2,
     "General Social Networking": 1
   },
-  "2023-02-7": {},
+  "2023-02-7": {
+    "General Business": 8455,
+    "Uncategorized": 4976,
+    "General Design & Composition": 4253,
+    "Meetings": 3625,
+    "Communications": 2952,
+    "Professional Networking": 2787,
+    "General Social Networking": 1864,
+    "General Reference & Learning": 1747,
+    "Video": 1352,
+    "Project Management": 1073,
+    "Email": 1020,
+    "Instant Message": 781,
+    "Search": 711,
+    "Home & Garden": 305,
+    "Intelligence": 249,
+    "Marketing": 184,
+    "Browsers": 171,
+    "General Communication & Scheduling": 140,
+    "Operations": 106,
+    "Office": 101,
+    "General News & Opinion": 99,
+    "Writing": 87,
+    "General Utilities": 51
+  },
   "2023-02-8": {},
   "2023-02-9": {},
   "2023-02-10": {},

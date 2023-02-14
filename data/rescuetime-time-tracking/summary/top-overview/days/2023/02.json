@@ -152,7 +152,18 @@
     "Shopping": 143,
     "Utilities": 90
   },
-  "13": {},
+  "13": {
+    "Business": 12374,
+    "Communication & Scheduling": 6832,
+    "Reference & Learning": 5057,
+    "Uncategorized": 3749,
+    "News & Opinion": 2517,
+    "Social Networking": 2369,
+    "Other Work": 1897,
+    "Design & Composition": 697,
+    "Utilities": 674,
+    "Entertainment": 647
+  },
   "14": {},
   "15": {},
   "16": {},

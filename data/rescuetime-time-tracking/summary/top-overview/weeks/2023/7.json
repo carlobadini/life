@@ -37,7 +37,20 @@
     "Shopping": 151,
     "Software Development": 1
   },
-  "2023-02-15": {},
+  "2023-02-15": {
+    "Business": 6378,
+    "Communication & Scheduling": 1869,
+    "Social Networking": 1588,
+    "Reference & Learning": 806,
+    "Uncategorized": 680,
+    "News & Opinion": 632,
+    "Other Work": 549,
+    "Utilities": 485,
+    "Shopping": 254,
+    "Design & Composition": 230,
+    "Entertainment": 21,
+    "Software Development": 13
+  },
   "2023-02-16": {},
   "2023-02-17": {},
   "2023-02-18": {}

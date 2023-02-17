@@ -48,10 +48,23 @@
     "Utilities": 485,
     "Shopping": 254,
     "Design & Composition": 230,
-    "Entertainment": 21,
+    "Entertainment": 124,
     "Software Development": 13
   },
-  "2023-02-16": {},
+  "2023-02-16": {
+    "Uncategorized": 5720,
+    "Business": 5544,
+    "Communication & Scheduling": 4345,
+    "Design & Composition": 2290,
+    "Reference & Learning": 2073,
+    "Other Work": 1942,
+    "News & Opinion": 1577,
+    "Utilities": 1212,
+    "Social Networking": 1180,
+    "Entertainment": 685,
+    "Shopping": 229,
+    "Software Development": 24
+  },
   "2023-02-17": {},
   "2023-02-18": {}
 }

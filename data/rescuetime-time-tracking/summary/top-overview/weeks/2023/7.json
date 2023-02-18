@@ -53,18 +53,31 @@
   },
   "2023-02-16": {
     "Uncategorized": 5720,
-    "Business": 5544,
-    "Communication & Scheduling": 4345,
+    "Business": 5548,
+    "Communication & Scheduling": 4370,
     "Design & Composition": 2290,
     "Reference & Learning": 2073,
-    "Other Work": 1942,
+    "Other Work": 1955,
     "News & Opinion": 1577,
     "Utilities": 1212,
-    "Social Networking": 1180,
+    "Social Networking": 1211,
     "Entertainment": 685,
     "Shopping": 229,
     "Software Development": 24
   },
-  "2023-02-17": {},
+  "2023-02-17": {
+    "Reference & Learning": 4894,
+    "Social Networking": 4545,
+    "Communication & Scheduling": 4121,
+    "Business": 3960,
+    "Other Work": 3460,
+    "News & Opinion": 3272,
+    "Uncategorized": 3075,
+    "Entertainment": 1457,
+    "Design & Composition": 722,
+    "Utilities": 456,
+    "Software Development": 282,
+    "Shopping": 63
+  },
   "2023-02-18": {}
 }

@@ -160,5 +160,37 @@
     "Engineering & Technology": 17,
     "Maps & Regional": 1
   },
-  "2023-02-18": {}
+  "2023-02-18": {
+    "Uncategorized": 5253,
+    "Video": 4416,
+    "Project Management": 3514,
+    "General Business": 2914,
+    "Professional Networking": 2184,
+    "General Reference & Learning": 1992,
+    "Instant Message": 1574,
+    "Email": 1442,
+    "Communications": 1312,
+    "General News & Opinion": 1117,
+    "Games": 1090,
+    "General Social Networking": 835,
+    "General Entertainment": 791,
+    "Meetings": 718,
+    "Search": 684,
+    "Browsers": 653,
+    "General Utilities": 582,
+    "Home & Garden": 450,
+    "Office": 341,
+    "Entertainment": 324,
+    "Intelligence": 242,
+    "General Software Development": 206,
+    "General Design & Composition": 195,
+    "General Shopping": 163,
+    "Science & Technology": 99,
+    "Internet Utilities": 59,
+    "General Communication & Scheduling": 25,
+    "Graphic Design": 21,
+    "Customer Relations": 12,
+    "Marketing": 7,
+    "Systems Operations": 7
+  }
 }

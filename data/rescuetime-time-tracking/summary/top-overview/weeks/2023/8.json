@@ -1,8 +1,8 @@
 {
   "2023-02-19": {
-    "Entertainment": 24171,
+    "Entertainment": 24255,
     "Social Networking": 3452,
-    "Business": 1835,
+    "Business": 1873,
     "News & Opinion": 1664,
     "Reference & Learning": 1223,
     "Uncategorized": 686,
@@ -12,7 +12,20 @@
     "Design & Composition": 102,
     "Software Development": 93
   },
-  "2023-02-20": {},
+  "2023-02-20": {
+    "Entertainment": 19807,
+    "Business": 4631,
+    "Communication & Scheduling": 3106,
+    "Other Work": 2378,
+    "Software Development": 2287,
+    "Uncategorized": 1925,
+    "Reference & Learning": 1567,
+    "Social Networking": 1355,
+    "News & Opinion": 1100,
+    "Shopping": 895,
+    "Utilities": 335,
+    "Design & Composition": 34
+  },
   "2023-02-21": {},
   "2023-02-22": {},
   "2023-02-23": {},

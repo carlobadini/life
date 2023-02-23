@@ -486,8 +486,8 @@
     "Writing": 35,
     "Marketing": 27,
     "Science & Technology": 24,
-    "General Design & Composition": 23,
     "Engineering & Technology": 23,
+    "General Design & Composition": 23,
     "Editing & IDEs": 10
   },
   "20": {
@@ -547,7 +547,17 @@
     "General Design & Composition": 4,
     "General Software Development": 1
   },
-  "22": {},
+  "22": {
+    "Games": 24331,
+    "Communications": 4402,
+    "Email": 1346,
+    "Meetings": 781,
+    "Project Management": 768,
+    "Instant Message": 588,
+    "General Utilities": 433,
+    "Intelligence": 93,
+    "General Business": 40
+  },
   "23": {},
   "24": {},
   "25": {},

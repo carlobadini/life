@@ -281,7 +281,15 @@
     "Business": 901,
     "Utilities": 433
   },
-  "23": {},
+  "23": {
+    "Entertainment": 14675,
+    "Communication & Scheduling": 4611,
+    "Other Work": 1696,
+    "Business": 1332,
+    "Utilities": 127,
+    "Reference & Learning": 4,
+    "Uncategorized": 2
+  },
   "24": {},
   "25": {},
   "26": {},

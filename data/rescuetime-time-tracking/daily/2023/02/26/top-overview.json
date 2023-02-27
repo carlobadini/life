@@ -1,8 +1,20 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1577,
+    "Time Spent (seconds)": 14162,
     "Number of People": 1,
     "Category": "Entertainment"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 351,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Category": "Other Work"
   }
 ]

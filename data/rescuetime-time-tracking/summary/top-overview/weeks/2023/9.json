@@ -4,5 +4,18 @@
     "Business": 351,
     "Other Work": 83
   },
-  "2023-02-27": {}
+  "2023-02-27": {
+    "Entertainment": 21687,
+    "Other Work": 5469,
+    "Communication & Scheduling": 2682,
+    "Business": 1050,
+    "Uncategorized": 31,
+    "Utilities": 9,
+    "Software Development": 4
+  },
+  "2023-02-28": {
+    "Entertainment": 879,
+    "Other Work": 34,
+    "Communication & Scheduling": 2
+  }
 }

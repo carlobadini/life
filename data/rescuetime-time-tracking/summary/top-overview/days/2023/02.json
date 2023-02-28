@@ -316,5 +316,18 @@
     "Business": 351,
     "Other Work": 83
   },
-  "27": {}
+  "27": {
+    "Entertainment": 21687,
+    "Other Work": 5469,
+    "Communication & Scheduling": 2682,
+    "Business": 1050,
+    "Uncategorized": 31,
+    "Utilities": 9,
+    "Software Development": 4
+  },
+  "28": {
+    "Entertainment": 879,
+    "Other Work": 34,
+    "Communication & Scheduling": 2
+  }
 }

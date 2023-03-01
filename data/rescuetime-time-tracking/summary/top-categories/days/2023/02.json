@@ -621,8 +621,20 @@
     "Systems Operations": 4
   },
   "28": {
-    "Games": 879,
-    "Communications": 34,
-    "Instant Message": 2
+    "Games": 16931,
+    "Email": 1979,
+    "Meetings": 1723,
+    "Communications": 1334,
+    "General Social Networking": 1032,
+    "Project Management": 986,
+    "Instant Message": 858,
+    "Professional Networking": 432,
+    "General Utilities": 291,
+    "Intelligence": 212,
+    "General Business": 130,
+    "General Reference & Learning": 32,
+    "Travel & Outdoors": 28,
+    "Browsers": 7,
+    "Uncategorized": 1
   }
 }

@@ -34,7 +34,18 @@
     "Browsers": 7,
     "Uncategorized": 1
   },
-  "2023-03-1": {},
+  "2023-03-1": {
+    "Games": 25523,
+    "Communications": 3184,
+    "Meetings": 1350,
+    "Project Management": 879,
+    "Email": 345,
+    "Instant Message": 298,
+    "General Utilities": 68,
+    "Intelligence": 13,
+    "General Reference & Learning": 10,
+    "General News & Opinion": 2
+  },
   "2023-03-2": {},
   "2023-03-3": {},
   "2023-03-4": {}

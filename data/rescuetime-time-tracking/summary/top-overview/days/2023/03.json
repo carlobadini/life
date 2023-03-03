@@ -8,7 +8,15 @@
     "Reference & Learning": 10,
     "News & Opinion": 2
   },
-  "2": {},
+  "2": {
+    "Entertainment": 25117,
+    "Communication & Scheduling": 3960,
+    "Other Work": 3581,
+    "Business": 1260,
+    "Reference & Learning": 440,
+    "Utilities": 155,
+    "Uncategorized": 7
+  },
   "3": {},
   "4": {},
   "5": {},

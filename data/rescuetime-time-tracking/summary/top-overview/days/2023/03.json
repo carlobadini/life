@@ -38,14 +38,25 @@
     "Uncategorized": 2
   },
   "5": {
-    "Entertainment": 20718,
-    "Business": 1051,
+    "Entertainment": 20750,
+    "Business": 1067,
     "Other Work": 875,
     "Communication & Scheduling": 125,
     "Utilities": 4,
     "Uncategorized": 2
   },
-  "6": {},
+  "6": {
+    "Entertainment": 15905,
+    "Communication & Scheduling": 11495,
+    "Other Work": 5597,
+    "Business": 2259,
+    "Reference & Learning": 358,
+    "Utilities": 274,
+    "Design & Composition": 78,
+    "Social Networking": 19,
+    "Uncategorized": 4,
+    "Shopping": 2
+  },
   "7": {},
   "8": {},
   "9": {},

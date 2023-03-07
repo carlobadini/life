@@ -1,13 +1,24 @@
 {
   "2023-03-5": {
-    "Entertainment": 20718,
-    "Business": 1051,
+    "Entertainment": 20750,
+    "Business": 1067,
     "Other Work": 875,
     "Communication & Scheduling": 125,
     "Utilities": 4,
     "Uncategorized": 2
   },
-  "2023-03-6": {},
+  "2023-03-6": {
+    "Entertainment": 15905,
+    "Communication & Scheduling": 11495,
+    "Other Work": 5597,
+    "Business": 2259,
+    "Reference & Learning": 358,
+    "Utilities": 274,
+    "Design & Composition": 78,
+    "Social Networking": 19,
+    "Uncategorized": 4,
+    "Shopping": 2
+  },
   "2023-03-7": {},
   "2023-03-8": {},
   "2023-03-9": {},

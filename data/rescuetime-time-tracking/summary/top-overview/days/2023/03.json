@@ -28,36 +28,40 @@
     "Design & Composition": 3
   },
   "4": {
-    "Entertainment": 13369,
+    "Utilities": 13592,
     "Communication & Scheduling": 4321,
     "Business": 3654,
     "Other Work": 1185,
-    "Utilities": 223,
     "Design & Composition": 78,
     "Reference & Learning": 42,
     "Uncategorized": 2
   },
   "5": {
-    "Entertainment": 20750,
+    "Utilities": 20754,
     "Business": 1067,
     "Other Work": 875,
     "Communication & Scheduling": 125,
-    "Utilities": 4,
     "Uncategorized": 2
   },
   "6": {
-    "Entertainment": 15905,
+    "Utilities": 16179,
     "Communication & Scheduling": 11495,
     "Other Work": 5597,
     "Business": 2259,
     "Reference & Learning": 358,
-    "Utilities": 274,
     "Design & Composition": 78,
     "Social Networking": 19,
     "Uncategorized": 4,
     "Shopping": 2
   },
-  "7": {},
+  "7": {
+    "Utilities": 21844,
+    "Other Work": 3416,
+    "Communication & Scheduling": 2226,
+    "Business": 1848,
+    "Reference & Learning": 74,
+    "Uncategorized": 1
+  },
   "8": {},
   "9": {},
   "10": {},

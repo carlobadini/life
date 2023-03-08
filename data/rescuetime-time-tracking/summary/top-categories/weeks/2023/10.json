@@ -1,6 +1,6 @@
 {
   "2023-03-5": {
-    "Games": 20750,
+    "Browsers": 20750,
     "Communications": 875,
     "Project Management": 797,
     "Intelligence": 270,
@@ -9,7 +9,7 @@
     "Uncategorized": 2
   },
   "2023-03-6": {
-    "Games": 15905,
+    "Browsers": 15906,
     "Meetings": 9814,
     "Communications": 5597,
     "Project Management": 1161,
@@ -22,10 +22,21 @@
     "Writing": 78,
     "Professional Networking": 19,
     "Uncategorized": 4,
-    "General Shopping": 2,
-    "Browsers": 1
+    "General Shopping": 2
   },
-  "2023-03-7": {},
+  "2023-03-7": {
+    "Browsers": 21755,
+    "Communications": 3416,
+    "Project Management": 1752,
+    "Instant Message": 1180,
+    "Email": 586,
+    "Meetings": 460,
+    "Intelligence": 94,
+    "General Utilities": 89,
+    "General Reference & Learning": 74,
+    "General Business": 2,
+    "Uncategorized": 1
+  },
   "2023-03-8": {},
   "2023-03-9": {},
   "2023-03-10": {},

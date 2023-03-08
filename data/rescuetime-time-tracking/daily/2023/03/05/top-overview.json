@@ -1,9 +1,9 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 20750,
+    "Time Spent (seconds)": 20754,
     "Number of People": 1,
-    "Category": "Entertainment"
+    "Category": "Utilities"
   },
   {
     "Rank": 2,
@@ -25,12 +25,6 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 6,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Uncategorized"

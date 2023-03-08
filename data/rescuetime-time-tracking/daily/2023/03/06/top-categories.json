@@ -1,9 +1,9 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 15905,
+    "Time Spent (seconds)": 15906,
     "Number of People": 1,
-    "Category": "Games"
+    "Category": "Browsers"
   },
   {
     "Rank": 2,
@@ -82,11 +82,5 @@
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "General Shopping"
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Category": "Browsers"
   }
 ]

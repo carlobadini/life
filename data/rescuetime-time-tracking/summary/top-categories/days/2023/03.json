@@ -88,7 +88,18 @@
     "General Business": 2,
     "Uncategorized": 1
   },
-  "8": {},
+  "8": {
+    "Browsers": 25337,
+    "Email": 4236,
+    "Communications": 3513,
+    "Meetings": 1534,
+    "Project Management": 1504,
+    "Instant Message": 905,
+    "General Utilities": 240,
+    "Engineering & Drafting": 167,
+    "Intelligence": 23,
+    "Uncategorized": 1
+  },
   "9": {},
   "10": {},
   "11": {},

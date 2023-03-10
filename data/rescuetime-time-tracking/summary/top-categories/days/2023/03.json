@@ -100,7 +100,19 @@
     "Intelligence": 23,
     "Uncategorized": 1
   },
-  "9": {},
+  "9": {
+    "Browsers": 17502,
+    "Communications": 4224,
+    "Project Management": 2031,
+    "Email": 1370,
+    "General Reference & Learning": 726,
+    "Meetings": 411,
+    "Instant Message": 410,
+    "Engineering & Drafting": 42,
+    "General Utilities": 36,
+    "Intelligence": 5,
+    "Uncategorized": 1
+  },
   "10": {},
   "11": {},
   "12": {},

@@ -113,8 +113,26 @@
     "Intelligence": 5,
     "Uncategorized": 1
   },
-  "10": {},
-  "11": {},
+  "10": {
+    "Browsers": 11135,
+    "Uncategorized": 1341,
+    "Communications": 1318,
+    "General Software Development": 352,
+    "Instant Message": 273,
+    "Meetings": 245,
+    "Project Management": 227,
+    "Intelligence": 88,
+    "General Utilities": 28,
+    "Engineering & Technology": 23,
+    "Professional Networking": 19,
+    "Video": 8,
+    "General Reference & Learning": 7,
+    "Search": 5
+  },
+  "11": {
+    "Uncategorized": 353,
+    "Intelligence": 82
+  },
   "12": {},
   "13": {},
   "14": {},

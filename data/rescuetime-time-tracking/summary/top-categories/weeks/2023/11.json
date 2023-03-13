@@ -1,9 +1,22 @@
 {
   "2023-03-12": {
-    "Browsers": 38,
-    "Uncategorized": 5
+    "Browsers": 21780,
+    "Project Management": 1721,
+    "Email": 1432,
+    "Communications": 1387,
+    "Instant Message": 839,
+    "Meetings": 764,
+    "General Reference & Learning": 94,
+    "General Utilities": 48,
+    "Intelligence": 10,
+    "Uncategorized": 6
   },
-  "2023-03-13": {},
+  "2023-03-13": {
+    "Browsers": 312,
+    "Project Management": 243,
+    "Communications": 142,
+    "Intelligence": 8
+  },
   "2023-03-14": {},
   "2023-03-15": {},
   "2023-03-16": {},

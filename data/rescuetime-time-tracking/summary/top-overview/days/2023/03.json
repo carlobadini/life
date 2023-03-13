@@ -97,10 +97,18 @@
     "Business": 204
   },
   "12": {
-    "Utilities": 38,
-    "Uncategorized": 5
+    "Utilities": 21828,
+    "Communication & Scheduling": 3035,
+    "Business": 1731,
+    "Other Work": 1387,
+    "Reference & Learning": 94,
+    "Uncategorized": 6
   },
-  "13": {},
+  "13": {
+    "Utilities": 312,
+    "Business": 251,
+    "Other Work": 142
+  },
   "14": {},
   "15": {},
   "16": {},

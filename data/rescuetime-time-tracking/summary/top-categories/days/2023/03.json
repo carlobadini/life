@@ -190,7 +190,18 @@
     "File Sharing": 9,
     "Engineering & Drafting": 4
   },
-  "16": {},
+  "16": {
+    "Browsers": 16602,
+    "Communications": 2612,
+    "Project Management": 947,
+    "Email": 569,
+    "Instant Message": 319,
+    "Meetings": 101,
+    "General Utilities": 31,
+    "Intelligence": 23,
+    "General Reference & Learning": 8,
+    "Uncategorized": 1
+  },
   "17": {},
   "18": {},
   "19": {},

@@ -240,7 +240,20 @@
     "General Reference & Learning": 2,
     "Uncategorized": 1
   },
-  "20": {},
+  "20": {
+    "Browsers": 17883,
+    "Communications": 4225,
+    "Meetings": 992,
+    "Email": 933,
+    "General Reference & Learning": 868,
+    "Project Management": 779,
+    "Instant Message": 288,
+    "Writing": 265,
+    "General Business": 250,
+    "Intelligence": 131,
+    "Uncategorized": 109,
+    "General Utilities": 39
+  },
   "21": {},
   "22": {},
   "23": {},

@@ -268,7 +268,18 @@
     "File Sharing": 8,
     "General Utilities": 8
   },
-  "22": {},
+  "22": {
+    "Browsers": 25190,
+    "Meetings": 3677,
+    "Communications": 3006,
+    "Project Management": 1613,
+    "Email": 964,
+    "Instant Message": 798,
+    "Uncategorized": 103,
+    "General Utilities": 37,
+    "Intelligence": 29,
+    "Engineering & Drafting": 19
+  },
   "23": {},
   "24": {},
   "25": {},

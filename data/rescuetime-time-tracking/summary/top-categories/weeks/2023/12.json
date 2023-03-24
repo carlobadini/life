@@ -52,7 +52,22 @@
     "Intelligence": 29,
     "Engineering & Drafting": 19
   },
-  "2023-03-23": {},
-  "2023-03-24": {},
+  "2023-03-23": {
+    "Browsers": 21630,
+    "Communications": 5153,
+    "Meetings": 2589,
+    "Project Management": 640,
+    "General Utilities": 285,
+    "Intelligence": 29,
+    "Instant Message": 10,
+    "Engineering & Drafting": 8
+  },
+  "2023-03-24": {
+    "Browsers": 692,
+    "Project Management": 467,
+    "Communications": 116,
+    "Instant Message": 18,
+    "Uncategorized": 1
+  },
   "2023-03-25": {}
 }

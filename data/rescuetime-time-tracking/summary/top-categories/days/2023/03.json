@@ -300,7 +300,18 @@
     "Intelligence": 10,
     "Uncategorized": 1
   },
-  "25": {},
+  "25": {
+    "Browsers": 28305,
+    "Communications": 907,
+    "Project Management": 874,
+    "Email": 490,
+    "Instant Message": 265,
+    "Meetings": 89,
+    "Intelligence": 16,
+    "Engineering & Drafting": 6,
+    "General Utilities": 3,
+    "Uncategorized": 1
+  },
   "26": {},
   "27": {},
   "28": {},

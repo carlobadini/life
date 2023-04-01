@@ -59,9 +59,21 @@
     "General Design & Composition": 1
   },
   "2023-03-31": {
-    "Communications": 230,
-    "Project Management": 159,
-    "Browsers": 44,
-    "General Utilities": 3
+    "Browsers": 13684,
+    "Communications": 2924,
+    "Meetings": 1453,
+    "Instant Message": 710,
+    "Project Management": 170,
+    "Email": 33,
+    "General Utilities": 26,
+    "Intelligence": 4,
+    "Engineering & Drafting": 3,
+    "Uncategorized": 1
+  },
+  "2023-04-1": {
+    "Browsers": 355,
+    "Project Management": 338,
+    "Communications": 178,
+    "Email": 4
   }
 }

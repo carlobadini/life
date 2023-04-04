@@ -17,15 +17,19 @@
     "Uncategorized": 5
   },
   "3": {
-    "Browsers": 1148,
-    "General Entertainment": 513,
-    "Project Management": 121,
-    "Intelligence": 102,
-    "Email": 71,
-    "Communications": 14,
-    "Instant Message": 6
+    "Browsers": 7446,
+    "General Entertainment": 1464,
+    "Project Management": 566,
+    "Intelligence": 128,
+    "Email": 74,
+    "Instant Message": 33,
+    "Communications": 28
   },
-  "4": {},
+  "4": {
+    "General Entertainment": 325,
+    "Project Management": 65,
+    "Intelligence": 31
+  },
   "5": {},
   "6": {},
   "7": {},

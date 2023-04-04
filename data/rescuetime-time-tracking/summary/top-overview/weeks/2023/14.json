@@ -9,13 +9,16 @@
     "Uncategorized": 5
   },
   "2023-04-3": {
-    "Utilities": 1148,
-    "Entertainment": 513,
-    "Business": 223,
-    "Communication & Scheduling": 77,
-    "Other Work": 14
+    "Utilities": 7446,
+    "Entertainment": 1464,
+    "Business": 694,
+    "Communication & Scheduling": 107,
+    "Other Work": 28
   },
-  "2023-04-4": {},
+  "2023-04-4": {
+    "Entertainment": 325,
+    "Business": 96
+  },
   "2023-04-5": {},
   "2023-04-6": {},
   "2023-04-7": {},

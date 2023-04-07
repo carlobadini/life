@@ -37,10 +37,21 @@
     "Instant Message": 278,
     "Intelligence": 231,
     "General Utilities": 92,
-    "Uncategorized": 2,
-    "General Entertainment": 2
+    "General Entertainment": 2,
+    "Uncategorized": 2
   },
-  "2023-04-6": {},
+  "2023-04-6": {
+    "Browsers": 15522,
+    "Communications": 3941,
+    "Meetings": 2440,
+    "Project Management": 1674,
+    "Email": 1152,
+    "Instant Message": 868,
+    "General Reference & Learning": 683,
+    "General Utilities": 345,
+    "Intelligence": 103,
+    "File Sharing": 3
+  },
   "2023-04-7": {},
   "2023-04-8": {}
 }

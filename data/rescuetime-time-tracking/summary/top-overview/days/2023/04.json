@@ -52,8 +52,18 @@
     "Business": 1436,
     "Design & Composition": 3
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Utilities": 6239,
+    "Business": 178,
+    "Other Work": 135,
+    "Communication & Scheduling": 53,
+    "Uncategorized": 1
+  },
+  "9": {
+    "Utilities": 297,
+    "Communication & Scheduling": 31,
+    "Other Work": 10
+  },
   "10": {},
   "11": {},
   "12": {},

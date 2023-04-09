@@ -70,8 +70,21 @@
     "Intelligence": 83,
     "Engineering & Drafting": 3
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Browsers": 6219,
+    "Communications": 135,
+    "Project Management": 101,
+    "Intelligence": 77,
+    "Email": 53,
+    "General Utilities": 20,
+    "Uncategorized": 1
+  },
+  "9": {
+    "Browsers": 297,
+    "Instant Message": 27,
+    "Communications": 10,
+    "Email": 4
+  },
   "10": {},
   "11": {},
   "12": {},

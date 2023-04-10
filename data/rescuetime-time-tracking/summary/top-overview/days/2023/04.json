@@ -60,11 +60,15 @@
     "Uncategorized": 1
   },
   "9": {
-    "Utilities": 297,
-    "Communication & Scheduling": 31,
-    "Other Work": 10
+    "Utilities": 6195,
+    "Communication & Scheduling": 655,
+    "Business": 272,
+    "Other Work": 134
   },
-  "10": {},
+  "10": {
+    "Utilities": 92,
+    "Business": 14
+  },
   "11": {},
   "12": {},
   "13": {},

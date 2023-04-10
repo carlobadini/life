@@ -80,12 +80,18 @@
     "Uncategorized": 1
   },
   "9": {
-    "Browsers": 297,
-    "Instant Message": 27,
-    "Communications": 10,
+    "Browsers": 6163,
+    "Instant Message": 651,
+    "Intelligence": 177,
+    "Communications": 134,
+    "Project Management": 95,
+    "General Utilities": 32,
     "Email": 4
   },
-  "10": {},
+  "10": {
+    "Browsers": 92,
+    "Intelligence": 14
+  },
   "11": {},
   "12": {},
   "13": {},

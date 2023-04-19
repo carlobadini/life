@@ -22,7 +22,18 @@
     "General Business": 6,
     "Professional Networking": 4
   },
-  "2023-04-18": {},
+  "2023-04-18": {
+    "Browsers": 20929,
+    "Communications": 1785,
+    "Email": 1672,
+    "Project Management": 1057,
+    "Instant Message": 646,
+    "Meetings": 326,
+    "General Utilities": 17,
+    "Engineering & Drafting": 6,
+    "Uncategorized": 3,
+    "General Reference & Learning": 2
+  },
   "2023-04-19": {},
   "2023-04-20": {},
   "2023-04-21": {},

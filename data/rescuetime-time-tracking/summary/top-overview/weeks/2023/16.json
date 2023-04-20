@@ -24,8 +24,21 @@
     "Uncategorized": 3,
     "Reference & Learning": 2
   },
-  "2023-04-19": {},
-  "2023-04-20": {},
+  "2023-04-19": {
+    "Utilities": 20794,
+    "Business": 4565,
+    "Other Work": 2581,
+    "Communication & Scheduling": 2123,
+    "Reference & Learning": 38,
+    "Design & Composition": 8,
+    "Uncategorized": 4
+  },
+  "2023-04-20": {
+    "Utilities": 3633,
+    "Communication & Scheduling": 1093,
+    "Other Work": 346,
+    "Business": 290
+  },
   "2023-04-21": {},
   "2023-04-22": {}
 }

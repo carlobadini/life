@@ -184,8 +184,27 @@
     "Uncategorized": 3,
     "General Reference & Learning": 2
   },
-  "19": {},
-  "20": {},
+  "19": {
+    "Browsers": 20794,
+    "Project Management": 4501,
+    "Communications": 2581,
+    "Meetings": 1494,
+    "Instant Message": 534,
+    "Email": 95,
+    "General Business": 59,
+    "General Reference & Learning": 38,
+    "Engineering & Drafting": 8,
+    "Intelligence": 5,
+    "Uncategorized": 4
+  },
+  "20": {
+    "Browsers": 3633,
+    "Meetings": 711,
+    "Communications": 346,
+    "Project Management": 290,
+    "Email": 270,
+    "Instant Message": 112
+  },
   "21": {},
   "22": {},
   "23": {},

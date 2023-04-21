@@ -198,12 +198,20 @@
     "Uncategorized": 4
   },
   "20": {
-    "Browsers": 3633,
-    "Meetings": 711,
-    "Communications": 346,
-    "Project Management": 290,
-    "Email": 270,
-    "Instant Message": 112
+    "Browsers": 23367,
+    "Communications": 3737,
+    "Email": 2484,
+    "Project Management": 1923,
+    "Meetings": 1024,
+    "Instant Message": 757,
+    "General Reference & Learning": 616,
+    "Intelligence": 148,
+    "General Utilities": 65,
+    "General Business": 53,
+    "Professional Networking": 17,
+    "File Sharing": 6,
+    "Uncategorized": 1,
+    "Engineering & Drafting": 1
   },
   "21": {},
   "22": {},

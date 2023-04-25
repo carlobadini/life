@@ -249,7 +249,20 @@
     "General Entertainment": 3,
     "Intelligence": 2
   },
-  "24": {},
+  "24": {
+    "Browsers": 17219,
+    "Meetings": 3913,
+    "Communications": 1767,
+    "Project Management": 1215,
+    "Email": 1058,
+    "Instant Message": 513,
+    "General Utilities": 110,
+    "General Reference & Learning": 54,
+    "Uncategorized": 46,
+    "Intelligence": 35,
+    "General Shopping": 20,
+    "Engineering & Drafting": 9
+  },
   "25": {},
   "26": {},
   "27": {},

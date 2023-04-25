@@ -174,7 +174,16 @@
     "Business": 415,
     "Entertainment": 3
   },
-  "24": {},
+  "24": {
+    "Utilities": 17329,
+    "Communication & Scheduling": 5484,
+    "Other Work": 1767,
+    "Business": 1250,
+    "Reference & Learning": 54,
+    "Uncategorized": 46,
+    "Shopping": 20,
+    "Design & Composition": 9
+  },
   "25": {},
   "26": {},
   "27": {},

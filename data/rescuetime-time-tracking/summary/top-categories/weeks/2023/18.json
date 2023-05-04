@@ -34,7 +34,20 @@
     "Intelligence": 20,
     "Uncategorized": 3
   },
-  "2023-05-3": {},
+  "2023-05-3": {
+    "Browsers": 17871,
+    "Meetings": 3328,
+    "Communications": 844,
+    "Project Management": 514,
+    "Instant Message": 472,
+    "Email": 266,
+    "General Reference & Learning": 108,
+    "Intelligence": 56,
+    "General Utilities": 17,
+    "General Entertainment": 12,
+    "Engineering & Drafting": 5,
+    "Uncategorized": 1
+  },
   "2023-05-4": {},
   "2023-05-5": {},
   "2023-05-6": {}

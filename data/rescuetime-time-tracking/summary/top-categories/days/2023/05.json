@@ -25,10 +25,10 @@
     "Uncategorized": 3
   },
   "3": {
-    "Browsers": 17871,
+    "Browsers": 17905,
     "Meetings": 3328,
     "Communications": 844,
-    "Project Management": 514,
+    "Project Management": 571,
     "Instant Message": 472,
     "Email": 266,
     "General Reference & Learning": 108,
@@ -38,7 +38,20 @@
     "Engineering & Drafting": 5,
     "Uncategorized": 1
   },
-  "4": {},
+  "4": {
+    "Browsers": 14301,
+    "Communications": 4185,
+    "Meetings": 2508,
+    "Email": 1088,
+    "Instant Message": 860,
+    "Project Management": 643,
+    "General Utilities": 280,
+    "General Reference & Learning": 180,
+    "Intelligence": 7,
+    "File Sharing": 5,
+    "Uncategorized": 2,
+    "Systems Operations": 2
+  },
   "5": {},
   "6": {},
   "7": {},

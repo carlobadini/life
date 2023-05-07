@@ -42,8 +42,21 @@
     "Business": 973,
     "Reference & Learning": 125
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "Utilities": 23476,
+    "Business": 2178,
+    "Communication & Scheduling": 2065,
+    "Other Work": 783,
+    "Uncategorized": 62,
+    "Design & Composition": 5,
+    "Social Networking": 2
+  },
+  "7": {
+    "Utilities": 10428,
+    "Communication & Scheduling": 67,
+    "Business": 5,
+    "Other Work": 1
+  },
   "8": {},
   "9": {},
   "10": {},

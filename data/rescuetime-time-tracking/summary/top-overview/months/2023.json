@@ -55,15 +55,16 @@
     "Shopping": 20
   },
   "5": {
-    "Utilities": 82376,
-    "Communication & Scheduling": 25197,
-    "Other Work": 12094,
-    "Business": 5877,
+    "Utilities": 116280,
+    "Communication & Scheduling": 27329,
+    "Other Work": 12878,
+    "Business": 8060,
     "Reference & Learning": 661,
     "Entertainment": 33,
-    "Uncategorized": 8,
-    "Design & Composition": 5,
-    "Software Development": 2
+    "Uncategorized": 70,
+    "Design & Composition": 10,
+    "Software Development": 2,
+    "Social Networking": 2
   },
   "6": {},
   "7": {},

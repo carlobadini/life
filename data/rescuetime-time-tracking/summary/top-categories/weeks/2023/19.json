@@ -8,7 +8,16 @@
     "Intelligence": 8,
     "Email": 1
   },
-  "2023-05-8": {},
+  "2023-05-8": {
+    "Browsers": 9457,
+    "Meetings": 1954,
+    "Project Management": 1809,
+    "Instant Message": 1581,
+    "Email": 1398,
+    "Communications": 956,
+    "Intelligence": 203,
+    "General Utilities": 41
+  },
   "2023-05-9": {},
   "2023-05-10": {},
   "2023-05-11": {},

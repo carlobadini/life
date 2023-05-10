@@ -18,8 +18,26 @@
     "Intelligence": 203,
     "General Utilities": 41
   },
-  "2023-05-9": {},
-  "2023-05-10": {},
+  "2023-05-9": {
+    "Browsers": 16965,
+    "Meetings": 4616,
+    "Communications": 2801,
+    "Email": 1915,
+    "Project Management": 1370,
+    "Instant Message": 592,
+    "General Utilities": 42,
+    "Intelligence": 7
+  },
+  "2023-05-10": {
+    "Communications": 584,
+    "Project Management": 233,
+    "General Utilities": 229,
+    "Email": 128,
+    "Instant Message": 113,
+    "Browsers": 62,
+    "Intelligence": 5,
+    "General Reference & Learning": 4
+  },
   "2023-05-11": {},
   "2023-05-12": {},
   "2023-05-13": {}

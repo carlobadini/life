@@ -63,8 +63,19 @@
     "Business": 2012,
     "Other Work": 956
   },
-  "9": {},
-  "10": {},
+  "9": {
+    "Utilities": 17007,
+    "Communication & Scheduling": 7123,
+    "Other Work": 2801,
+    "Business": 1377
+  },
+  "10": {
+    "Other Work": 584,
+    "Utilities": 291,
+    "Communication & Scheduling": 241,
+    "Business": 238,
+    "Reference & Learning": 4
+  },
   "11": {},
   "12": {},
   "13": {},

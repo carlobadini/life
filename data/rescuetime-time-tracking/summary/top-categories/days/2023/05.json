@@ -130,7 +130,16 @@
     "General Utilities": 5,
     "Intelligence": 4
   },
-  "12": {},
+  "12": {
+    "Browsers": 11676,
+    "Communications": 2359,
+    "Project Management": 1354,
+    "Meetings": 1294,
+    "Email": 563,
+    "Intelligence": 402,
+    "General Reference & Learning": 151,
+    "General Entertainment": 12
+  },
   "13": {},
   "14": {},
   "15": {},

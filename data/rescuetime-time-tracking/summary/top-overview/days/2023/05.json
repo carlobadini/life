@@ -122,7 +122,17 @@
     "Entertainment": 34,
     "Uncategorized": 2
   },
-  "17": {},
+  "17": {
+    "Utilities": 8483,
+    "Business": 5879,
+    "Other Work": 2020,
+    "Communication & Scheduling": 905,
+    "Entertainment": 486,
+    "Uncategorized": 105,
+    "Design & Composition": 8,
+    "Software Development": 4,
+    "Reference & Learning": 1
+  },
   "18": {},
   "19": {},
   "20": {},

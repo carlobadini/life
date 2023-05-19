@@ -43,7 +43,18 @@
     "Systems Operations": 4,
     "General Reference & Learning": 1
   },
-  "2023-05-18": {},
-  "2023-05-19": {},
+  "2023-05-18": {
+    "Browsers": 4413,
+    "Communications": 510,
+    "Project Management": 304,
+    "Email": 153,
+    "Meetings": 64,
+    "Instant Message": 37,
+    "Intelligence": 14,
+    "General Utilities": 5
+  },
+  "2023-05-19": {
+    "Intelligence": 2
+  },
   "2023-05-20": {}
 }

@@ -203,9 +203,16 @@
     "General Utilities": 5
   },
   "19": {
-    "Intelligence": 2
+    "Browsers": 8210,
+    "Communications": 301,
+    "Intelligence": 11,
+    "General Utilities": 8,
+    "Uncategorized": 1
   },
-  "20": {},
+  "20": {
+    "Browsers": 202,
+    "Intelligence": 6
+  },
   "21": {},
   "22": {},
   "23": {},

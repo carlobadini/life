@@ -54,7 +54,14 @@
     "General Utilities": 5
   },
   "2023-05-19": {
-    "Intelligence": 2
+    "Browsers": 8210,
+    "Communications": 301,
+    "Intelligence": 11,
+    "General Utilities": 8,
+    "Uncategorized": 1
   },
-  "2023-05-20": {}
+  "2023-05-20": {
+    "Browsers": 202,
+    "Intelligence": 6
+  }
 }

@@ -1,8 +1,32 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2,
+    "Time Spent (seconds)": 8210,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 301,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Category": "Intelligence"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Uncategorized"
   }
 ]

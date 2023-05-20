@@ -140,9 +140,15 @@
     "Communication & Scheduling": 254
   },
   "19": {
-    "Business": 2
+    "Utilities": 8218,
+    "Other Work": 301,
+    "Business": 11,
+    "Uncategorized": 1
   },
-  "20": {},
+  "20": {
+    "Utilities": 202,
+    "Business": 6
+  },
   "21": {},
   "22": {},
   "23": {},

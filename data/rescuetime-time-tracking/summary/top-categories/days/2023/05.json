@@ -219,7 +219,14 @@
     "General Entertainment": 6,
     "File Sharing": 2
   },
-  "21": {},
+  "21": {
+    "Browsers": 1679,
+    "Project Management": 751,
+    "Communications": 563,
+    "Email": 401,
+    "General Utilities": 64,
+    "Intelligence": 2
+  },
   "22": {},
   "23": {},
   "24": {},

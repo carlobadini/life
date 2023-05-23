@@ -227,7 +227,17 @@
     "General Utilities": 64,
     "Intelligence": 2
   },
-  "22": {},
+  "22": {
+    "Browsers": 11675,
+    "Communications": 1852,
+    "Email": 1564,
+    "Project Management": 788,
+    "Instant Message": 239,
+    "General Entertainment": 130,
+    "Intelligence": 13,
+    "Uncategorized": 1,
+    "General Utilities": 1
+  },
   "23": {},
   "24": {},
   "25": {},

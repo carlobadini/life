@@ -29,7 +29,16 @@
     "Intelligence": 196,
     "General Entertainment": 5
   },
-  "2023-05-24": {},
+  "2023-05-24": {
+    "Browsers": 7336,
+    "Meetings": 2476,
+    "Communications": 1646,
+    "Project Management": 888,
+    "Instant Message": 886,
+    "Email": 571,
+    "General Utilities": 319,
+    "Intelligence": 44
+  },
   "2023-05-25": {},
   "2023-05-26": {},
   "2023-05-27": {}

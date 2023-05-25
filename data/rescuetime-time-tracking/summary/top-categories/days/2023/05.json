@@ -249,7 +249,16 @@
     "Intelligence": 196,
     "General Entertainment": 5
   },
-  "24": {},
+  "24": {
+    "Browsers": 7336,
+    "Meetings": 2476,
+    "Communications": 1646,
+    "Project Management": 888,
+    "Instant Message": 886,
+    "Email": 571,
+    "General Utilities": 319,
+    "Intelligence": 44
+  },
   "25": {},
   "26": {},
   "27": {},

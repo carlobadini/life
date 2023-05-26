@@ -15,8 +15,8 @@
     "Instant Message": 239,
     "General Entertainment": 130,
     "Intelligence": 13,
-    "General Utilities": 1,
-    "Uncategorized": 1
+    "Uncategorized": 1,
+    "General Utilities": 1
   },
   "2023-05-23": {
     "Browsers": 10726,
@@ -39,7 +39,14 @@
     "General Utilities": 319,
     "Intelligence": 44
   },
-  "2023-05-25": {},
+  "2023-05-25": {
+    "Email": 4129,
+    "Browsers": 3451,
+    "Communications": 1724,
+    "Project Management": 571,
+    "Instant Message": 339,
+    "General Utilities": 1
+  },
   "2023-05-26": {},
   "2023-05-27": {}
 }

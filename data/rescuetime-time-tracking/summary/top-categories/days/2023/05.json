@@ -274,8 +274,19 @@
     "Project Management": 84,
     "General Utilities": 4
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "Browsers": 2581,
+    "General Utilities": 105,
+    "General Entertainment": 94,
+    "Instant Message": 59,
+    "Communications": 20,
+    "General Reference & Learning": 15,
+    "Intelligence": 2
+  },
+  "28": {
+    "Browsers": 4,
+    "General Entertainment": 1
+  },
   "29": {},
   "30": {}
 }

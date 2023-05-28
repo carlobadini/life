@@ -191,8 +191,18 @@
     "Communication & Scheduling": 90,
     "Business": 84
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "Utilities": 2686,
+    "Entertainment": 94,
+    "Communication & Scheduling": 59,
+    "Other Work": 20,
+    "Reference & Learning": 15,
+    "Business": 2
+  },
+  "28": {
+    "Utilities": 4,
+    "Entertainment": 1
+  },
   "29": {},
   "30": {}
 }

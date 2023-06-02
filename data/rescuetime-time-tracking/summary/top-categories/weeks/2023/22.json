@@ -41,7 +41,18 @@
     "General Business": 48,
     "Intelligence": 10
   },
-  "2023-06-1": {},
+  "2023-06-1": {
+    "Browsers": 12323,
+    "Project Management": 2758,
+    "Communications": 2688,
+    "Email": 818,
+    "Instant Message": 532,
+    "General Entertainment": 443,
+    "Intelligence": 267,
+    "General Utilities": 208,
+    "Uncategorized": 67,
+    "Engineering & Drafting": 14
+  },
   "2023-06-2": {},
   "2023-06-3": {}
 }

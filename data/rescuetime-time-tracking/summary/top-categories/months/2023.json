@@ -169,16 +169,18 @@
     "General Business": 48
   },
   "6": {
-    "Browsers": 12323,
-    "Project Management": 2758,
-    "Communications": 2688,
-    "Email": 818,
-    "Instant Message": 532,
-    "General Entertainment": 443,
-    "Intelligence": 267,
-    "General Utilities": 208,
+    "Browsers": 22394,
+    "Project Management": 5331,
+    "Communications": 3683,
+    "Email": 2477,
+    "Instant Message": 738,
+    "General Entertainment": 737,
+    "Intelligence": 296,
+    "General Utilities": 253,
     "Uncategorized": 67,
-    "Engineering & Drafting": 14
+    "Engineering & Drafting": 14,
+    "Meetings": 6345,
+    "General Reference & Learning": 279
   },
   "7": {},
   "8": {},

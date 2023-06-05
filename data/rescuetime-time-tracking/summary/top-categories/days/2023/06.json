@@ -24,7 +24,7 @@
     "Intelligence": 29
   },
   "3": {
-    "Browsers": 11413,
+    "Browsers": 11707,
     "Project Management": 2751,
     "Instant Message": 864,
     "Email": 689,
@@ -35,7 +35,15 @@
     "Intelligence": 16,
     "General Business": 2
   },
-  "4": {},
+  "4": {
+    "Browsers": 2519,
+    "Project Management": 325,
+    "Communications": 143,
+    "Email": 128,
+    "Intelligence": 8,
+    "Instant Message": 2,
+    "Uncategorized": 1
+  },
   "5": {},
   "6": {},
   "7": {},

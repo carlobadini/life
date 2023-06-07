@@ -57,7 +57,18 @@
     "General Entertainment": 10,
     "Systems Operations": 5
   },
-  "6": {},
+  "6": {
+    "Browsers": 7112,
+    "Meetings": 3873,
+    "Project Management": 3525,
+    "Communications": 1552,
+    "Email": 487,
+    "Instant Message": 477,
+    "General Entertainment": 102,
+    "Intelligence": 59,
+    "General Reference & Learning": 28,
+    "General Utilities": 4
+  },
   "7": {},
   "8": {},
   "9": {},

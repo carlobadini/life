@@ -48,7 +48,18 @@
     "Uncategorized": 8,
     "File Sharing": 1
   },
-  "2023-06-8": {},
+  "2023-06-8": {
+    "Browsers": 3395,
+    "Instant Message": 1047,
+    "Communications": 723,
+    "Email": 453,
+    "Project Management": 440,
+    "Intelligence": 313,
+    "General Utilities": 74,
+    "General Entertainment": 34,
+    "Uncategorized": 27,
+    "Meetings": 22
+  },
   "2023-06-9": {},
   "2023-06-10": {}
 }

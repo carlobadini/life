@@ -77,14 +77,22 @@
     "Entertainment": 4
   },
   "10": {
-    "Utilities": 2248,
+    "Utilities": 2280,
     "Communication & Scheduling": 722,
-    "Business": 200,
+    "Business": 547,
     "Design & Composition": 37,
     "Uncategorized": 32,
+    "Other Work": 1,
     "Reference & Learning": 1
   },
-  "11": {},
+  "11": {
+    "Utilities": 2326,
+    "Communication & Scheduling": 433,
+    "Business": 229,
+    "Uncategorized": 224,
+    "Other Work": 28,
+    "Design & Composition": 1
+  },
   "12": {},
   "13": {},
   "14": {},

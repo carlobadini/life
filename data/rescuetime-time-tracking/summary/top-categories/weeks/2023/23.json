@@ -72,13 +72,15 @@
     "General Entertainment": 4
   },
   "2023-06-10": {
-    "Browsers": 2248,
+    "Browsers": 2275,
     "Email": 704,
-    "Project Management": 134,
+    "Project Management": 481,
     "Intelligence": 66,
     "Writing": 37,
     "Uncategorized": 32,
     "Instant Message": 18,
+    "General Utilities": 5,
+    "Communications": 1,
     "General Reference & Learning": 1
   }
 }

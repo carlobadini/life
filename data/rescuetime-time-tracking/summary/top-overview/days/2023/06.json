@@ -82,8 +82,8 @@
     "Business": 547,
     "Design & Composition": 37,
     "Uncategorized": 32,
-    "Other Work": 1,
-    "Reference & Learning": 1
+    "Reference & Learning": 1,
+    "Other Work": 1
   },
   "11": {
     "Utilities": 2326,
@@ -93,7 +93,13 @@
     "Other Work": 28,
     "Design & Composition": 1
   },
-  "12": {},
+  "12": {
+    "Utilities": 1250,
+    "Uncategorized": 1167,
+    "Entertainment": 94,
+    "Other Work": 92,
+    "Business": 31
+  },
   "13": {},
   "14": {},
   "15": {},

@@ -4,8 +4,8 @@
     "Email": 375,
     "Uncategorized": 224,
     "Project Management": 200,
-    "General Utilities": 58,
     "Instant Message": 58,
+    "General Utilities": 58,
     "Intelligence": 29,
     "Communications": 28,
     "Writing": 1
@@ -18,7 +18,11 @@
     "Communications": 92,
     "Intelligence": 31
   },
-  "2023-06-13": {},
+  "2023-06-13": {
+    "Browsers": 1184,
+    "Uncategorized": 859,
+    "Intelligence": 335
+  },
   "2023-06-14": {},
   "2023-06-15": {},
   "2023-06-16": {},

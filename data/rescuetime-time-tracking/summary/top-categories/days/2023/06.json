@@ -187,7 +187,14 @@
     "Uncategorized": 1,
     "General Utilities": 1
   },
-  "18": {},
+  "18": {
+    "Browsers": 934,
+    "Project Management": 444,
+    "General Utilities": 357,
+    "Communications": 229,
+    "Intelligence": 33,
+    "Email": 32
+  },
   "19": {},
   "20": {},
   "21": {},

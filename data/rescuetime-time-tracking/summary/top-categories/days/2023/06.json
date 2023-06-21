@@ -184,8 +184,8 @@
     "Communications": 266,
     "Intelligence": 105,
     "Email": 50,
-    "General Utilities": 1,
-    "Uncategorized": 1
+    "Uncategorized": 1,
+    "General Utilities": 1
   },
   "18": {
     "Browsers": 934,
@@ -209,7 +209,20 @@
     "Uncategorized": 2,
     "General Reference & Learning": 2
   },
-  "20": {},
+  "20": {
+    "Browsers": 23887,
+    "Meetings": 3289,
+    "Project Management": 3256,
+    "Communications": 1972,
+    "Email": 1523,
+    "Instant Message": 226,
+    "General Entertainment": 74,
+    "General Utilities": 27,
+    "Intelligence": 11,
+    "Engineering & Drafting": 3,
+    "Uncategorized": 2,
+    "General Reference & Learning": 2
+  },
   "21": {},
   "22": {},
   "23": {},

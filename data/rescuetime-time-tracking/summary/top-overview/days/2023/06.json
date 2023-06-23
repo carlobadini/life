@@ -161,14 +161,22 @@
     "Uncategorized": 2
   },
   "21": {
-    "Utilities": 12092,
+    "Utilities": 12095,
     "Business": 5895,
     "Communication & Scheduling": 2551,
-    "Other Work": 985,
+    "Other Work": 1060,
     "Entertainment": 247,
     "Uncategorized": 72
   },
-  "22": {},
+  "22": {
+    "Utilities": 14092,
+    "Business": 3935,
+    "Other Work": 3650,
+    "Communication & Scheduling": 2568,
+    "Entertainment": 188,
+    "Design & Composition": 13,
+    "Uncategorized": 2
+  },
   "23": {},
   "24": {},
   "25": {},

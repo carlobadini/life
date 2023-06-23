@@ -36,10 +36,10 @@
     "General Reference & Learning": 2
   },
   "2023-06-21": {
-    "Browsers": 12078,
+    "Browsers": 12081,
     "Project Management": 5850,
     "Email": 2087,
-    "Communications": 985,
+    "Communications": 1060,
     "Instant Message": 299,
     "General Entertainment": 247,
     "Meetings": 165,
@@ -47,7 +47,21 @@
     "Intelligence": 45,
     "General Utilities": 14
   },
-  "2023-06-22": {},
+  "2023-06-22": {
+    "Browsers": 13959,
+    "Communications": 3650,
+    "Project Management": 3359,
+    "Email": 1389,
+    "Meetings": 575,
+    "Instant Message": 540,
+    "Intelligence": 492,
+    "General Entertainment": 188,
+    "General Utilities": 133,
+    "General Business": 84,
+    "Voice Chat": 64,
+    "Engineering & Drafting": 13,
+    "Uncategorized": 2
+  },
   "2023-06-23": {},
   "2023-06-24": {}
 }

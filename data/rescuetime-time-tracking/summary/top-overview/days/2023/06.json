@@ -157,8 +157,8 @@
     "Other Work": 1972,
     "Entertainment": 74,
     "Design & Composition": 3,
-    "Reference & Learning": 2,
-    "Uncategorized": 2
+    "Uncategorized": 2,
+    "Reference & Learning": 2
   },
   "21": {
     "Utilities": 12095,
@@ -177,7 +177,16 @@
     "Design & Composition": 13,
     "Uncategorized": 2
   },
-  "23": {},
+  "23": {
+    "Utilities": 15086,
+    "Communication & Scheduling": 7534,
+    "Business": 6209,
+    "Other Work": 2718,
+    "Entertainment": 460,
+    "Reference & Learning": 106,
+    "Design & Composition": 105,
+    "Uncategorized": 5
+  },
   "24": {},
   "25": {},
   "26": {},

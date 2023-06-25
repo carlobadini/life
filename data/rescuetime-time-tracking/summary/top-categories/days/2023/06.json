@@ -265,7 +265,13 @@
     "General Business": 9,
     "Uncategorized": 5
   },
-  "24": {},
+  "24": {
+    "Browsers": 3181,
+    "Project Management": 403,
+    "Communications": 141,
+    "Intelligence": 106,
+    "Email": 32
+  },
   "25": {},
   "26": {},
   "27": {},

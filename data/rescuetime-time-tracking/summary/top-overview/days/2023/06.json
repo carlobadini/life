@@ -209,7 +209,14 @@
     "Entertainment": 366,
     "Uncategorized": 1
   },
-  "27": {},
+  "27": {
+    "Utilities": 20932,
+    "Communication & Scheduling": 5340,
+    "Business": 2758,
+    "Other Work": 2454,
+    "Entertainment": 848,
+    "Reference & Learning": 17
+  },
   "28": {},
   "29": {}
 }

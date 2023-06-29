@@ -35,6 +35,20 @@
     "Intelligence": 54,
     "General Reference & Learning": 17
   },
-  "2023-06-28": {},
-  "2023-06-29": {}
+  "2023-06-28": {
+    "Browsers": 11610,
+    "Project Management": 2173,
+    "Communications": 1824,
+    "Email": 407,
+    "Meetings": 78,
+    "Intelligence": 24,
+    "General Utilities": 3
+  },
+  "2023-06-29": {
+    "Browsers": 7503,
+    "Communications": 33,
+    "Email": 21,
+    "Project Management": 15,
+    "General Utilities": 12
+  }
 }

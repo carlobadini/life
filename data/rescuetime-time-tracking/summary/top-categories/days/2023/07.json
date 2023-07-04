@@ -22,7 +22,20 @@
     "Email": 33,
     "Uncategorized": 1
   },
-  "3": {},
+  "3": {
+    "Browsers": 28862,
+    "Meetings": 3673,
+    "Communications": 1768,
+    "Project Management": 654,
+    "Email": 238,
+    "General Utilities": 235,
+    "Presentation": 76,
+    "General Entertainment": 57,
+    "Engineering & Drafting": 31,
+    "General Reference & Learning": 14,
+    "Intelligence": 12,
+    "Uncategorized": 9
+  },
   "4": {},
   "5": {},
   "6": {},

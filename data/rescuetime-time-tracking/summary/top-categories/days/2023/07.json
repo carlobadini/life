@@ -50,7 +50,18 @@
     "Engineering & Drafting": 8,
     "Intelligence": 6
   },
-  "5": {},
+  "5": {
+    "Browsers": 27880,
+    "Communications": 1579,
+    "Email": 605,
+    "Project Management": 528,
+    "Engineering & Drafting": 474,
+    "Instant Message": 465,
+    "Intelligence": 74,
+    "General Entertainment": 63,
+    "General Reference & Learning": 54,
+    "General Utilities": 24
+  },
   "6": {},
   "7": {},
   "8": {},

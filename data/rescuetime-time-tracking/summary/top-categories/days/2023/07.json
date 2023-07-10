@@ -87,8 +87,22 @@
     "Browsers": 996,
     "Intelligence": 9
   },
-  "9": {},
-  "10": {},
+  "9": {
+    "Browsers": 7363,
+    "Project Management": 2218,
+    "Communications": 1226,
+    "Uncategorized": 1086,
+    "Email": 622,
+    "General Utilities": 309,
+    "Intelligence": 251,
+    "Instant Message": 249,
+    "General Entertainment": 9,
+    "Engineering & Drafting": 2
+  },
+  "10": {
+    "Uncategorized": 144,
+    "Browsers": 122
+  },
   "11": {},
   "12": {},
   "13": {},

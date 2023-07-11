@@ -1,14 +1,56 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 144,
+    "Time Spent (seconds)": 18311,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1907,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1743,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1138,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1063,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 566,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 315,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 194,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 122,
+    "Rank": 9,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Utilities"
   }
 ]

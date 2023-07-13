@@ -35,8 +35,23 @@
     "Meetings": 3,
     "Uncategorized": 2
   },
-  "2023-07-12": {},
-  "2023-07-13": {},
+  "2023-07-12": {
+    "Browsers": 9257,
+    "Communications": 1601,
+    "Meetings": 1168,
+    "Project Management": 201,
+    "Email": 119,
+    "General Reference & Learning": 114,
+    "Intelligence": 97,
+    "General Entertainment": 15,
+    "General Utilities": 11
+  },
+  "2023-07-13": {
+    "Browsers": 602,
+    "Project Management": 236,
+    "Communications": 44,
+    "Email": 4
+  },
   "2023-07-14": {},
   "2023-07-15": {}
 }

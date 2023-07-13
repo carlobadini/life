@@ -123,8 +123,23 @@
     "Meetings": 3,
     "Uncategorized": 2
   },
-  "12": {},
-  "13": {},
+  "12": {
+    "Browsers": 9257,
+    "Communications": 1601,
+    "Meetings": 1168,
+    "Project Management": 201,
+    "Email": 119,
+    "General Reference & Learning": 114,
+    "Intelligence": 97,
+    "General Entertainment": 15,
+    "General Utilities": 11
+  },
+  "13": {
+    "Browsers": 602,
+    "Project Management": 236,
+    "Communications": 44,
+    "Email": 4
+  },
   "14": {},
   "15": {},
   "16": {},

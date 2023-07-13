@@ -91,8 +91,20 @@
     "Entertainment": 68,
     "Uncategorized": 2
   },
-  "12": {},
-  "13": {},
+  "12": {
+    "Utilities": 9268,
+    "Other Work": 1601,
+    "Communication & Scheduling": 1287,
+    "Business": 298,
+    "Reference & Learning": 114,
+    "Entertainment": 15
+  },
+  "13": {
+    "Utilities": 602,
+    "Business": 236,
+    "Other Work": 44,
+    "Communication & Scheduling": 4
+  },
   "14": {},
   "15": {},
   "16": {},

@@ -128,8 +128,19 @@
     "Design & Composition": 18,
     "Uncategorized": 3
   },
-  "16": {},
-  "17": {},
+  "16": {
+    "Utilities": 4269,
+    "Communication & Scheduling": 2526,
+    "Business": 741,
+    "Entertainment": 656,
+    "Other Work": 603
+  },
+  "17": {
+    "Utilities": 2094,
+    "Business": 198,
+    "Entertainment": 112,
+    "Other Work": 5
+  },
   "18": {},
   "19": {},
   "20": {},

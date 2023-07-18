@@ -136,12 +136,20 @@
     "Other Work": 603
   },
   "17": {
-    "Utilities": 2094,
-    "Business": 198,
-    "Entertainment": 112,
-    "Other Work": 5
+    "Utilities": 20411,
+    "Other Work": 7327,
+    "Communication & Scheduling": 6120,
+    "Business": 1736,
+    "Reference & Learning": 235,
+    "Entertainment": 201,
+    "Design & Composition": 183,
+    "Uncategorized": 1
   },
-  "18": {},
+  "18": {
+    "Utilities": 270,
+    "Communication & Scheduling": 13,
+    "Other Work": 4
+  },
   "19": {},
   "20": {},
   "21": {},

@@ -11,12 +11,25 @@
     "General Utilities": 11
   },
   "2023-07-17": {
-    "Browsers": 2094,
-    "Intelligence": 198,
-    "General Entertainment": 112,
-    "Communications": 5
+    "Browsers": 20267,
+    "Communications": 7327,
+    "Meetings": 3504,
+    "Instant Message": 1798,
+    "Project Management": 1116,
+    "Email": 818,
+    "Intelligence": 620,
+    "General Reference & Learning": 235,
+    "General Entertainment": 201,
+    "Engineering & Drafting": 168,
+    "General Utilities": 144,
+    "Writing": 15,
+    "Uncategorized": 1
   },
-  "2023-07-18": {},
+  "2023-07-18": {
+    "Browsers": 270,
+    "Instant Message": 13,
+    "Communications": 4
+  },
   "2023-07-19": {},
   "2023-07-20": {},
   "2023-07-21": {},

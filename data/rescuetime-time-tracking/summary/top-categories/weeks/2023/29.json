@@ -50,7 +50,21 @@
     "Meetings": 19,
     "Intelligence": 15
   },
-  "2023-07-20": {},
+  "2023-07-20": {
+    "Browsers": 20233,
+    "Project Management": 6138,
+    "Communications": 2592,
+    "Instant Message": 1337,
+    "Email": 580,
+    "Meetings": 408,
+    "General Entertainment": 323,
+    "General Utilities": 116,
+    "General Business": 48,
+    "Intelligence": 19,
+    "Uncategorized": 9,
+    "Engineering & Drafting": 4,
+    "Professional Networking": 1
+  },
   "2023-07-21": {},
   "2023-07-22": {}
 }

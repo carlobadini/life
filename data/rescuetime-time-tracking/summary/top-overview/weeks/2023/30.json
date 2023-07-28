@@ -15,8 +15,8 @@
     "Communication & Scheduling": 1749,
     "Business": 862,
     "Entertainment": 19,
-    "Uncategorized": 1,
-    "Reference & Learning": 1
+    "Reference & Learning": 1,
+    "Uncategorized": 1
   },
   "2023-07-25": {
     "Utilities": 21541,
@@ -37,7 +37,14 @@
     "Uncategorized": 28,
     "Reference & Learning": 15
   },
-  "2023-07-27": {},
+  "2023-07-27": {
+    "Utilities": 19814,
+    "Other Work": 2853,
+    "Business": 1992,
+    "Communication & Scheduling": 1914,
+    "Reference & Learning": 971,
+    "Design & Composition": 8
+  },
   "2023-07-28": {},
   "2023-07-29": {}
 }

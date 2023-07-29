@@ -330,7 +330,19 @@
     "Intelligence": 14,
     "Engineering & Drafting": 8
   },
-  "28": {},
+  "28": {
+    "Browsers": 24134,
+    "Communications": 2520,
+    "Project Management": 1358,
+    "Email": 1061,
+    "Instant Message": 846,
+    "Meetings": 412,
+    "General Entertainment": 349,
+    "Intelligence": 63,
+    "General Utilities": 28,
+    "General Reference & Learning": 25,
+    "Uncategorized": 1
+  },
   "29": {},
   "30": {}
 }

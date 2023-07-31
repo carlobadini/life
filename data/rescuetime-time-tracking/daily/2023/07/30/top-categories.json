@@ -1,14 +1,50 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2567,
+    "Time Spent (seconds)": 6332,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1,
+    "Time Spent (seconds)": 148,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Communications"
   }
 ]

@@ -39,7 +39,26 @@
     "Instant Message": 37,
     "General Utilities": 10
   },
-  "2023-08-3": {},
-  "2023-08-4": {},
+  "2023-08-3": {
+    "Browsers": 6951,
+    "Email": 4426,
+    "Communications": 1819,
+    "Writing": 939,
+    "Instant Message": 429,
+    "Project Management": 381,
+    "Meetings": 324,
+    "Intelligence": 60,
+    "General Reference & Learning": 17,
+    "General Utilities": 5,
+    "Uncategorized": 1,
+    "General Entertainment": 1
+  },
+  "2023-08-4": {
+    "Browsers": 230,
+    "Project Management": 76,
+    "Email": 17,
+    "Intelligence": 8,
+    "Communications": 1
+  },
   "2023-08-5": {}
 }

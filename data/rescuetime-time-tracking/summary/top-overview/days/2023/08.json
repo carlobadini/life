@@ -15,8 +15,22 @@
     "Business": 79,
     "Communication & Scheduling": 37
   },
-  "3": {},
-  "4": {},
+  "3": {
+    "Utilities": 6956,
+    "Communication & Scheduling": 5179,
+    "Other Work": 1819,
+    "Design & Composition": 939,
+    "Business": 441,
+    "Reference & Learning": 17,
+    "Uncategorized": 1,
+    "Entertainment": 1
+  },
+  "4": {
+    "Utilities": 230,
+    "Business": 84,
+    "Communication & Scheduling": 17,
+    "Other Work": 1
+  },
   "5": {},
   "6": {},
   "7": {},

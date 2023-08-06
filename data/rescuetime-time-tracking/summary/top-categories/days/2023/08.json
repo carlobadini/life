@@ -46,7 +46,14 @@
     "Intelligence": 60,
     "Uncategorized": 1
   },
-  "5": {},
+  "5": {
+    "Browsers": 7739,
+    "Project Management": 359,
+    "Communications": 285,
+    "Presentation": 65,
+    "Email": 27,
+    "General Utilities": 13
+  },
   "6": {},
   "7": {},
   "8": {},

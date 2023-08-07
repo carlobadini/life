@@ -54,8 +54,21 @@
     "Email": 27,
     "General Utilities": 13
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "Browsers": 18578,
+    "Communications": 1806,
+    "General Reference & Learning": 838,
+    "Project Management": 253,
+    "Email": 252,
+    "General Utilities": 60,
+    "General Entertainment": 15,
+    "Intelligence": 2,
+    "Engineering & Drafting": 2,
+    "Writing": 1
+  },
+  "7": {
+    "Browsers": 3767
+  },
   "8": {},
   "9": {},
   "10": {},

@@ -7,14 +7,27 @@
     "Email": 252,
     "General Utilities": 60,
     "General Entertainment": 15,
-    "Intelligence": 2,
     "Engineering & Drafting": 2,
+    "Intelligence": 2,
     "Writing": 1
   },
   "2023-08-7": {
-    "Browsers": 3767
+    "Browsers": 21815,
+    "Communications": 2482,
+    "Project Management": 1373,
+    "Email": 962,
+    "Meetings": 200,
+    "Instant Message": 116,
+    "General Utilities": 76,
+    "General Reference & Learning": 23,
+    "Intelligence": 5,
+    "Presentation": 1
   },
-  "2023-08-8": {},
+  "2023-08-8": {
+    "Browsers": 672,
+    "Project Management": 39,
+    "Communications": 32
+  },
   "2023-08-9": {},
   "2023-08-10": {},
   "2023-08-11": {},

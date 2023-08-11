@@ -47,7 +47,18 @@
     "Intelligence": 30,
     "General Utilities": 23
   },
-  "2023-08-10": {},
-  "2023-08-11": {},
+  "2023-08-10": {
+    "Browsers": 6051,
+    "Communications": 1751,
+    "Email": 687,
+    "Project Management": 289,
+    "Instant Message": 84,
+    "General Utilities": 50,
+    "General Software Development": 11,
+    "Uncategorized": 1
+  },
+  "2023-08-11": {
+    "Browsers": 511
+  },
   "2023-08-12": {}
 }

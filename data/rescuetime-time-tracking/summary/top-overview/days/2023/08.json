@@ -72,8 +72,17 @@
     "Business": 1193,
     "Design & Composition": 31
   },
-  "10": {},
-  "11": {},
+  "10": {
+    "Utilities": 6101,
+    "Other Work": 1751,
+    "Communication & Scheduling": 771,
+    "Business": 289,
+    "Software Development": 11,
+    "Uncategorized": 1
+  },
+  "11": {
+    "Utilities": 511
+  },
   "12": {},
   "13": {},
   "14": {},

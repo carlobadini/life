@@ -113,9 +113,20 @@
     "Uncategorized": 1
   },
   "11": {
-    "Browsers": 511
+    "Browsers": 7740,
+    "Communications": 1974,
+    "Email": 1332,
+    "Uncategorized": 530,
+    "Project Management": 377,
+    "Instant Message": 94,
+    "General Utilities": 8,
+    "File Sharing": 2
   },
-  "12": {},
+  "12": {
+    "Intelligence": 118,
+    "Browsers": 37,
+    "Communications": 4
+  },
   "13": {},
   "14": {},
   "15": {},

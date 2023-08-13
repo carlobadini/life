@@ -123,11 +123,20 @@
     "File Sharing": 2
   },
   "12": {
+    "Browsers": 6900,
+    "Project Management": 2079,
+    "Email": 1501,
+    "Instant Message": 1473,
+    "Communications": 645,
     "Intelligence": 118,
-    "Browsers": 37,
-    "Communications": 4
+    "General Reference & Learning": 91,
+    "General Utilities": 2,
+    "Uncategorized": 2
   },
-  "13": {},
+  "13": {
+    "Browsers": 35,
+    "Intelligence": 3
+  },
   "14": {},
   "15": {},
   "16": {},

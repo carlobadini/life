@@ -130,11 +130,13 @@
     "Communications": 645,
     "Intelligence": 118,
     "General Reference & Learning": 91,
-    "General Utilities": 2,
-    "Uncategorized": 2
+    "Uncategorized": 2,
+    "General Utilities": 2
   },
   "13": {
-    "Browsers": 35,
+    "Browsers": 471,
+    "Communications": 119,
+    "Project Management": 28,
     "Intelligence": 3
   },
   "14": {},

@@ -16,13 +16,21 @@
   "2023-08-15": {
     "Utilities": 17403,
     "Communication & Scheduling": 5283,
-    "Other Work": 3937,
+    "Other Work": 3955,
     "Business": 2073,
     "Design & Composition": 193,
     "Reference & Learning": 61,
     "Entertainment": 4
   },
-  "2023-08-16": {},
+  "2023-08-16": {
+    "Utilities": 11496,
+    "Communication & Scheduling": 3152,
+    "Other Work": 1665,
+    "Business": 1019,
+    "Reference & Learning": 328,
+    "Design & Composition": 7,
+    "Uncategorized": 1
+  },
   "2023-08-17": {},
   "2023-08-18": {},
   "2023-08-19": {}

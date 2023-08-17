@@ -20,7 +20,7 @@
   "2023-08-15": {
     "Browsers": 17305,
     "Email": 4221,
-    "Communications": 3937,
+    "Communications": 3955,
     "Project Management": 2000,
     "Instant Message": 1062,
     "Engineering & Drafting": 154,
@@ -30,7 +30,20 @@
     "Writing": 39,
     "General Entertainment": 4
   },
-  "2023-08-16": {},
+  "2023-08-16": {
+    "Browsers": 11200,
+    "Email": 1946,
+    "Communications": 1665,
+    "Project Management": 1014,
+    "Instant Message": 964,
+    "General Reference & Learning": 328,
+    "General Utilities": 296,
+    "Meetings": 242,
+    "Engineering & Drafting": 5,
+    "Intelligence": 5,
+    "Writing": 2,
+    "Uncategorized": 1
+  },
   "2023-08-17": {},
   "2023-08-18": {},
   "2023-08-19": {}

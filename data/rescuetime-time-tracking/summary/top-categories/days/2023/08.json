@@ -165,10 +165,10 @@
     "General Entertainment": 4
   },
   "16": {
-    "Browsers": 11200,
+    "Browsers": 11257,
     "Email": 1946,
     "Communications": 1665,
-    "Project Management": 1014,
+    "Project Management": 1207,
     "Instant Message": 964,
     "General Reference & Learning": 328,
     "General Utilities": 296,
@@ -178,8 +178,24 @@
     "Writing": 2,
     "Uncategorized": 1
   },
-  "17": {},
-  "18": {},
+  "17": {
+    "Browsers": 12847,
+    "Communications": 2916,
+    "Email": 2095,
+    "Project Management": 1344,
+    "General Reference & Learning": 1128,
+    "Instant Message": 215,
+    "Intelligence": 19,
+    "Engineering & Drafting": 17,
+    "General Utilities": 13
+  },
+  "18": {
+    "Browsers": 2116,
+    "Project Management": 369,
+    "Email": 265,
+    "Communications": 108,
+    "Uncategorized": 1
+  },
   "19": {},
   "20": {},
   "21": {},

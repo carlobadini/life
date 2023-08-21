@@ -215,7 +215,16 @@
     "Writing": 2,
     "Engineering & Drafting": 2
   },
-  "20": {},
+  "20": {
+    "Browsers": 25035,
+    "Writing": 931,
+    "Intelligence": 280,
+    "Email": 276,
+    "Project Management": 176,
+    "Communications": 173,
+    "General Reference & Learning": 33,
+    "General Utilities": 6
+  },
   "21": {},
   "22": {},
   "23": {},

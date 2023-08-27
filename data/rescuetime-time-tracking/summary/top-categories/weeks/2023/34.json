@@ -58,7 +58,7 @@
     "General News & Opinion": 3
   },
   "2023-08-25": {
-    "Browsers": 13278,
+    "Browsers": 13448,
     "Communications": 2186,
     "Instant Message": 877,
     "Project Management": 857,
@@ -70,5 +70,15 @@
     "Intelligence": 22,
     "Uncategorized": 1
   },
-  "2023-08-26": {}
+  "2023-08-26": {
+    "Browsers": 8266,
+    "General Reference & Learning": 1241,
+    "Communications": 320,
+    "Intelligence": 124,
+    "Email": 85,
+    "Project Management": 26,
+    "File Sharing": 9,
+    "General Utilities": 3,
+    "Uncategorized": 2
+  }
 }

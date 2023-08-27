@@ -195,7 +195,7 @@
     "News & Opinion": 3
   },
   "25": {
-    "Utilities": 13348,
+    "Utilities": 13518,
     "Other Work": 2186,
     "Communication & Scheduling": 1584,
     "Business": 879,
@@ -203,7 +203,14 @@
     "Reference & Learning": 26,
     "Uncategorized": 1
   },
-  "26": {},
+  "26": {
+    "Utilities": 8278,
+    "Reference & Learning": 1241,
+    "Other Work": 320,
+    "Business": 150,
+    "Communication & Scheduling": 85,
+    "Uncategorized": 2
+  },
   "27": {},
   "28": {},
   "29": {},

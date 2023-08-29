@@ -306,7 +306,13 @@
     "Engineering & Drafting": 2,
     "General Utilities": 1
   },
-  "28": {},
+  "28": {
+    "Browsers": 15155,
+    "Project Management": 1961,
+    "Communications": 1878,
+    "Email": 439,
+    "Intelligence": 9
+  },
   "29": {},
   "30": {}
 }

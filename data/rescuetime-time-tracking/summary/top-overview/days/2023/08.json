@@ -233,5 +233,20 @@
     "Reference & Learning": 308,
     "Entertainment": 51
   },
-  "30": {}
+  "30": {
+    "Utilities": 15320,
+    "Communication & Scheduling": 4133,
+    "Other Work": 2155,
+    "Business": 1922,
+    "Entertainment": 54,
+    "Reference & Learning": 30,
+    "Uncategorized": 7,
+    "Design & Composition": 3
+  },
+  "31": {
+    "Utilities": 669,
+    "Communication & Scheduling": 129,
+    "Other Work": 86,
+    "Business": 30
+  }
 }

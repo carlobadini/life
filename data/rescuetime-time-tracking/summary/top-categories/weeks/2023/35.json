@@ -29,5 +29,25 @@
     "Intelligence": 10,
     "Engineering & Drafting": 10
   },
-  "2023-08-30": {}
+  "2023-08-30": {
+    "Browsers": 15068,
+    "Email": 3595,
+    "Communications": 2155,
+    "Project Management": 1906,
+    "Instant Message": 538,
+    "General Utilities": 252,
+    "General Entertainment": 54,
+    "General Reference & Learning": 30,
+    "Intelligence": 16,
+    "Uncategorized": 7,
+    "Writing": 3
+  },
+  "2023-08-31": {
+    "Browsers": 668,
+    "Instant Message": 94,
+    "Communications": 86,
+    "Email": 35,
+    "Project Management": 30,
+    "General Utilities": 1
+  }
 }

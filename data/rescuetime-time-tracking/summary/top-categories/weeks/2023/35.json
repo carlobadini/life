@@ -52,6 +52,16 @@
     "General Entertainment": 17,
     "General Utilities": 1
   },
-  "2023-09-1": {},
-  "2023-09-2": {}
+  "2023-09-1": {
+    "Browsers": 6824,
+    "Project Management": 1072,
+    "Communications": 695,
+    "Meetings": 549,
+    "Email": 264,
+    "Intelligence": 50,
+    "General Entertainment": 3
+  },
+  "2023-09-2": {
+    "Browsers": 1545
+  }
 }

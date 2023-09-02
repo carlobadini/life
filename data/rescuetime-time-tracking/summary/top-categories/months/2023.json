@@ -227,7 +227,15 @@
     "Voice Chat": 34,
     "General News & Opinion": 3
   },
-  "9": {},
+  "9": {
+    "Browsers": 8369,
+    "Project Management": 1072,
+    "Communications": 695,
+    "Meetings": 549,
+    "Email": 264,
+    "Intelligence": 50,
+    "General Entertainment": 3
+  },
   "10": {},
   "11": {},
   "12": {}

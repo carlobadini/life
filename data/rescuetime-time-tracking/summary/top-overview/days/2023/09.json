@@ -1,6 +1,14 @@
 {
-  "1": {},
-  "2": {},
+  "1": {
+    "Utilities": 6824,
+    "Business": 1122,
+    "Communication & Scheduling": 813,
+    "Other Work": 695,
+    "Entertainment": 3
+  },
+  "2": {
+    "Utilities": 1545
+  },
   "3": {},
   "4": {},
   "5": {},

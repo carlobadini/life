@@ -228,14 +228,17 @@
     "General News & Opinion": 3
   },
   "9": {
-    "Browsers": 15537,
-    "Project Management": 2254,
-    "Communications": 1038,
+    "Browsers": 20732,
+    "Project Management": 3462,
+    "Communications": 1167,
     "Meetings": 602,
-    "Email": 645,
-    "Intelligence": 53,
-    "General Entertainment": 10,
-    "Instant Message": 400
+    "Email": 985,
+    "Intelligence": 232,
+    "General Entertainment": 756,
+    "Instant Message": 877,
+    "General Utilities": 102,
+    "Writing": 67,
+    "General Reference & Learning": 1
   },
   "10": {},
   "11": {},

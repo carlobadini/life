@@ -18,7 +18,18 @@
     "General Entertainment": 7,
     "Intelligence": 3
   },
-  "3": {},
+  "3": {
+    "Browsers": 5195,
+    "Project Management": 1208,
+    "General Entertainment": 746,
+    "Instant Message": 477,
+    "Email": 340,
+    "Intelligence": 179,
+    "Communications": 129,
+    "General Utilities": 102,
+    "Writing": 67,
+    "General Reference & Learning": 1
+  },
   "4": {},
   "5": {},
   "6": {},

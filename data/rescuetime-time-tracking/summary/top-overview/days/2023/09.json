@@ -28,10 +28,13 @@
     "Business": 536,
     "Other Work": 347,
     "Entertainment": 323,
-    "Design & Composition": 1,
-    "Reference & Learning": 1
+    "Reference & Learning": 1,
+    "Design & Composition": 1
   },
-  "5": {},
+  "5": {
+    "Utilities": 2295,
+    "Business": 30
+  },
   "6": {},
   "7": {},
   "8": {},

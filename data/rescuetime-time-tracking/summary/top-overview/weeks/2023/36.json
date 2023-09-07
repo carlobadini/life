@@ -14,14 +14,23 @@
     "Business": 536,
     "Other Work": 347,
     "Entertainment": 323,
-    "Reference & Learning": 1,
-    "Design & Composition": 1
+    "Design & Composition": 1,
+    "Reference & Learning": 1
   },
   "2023-09-5": {
     "Utilities": 2295,
     "Business": 30
   },
-  "2023-09-6": {},
+  "2023-09-6": {
+    "Utilities": 27551,
+    "Other Work": 3082,
+    "Communication & Scheduling": 953,
+    "Business": 943,
+    "Entertainment": 351,
+    "Reference & Learning": 11,
+    "Uncategorized": 3,
+    "News & Opinion": 2
+  },
   "2023-09-7": {},
   "2023-09-8": {},
   "2023-09-9": {}

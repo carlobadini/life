@@ -38,15 +38,26 @@
     "General Entertainment": 323,
     "Instant Message": 59,
     "Intelligence": 58,
-    "Writing": 1,
-    "General Reference & Learning": 1
+    "General Reference & Learning": 1,
+    "Writing": 1
   },
   "5": {
     "Browsers": 2295,
     "Intelligence": 18,
     "Project Management": 12
   },
-  "6": {},
+  "6": {
+    "Browsers": 27167,
+    "Communications": 3082,
+    "Email": 953,
+    "Project Management": 904,
+    "General Utilities": 384,
+    "General Entertainment": 351,
+    "Intelligence": 39,
+    "General Reference & Learning": 11,
+    "Uncategorized": 3,
+    "General News & Opinion": 2
+  },
   "7": {},
   "8": {},
   "9": {},

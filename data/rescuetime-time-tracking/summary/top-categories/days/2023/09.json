@@ -38,8 +38,8 @@
     "General Entertainment": 323,
     "Instant Message": 59,
     "Intelligence": 58,
-    "General Reference & Learning": 1,
-    "Writing": 1
+    "Writing": 1,
+    "General Reference & Learning": 1
   },
   "5": {
     "Browsers": 2295,
@@ -47,10 +47,10 @@
     "Project Management": 12
   },
   "6": {
-    "Browsers": 27167,
-    "Communications": 3082,
+    "Browsers": 27231,
+    "Communications": 3154,
     "Email": 953,
-    "Project Management": 904,
+    "Project Management": 918,
     "General Utilities": 384,
     "General Entertainment": 351,
     "Intelligence": 39,
@@ -58,7 +58,17 @@
     "Uncategorized": 3,
     "General News & Opinion": 2
   },
-  "7": {},
+  "7": {
+    "Browsers": 5758,
+    "Meetings": 3754,
+    "Communications": 2336,
+    "Project Management": 1557,
+    "Email": 427,
+    "Instant Message": 220,
+    "Intelligence": 136,
+    "General Utilities": 66,
+    "General Entertainment": 1
+  },
   "8": {},
   "9": {},
   "10": {},

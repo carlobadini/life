@@ -46,14 +46,23 @@
     "News & Opinion": 2
   },
   "7": {
-    "Utilities": 5824,
+    "Utilities": 5979,
     "Communication & Scheduling": 4401,
     "Other Work": 2336,
     "Business": 1693,
     "Entertainment": 1
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Utilities": 10039,
+    "Business": 2095,
+    "Communication & Scheduling": 1886,
+    "Other Work": 844
+  },
+  "9": {
+    "Utilities": 144,
+    "Business": 144,
+    "Other Work": 82
+  },
   "10": {},
   "11": {},
   "12": {},

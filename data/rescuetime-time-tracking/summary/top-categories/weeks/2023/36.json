@@ -40,7 +40,7 @@
     "General News & Opinion": 2
   },
   "2023-09-7": {
-    "Browsers": 5758,
+    "Browsers": 5913,
     "Meetings": 3754,
     "Communications": 2336,
     "Project Management": 1557,
@@ -50,6 +50,18 @@
     "General Utilities": 66,
     "General Entertainment": 1
   },
-  "2023-09-8": {},
-  "2023-09-9": {}
+  "2023-09-8": {
+    "Browsers": 10025,
+    "Project Management": 2073,
+    "Meetings": 1362,
+    "Communications": 844,
+    "Email": 524,
+    "Intelligence": 22,
+    "General Utilities": 14
+  },
+  "2023-09-9": {
+    "Browsers": 144,
+    "Project Management": 144,
+    "Communications": 82
+  }
 }

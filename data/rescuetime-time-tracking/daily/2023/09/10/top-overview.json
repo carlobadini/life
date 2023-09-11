@@ -1,8 +1,26 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 629,
+    "Time Spent (seconds)": 1152,
     "Number of People": 1,
     "Category": "Utilities"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Category": "Other Work"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
   }
 ]

@@ -66,13 +66,24 @@
     "Uncategorized": 1
   },
   "10": {
-    "Utilities": 1152,
+    "Utilities": 1285,
     "Business": 106,
     "Other Work": 63,
     "Communication & Scheduling": 58
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Utilities": 10408,
+    "Business": 4321,
+    "Communication & Scheduling": 2372,
+    "Other Work": 1630,
+    "Entertainment": 204,
+    "Design & Composition": 102,
+    "Reference & Learning": 26,
+    "Uncategorized": 1
+  },
+  "12": {
+    "Other Work": 46
+  },
   "13": {},
   "14": {},
   "15": {},

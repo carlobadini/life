@@ -87,13 +87,27 @@
     "Uncategorized": 1
   },
   "10": {
-    "Browsers": 1152,
+    "Browsers": 1285,
     "Project Management": 106,
     "Communications": 63,
     "Email": 58
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Browsers": 10307,
+    "Project Management": 4315,
+    "Instant Message": 2159,
+    "Communications": 1630,
+    "Email": 213,
+    "General Entertainment": 204,
+    "Engineering & Drafting": 102,
+    "General Utilities": 101,
+    "General Reference & Learning": 26,
+    "Intelligence": 6,
+    "Uncategorized": 1
+  },
+  "12": {
+    "Communications": 46
+  },
   "13": {},
   "14": {},
   "15": {},

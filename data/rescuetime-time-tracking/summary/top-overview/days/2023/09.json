@@ -88,7 +88,13 @@
     "Communication & Scheduling": 132,
     "Entertainment": 79
   },
-  "13": {},
+  "13": {
+    "Utilities": 6997,
+    "Communication & Scheduling": 4674,
+    "Business": 3507,
+    "Other Work": 1559,
+    "Entertainment": 320
+  },
   "14": {},
   "15": {},
   "16": {},

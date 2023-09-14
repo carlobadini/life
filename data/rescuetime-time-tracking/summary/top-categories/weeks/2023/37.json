@@ -28,7 +28,15 @@
     "Instant Message": 3,
     "Voice Chat": 2
   },
-  "2023-09-13": {},
+  "2023-09-13": {
+    "Browsers": 6997,
+    "Email": 3675,
+    "Project Management": 3484,
+    "Communications": 1559,
+    "Instant Message": 999,
+    "General Entertainment": 320,
+    "Intelligence": 23
+  },
   "2023-09-14": {},
   "2023-09-15": {},
   "2023-09-16": {}

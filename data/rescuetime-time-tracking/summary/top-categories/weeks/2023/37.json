@@ -31,13 +31,25 @@
   "2023-09-13": {
     "Browsers": 6997,
     "Email": 3675,
-    "Project Management": 3484,
+    "Project Management": 3500,
     "Communications": 1559,
     "Instant Message": 999,
     "General Entertainment": 320,
     "Intelligence": 23
   },
-  "2023-09-14": {},
+  "2023-09-14": {
+    "Browsers": 21394,
+    "Project Management": 4902,
+    "Email": 1434,
+    "Communications": 856,
+    "Instant Message": 142,
+    "Intelligence": 80,
+    "Meetings": 34,
+    "General Utilities": 9,
+    "General Reference & Learning": 2,
+    "Uncategorized": 1,
+    "General Entertainment": 1
+  },
   "2023-09-15": {},
   "2023-09-16": {}
 }

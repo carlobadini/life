@@ -153,7 +153,7 @@
   "16": {},
   "17": {},
   "18": {
-    "Browsers": 17134,
+    "Browsers": 17526,
     "Project Management": 5363,
     "Email": 1363,
     "Instant Message": 1177,
@@ -164,8 +164,21 @@
     "General Reference & Learning": 10,
     "Uncategorized": 1
   },
-  "19": {},
-  "20": {},
+  "19": {
+    "Browsers": 10917,
+    "Email": 1890,
+    "Project Management": 792,
+    "Communications": 692,
+    "Instant Message": 413,
+    "General Reference & Learning": 156,
+    "General Entertainment": 117,
+    "Intelligence": 49,
+    "Meetings": 12,
+    "General Utilities": 8
+  },
+  "20": {
+    "Browsers": 559
+  },
   "21": {},
   "22": {},
   "23": {},

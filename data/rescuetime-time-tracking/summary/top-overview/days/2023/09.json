@@ -116,7 +116,7 @@
   "16": {},
   "17": {},
   "18": {
-    "Utilities": 17329,
+    "Utilities": 17721,
     "Business": 5376,
     "Communication & Scheduling": 2540,
     "Other Work": 894,
@@ -124,8 +124,17 @@
     "Reference & Learning": 10,
     "Uncategorized": 1
   },
-  "19": {},
-  "20": {},
+  "19": {
+    "Utilities": 10925,
+    "Communication & Scheduling": 2315,
+    "Business": 841,
+    "Other Work": 692,
+    "Reference & Learning": 156,
+    "Entertainment": 117
+  },
+  "20": {
+    "Utilities": 559
+  },
   "21": {},
   "22": {},
   "23": {},

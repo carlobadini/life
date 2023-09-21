@@ -1,8 +1,32 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 559,
+    "Time Spent (seconds)": 3107,
     "Number of People": 1,
     "Category": "Utilities"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2966,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 419,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Category": "Other Work"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Entertainment"
   }
 ]

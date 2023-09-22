@@ -33,7 +33,16 @@
     "Communications": 56,
     "General Entertainment": 4
   },
-  "2023-09-21": {},
+  "2023-09-21": {
+    "Browsers": 1803,
+    "General Business": 1017,
+    "Project Management": 291,
+    "General Utilities": 229,
+    "Communications": 172,
+    "General Reference & Learning": 117,
+    "Intelligence": 3,
+    "General Entertainment": 1
+  },
   "2023-09-22": {},
   "2023-09-23": {}
 }

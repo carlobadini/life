@@ -156,7 +156,12 @@
     "Communication & Scheduling": 21,
     "Entertainment": 2
   },
-  "23": {},
+  "23": {
+    "Communication & Scheduling": 210,
+    "Utilities": 49,
+    "Business": 49,
+    "Uncategorized": 34
+  },
   "24": {},
   "25": {},
   "26": {},

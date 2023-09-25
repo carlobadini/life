@@ -207,14 +207,17 @@
     "General Entertainment": 2
   },
   "23": {
-    "Email": 210,
-    "Browsers": 46,
-    "Uncategorized": 34,
+    "Email": 628,
+    "Browsers": 75,
+    "Uncategorized": 42,
     "Project Management": 26,
     "Intelligence": 23,
     "General Utilities": 3
   },
-  "24": {},
+  "24": {
+    "Browsers": 22,
+    "General Entertainment": 14
+  },
   "25": {},
   "26": {},
   "27": {},

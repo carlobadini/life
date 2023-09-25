@@ -157,12 +157,15 @@
     "Entertainment": 2
   },
   "23": {
-    "Communication & Scheduling": 210,
-    "Utilities": 49,
+    "Communication & Scheduling": 628,
+    "Utilities": 78,
     "Business": 49,
-    "Uncategorized": 34
+    "Uncategorized": 42
   },
-  "24": {},
+  "24": {
+    "Utilities": 22,
+    "Entertainment": 14
+  },
   "25": {},
   "26": {},
   "27": {},

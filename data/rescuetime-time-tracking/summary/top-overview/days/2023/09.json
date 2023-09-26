@@ -166,7 +166,11 @@
     "Utilities": 22,
     "Entertainment": 14
   },
-  "25": {},
+  "25": {
+    "Entertainment": 88,
+    "Business": 81,
+    "Utilities": 17
+  },
   "26": {},
   "27": {},
   "28": {},

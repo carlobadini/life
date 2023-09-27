@@ -4,11 +4,20 @@
     "Entertainment": 14
   },
   "2023-09-25": {
+    "Utilities": 273,
     "Entertainment": 88,
-    "Business": 81,
-    "Utilities": 17
+    "Business": 81
   },
-  "2023-09-26": {},
+  "2023-09-26": {
+    "Communication & Scheduling": 11057,
+    "Utilities": 5542,
+    "Business": 2453,
+    "Other Work": 2008,
+    "Reference & Learning": 37,
+    "Entertainment": 6,
+    "Design & Composition": 6,
+    "Uncategorized": 2
+  },
   "2023-09-27": {},
   "2023-09-28": {},
   "2023-09-29": {}

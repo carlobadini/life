@@ -1,20 +1,20 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 273,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 88,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
-    "Rank": 2,
+    "Rank": 3,
     "Time Spent (seconds)": 81,
     "Number of People": 1,
     "Category": "Business"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
-    "Category": "Utilities"
   }
 ]

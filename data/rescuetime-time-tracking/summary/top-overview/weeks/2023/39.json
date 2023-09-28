@@ -10,7 +10,7 @@
   },
   "2023-09-26": {
     "Communication & Scheduling": 11057,
-    "Utilities": 5542,
+    "Utilities": 5615,
     "Business": 2453,
     "Other Work": 2008,
     "Reference & Learning": 37,
@@ -18,7 +18,13 @@
     "Design & Composition": 6,
     "Uncategorized": 2
   },
-  "2023-09-27": {},
+  "2023-09-27": {
+    "Utilities": 7316,
+    "Communication & Scheduling": 3499,
+    "Other Work": 925,
+    "Business": 163,
+    "Uncategorized": 1
+  },
   "2023-09-28": {},
   "2023-09-29": {}
 }

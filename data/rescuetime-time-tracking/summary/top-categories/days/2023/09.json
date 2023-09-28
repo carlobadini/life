@@ -225,21 +225,30 @@
     "Intelligence": 33
   },
   "26": {
+    "Browsers": 5612,
     "Email": 5600,
-    "Browsers": 5539,
     "Meetings": 4744,
     "Project Management": 2245,
     "Communications": 2008,
     "Instant Message": 713,
     "Intelligence": 202,
     "General Reference & Learning": 37,
+    "General Business": 6,
     "General Entertainment": 6,
     "Writing": 6,
-    "General Business": 6,
     "General Utilities": 3,
     "Uncategorized": 2
   },
-  "27": {},
+  "27": {
+    "Browsers": 7315,
+    "Meetings": 2117,
+    "Email": 1248,
+    "Communications": 925,
+    "Project Management": 163,
+    "Instant Message": 134,
+    "Uncategorized": 1,
+    "General Utilities": 1
+  },
   "28": {},
   "29": {}
 }

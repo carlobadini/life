@@ -47,13 +47,23 @@
     "Uncategorized": 1
   },
   "2023-09-29": {
-    "Browsers": 10965,
-    "Email": 1815,
-    "Communications": 1488,
-    "Project Management": 500,
+    "Browsers": 13424,
+    "Communications": 2061,
+    "Email": 1891,
+    "Project Management": 556,
     "Instant Message": 191,
     "General Entertainment": 134,
+    "General Reference & Learning": 50,
     "Intelligence": 10,
-    "Uncategorized": 1
+    "Uncategorized": 2,
+    "General Utilities": 1
+  },
+  "2023-09-30": {
+    "Browsers": 3113,
+    "Project Management": 240,
+    "Communications": 220,
+    "Email": 48,
+    "Intelligence": 3,
+    "General Utilities": 2
   }
 }

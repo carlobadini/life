@@ -111,7 +111,12 @@
     "Uncategorized": 404,
     "News & Opinion": 2
   },
-  "10": {},
+  "10": {
+    "Utilities": 2125,
+    "Other Work": 187,
+    "Business": 20,
+    "Entertainment": 4
+  },
   "11": {},
   "12": {}
 }

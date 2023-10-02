@@ -245,7 +245,12 @@
     "Voice Chat": 2,
     "General Business": 1023
   },
-  "10": {},
+  "10": {
+    "Browsers": 2125,
+    "Communications": 187,
+    "Intelligence": 20,
+    "General Entertainment": 4
+  },
   "11": {},
   "12": {}
 }

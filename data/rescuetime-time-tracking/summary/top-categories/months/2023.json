@@ -246,12 +246,14 @@
     "General Business": 1023
   },
   "10": {
-    "Browsers": 5122,
-    "Communications": 867,
-    "Intelligence": 23,
+    "Browsers": 29176,
+    "Communications": 2077,
+    "Intelligence": 173,
     "General Entertainment": 10,
-    "Email": 309,
-    "Project Management": 16
+    "Email": 1794,
+    "General Utilities": 132,
+    "Project Management": 811,
+    "Uncategorized": 42
   },
   "11": {},
   "12": {}

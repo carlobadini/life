@@ -246,14 +246,17 @@
     "General Business": 1023
   },
   "10": {
-    "Browsers": 29176,
-    "Communications": 2077,
-    "Intelligence": 173,
+    "Browsers": 36952,
+    "Communications": 3790,
+    "Intelligence": 1187,
     "General Entertainment": 10,
-    "Email": 1794,
-    "General Utilities": 132,
-    "Project Management": 811,
-    "Uncategorized": 42
+    "Email": 2709,
+    "General Utilities": 313,
+    "Project Management": 2436,
+    "Instant Message": 913,
+    "Uncategorized": 46,
+    "General Reference & Learning": 8,
+    "Meetings": 2751
   },
   "11": {},
   "12": {}

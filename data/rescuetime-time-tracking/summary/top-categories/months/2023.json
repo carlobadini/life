@@ -246,17 +246,20 @@
     "General Business": 1023
   },
   "10": {
-    "Browsers": 36952,
-    "Communications": 3790,
-    "Intelligence": 1187,
-    "General Entertainment": 10,
-    "Email": 2709,
-    "General Utilities": 313,
-    "Project Management": 2436,
-    "Instant Message": 913,
-    "Uncategorized": 46,
-    "General Reference & Learning": 8,
-    "Meetings": 2751
+    "Browsers": 49363,
+    "Communications": 5807,
+    "Intelligence": 1629,
+    "General Entertainment": 117,
+    "Email": 5031,
+    "General Utilities": 334,
+    "Project Management": 3236,
+    "Instant Message": 1100,
+    "Uncategorized": 70,
+    "General Reference & Learning": 26,
+    "Meetings": 2751,
+    "Writing": 686,
+    "General Business": 15,
+    "General News & Opinion": 3
   },
   "11": {},
   "12": {}

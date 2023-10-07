@@ -37,20 +37,31 @@
     "Uncategorized": 4
   },
   "2023-10-5": {
-    "Browsers": 11461,
+    "Browsers": 19194,
     "Email": 2167,
-    "Communications": 1877,
+    "Communications": 1881,
+    "Project Management": 729,
     "Writing": 686,
-    "Project Management": 544,
-    "Intelligence": 237,
+    "General Utilities": 267,
+    "Intelligence": 264,
     "Instant Message": 187,
     "General Entertainment": 107,
-    "Uncategorized": 24,
-    "General Utilities": 21,
+    "Uncategorized": 25,
     "General Reference & Learning": 18,
     "General Business": 15,
     "General News & Opinion": 3
   },
-  "2023-10-6": {},
+  "2023-10-6": {
+    "Browsers": 15158,
+    "Meetings": 985,
+    "Communications": 848,
+    "General Utilities": 256,
+    "Email": 163,
+    "Project Management": 107,
+    "Writing": 75,
+    "Intelligence": 16,
+    "General Entertainment": 14,
+    "Engineering & Drafting": 2
+  },
   "2023-10-7": {}
 }

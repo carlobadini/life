@@ -63,8 +63,22 @@
     "General Entertainment": 19,
     "Engineering & Drafting": 2
   },
-  "7": {},
-  "8": {},
+  "7": {
+    "Browsers": 7017,
+    "Intelligence": 57,
+    "Communications": 1
+  },
+  "8": {
+    "Browsers": 7597,
+    "Instant Message": 1328,
+    "General Entertainment": 419,
+    "Project Management": 301,
+    "Intelligence": 200,
+    "Email": 34,
+    "Communications": 15,
+    "Writing": 6,
+    "Uncategorized": 1
+  },
   "9": {},
   "10": {},
   "11": {},

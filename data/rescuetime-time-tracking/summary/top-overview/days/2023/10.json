@@ -46,8 +46,20 @@
     "Design & Composition": 77,
     "Entertainment": 19
   },
-  "7": {},
-  "8": {},
+  "7": {
+    "Utilities": 7017,
+    "Business": 57,
+    "Other Work": 1
+  },
+  "8": {
+    "Utilities": 7597,
+    "Communication & Scheduling": 1362,
+    "Business": 501,
+    "Entertainment": 419,
+    "Other Work": 15,
+    "Design & Composition": 6,
+    "Uncategorized": 1
+  },
   "9": {},
   "10": {},
   "11": {},

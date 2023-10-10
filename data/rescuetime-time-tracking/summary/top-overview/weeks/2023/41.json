@@ -1,14 +1,21 @@
 {
   "2023-10-8": {
-    "Utilities": 7597,
-    "Communication & Scheduling": 1362,
-    "Business": 501,
+    "Utilities": 7764,
+    "Communication & Scheduling": 1875,
+    "Business": 511,
     "Entertainment": 419,
     "Other Work": 15,
     "Design & Composition": 6,
     "Uncategorized": 1
   },
-  "2023-10-9": {},
+  "2023-10-9": {
+    "Utilities": 3364,
+    "Communication & Scheduling": 841,
+    "Other Work": 662,
+    "Design & Composition": 18,
+    "Business": 13,
+    "Entertainment": 1
+  },
   "2023-10-10": {},
   "2023-10-11": {},
   "2023-10-12": {},

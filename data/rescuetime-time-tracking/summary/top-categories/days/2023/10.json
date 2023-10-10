@@ -69,17 +69,26 @@
     "Communications": 1
   },
   "8": {
-    "Browsers": 7597,
-    "Instant Message": 1328,
+    "Browsers": 7764,
+    "Instant Message": 1841,
     "General Entertainment": 419,
     "Project Management": 301,
-    "Intelligence": 200,
+    "Intelligence": 210,
     "Email": 34,
     "Communications": 15,
     "Writing": 6,
     "Uncategorized": 1
   },
-  "9": {},
+  "9": {
+    "Browsers": 3361,
+    "Email": 841,
+    "Communications": 662,
+    "Writing": 18,
+    "Intelligence": 8,
+    "Project Management": 5,
+    "General Utilities": 3,
+    "General Entertainment": 1
+  },
   "10": {},
   "11": {},
   "12": {},

@@ -61,14 +61,21 @@
     "Uncategorized": 1
   },
   "9": {
-    "Utilities": 3364,
-    "Communication & Scheduling": 841,
-    "Other Work": 662,
-    "Design & Composition": 18,
+    "Utilities": 4294,
+    "Communication & Scheduling": 2075,
+    "Other Work": 771,
+    "Design & Composition": 21,
     "Business": 13,
     "Entertainment": 1
   },
-  "10": {},
+  "10": {
+    "Utilities": 8407,
+    "Other Work": 886,
+    "Business": 615,
+    "Communication & Scheduling": 520,
+    "Design & Composition": 119,
+    "Entertainment": 63
+  },
   "11": {},
   "12": {},
   "13": {},

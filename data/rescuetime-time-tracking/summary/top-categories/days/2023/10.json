@@ -80,16 +80,28 @@
     "Uncategorized": 1
   },
   "9": {
-    "Browsers": 3361,
-    "Email": 841,
-    "Communications": 662,
+    "Browsers": 4291,
+    "Email": 2020,
+    "Communications": 771,
+    "Instant Message": 55,
     "Writing": 18,
     "Intelligence": 8,
     "Project Management": 5,
+    "Engineering & Drafting": 3,
     "General Utilities": 3,
     "General Entertainment": 1
   },
-  "10": {},
+  "10": {
+    "Browsers": 8401,
+    "Communications": 886,
+    "Project Management": 613,
+    "Instant Message": 331,
+    "Email": 189,
+    "Writing": 119,
+    "General Entertainment": 63,
+    "General Utilities": 6,
+    "Intelligence": 2
+  },
   "11": {},
   "12": {},
   "13": {},

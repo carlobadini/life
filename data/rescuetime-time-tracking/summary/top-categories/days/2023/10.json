@@ -87,8 +87,8 @@
     "Writing": 18,
     "Intelligence": 8,
     "Project Management": 5,
-    "Engineering & Drafting": 3,
     "General Utilities": 3,
+    "Engineering & Drafting": 3,
     "General Entertainment": 1
   },
   "10": {
@@ -104,19 +104,26 @@
     "Uncategorized": 1
   },
   "11": {
-    "Browsers": 9176,
-    "Email": 2492,
-    "Communications": 1645,
-    "Project Management": 682,
+    "Browsers": 15299,
+    "Email": 2525,
+    "Communications": 1870,
+    "Project Management": 743,
+    "General Entertainment": 495,
     "Instant Message": 418,
-    "General Entertainment": 237,
     "General Utilities": 160,
+    "Intelligence": 96,
+    "Writing": 74,
     "Meetings": 43,
-    "Writing": 34,
-    "Intelligence": 15,
     "Uncategorized": 5
   },
-  "12": {},
+  "12": {
+    "Browsers": 1478,
+    "Project Management": 298,
+    "Communications": 240,
+    "General Entertainment": 39,
+    "Email": 32,
+    "Intelligence": 4
+  },
   "13": {},
   "14": {},
   "15": {},

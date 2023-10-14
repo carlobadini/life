@@ -48,13 +48,19 @@
     "Uncategorized": 5
   },
   "2023-10-12": {
-    "Browsers": 1478,
-    "Project Management": 298,
-    "Communications": 240,
+    "Browsers": 2966,
+    "Project Management": 1115,
+    "Communications": 243,
     "General Entertainment": 39,
     "Email": 32,
-    "Intelligence": 4
+    "Intelligence": 13
   },
-  "2023-10-13": {},
+  "2023-10-13": {
+    "Browsers": 2861,
+    "Writing": 39,
+    "Intelligence": 8,
+    "Project Management": 5,
+    "Video": 1
+  },
   "2023-10-14": {}
 }

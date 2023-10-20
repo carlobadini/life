@@ -16,16 +16,24 @@
     "Design & Composition": 928
   },
   "2023-10-18": {
-    "Utilities": 10199,
-    "Communication & Scheduling": 4945,
-    "Design & Composition": 3005,
-    "Other Work": 1049,
-    "Business": 368,
+    "Utilities": 17992,
+    "Communication & Scheduling": 9133,
+    "Design & Composition": 3130,
+    "Other Work": 1283,
+    "Business": 413,
     "Entertainment": 22,
-    "News & Opinion": 4,
-    "Uncategorized": 4
+    "Uncategorized": 12,
+    "News & Opinion": 4
   },
-  "2023-10-19": {},
+  "2023-10-19": {
+    "Utilities": 14366,
+    "Other Work": 4464,
+    "Business": 782,
+    "Design & Composition": 645,
+    "Communication & Scheduling": 53,
+    "Entertainment": 42,
+    "Uncategorized": 1
+  },
   "2023-10-20": {},
   "2023-10-21": {}
 }

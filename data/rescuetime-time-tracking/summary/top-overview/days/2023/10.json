@@ -130,15 +130,23 @@
     "News & Opinion": 4
   },
   "19": {
-    "Utilities": 14366,
-    "Other Work": 4464,
-    "Business": 782,
-    "Design & Composition": 645,
-    "Communication & Scheduling": 53,
-    "Entertainment": 42,
-    "Uncategorized": 1
+    "Utilities": 21682,
+    "Other Work": 4771,
+    "Communication & Scheduling": 1418,
+    "Business": 1332,
+    "Design & Composition": 849,
+    "Entertainment": 43,
+    "Uncategorized": 2
   },
-  "20": {},
+  "20": {
+    "Utilities": 13492,
+    "Communication & Scheduling": 4314,
+    "Design & Composition": 1365,
+    "Other Work": 615,
+    "Business": 93,
+    "Entertainment": 44,
+    "Uncategorized": 4
+  },
   "21": {},
   "22": {},
   "23": {},

@@ -15,20 +15,33 @@
     "Uncategorized": 2
   },
   "2023-10-24": {
-    "Browsers": 13248,
-    "Instant Message": 2238,
-    "Communications": 2044,
+    "Browsers": 20842,
+    "Instant Message": 4053,
+    "Communications": 2339,
     "Meetings": 1675,
-    "Email": 1516,
-    "Project Management": 316,
-    "General Utilities": 242,
-    "Intelligence": 185,
-    "Writing": 171,
+    "Email": 1528,
+    "Project Management": 755,
+    "General Entertainment": 301,
+    "General Utilities": 244,
+    "Writing": 233,
+    "Intelligence": 191,
     "General Reference & Learning": 4,
     "Internet Utilities": 3,
-    "Uncategorized": 1
+    "Uncategorized": 2
   },
-  "2023-10-25": {},
+  "2023-10-25": {
+    "Browsers": 10598,
+    "Instant Message": 2532,
+    "Communications": 2068,
+    "Email": 1153,
+    "Meetings": 870,
+    "Writing": 449,
+    "Project Management": 185,
+    "General Reference & Learning": 65,
+    "General Utilities": 23,
+    "Intelligence": 4,
+    "Uncategorized": 2
+  },
   "2023-10-26": {},
   "2023-10-27": {},
   "2023-10-28": {}

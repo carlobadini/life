@@ -11,8 +11,8 @@
     "General Utilities": 565,
     "Intelligence": 319,
     "General Entertainment": 71,
-    "General Business": 2,
-    "Uncategorized": 2
+    "Uncategorized": 2,
+    "General Business": 2
   },
   "2023-10-24": {
     "Browsers": 20842,
@@ -30,19 +30,31 @@
     "Uncategorized": 2
   },
   "2023-10-25": {
-    "Browsers": 10598,
-    "Instant Message": 2532,
-    "Communications": 2068,
-    "Email": 1153,
+    "Browsers": 10742,
+    "Instant Message": 2535,
+    "Communications": 2079,
+    "Email": 1157,
     "Meetings": 870,
     "Writing": 449,
-    "Project Management": 185,
+    "Project Management": 191,
     "General Reference & Learning": 65,
     "General Utilities": 23,
     "Intelligence": 4,
     "Uncategorized": 2
   },
-  "2023-10-26": {},
+  "2023-10-26": {
+    "Browsers": 9246,
+    "Writing": 1464,
+    "Instant Message": 1055,
+    "Communications": 860,
+    "Uncategorized": 798,
+    "Meetings": 733,
+    "General Entertainment": 305,
+    "Intelligence": 107,
+    "Email": 99,
+    "General Utilities": 79,
+    "Project Management": 46
+  },
   "2023-10-27": {},
   "2023-10-28": {}
 }

@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9325,
+    "Time Spent (seconds)": 10700,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1887,
+    "Time Spent (seconds)": 2023,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 860,
+    "Time Spent (seconds)": 885,
     "Number of People": 1,
     "Category": "Other Work"
   },
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 153,
+    "Time Spent (seconds)": 176,
     "Number of People": 1,
     "Category": "Business"
   }

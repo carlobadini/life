@@ -29,14 +29,20 @@
     "Uncategorized": 2
   },
   "2023-10-26": {
-    "Utilities": 9325,
-    "Communication & Scheduling": 1887,
+    "Utilities": 10700,
+    "Communication & Scheduling": 2023,
     "Design & Composition": 1464,
-    "Other Work": 860,
+    "Other Work": 885,
     "Uncategorized": 798,
     "Entertainment": 305,
-    "Business": 153
+    "Business": 176
   },
-  "2023-10-27": {},
+  "2023-10-27": {
+    "Communication & Scheduling": 3314,
+    "Utilities": 1266,
+    "Business": 184,
+    "Other Work": 173,
+    "Design & Composition": 16
+  },
   "2023-10-28": {}
 }

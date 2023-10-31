@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1769,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 185,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  }
+]

@@ -112,7 +112,7 @@
     "News & Opinion": 2
   },
   "10": {
-    "Utilities": 318068,
+    "Utilities": 318272,
     "Other Work": 29977,
     "Business": 18010,
     "Entertainment": 2607,
@@ -122,6 +122,16 @@
     "Design & Composition": 12335,
     "News & Opinion": 7
   },
-  "11": {},
+  "11": {
+    "Utilities": 13582,
+    "Communication & Scheduling": 6535,
+    "Design & Composition": 2534,
+    "Other Work": 1340,
+    "Business": 1312,
+    "Entertainment": 36,
+    "Reference & Learning": 7,
+    "Shopping": 6,
+    "Uncategorized": 2
+  },
   "12": {}
 }

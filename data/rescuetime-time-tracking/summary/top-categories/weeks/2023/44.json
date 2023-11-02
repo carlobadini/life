@@ -20,7 +20,7 @@
     "General Reference & Learning": 25
   },
   "2023-10-31": {
-    "Browsers": 21198,
+    "Browsers": 21402,
     "Meetings": 2253,
     "Project Management": 1100,
     "Communications": 1005,
@@ -31,7 +31,21 @@
     "Email": 62,
     "Intelligence": 46
   },
-  "2023-11-1": {},
+  "2023-11-1": {
+    "Browsers": 13183,
+    "Meetings": 2850,
+    "Email": 2808,
+    "Writing": 2534,
+    "Communications": 1340,
+    "Project Management": 897,
+    "Instant Message": 877,
+    "Intelligence": 415,
+    "General Utilities": 399,
+    "General Entertainment": 36,
+    "General Reference & Learning": 7,
+    "General Shopping": 6,
+    "Uncategorized": 2
+  },
   "2023-11-2": {},
   "2023-11-3": {},
   "2023-11-4": {}

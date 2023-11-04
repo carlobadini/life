@@ -60,6 +60,23 @@
     "General Reference & Learning": 46,
     "General Entertainment": 43
   },
-  "2023-11-3": {},
-  "2023-11-4": {}
+  "2023-11-3": {
+    "Browsers": 14850,
+    "Email": 2002,
+    "Meetings": 1938,
+    "Instant Message": 1456,
+    "General Entertainment": 1329,
+    "Communications": 1103,
+    "Writing": 422,
+    "Project Management": 145,
+    "Uncategorized": 95,
+    "Intelligence": 51,
+    "Engineering & Drafting": 36,
+    "General Reference & Learning": 1
+  },
+  "2023-11-4": {
+    "Browsers": 1187,
+    "Uncategorized": 599,
+    "Intelligence": 3
+  }
 }

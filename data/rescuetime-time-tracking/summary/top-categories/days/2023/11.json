@@ -49,7 +49,16 @@
     "Intelligence": 4
   },
   "5": {
-    "Browsers": 500
+    "Browsers": 10634,
+    "Communications": 320,
+    "Project Management": 228,
+    "General Entertainment": 206,
+    "Uncategorized": 79,
+    "General Reference & Learning": 67,
+    "Writing": 26,
+    "General Utilities": 26,
+    "Intelligence": 24,
+    "Instant Message": 16
   },
   "6": {},
   "7": {},

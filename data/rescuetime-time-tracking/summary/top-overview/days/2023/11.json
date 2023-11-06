@@ -37,7 +37,14 @@
     "Business": 4
   },
   "5": {
-    "Utilities": 500
+    "Utilities": 10660,
+    "Other Work": 320,
+    "Business": 252,
+    "Entertainment": 206,
+    "Uncategorized": 79,
+    "Reference & Learning": 67,
+    "Design & Composition": 26,
+    "Communication & Scheduling": 16
   },
   "6": {},
   "7": {},

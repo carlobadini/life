@@ -46,8 +46,24 @@
     "Design & Composition": 26,
     "Communication & Scheduling": 16
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "Utilities": 9935,
+    "Communication & Scheduling": 7534,
+    "Business": 2043,
+    "Other Work": 1459,
+    "Design & Composition": 1059,
+    "Reference & Learning": 223,
+    "Entertainment": 132,
+    "Uncategorized": 6
+  },
+  "7": {
+    "Utilities": 1000,
+    "Business": 258,
+    "Other Work": 132,
+    "Communication & Scheduling": 81,
+    "Design & Composition": 6,
+    "Entertainment": 2
+  },
   "8": {},
   "9": {},
   "10": {},

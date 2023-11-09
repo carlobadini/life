@@ -29,8 +29,22 @@
     "Uncategorized": 11,
     "Entertainment": 3
   },
-  "2023-11-8": {},
-  "2023-11-9": {},
+  "2023-11-8": {
+    "Utilities": 15675,
+    "Communication & Scheduling": 8235,
+    "Design & Composition": 3013,
+    "Other Work": 2307,
+    "Business": 1614,
+    "Entertainment": 196,
+    "Uncategorized": 57,
+    "Reference & Learning": 24
+  },
+  "2023-11-9": {
+    "Utilities": 226,
+    "Other Work": 88,
+    "Business": 21,
+    "Uncategorized": 1
+  },
   "2023-11-10": {},
   "2023-11-11": {}
 }

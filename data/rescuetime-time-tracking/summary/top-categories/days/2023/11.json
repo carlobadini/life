@@ -55,8 +55,8 @@
     "General Entertainment": 206,
     "Uncategorized": 79,
     "General Reference & Learning": 67,
-    "General Utilities": 26,
     "Writing": 26,
+    "General Utilities": 26,
     "Intelligence": 24,
     "Instant Message": 16
   },
@@ -89,8 +89,26 @@
     "Uncategorized": 11,
     "General Entertainment": 3
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Browsers": 15653,
+    "Writing": 3013,
+    "Instant Message": 3000,
+    "Meetings": 2973,
+    "Communications": 2307,
+    "Email": 2262,
+    "Project Management": 1424,
+    "General Entertainment": 196,
+    "Intelligence": 190,
+    "Uncategorized": 57,
+    "General Reference & Learning": 24,
+    "General Utilities": 22
+  },
+  "9": {
+    "Browsers": 226,
+    "Communications": 88,
+    "Project Management": 21,
+    "Uncategorized": 1
+  },
   "10": {},
   "11": {},
   "12": {},

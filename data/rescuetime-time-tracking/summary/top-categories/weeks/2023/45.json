@@ -55,11 +55,25 @@
     "General Utilities": 22
   },
   "2023-11-9": {
-    "Browsers": 226,
-    "Communications": 88,
-    "Project Management": 21,
-    "Uncategorized": 1
+    "Browsers": 12059,
+    "Meetings": 3631,
+    "Writing": 1631,
+    "Project Management": 1095,
+    "Email": 841,
+    "Communications": 473,
+    "Uncategorized": 21,
+    "General Entertainment": 20,
+    "General Utilities": 6,
+    "Intelligence": 4,
+    "General News & Opinion": 4
   },
-  "2023-11-10": {},
+  "2023-11-10": {
+    "Meetings": 261,
+    "Project Management": 217,
+    "Communications": 63,
+    "Email": 52,
+    "Browsers": 30,
+    "Writing": 4
+  },
   "2023-11-11": {}
 }

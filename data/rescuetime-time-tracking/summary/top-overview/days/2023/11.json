@@ -87,13 +87,19 @@
     "News & Opinion": 4
   },
   "10": {
-    "Communication & Scheduling": 313,
-    "Business": 217,
-    "Other Work": 63,
-    "Utilities": 30,
-    "Design & Composition": 4
+    "Utilities": 12796,
+    "Communication & Scheduling": 2395,
+    "Business": 1039,
+    "Other Work": 510,
+    "Design & Composition": 407,
+    "Entertainment": 333,
+    "Reference & Learning": 15,
+    "Uncategorized": 1
   },
-  "11": {},
+  "11": {
+    "Utilities": 196,
+    "Business": 1
+  },
   "12": {},
   "13": {},
   "14": {},

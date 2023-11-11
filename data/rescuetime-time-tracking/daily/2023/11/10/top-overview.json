@@ -1,32 +1,50 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 313,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 217,
-    "Number of People": 1,
-    "Category": "Business"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 63,
-    "Number of People": 1,
-    "Category": "Other Work"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 30,
+    "Time Spent (seconds)": 12796,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 2395,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1039,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 510,
+    "Number of People": 1,
+    "Category": "Other Work"
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 407,
     "Number of People": 1,
     "Category": "Design & Composition"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 333,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Uncategorized"
   }
 ]

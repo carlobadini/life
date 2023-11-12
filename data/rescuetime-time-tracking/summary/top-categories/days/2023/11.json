@@ -131,10 +131,15 @@
     "Uncategorized": 1
   },
   "11": {
-    "Browsers": 196,
+    "Browsers": 6288,
+    "Uncategorized": 332,
+    "Writing": 71,
     "Intelligence": 1
   },
-  "12": {},
+  "12": {
+    "Intelligence": 444,
+    "Uncategorized": 364
+  },
   "13": {},
   "14": {},
   "15": {},

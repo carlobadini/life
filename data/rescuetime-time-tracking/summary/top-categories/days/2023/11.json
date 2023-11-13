@@ -113,8 +113,8 @@
     "Uncategorized": 21,
     "General Entertainment": 20,
     "General Utilities": 6,
-    "Intelligence": 4,
-    "General News & Opinion": 4
+    "General News & Opinion": 4,
+    "Intelligence": 4
   },
   "10": {
     "Browsers": 12755,
@@ -137,8 +137,14 @@
     "Intelligence": 1
   },
   "12": {
-    "Intelligence": 444,
-    "Uncategorized": 364
+    "Browsers": 11292,
+    "Intelligence": 632,
+    "Uncategorized": 415,
+    "General Entertainment": 409,
+    "Communications": 187,
+    "Project Management": 55,
+    "Writing": 12,
+    "General Utilities": 7
   },
   "13": {},
   "14": {},

@@ -10,9 +10,9 @@
     "General Utilities": 7
   },
   "2023-11-13": {
-    "Browsers": 17671,
+    "Browsers": 17755,
     "Writing": 2348,
-    "Email": 2150,
+    "Email": 2157,
     "Meetings": 2048,
     "Instant Message": 1568,
     "Communications": 1243,
@@ -22,8 +22,22 @@
     "Uncategorized": 110,
     "General Entertainment": 75
   },
-  "2023-11-14": {},
-  "2023-11-15": {},
+  "2023-11-14": {
+    "Browsers": 18282,
+    "Email": 5516,
+    "Communications": 2905,
+    "Project Management": 1140,
+    "Meetings": 813,
+    "Writing": 468,
+    "General Utilities": 184,
+    "Uncategorized": 135,
+    "Intelligence": 74,
+    "General Reference & Learning": 6,
+    "Instant Message": 5
+  },
+  "2023-11-15": {
+    "Browsers": 6
+  },
   "2023-11-16": {},
   "2023-11-17": {},
   "2023-11-18": {}

@@ -36,9 +36,23 @@
     "Instant Message": 5
   },
   "2023-11-15": {
-    "Browsers": 6
+    "Browsers": 6279,
+    "Meetings": 3324,
+    "Writing": 2144,
+    "Email": 763,
+    "Communications": 571,
+    "Project Management": 311,
+    "General Entertainment": 24,
+    "Intelligence": 22,
+    "General Reference & Learning": 1
   },
-  "2023-11-16": {},
+  "2023-11-16": {
+    "Browsers": 1713,
+    "Project Management": 174,
+    "Communications": 94,
+    "Email": 68,
+    "Instant Message": 67
+  },
   "2023-11-17": {},
   "2023-11-18": {}
 }

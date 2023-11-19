@@ -61,7 +61,7 @@
     "Uncategorized": 8
   },
   "2023-11-17": {
-    "Browsers": 13622,
+    "Browsers": 14027,
     "Email": 4514,
     "General Utilities": 1471,
     "Communications": 1405,
@@ -74,5 +74,18 @@
     "General Entertainment": 5,
     "General Reference & Learning": 4
   },
-  "2023-11-18": {}
+  "2023-11-18": {
+    "Browsers": 8910,
+    "Communications": 912,
+    "Writing": 531,
+    "Instant Message": 527,
+    "Email": 361,
+    "Project Management": 286,
+    "General Utilities": 256,
+    "Intelligence": 243,
+    "Meetings": 123,
+    "General Reference & Learning": 42,
+    "General Entertainment": 7,
+    "Uncategorized": 1
+  }
 }

@@ -249,8 +249,24 @@
     "Engineering & Drafting": 141,
     "Uncategorized": 3
   },
-  "21": {},
-  "22": {},
+  "21": {
+    "Browsers": 13434,
+    "Meetings": 9768,
+    "Email": 3193,
+    "Communications": 2391,
+    "Writing": 2289,
+    "Project Management": 1265,
+    "General Utilities": 357,
+    "Instant Message": 340,
+    "Intelligence": 243,
+    "General Entertainment": 39,
+    "Engineering & Drafting": 32,
+    "General Reference & Learning": 7,
+    "Uncategorized": 1
+  },
+  "22": {
+    "Browsers": 258
+  },
   "23": {},
   "24": {},
   "25": {},

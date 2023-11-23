@@ -27,9 +27,19 @@
     "Uncategorized": 1
   },
   "2023-11-22": {
-    "Utilities": 258
+    "Utilities": 14103,
+    "Communication & Scheduling": 2822,
+    "Design & Composition": 2069,
+    "Other Work": 1748,
+    "Reference & Learning": 610,
+    "Business": 514,
+    "Uncategorized": 30
   },
-  "2023-11-23": {},
+  "2023-11-23": {
+    "Business": 193,
+    "Other Work": 110,
+    "Design & Composition": 37
+  },
   "2023-11-24": {},
   "2023-11-25": {}
 }

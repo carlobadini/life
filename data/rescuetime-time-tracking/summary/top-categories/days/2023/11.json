@@ -265,9 +265,24 @@
     "Uncategorized": 1
   },
   "22": {
-    "Browsers": 258
+    "Browsers": 13112,
+    "Writing": 1878,
+    "Communications": 1748,
+    "Email": 1214,
+    "General Utilities": 991,
+    "Meetings": 966,
+    "Instant Message": 642,
+    "General Reference & Learning": 610,
+    "Project Management": 424,
+    "General Design & Composition": 191,
+    "Intelligence": 90,
+    "Uncategorized": 30
   },
-  "23": {},
+  "23": {
+    "Project Management": 193,
+    "Communications": 110,
+    "General Design & Composition": 37
+  },
   "24": {},
   "25": {},
   "26": {},

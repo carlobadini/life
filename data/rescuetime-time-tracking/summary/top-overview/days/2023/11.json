@@ -195,9 +195,19 @@
     "Uncategorized": 1
   },
   "22": {
-    "Utilities": 258
+    "Utilities": 14103,
+    "Communication & Scheduling": 2822,
+    "Design & Composition": 2069,
+    "Other Work": 1748,
+    "Reference & Learning": 610,
+    "Business": 514,
+    "Uncategorized": 30
   },
-  "23": {},
+  "23": {
+    "Business": 193,
+    "Other Work": 110,
+    "Design & Composition": 37
+  },
   "24": {},
   "25": {},
   "26": {},

@@ -7,20 +7,20 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Category": "Business"
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Category": "Design & Composition"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
   }
 ]

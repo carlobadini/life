@@ -220,7 +220,22 @@
   },
   "25": {},
   "26": {},
-  "27": {},
-  "28": {},
+  "27": {
+    "Utilities": 7835,
+    "Design & Composition": 6516,
+    "Communication & Scheduling": 1679,
+    "Other Work": 654,
+    "Business": 546,
+    "Uncategorized": 31,
+    "Entertainment": 10,
+    "Shopping": 2
+  },
+  "28": {
+    "Utilities": 1440,
+    "Communication & Scheduling": 89,
+    "Design & Composition": 49,
+    "Other Work": 1,
+    "Business": 1
+  },
   "29": {}
 }

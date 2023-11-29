@@ -231,11 +231,13 @@
     "Shopping": 2
   },
   "28": {
-    "Utilities": 1440,
-    "Communication & Scheduling": 89,
-    "Design & Composition": 49,
-    "Other Work": 1,
-    "Business": 1
+    "Utilities": 13482,
+    "Communication & Scheduling": 11463,
+    "Design & Composition": 3778,
+    "Business": 1378,
+    "Other Work": 1267,
+    "Entertainment": 347,
+    "Uncategorized": 11
   },
   "29": {}
 }

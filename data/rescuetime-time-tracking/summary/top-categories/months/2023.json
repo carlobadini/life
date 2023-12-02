@@ -285,5 +285,18 @@
     "General Design & Composition": 267,
     "Voice Chat": 1
   },
-  "12": {}
+  "12": {
+    "Browsers": 11574,
+    "Meetings": 2895,
+    "Instant Message": 2261,
+    "Communications": 1599,
+    "Writing": 1387,
+    "Email": 1233,
+    "Project Management": 625,
+    "General Utilities": 238,
+    "Uncategorized": 132,
+    "Intelligence": 15,
+    "Engineering & Drafting": 8,
+    "General Reference & Learning": 5
+  }
 }

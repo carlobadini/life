@@ -135,12 +135,14 @@
     "News & Opinion": 4
   },
   "12": {
-    "Utilities": 11812,
-    "Communication & Scheduling": 6389,
-    "Other Work": 1599,
-    "Design & Composition": 1395,
-    "Business": 640,
+    "Utilities": 20917,
+    "Communication & Scheduling": 16156,
+    "Other Work": 2466,
+    "Design & Composition": 1885,
+    "Business": 1546,
     "Uncategorized": 132,
-    "Reference & Learning": 5
+    "Reference & Learning": 131,
+    "Entertainment": 286,
+    "News & Opinion": 7
   }
 }

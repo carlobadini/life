@@ -27,8 +27,18 @@
     "General Reference & Learning": 126,
     "General News & Opinion": 7
   },
-  "3": {},
-  "4": {},
+  "3": {
+    "Browsers": 12090,
+    "Instant Message": 670,
+    "General Entertainment": 513,
+    "Intelligence": 403,
+    "Communications": 104,
+    "General Utilities": 23,
+    "Project Management": 17
+  },
+  "4": {
+    "Browsers": 967
+  },
   "5": {},
   "6": {},
   "7": {},

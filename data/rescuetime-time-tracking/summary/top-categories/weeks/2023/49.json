@@ -35,8 +35,28 @@
     "Intelligence": 24,
     "Engineering & Drafting": 15
   },
-  "2023-12-6": {},
-  "2023-12-7": {},
+  "2023-12-6": {
+    "Browsers": 16132,
+    "Meetings": 3087,
+    "Communications": 1325,
+    "Writing": 1102,
+    "Project Management": 688,
+    "Instant Message": 642,
+    "Email": 468,
+    "General Utilities": 79,
+    "General Reference & Learning": 24,
+    "Engineering & Drafting": 8,
+    "Intelligence": 2
+  },
+  "2023-12-7": {
+    "Browsers": 5669,
+    "Communications": 352,
+    "Project Management": 294,
+    "Email": 97,
+    "General Utilities": 66,
+    "Writing": 55,
+    "Instant Message": 22
+  },
   "2023-12-8": {},
   "2023-12-9": {}
 }

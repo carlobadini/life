@@ -29,8 +29,8 @@
     "Utilities": 21430,
     "Communication & Scheduling": 5697,
     "Other Work": 4896,
-    "Design & Composition": 1013,
     "Business": 1013,
+    "Design & Composition": 1013,
     "Reference & Learning": 6
   },
   "5": {
@@ -41,8 +41,21 @@
     "Business": 452,
     "Reference & Learning": 63
   },
-  "6": {},
-  "7": {},
+  "6": {
+    "Utilities": 16211,
+    "Communication & Scheduling": 4197,
+    "Other Work": 1325,
+    "Design & Composition": 1110,
+    "Business": 690,
+    "Reference & Learning": 24
+  },
+  "7": {
+    "Utilities": 5735,
+    "Other Work": 352,
+    "Business": 294,
+    "Communication & Scheduling": 119,
+    "Design & Composition": 55
+  },
   "8": {},
   "9": {},
   "10": {},

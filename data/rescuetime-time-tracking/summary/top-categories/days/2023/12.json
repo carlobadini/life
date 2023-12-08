@@ -77,13 +77,17 @@
     "Intelligence": 2
   },
   "7": {
-    "Browsers": 5669,
-    "Communications": 352,
-    "Project Management": 294,
-    "Email": 97,
-    "General Utilities": 66,
-    "Writing": 55,
-    "Instant Message": 22
+    "Browsers": 32015,
+    "Meetings": 3786,
+    "Instant Message": 3712,
+    "Communications": 1556,
+    "Email": 686,
+    "Project Management": 649,
+    "Writing": 214,
+    "General Utilities": 124,
+    "Intelligence": 40,
+    "Uncategorized": 3,
+    "General Entertainment": 3
   },
   "8": {},
   "9": {},

@@ -89,8 +89,24 @@
     "Uncategorized": 3,
     "General Entertainment": 3
   },
-  "8": {},
-  "9": {},
+  "8": {
+    "Browsers": 18273,
+    "Instant Message": 6806,
+    "Email": 2744,
+    "Writing": 2470,
+    "Meetings": 1719,
+    "Communications": 1002,
+    "Project Management": 579,
+    "General Utilities": 322,
+    "General Reference & Learning": 24,
+    "Intelligence": 13,
+    "Uncategorized": 7
+  },
+  "9": {
+    "Instant Message": 4161,
+    "Browsers": 1060,
+    "Email": 35
+  },
   "10": {},
   "11": {},
   "12": {},

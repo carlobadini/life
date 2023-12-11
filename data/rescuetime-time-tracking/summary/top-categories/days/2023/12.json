@@ -116,7 +116,11 @@
     "Uncategorized": 15,
     "General Entertainment": 9
   },
-  "10": {},
+  "10": {
+    "Browsers": 6231,
+    "Intelligence": 458,
+    "General Utilities": 130
+  },
   "11": {},
   "12": {},
   "13": {},

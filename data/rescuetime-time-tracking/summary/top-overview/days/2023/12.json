@@ -80,8 +80,20 @@
     "Utilities": 6361,
     "Business": 458
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Utilities": 8799,
+    "Other Work": 2098,
+    "Communication & Scheduling": 1863,
+    "Business": 499,
+    "Design & Composition": 404,
+    "Reference & Learning": 377,
+    "Uncategorized": 10
+  },
+  "12": {
+    "Utilities": 2656,
+    "Communication & Scheduling": 400,
+    "Business": 2
+  },
   "13": {},
   "14": {},
   "15": {},

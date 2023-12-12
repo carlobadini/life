@@ -121,8 +121,24 @@
     "Intelligence": 458,
     "General Utilities": 130
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Browsers": 8499,
+    "Communications": 2098,
+    "Email": 1607,
+    "Writing": 388,
+    "General Reference & Learning": 377,
+    "Intelligence": 314,
+    "General Utilities": 300,
+    "Meetings": 256,
+    "Project Management": 185,
+    "Engineering & Drafting": 16,
+    "Uncategorized": 10
+  },
+  "12": {
+    "Browsers": 2656,
+    "Email": 400,
+    "Project Management": 2
+  },
   "13": {},
   "14": {},
   "15": {},

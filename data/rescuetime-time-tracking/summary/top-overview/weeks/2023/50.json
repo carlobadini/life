@@ -23,7 +23,7 @@
     "Uncategorized": 7
   },
   "2023-12-13": {
-    "Utilities": 8676,
+    "Utilities": 8875,
     "Communication & Scheduling": 4418,
     "Design & Composition": 1568,
     "Other Work": 1097,
@@ -32,7 +32,16 @@
     "Entertainment": 44,
     "Reference & Learning": 10
   },
-  "2023-12-14": {},
+  "2023-12-14": {
+    "Utilities": 18088,
+    "Communication & Scheduling": 5825,
+    "Other Work": 2349,
+    "Business": 794,
+    "Design & Composition": 472,
+    "Entertainment": 244,
+    "Reference & Learning": 44,
+    "Uncategorized": 1
+  },
   "2023-12-15": {},
   "2023-12-16": {}
 }

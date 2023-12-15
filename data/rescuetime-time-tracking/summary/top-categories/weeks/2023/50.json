@@ -32,7 +32,7 @@
     "Intelligence": 6
   },
   "2023-12-13": {
-    "Browsers": 8645,
+    "Browsers": 8844,
     "Meetings": 3181,
     "Writing": 1568,
     "Communications": 1097,
@@ -45,7 +45,21 @@
     "General Utilities": 31,
     "General Reference & Learning": 10
   },
-  "2023-12-14": {},
+  "2023-12-14": {
+    "Browsers": 18060,
+    "Meetings": 4533,
+    "Communications": 2349,
+    "Email": 1081,
+    "Project Management": 556,
+    "Writing": 462,
+    "General Entertainment": 244,
+    "Intelligence": 238,
+    "Instant Message": 211,
+    "General Reference & Learning": 44,
+    "General Utilities": 28,
+    "Engineering & Drafting": 10,
+    "Uncategorized": 1
+  },
   "2023-12-15": {},
   "2023-12-16": {}
 }

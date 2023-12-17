@@ -76,7 +76,15 @@
     "General Entertainment": 5
   },
   "2023-12-16": {
-    "Browsers": 1349,
-    "Email": 117
+    "Browsers": 8413,
+    "Meetings": 1090,
+    "Project Management": 870,
+    "Communications": 754,
+    "Email": 692,
+    "Writing": 518,
+    "Instant Message": 409,
+    "Intelligence": 395,
+    "General Entertainment": 252,
+    "General Utilities": 67
   }
 }

@@ -198,13 +198,17 @@
     "Project Management": 870,
     "Communications": 754,
     "Email": 692,
+    "Intelligence": 557,
     "Writing": 518,
     "Instant Message": 409,
-    "Intelligence": 395,
     "General Entertainment": 252,
     "General Utilities": 67
   },
-  "17": {},
+  "17": {
+    "Communications": 24,
+    "General Entertainment": 22,
+    "General Utilities": 3
+  },
   "18": {},
   "19": {},
   "20": {},

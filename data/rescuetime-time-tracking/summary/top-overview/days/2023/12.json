@@ -142,7 +142,16 @@
     "Entertainment": 22,
     "Utilities": 3
   },
-  "18": {},
+  "18": {
+    "Utilities": 5552,
+    "Communication & Scheduling": 4965,
+    "Design & Composition": 1703,
+    "Other Work": 1283,
+    "Business": 1242,
+    "Entertainment": 8,
+    "Uncategorized": 1,
+    "Reference & Learning": 1
+  },
   "19": {},
   "20": {},
   "21": {},

@@ -154,12 +154,16 @@
   },
   "19": {
     "Utilities": 3879,
-    "Communication & Scheduling": 3170,
-    "Other Work": 1646,
+    "Communication & Scheduling": 3180,
+    "Other Work": 1781,
     "Business": 199,
     "Design & Composition": 60
   },
-  "20": {},
+  "20": {
+    "Utilities": 496,
+    "Other Work": 12,
+    "Business": 2
+  },
   "21": {},
   "22": {},
   "23": {},

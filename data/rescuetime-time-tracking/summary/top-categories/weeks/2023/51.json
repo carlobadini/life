@@ -20,8 +20,8 @@
   },
   "2023-12-19": {
     "Browsers": 3873,
-    "Communications": 1646,
-    "Meetings": 1613,
+    "Communications": 1781,
+    "Meetings": 1623,
     "Instant Message": 1460,
     "Project Management": 174,
     "Email": 97,
@@ -29,7 +29,11 @@
     "Intelligence": 25,
     "General Utilities": 6
   },
-  "2023-12-20": {},
+  "2023-12-20": {
+    "Browsers": 496,
+    "Communications": 12,
+    "Intelligence": 2
+  },
   "2023-12-21": {},
   "2023-12-22": {},
   "2023-12-23": {}

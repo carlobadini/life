@@ -239,7 +239,20 @@
     "Communications": 12,
     "Intelligence": 2
   },
-  "21": {},
+  "21": {
+    "Browsers": 9104,
+    "Email": 3798,
+    "Communications": 2848,
+    "Meetings": 1126,
+    "Writing": 853,
+    "General Utilities": 830,
+    "Project Management": 730,
+    "Instant Message": 715,
+    "Intelligence": 308,
+    "General Reference & Learning": 115,
+    "Search": 2,
+    "Uncategorized": 1
+  },
   "22": {},
   "23": {},
   "24": {},

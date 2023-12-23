@@ -253,8 +253,24 @@
     "Search": 2,
     "Uncategorized": 1
   },
-  "22": {},
-  "23": {},
+  "22": {
+    "Browsers": 16564,
+    "Communications": 3363,
+    "Meetings": 2682,
+    "Instant Message": 527,
+    "Email": 453,
+    "General Utilities": 393,
+    "Writing": 319,
+    "General Reference & Learning": 141,
+    "General Entertainment": 111,
+    "Project Management": 98,
+    "Intelligence": 19,
+    "Uncategorized": 1
+  },
+  "23": {
+    "Browsers": 675,
+    "Intelligence": 4
+  },
   "24": {},
   "25": {},
   "26": {},

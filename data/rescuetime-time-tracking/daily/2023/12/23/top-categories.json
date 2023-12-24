@@ -1,13 +1,61 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 675,
+    "Time Spent (seconds)": 3931,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 888,
+    "Number of People": 1,
+    "Category": "Audio Editing"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 269,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 245,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Category": "Systems Operations"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Category": "Intelligence"
   }

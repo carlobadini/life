@@ -135,14 +135,16 @@
     "News & Opinion": 4
   },
   "12": {
-    "Utilities": 277307,
-    "Communication & Scheduling": 98056,
-    "Other Work": 37586,
-    "Design & Composition": 17721,
-    "Business": 15328,
-    "Uncategorized": 257,
+    "Utilities": 282297,
+    "Communication & Scheduling": 98301,
+    "Other Work": 37641,
+    "Design & Composition": 18878,
+    "Business": 15340,
+    "Uncategorized": 267,
     "Reference & Learning": 1033,
     "Entertainment": 1590,
-    "News & Opinion": 7
+    "News & Opinion": 7,
+    "Shopping": 87,
+    "Software Development": 30
   }
 }

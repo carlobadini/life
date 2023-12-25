@@ -194,10 +194,16 @@
     "Business": 8
   },
   "24": {
-    "Utilities": 1635,
-    "Business": 8
+    "Utilities": 3999,
+    "Business": 12,
+    "Design & Composition": 6
   },
-  "25": {},
+  "25": {
+    "Utilities": 340,
+    "Business": 13,
+    "Design & Composition": 6,
+    "Communication & Scheduling": 4
+  },
   "26": {},
   "27": {},
   "28": {},

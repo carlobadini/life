@@ -280,10 +280,16 @@
     "Intelligence": 8
   },
   "24": {
-    "Browsers": 1635,
-    "Intelligence": 8
+    "Browsers": 3999,
+    "Intelligence": 12,
+    "Audio Editing": 6
   },
-  "25": {},
+  "25": {
+    "Browsers": 340,
+    "Intelligence": 13,
+    "Audio Editing": 6,
+    "Instant Message": 4
+  },
   "26": {},
   "27": {},
   "28": {},

@@ -1,26 +1,56 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 340,
+    "Time Spent (seconds)": 7740,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 13,
+    "Time Spent (seconds)": 1425,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 253,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 143,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 6,
+    "Rank": 6,
+    "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 4,
+    "Rank": 7,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
   }
 ]

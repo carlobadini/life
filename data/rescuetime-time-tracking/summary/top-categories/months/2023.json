@@ -286,16 +286,16 @@
     "Voice Chat": 1
   },
   "12": {
-    "Browsers": 289192,
+    "Browsers": 290500,
     "Meetings": 38855,
-    "Instant Message": 31150,
-    "Communications": 37657,
+    "Instant Message": 31573,
+    "Communications": 38634,
     "Writing": 17492,
-    "Email": 29721,
-    "Project Management": 11841,
-    "General Utilities": 4120,
-    "Uncategorized": 410,
-    "Intelligence": 3731,
+    "Email": 30293,
+    "Project Management": 12413,
+    "General Utilities": 4307,
+    "Uncategorized": 600,
+    "Intelligence": 3906,
     "Engineering & Drafting": 481,
     "General Reference & Learning": 1032,
     "General Entertainment": 1590,
@@ -304,7 +304,7 @@
     "General Design & Composition": 20,
     "Search": 2,
     "Audio Editing": 913,
-    "General Shopping": 87,
+    "General Shopping": 106,
     "Systems Operations": 30
   }
 }

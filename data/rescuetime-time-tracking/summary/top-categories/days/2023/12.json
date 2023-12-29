@@ -321,7 +321,22 @@
     "General Entertainment": 89,
     "General Utilities": 11
   },
-  "28": {},
+  "28": {
+    "Browsers": 8967,
+    "Meetings": 5071,
+    "Writing": 2696,
+    "Communications": 679,
+    "Project Management": 535,
+    "Email": 368,
+    "General Reference & Learning": 316,
+    "General Entertainment": 101,
+    "General Business": 95,
+    "General Utilities": 88,
+    "Engineering & Drafting": 78,
+    "Instant Message": 47,
+    "Intelligence": 22,
+    "Uncategorized": 21
+  },
   "29": {},
   "30": {}
 }

@@ -9,7 +9,18 @@
     "Email": 47,
     "Intelligence": 3
   },
-  "2024-01-3": {},
+  "2024-01-3": {
+    "Browsers": 11628,
+    "Communications": 2177,
+    "Email": 616,
+    "Meetings": 561,
+    "Project Management": 102,
+    "Writing": 67,
+    "General Utilities": 39,
+    "Intelligence": 22,
+    "General Reference & Learning": 5,
+    "Uncategorized": 3
+  },
   "2024-01-4": {},
   "2024-01-5": {},
   "2024-01-6": {}

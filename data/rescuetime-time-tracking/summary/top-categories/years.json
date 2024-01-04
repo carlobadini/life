@@ -265,12 +265,15 @@
     "Audio Editing": 913
   },
   "2024": {
-    "Meetings": 2853,
-    "Browsers": 2352,
-    "Communications": 302,
-    "Project Management": 139,
-    "Writing": 120,
-    "Email": 47,
-    "Intelligence": 3
+    "Meetings": 3414,
+    "Browsers": 13980,
+    "Communications": 2479,
+    "Project Management": 241,
+    "Writing": 187,
+    "Email": 663,
+    "Intelligence": 25,
+    "General Utilities": 39,
+    "General Reference & Learning": 5,
+    "Uncategorized": 3
   }
 }

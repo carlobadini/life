@@ -22,13 +22,16 @@
     "Uncategorized": 3
   },
   "2024-01-4": {
+    "Meetings": 1364,
     "Communications": 977,
-    "Meetings": 361,
     "Browsers": 262,
     "Project Management": 69,
     "Email": 34,
     "Writing": 20
   },
-  "2024-01-5": {},
+  "2024-01-5": {
+    "Browsers": 696,
+    "Meetings": 79
+  },
   "2024-01-6": {}
 }

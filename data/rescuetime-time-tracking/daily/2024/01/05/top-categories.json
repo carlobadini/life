@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 696,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Category": "Meetings"
+  }
+]

@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 9870,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 3629,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1049,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1013,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 956,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 449,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 228,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 164,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Category": "Engineering & Drafting"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 57,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Email"
+  }
+]

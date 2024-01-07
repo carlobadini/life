@@ -30,8 +30,24 @@
     "Writing": 20
   },
   "2024-01-5": {
-    "Browsers": 696,
-    "Meetings": 79
+    "Browsers": 843,
+    "Meetings": 82,
+    "Project Management": 9,
+    "Communications": 8
   },
-  "2024-01-6": {}
+  "2024-01-6": {
+    "Browsers": 9870,
+    "Meetings": 3629,
+    "General Reference & Learning": 1049,
+    "General Utilities": 1013,
+    "Writing": 956,
+    "Instant Message": 449,
+    "Communications": 228,
+    "Project Management": 164,
+    "General Business": 79,
+    "Engineering & Drafting": 67,
+    "Intelligence": 57,
+    "Uncategorized": 8,
+    "Email": 2
+  }
 }

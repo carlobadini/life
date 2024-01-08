@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9870,
+    "Time Spent (seconds)": 10475,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -13,25 +13,25 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 3358,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 1049,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 1013,
+    "Rank": 5,
+    "Time Spent (seconds)": 1016,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 956,
-    "Number of People": 1,
-    "Category": "Writing"
-  },
-  {
     "Rank": 6,
-    "Time Spent (seconds)": 449,
+    "Time Spent (seconds)": 916,
     "Number of People": 1,
     "Category": "Instant Message"
   },

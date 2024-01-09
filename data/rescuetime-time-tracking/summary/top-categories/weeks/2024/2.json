@@ -1,8 +1,8 @@
 {
   "2024-01-7": {
-    "Browsers": 7557,
-    "Email": 1530,
-    "Writing": 1231,
+    "Browsers": 9307,
+    "Email": 1593,
+    "Writing": 1236,
     "Project Management": 689,
     "Communications": 442,
     "General Reference & Learning": 428,
@@ -12,7 +12,21 @@
     "General Entertainment": 8,
     "General Business": 1
   },
-  "2024-01-8": {},
+  "2024-01-8": {
+    "Browsers": 9574,
+    "Meetings": 2819,
+    "Communications": 1799,
+    "General Reference & Learning": 1631,
+    "Email": 779,
+    "Project Management": 467,
+    "Writing": 344,
+    "General Utilities": 158,
+    "Intelligence": 104,
+    "Instant Message": 75,
+    "Uncategorized": 72,
+    "Engineering & Drafting": 4,
+    "General Design & Composition": 2
+  },
   "2024-01-9": {},
   "2024-01-10": {},
   "2024-01-11": {},

@@ -9,15 +9,24 @@
     "Entertainment": 8
   },
   "2024-01-8": {
-    "Utilities": 9732,
-    "Communication & Scheduling": 3673,
-    "Other Work": 1799,
+    "Utilities": 13497,
+    "Communication & Scheduling": 3763,
+    "Other Work": 2031,
     "Reference & Learning": 1631,
-    "Business": 571,
-    "Design & Composition": 350,
+    "Business": 680,
+    "Design & Composition": 383,
     "Uncategorized": 72
   },
-  "2024-01-9": {},
+  "2024-01-9": {
+    "Communication & Scheduling": 13252,
+    "Utilities": 13139,
+    "Other Work": 1824,
+    "Reference & Learning": 728,
+    "Design & Composition": 718,
+    "Business": 360,
+    "Entertainment": 57,
+    "Uncategorized": 3
+  },
   "2024-01-10": {},
   "2024-01-11": {},
   "2024-01-12": {},

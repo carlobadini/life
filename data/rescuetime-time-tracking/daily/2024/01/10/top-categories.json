@@ -1,62 +1,74 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6436,
+    "Time Spent (seconds)": 17730,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 850,
+    "Time Spent (seconds)": 6023,
     "Number of People": 1,
-    "Category": "Communications"
+    "Category": "Writing"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 352,
+    "Time Spent (seconds)": 2972,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 138,
+    "Time Spent (seconds)": 1167,
     "Number of People": 1,
-    "Category": "Meetings"
+    "Category": "Communications"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 37,
+    "Time Spent (seconds)": 270,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 13,
+    "Time Spent (seconds)": 199,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 73,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 4,
+    "Rank": 9,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 2,
+    "Rank": 10,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 1,
+    "Rank": 11,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 1,
+    "Rank": 12,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "General Entertainment"
   }
 ]

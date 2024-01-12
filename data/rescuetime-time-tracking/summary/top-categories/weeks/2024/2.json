@@ -43,18 +43,32 @@
     "General Design & Composition": 1
   },
   "2024-01-10": {
-    "Browsers": 6436,
-    "Communications": 850,
-    "Email": 352,
-    "Meetings": 138,
-    "Project Management": 37,
-    "General Utilities": 13,
-    "Instant Message": 4,
-    "Intelligence": 2,
-    "Uncategorized": 1,
-    "Writing": 1
+    "Browsers": 17730,
+    "Writing": 6023,
+    "Email": 2972,
+    "Communications": 1167,
+    "Project Management": 270,
+    "Meetings": 199,
+    "General Reference & Learning": 73,
+    "General Utilities": 37,
+    "Instant Message": 28,
+    "Intelligence": 18,
+    "Uncategorized": 9,
+    "General Entertainment": 7
   },
-  "2024-01-11": {},
+  "2024-01-11": {
+    "Browsers": 12369,
+    "Email": 1934,
+    "Communications": 1189,
+    "Instant Message": 960,
+    "Meetings": 586,
+    "Writing": 289,
+    "Project Management": 70,
+    "General Utilities": 28,
+    "Engineering & Drafting": 19,
+    "Intelligence": 14,
+    "Uncategorized": 3
+  },
   "2024-01-12": {},
   "2024-01-13": {}
 }

@@ -101,9 +101,23 @@
     "Business": 14,
     "Uncategorized": 8
   },
-  "14": {},
+  "14": {
+    "Communication & Scheduling": 259,
+    "Utilities": 87,
+    "Uncategorized": 78,
+    "Other Work": 76,
+    "Business": 64
+  },
   "15": {},
-  "16": {},
+  "16": {
+    "Utilities": 9547,
+    "Communication & Scheduling": 4149,
+    "Design & Composition": 1337,
+    "Other Work": 1336,
+    "Business": 808,
+    "Reference & Learning": 70,
+    "Uncategorized": 2
+  },
   "17": {},
   "18": {},
   "19": {},

@@ -22,19 +22,30 @@
     "Uncategorized": 2
   },
   "2024-01-17": {
-    "Browsers": 12029,
-    "Meetings": 10744,
-    "Communications": 2023,
-    "Email": 1834,
-    "Instant Message": 1400,
-    "Writing": 1319,
+    "Browsers": 19945,
+    "Meetings": 11200,
+    "Communications": 3592,
+    "Instant Message": 3543,
+    "Email": 3261,
+    "Writing": 1346,
+    "Uncategorized": 678,
     "Project Management": 497,
-    "Uncategorized": 293,
-    "General Utilities": 83,
+    "General Utilities": 428,
     "Intelligence": 28,
     "General Reference & Learning": 23
   },
-  "2024-01-18": {},
+  "2024-01-18": {
+    "Browsers": 11278,
+    "Email": 1463,
+    "Communications": 1204,
+    "Instant Message": 673,
+    "Uncategorized": 604,
+    "Meetings": 497,
+    "Engineering & Drafting": 168,
+    "General Utilities": 112,
+    "Writing": 74,
+    "Intelligence": 15
+  },
   "2024-01-19": {},
   "2024-01-20": {}
 }

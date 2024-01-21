@@ -137,15 +137,22 @@
     "Reference & Learning": 3
   },
   "19": {
-    "Utilities": 9223,
-    "Communication & Scheduling": 3965,
-    "Other Work": 1792,
-    "Design & Composition": 1592,
-    "Uncategorized": 553,
-    "Reference & Learning": 93,
-    "Business": 11
+    "Utilities": 16958,
+    "Communication & Scheduling": 6313,
+    "Other Work": 2066,
+    "Design & Composition": 2023,
+    "Uncategorized": 606,
+    "Reference & Learning": 104,
+    "Business": 46
   },
-  "20": {},
+  "20": {
+    "Utilities": 5884,
+    "Communication & Scheduling": 510,
+    "Other Work": 404,
+    "Design & Composition": 105,
+    "Uncategorized": 78,
+    "Business": 10
+  },
   "21": {},
   "22": {},
   "23": {},

@@ -1,27 +1,27 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5775,
+    "Time Spent (seconds)": 5802,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 404,
-    "Number of People": 1,
-    "Category": "Communications"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 393,
+    "Time Spent (seconds)": 764,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 109,
+    "Rank": 3,
+    "Time Spent (seconds)": 573,
     "Number of People": 1,
     "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 412,
+    "Number of People": 1,
+    "Category": "Communications"
   },
   {
     "Rank": 5,
@@ -37,13 +37,13 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 78,
+    "Time Spent (seconds)": 84,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 24,
+    "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Category": "Email"
   },

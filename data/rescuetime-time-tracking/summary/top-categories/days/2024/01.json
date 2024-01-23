@@ -216,8 +216,23 @@
     "Email": 58,
     "Intelligence": 10
   },
-  "21": {},
-  "22": {},
+  "21": {
+    "Browsers": 420,
+    "Instant Message": 226,
+    "Uncategorized": 53,
+    "Communications": 29
+  },
+  "22": {
+    "Browsers": 16991,
+    "Writing": 1772,
+    "Meetings": 871,
+    "Communications": 666,
+    "Uncategorized": 539,
+    "Instant Message": 531,
+    "Email": 486,
+    "General Utilities": 120,
+    "Intelligence": 107
+  },
   "23": {},
   "24": {},
   "25": {},

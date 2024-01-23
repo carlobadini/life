@@ -153,8 +153,20 @@
     "Uncategorized": 84,
     "Business": 10
   },
-  "21": {},
-  "22": {},
+  "21": {
+    "Utilities": 420,
+    "Communication & Scheduling": 226,
+    "Uncategorized": 53,
+    "Other Work": 29
+  },
+  "22": {
+    "Utilities": 17111,
+    "Communication & Scheduling": 1888,
+    "Design & Composition": 1772,
+    "Other Work": 666,
+    "Uncategorized": 539,
+    "Business": 107
+  },
   "23": {},
   "24": {},
   "25": {},

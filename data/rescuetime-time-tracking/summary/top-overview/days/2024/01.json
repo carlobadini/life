@@ -147,27 +147,37 @@
   },
   "20": {
     "Utilities": 6375,
-    "Communication & Scheduling": 915,
+    "Communication & Scheduling": 993,
     "Other Work": 412,
     "Design & Composition": 105,
-    "Uncategorized": 84,
-    "Business": 10
+    "Business": 10,
+    "Uncategorized": 6
   },
   "21": {
     "Utilities": 420,
-    "Communication & Scheduling": 226,
-    "Uncategorized": 53,
+    "Communication & Scheduling": 279,
     "Other Work": 29
   },
   "22": {
-    "Utilities": 17111,
-    "Communication & Scheduling": 1888,
-    "Design & Composition": 1772,
-    "Other Work": 666,
-    "Uncategorized": 539,
-    "Business": 107
+    "Utilities": 24678,
+    "Communication & Scheduling": 5275,
+    "Other Work": 3145,
+    "Design & Composition": 1842,
+    "Business": 145,
+    "Entertainment": 99,
+    "Uncategorized": 4
   },
-  "23": {},
+  "23": {
+    "Utilities": 16633,
+    "Communication & Scheduling": 2952,
+    "Design & Composition": 1805,
+    "Other Work": 1446,
+    "Entertainment": 348,
+    "Uncategorized": 82,
+    "Shopping": 55,
+    "Business": 30,
+    "Reference & Learning": 4
+  },
   "24": {},
   "25": {},
   "26": {},

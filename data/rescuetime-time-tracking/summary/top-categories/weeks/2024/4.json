@@ -55,12 +55,12 @@
     "Uncategorized": 4
   },
   "2024-01-25": {
-    "Browsers": 14034,
+    "Browsers": 14051,
     "Email": 3048,
-    "Writing": 3023,
-    "Communications": 2079,
+    "Writing": 3025,
+    "Communications": 2414,
     "Instant Message": 2026,
-    "Calendars": 1041,
+    "Calendars": 1046,
     "Meetings": 377,
     "General Utilities": 296,
     "General Reference & Learning": 136,
@@ -68,6 +68,15 @@
     "Engineering & Drafting": 17,
     "Uncategorized": 10
   },
-  "2024-01-26": {},
+  "2024-01-26": {
+    "Browsers": 6084,
+    "Communications": 1083,
+    "Instant Message": 666,
+    "Email": 481,
+    "Intelligence": 127,
+    "Calendars": 124,
+    "Writing": 117,
+    "Uncategorized": 1
+  },
   "2024-01-27": {}
 }

@@ -44,12 +44,18 @@
     "Uncategorized": 10
   },
   "2024-01-26": {
-    "Utilities": 6084,
-    "Communication & Scheduling": 1271,
-    "Other Work": 1083,
+    "Utilities": 13903,
+    "Communication & Scheduling": 3676,
+    "Other Work": 1624,
+    "Design & Composition": 299,
     "Business": 127,
-    "Design & Composition": 117,
-    "Uncategorized": 1
+    "Uncategorized": 2
   },
-  "2024-01-27": {}
+  "2024-01-27": {
+    "Utilities": 6604,
+    "Communication & Scheduling": 3032,
+    "Other Work": 920,
+    "Design & Composition": 836,
+    "Business": 81
+  }
 }

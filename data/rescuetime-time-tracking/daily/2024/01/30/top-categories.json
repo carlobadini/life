@@ -1,73 +1,73 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 12271,
+    "Time Spent (seconds)": 20867,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2499,
+    "Time Spent (seconds)": 3883,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2459,
-    "Number of People": 1,
-    "Category": "Writing"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 2382,
+    "Time Spent (seconds)": 3796,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 2647,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 1554,
+    "Time Spent (seconds)": 2300,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1559,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 1437,
-    "Number of People": 1,
-    "Category": "Meetings"
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 925,
+    "Time Spent (seconds)": 1556,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 1457,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 862,
     "Number of People": 1,
     "Category": "Video Editing"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 413,
-    "Number of People": 1,
-    "Category": "General Design & Composition"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 340,
-    "Number of People": 1,
-    "Category": "Instant Message"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 280,
+    "Time Spent (seconds)": 575,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
+    "Rank": 11,
+    "Time Spent (seconds)": 414,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
     "Rank": 12,
-    "Time Spent (seconds)": 226,
+    "Time Spent (seconds)": 247,
     "Number of People": 1,
     "Category": "General Business"
   },

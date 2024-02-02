@@ -340,18 +340,18 @@
     "Engineering & Drafting": 29
   },
   "31": {
-    "Browsers": 12833,
-    "Writing": 2123,
-    "Communications": 1998,
+    "Browsers": 18047,
+    "Communications": 4372,
+    "Email": 2499,
+    "Writing": 2143,
+    "Instant Message": 2044,
     "Meetings": 1275,
-    "Email": 908,
-    "Calendars": 553,
-    "Instant Message": 386,
-    "Intelligence": 21,
-    "General Utilities": 18,
-    "General Business": 6,
-    "General Reference & Learning": 5,
-    "Uncategorized": 2,
+    "Calendars": 1170,
+    "General Reference & Learning": 911,
+    "General Utilities": 398,
+    "Intelligence": 144,
+    "General Business": 20,
+    "Uncategorized": 5,
     "Engineering & Drafting": 2
   }
 }

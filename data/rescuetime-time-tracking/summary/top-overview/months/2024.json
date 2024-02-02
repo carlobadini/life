@@ -1,16 +1,24 @@
 {
   "1": {
-    "Communication & Scheduling": 144536,
-    "Utilities": 361153,
-    "Other Work": 50748,
-    "Business": 6569,
-    "Design & Composition": 45884,
-    "Reference & Learning": 4943,
-    "Uncategorized": 5126,
+    "Communication & Scheduling": 148402,
+    "Utilities": 366747,
+    "Other Work": 53122,
+    "Business": 6706,
+    "Design & Composition": 45904,
+    "Reference & Learning": 5849,
+    "Uncategorized": 5129,
     "Entertainment": 557,
     "Shopping": 55
   },
-  "2": {},
+  "2": {
+    "Utilities": 13829,
+    "Communication & Scheduling": 2876,
+    "Other Work": 1286,
+    "Design & Composition": 361,
+    "Reference & Learning": 41,
+    "Business": 32,
+    "Uncategorized": 5
+  },
   "3": {},
   "4": {},
   "5": {},

@@ -1,5 +1,19 @@
 {
-  "1": {},
+  "1": {
+    "Browsers": 13721,
+    "Communications": 1286,
+    "Email": 1078,
+    "Meetings": 755,
+    "Instant Message": 542,
+    "Calendars": 501,
+    "Writing": 340,
+    "General Utilities": 108,
+    "General Reference & Learning": 41,
+    "Intelligence": 30,
+    "Engineering & Drafting": 21,
+    "Uncategorized": 5,
+    "General Business": 2
+  },
   "2": {},
   "3": {},
   "4": {},

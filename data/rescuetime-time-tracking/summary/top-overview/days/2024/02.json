@@ -10,16 +10,23 @@
     "Uncategorized": 6
   },
   "2": {
-    "Utilities": 12056,
-    "Communication & Scheduling": 5397,
+    "Utilities": 13323,
+    "Communication & Scheduling": 5703,
     "Entertainment": 3562,
-    "Other Work": 1601,
-    "Design & Composition": 935,
+    "Other Work": 1838,
+    "Design & Composition": 1212,
     "Reference & Learning": 786,
-    "Business": 16,
-    "Uncategorized": 7
+    "Business": 22,
+    "Uncategorized": 8
   },
-  "3": {},
+  "3": {
+    "Utilities": 2934,
+    "Design & Composition": 655,
+    "Communication & Scheduling": 519,
+    "Other Work": 138,
+    "Business": 24,
+    "Uncategorized": 1
+  },
   "4": {},
   "5": {},
   "6": {},

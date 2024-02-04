@@ -62,18 +62,28 @@
     "General Business": 2
   },
   "2024-02-2": {
-    "Browsers": 11831,
+    "Browsers": 13098,
     "General Entertainment": 3562,
-    "Instant Message": 2387,
-    "Communications": 1601,
-    "Email": 1359,
-    "Writing": 935,
-    "Calendars": 836,
+    "Instant Message": 2547,
+    "Communications": 1838,
+    "Email": 1389,
+    "Writing": 1212,
+    "Calendars": 952,
     "Meetings": 815,
     "General Reference & Learning": 786,
     "General Utilities": 225,
-    "Intelligence": 16,
-    "Uncategorized": 7
+    "Intelligence": 22,
+    "Uncategorized": 8
   },
-  "2024-02-3": {}
+  "2024-02-3": {
+    "Browsers": 2824,
+    "Writing": 655,
+    "Calendars": 317,
+    "Instant Message": 160,
+    "Communications": 138,
+    "General Utilities": 110,
+    "Email": 42,
+    "Intelligence": 24,
+    "Uncategorized": 1
+  }
 }

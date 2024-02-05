@@ -40,7 +40,16 @@
     "Intelligence": 24,
     "Uncategorized": 1
   },
-  "4": {},
+  "4": {
+    "Browsers": 7941,
+    "Communications": 121,
+    "Writing": 107,
+    "Calendars": 34,
+    "Instant Message": 22,
+    "Email": 22,
+    "Intelligence": 12,
+    "General Utilities": 9
+  },
   "5": {},
   "6": {},
   "7": {},

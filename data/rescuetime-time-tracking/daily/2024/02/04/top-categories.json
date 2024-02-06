@@ -1,50 +1,68 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7941,
+    "Time Spent (seconds)": 12124,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 121,
+    "Time Spent (seconds)": 661,
     "Number of People": 1,
     "Category": "Communications"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 107,
-    "Number of People": 1,
-    "Category": "Writing"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 34,
+    "Time Spent (seconds)": 577,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 22,
+    "Rank": 4,
+    "Time Spent (seconds)": 387,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 22,
+    "Rank": 5,
+    "Time Spent (seconds)": 167,
     "Number of People": 1,
-    "Category": "Email"
+    "Category": "Writing"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 12,
+    "Rank": 6,
+    "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
+    "Rank": 7,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
     "Rank": 8,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Category": "Legal & Gov't"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Category": "General Utilities"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Engineering & Drafting"
   }
 ]

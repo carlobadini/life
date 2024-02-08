@@ -20,15 +20,23 @@
     "Business": 3
   },
   "2024-02-6": {
-    "Utilities": 14912,
-    "Communication & Scheduling": 5371,
-    "Other Work": 1883,
-    "Design & Composition": 1073,
-    "Reference & Learning": 222,
-    "Business": 108,
+    "Utilities": 24208,
+    "Communication & Scheduling": 10641,
+    "Design & Composition": 2925,
+    "Other Work": 2287,
+    "Reference & Learning": 232,
+    "Business": 140,
+    "Uncategorized": 8
+  },
+  "2024-02-7": {
+    "Utilities": 20572,
+    "Communication & Scheduling": 3369,
+    "Design & Composition": 1506,
+    "Other Work": 881,
+    "Business": 139,
+    "Entertainment": 69,
     "Uncategorized": 1
   },
-  "2024-02-7": {},
   "2024-02-8": {},
   "2024-02-9": {},
   "2024-02-10": {}

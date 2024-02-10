@@ -39,14 +39,21 @@
     "Uncategorized": 5
   },
   "2024-02-8": {
-    "Utilities": 10253,
-    "Communication & Scheduling": 7554,
-    "Design & Composition": 889,
-    "Other Work": 713,
+    "Utilities": 12261,
+    "Communication & Scheduling": 10717,
+    "Other Work": 2095,
+    "Design & Composition": 1177,
     "Business": 22,
     "Reference & Learning": 6,
     "Uncategorized": 3
   },
-  "2024-02-9": {},
+  "2024-02-9": {
+    "Utilities": 4171,
+    "Entertainment": 2698,
+    "Other Work": 2266,
+    "Communication & Scheduling": 1389,
+    "Design & Composition": 176,
+    "Business": 8
+  },
   "2024-02-10": {}
 }

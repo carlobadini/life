@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 4171,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2698,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 2266,
+    "Number of People": 1,
+    "Category": "Other Work"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1389,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 176,
+    "Number of People": 1,
+    "Category": "Design & Composition"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Business"
+  }
+]

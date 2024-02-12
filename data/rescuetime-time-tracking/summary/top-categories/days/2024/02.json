@@ -124,7 +124,13 @@
     "Intelligence": 10,
     "Voice Chat": 8
   },
-  "10": {},
+  "10": {
+    "Uncategorized": 724,
+    "Communications": 697,
+    "Browsers": 78,
+    "General Utilities": 39,
+    "Intelligence": 26
+  },
   "11": {},
   "12": {},
   "13": {},

@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  }
+]

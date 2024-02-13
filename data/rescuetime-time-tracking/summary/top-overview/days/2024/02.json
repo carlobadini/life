@@ -89,8 +89,20 @@
     "Utilities": 117,
     "Business": 26
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Shopping": 71,
+    "Business": 4,
+    "Utilities": 1
+  },
+  "12": {
+    "Utilities": 11272,
+    "Communication & Scheduling": 5867,
+    "Other Work": 3277,
+    "Design & Composition": 1393,
+    "Business": 928,
+    "Uncategorized": 763,
+    "Reference & Learning": 20
+  },
   "13": {},
   "14": {},
   "15": {},

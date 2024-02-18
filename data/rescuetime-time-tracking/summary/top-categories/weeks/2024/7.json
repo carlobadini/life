@@ -62,18 +62,26 @@
     "General Business": 7
   },
   "2024-02-16": {
-    "Browsers": 12136,
-    "General Entertainment": 4322,
+    "Browsers": 16047,
+    "General Entertainment": 4361,
     "Meetings": 2196,
-    "Writing": 1101,
-    "Email": 640,
-    "Communications": 470,
-    "Calendars": 443,
+    "Writing": 1125,
+    "Communications": 843,
+    "Email": 737,
+    "Calendars": 618,
     "Uncategorized": 65,
     "General Utilities": 42,
-    "Instant Message": 22,
+    "Instant Message": 31,
     "Intelligence": 14,
     "Engineering & Drafting": 6
   },
-  "2024-02-17": {}
+  "2024-02-17": {
+    "Browsers": 5989,
+    "Meetings": 501,
+    "Writing": 327,
+    "Communications": 144,
+    "Calendars": 94,
+    "Email": 77,
+    "General Utilities": 2
+  }
 }

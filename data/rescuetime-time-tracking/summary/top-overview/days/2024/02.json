@@ -139,12 +139,16 @@
     "Business": 14
   },
   "17": {
-    "Utilities": 5991,
-    "Communication & Scheduling": 672,
+    "Utilities": 6413,
+    "Communication & Scheduling": 709,
     "Design & Composition": 327,
-    "Other Work": 144
+    "Other Work": 144,
+    "Business": 9
   },
-  "18": {},
+  "18": {
+    "Utilities": 429,
+    "Business": 2
+  },
   "19": {},
   "20": {},
   "21": {},

@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5989,
+    "Time Spent (seconds)": 6411,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 501,
+    "Time Spent (seconds)": 502,
     "Number of People": 1,
     "Category": "Meetings"
   },
@@ -25,18 +25,24 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 94,
+    "Time Spent (seconds)": 129,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 77,
+    "Time Spent (seconds)": 78,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Category": "General Utilities"

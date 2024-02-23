@@ -41,7 +41,18 @@
     "General Entertainment": 40,
     "Uncategorized": 3
   },
-  "2024-02-22": {},
+  "2024-02-22": {
+    "Browsers": 7583,
+    "Meetings": 2325,
+    "Writing": 952,
+    "Email": 949,
+    "Calendars": 841,
+    "Communications": 507,
+    "Internet Utilities": 343,
+    "General Utilities": 105,
+    "Uncategorized": 27,
+    "Instant Message": 13
+  },
   "2024-02-23": {},
   "2024-02-24": {}
 }

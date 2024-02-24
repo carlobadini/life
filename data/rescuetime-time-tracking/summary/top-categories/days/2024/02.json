@@ -240,7 +240,7 @@
     "General Entertainment": 2772,
     "General Design & Composition": 2555,
     "Uncategorized": 1169,
-    "Communications": 637,
+    "Instant Message": 637,
     "Email": 298,
     "Calendars": 287,
     "General Utilities": 236,
@@ -250,11 +250,10 @@
   "21": {
     "Browsers": 12220,
     "Meetings": 8405,
-    "Communications": 1041,
+    "Instant Message": 1223,
     "Writing": 786,
     "Email": 663,
     "Calendars": 264,
-    "Instant Message": 182,
     "General Utilities": 80,
     "General Entertainment": 40,
     "Uncategorized": 3
@@ -262,16 +261,24 @@
   "22": {
     "Browsers": 7583,
     "Meetings": 2325,
+    "Email": 1053,
     "Writing": 952,
-    "Email": 949,
     "Calendars": 841,
-    "Communications": 507,
+    "Instant Message": 520,
     "Internet Utilities": 343,
     "General Utilities": 105,
-    "Uncategorized": 27,
-    "Instant Message": 13
+    "Uncategorized": 27
   },
-  "23": {},
+  "23": {
+    "Browsers": 6056,
+    "Instant Message": 920,
+    "Writing": 826,
+    "Meetings": 449,
+    "Email": 263,
+    "Calendars": 177,
+    "General Entertainment": 82,
+    "General Utilities": 9
+  },
   "24": {},
   "25": {},
   "26": {},

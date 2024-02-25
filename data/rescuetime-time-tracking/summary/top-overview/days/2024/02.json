@@ -181,12 +181,20 @@
     "Uncategorized": 27
   },
   "23": {
-    "Utilities": 6065,
-    "Communication & Scheduling": 1809,
+    "Utilities": 6067,
+    "Communication & Scheduling": 2236,
     "Design & Composition": 826,
-    "Entertainment": 82
+    "Entertainment": 82,
+    "Uncategorized": 50
   },
-  "24": {},
+  "24": {
+    "Utilities": 944,
+    "Communication & Scheduling": 167,
+    "Entertainment": 135,
+    "Business": 69,
+    "Design & Composition": 3,
+    "Uncategorized": 1
+  },
   "25": {},
   "26": {},
   "27": {},

@@ -52,14 +52,23 @@
     "Uncategorized": 27
   },
   "2024-02-23": {
-    "Browsers": 6056,
+    "Browsers": 6058,
     "Instant Message": 920,
+    "Meetings": 876,
     "Writing": 826,
-    "Meetings": 449,
     "Email": 263,
     "Calendars": 177,
     "General Entertainment": 82,
+    "Uncategorized": 50,
     "General Utilities": 9
   },
-  "2024-02-24": {}
+  "2024-02-24": {
+    "Browsers": 944,
+    "Instant Message": 165,
+    "General Entertainment": 135,
+    "Intelligence": 69,
+    "Writing": 3,
+    "Meetings": 2,
+    "Uncategorized": 1
+  }
 }

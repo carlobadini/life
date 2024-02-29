@@ -203,6 +203,15 @@
     "Business": 60,
     "Uncategorized": 11
   },
-  "27": {},
-  "28": {}
+  "27": {
+    "Utilities": 1724,
+    "Uncategorized": 135,
+    "Business": 23,
+    "Communication & Scheduling": 15,
+    "Design & Composition": 2
+  },
+  "28": {
+    "Utilities": 695,
+    "Business": 105
+  }
 }

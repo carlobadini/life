@@ -301,6 +301,15 @@
     "Uncategorized": 11,
     "General Utilities": 8
   },
-  "27": {},
-  "28": {}
+  "27": {
+    "Browsers": 1724,
+    "Uncategorized": 135,
+    "Intelligence": 23,
+    "Calendars": 15,
+    "Writing": 2
+  },
+  "28": {
+    "Browsers": 695,
+    "Intelligence": 105
+  }
 }

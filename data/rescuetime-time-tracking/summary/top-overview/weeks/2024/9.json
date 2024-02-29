@@ -7,6 +7,15 @@
     "Business": 60,
     "Uncategorized": 11
   },
-  "2024-02-27": {},
-  "2024-02-28": {}
+  "2024-02-27": {
+    "Utilities": 1724,
+    "Uncategorized": 135,
+    "Business": 23,
+    "Communication & Scheduling": 15,
+    "Design & Composition": 2
+  },
+  "2024-02-28": {
+    "Utilities": 695,
+    "Business": 105
+  }
 }

@@ -11,18 +11,24 @@
     "Shopping": 55
   },
   "2": {
-    "Utilities": 316385,
-    "Communication & Scheduling": 135821,
+    "Utilities": 317147,
+    "Communication & Scheduling": 138174,
     "Other Work": 29628,
-    "Design & Composition": 28069,
+    "Design & Composition": 28103,
     "Entertainment": 14977,
     "Reference & Learning": 1569,
     "Business": 2214,
-    "Uncategorized": 4100,
+    "Uncategorized": 4107,
     "Software Development": 5,
     "Shopping": 71
   },
-  "3": {},
+  "3": {
+    "Communication & Scheduling": 8790,
+    "Utilities": 6422,
+    "Design & Composition": 621,
+    "Business": 12,
+    "Uncategorized": 2
+  },
   "4": {},
   "5": {},
   "6": {},

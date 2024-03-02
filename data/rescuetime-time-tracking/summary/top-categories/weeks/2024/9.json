@@ -23,19 +23,29 @@
     "Intelligence": 105
   },
   "2024-02-29": {
-    "Browsers": 5892,
+    "Browsers": 6571,
     "Meetings": 2240,
-    "Writing": 816,
+    "Email": 1655,
+    "Calendars": 894,
+    "Writing": 850,
+    "Instant Message": 711,
     "General Entertainment": 542,
-    "Calendars": 461,
-    "Email": 305,
-    "Uncategorized": 174,
-    "Instant Message": 141,
-    "General Utilities": 96,
+    "Uncategorized": 181,
+    "General Utilities": 179,
     "Engineering & Drafting": 57,
     "Systems Operations": 2,
     "Intelligence": 1
   },
-  "2024-03-1": {},
+  "2024-03-1": {
+    "Browsers": 6417,
+    "Email": 4775,
+    "Meetings": 3041,
+    "Instant Message": 652,
+    "Writing": 621,
+    "Calendars": 322,
+    "Intelligence": 12,
+    "General Utilities": 5,
+    "Uncategorized": 2
+  },
   "2024-03-2": {}
 }

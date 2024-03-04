@@ -11,13 +11,24 @@
     "Uncategorized": 2
   },
   "2": {
+    "Browsers": 203,
+    "Instant Message": 158,
     "Email": 142,
-    "Instant Message": 115,
-    "Browsers": 99,
     "Intelligence": 13,
     "General Utilities": 4
   },
-  "3": {},
+  "3": {
+    "Browsers": 946,
+    "Travel & Outdoors": 144,
+    "Email": 101,
+    "Calendars": 53,
+    "Uncategorized": 10,
+    "Writing": 7,
+    "Meetings": 5,
+    "Intelligence": 4,
+    "General Utilities": 2,
+    "Instant Message": 2
+  },
   "4": {},
   "5": {},
   "6": {},

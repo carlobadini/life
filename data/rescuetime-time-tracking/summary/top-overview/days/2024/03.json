@@ -7,11 +7,18 @@
     "Uncategorized": 2
   },
   "2": {
-    "Communication & Scheduling": 257,
-    "Utilities": 103,
+    "Communication & Scheduling": 300,
+    "Utilities": 207,
     "Business": 13
   },
-  "3": {},
+  "3": {
+    "Utilities": 948,
+    "Communication & Scheduling": 161,
+    "Reference & Learning": 144,
+    "Uncategorized": 10,
+    "Design & Composition": 7,
+    "Business": 4
+  },
   "4": {},
   "5": {},
   "6": {},

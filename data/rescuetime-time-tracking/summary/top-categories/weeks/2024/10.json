@@ -55,17 +55,27 @@
     "General Reference & Learning": 4
   },
   "2024-03-7": {
-    "Browsers": 10507,
-    "Instant Message": 3398,
-    "Writing": 1007,
-    "Email": 982,
-    "Calendars": 212,
+    "Browsers": 17707,
+    "Instant Message": 3741,
+    "Email": 2137,
+    "Writing": 1150,
+    "Calendars": 543,
     "General Business": 115,
     "Meetings": 78,
+    "General Utilities": 30,
     "Intelligence": 29,
     "Engineering & Drafting": 7,
-    "Uncategorized": 1
+    "Uncategorized": 2
   },
-  "2024-03-8": {},
+  "2024-03-8": {
+    "Browsers": 10675,
+    "Meetings": 6692,
+    "Instant Message": 1283,
+    "Engineering & Drafting": 225,
+    "Email": 203,
+    "Calendars": 97,
+    "Writing": 56,
+    "General Utilities": 54
+  },
   "2024-03-9": {}
 }

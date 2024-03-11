@@ -99,7 +99,11 @@
     "Systems Operations": 6,
     "Intelligence": 1
   },
-  "9": {},
+  "9": {
+    "Browsers": 1204,
+    "Intelligence": 17,
+    "Email": 2
+  },
   "10": {},
   "11": {},
   "12": {},

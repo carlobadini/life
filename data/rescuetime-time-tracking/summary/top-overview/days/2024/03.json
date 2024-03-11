@@ -59,7 +59,11 @@
     "Uncategorized": 42,
     "Business": 1
   },
-  "9": {},
+  "9": {
+    "Utilities": 1204,
+    "Business": 17,
+    "Communication & Scheduling": 2
+  },
   "10": {},
   "11": {},
   "12": {},

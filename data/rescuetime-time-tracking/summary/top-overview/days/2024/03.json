@@ -78,8 +78,20 @@
     "Design & Composition": 3612,
     "Business": 14
   },
-  "13": {},
-  "14": {},
+  "13": {
+    "Utilities": 12321,
+    "Communication & Scheduling": 8030,
+    "Design & Composition": 1502,
+    "Reference & Learning": 370,
+    "Uncategorized": 359,
+    "Business": 11
+  },
+  "14": {
+    "Design & Composition": 626,
+    "Utilities": 232,
+    "Communication & Scheduling": 216,
+    "Business": 23
+  },
   "15": {},
   "16": {},
   "17": {},

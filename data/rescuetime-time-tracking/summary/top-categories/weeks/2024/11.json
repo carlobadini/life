@@ -20,8 +20,26 @@
     "Intelligence": 14,
     "Engineering & Drafting": 3
   },
-  "2024-03-13": {},
-  "2024-03-14": {},
+  "2024-03-13": {
+    "Browsers": 10994,
+    "Email": 4374,
+    "Instant Message": 1723,
+    "Calendars": 1503,
+    "Writing": 1502,
+    "General Utilities": 1327,
+    "Meetings": 430,
+    "General Reference & Learning": 370,
+    "Uncategorized": 359,
+    "Intelligence": 11
+  },
+  "2024-03-14": {
+    "Writing": 626,
+    "Browsers": 232,
+    "Email": 94,
+    "Calendars": 75,
+    "Instant Message": 47,
+    "Intelligence": 23
+  },
   "2024-03-15": {},
   "2024-03-16": {}
 }

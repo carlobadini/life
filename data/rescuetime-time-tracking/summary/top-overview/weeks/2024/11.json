@@ -28,6 +28,16 @@
     "Business": 46,
     "Uncategorized": 3
   },
-  "2024-03-15": {},
-  "2024-03-16": {}
+  "2024-03-15": {
+    "Utilities": 10912,
+    "Communication & Scheduling": 8444,
+    "Design & Composition": 1652,
+    "Reference & Learning": 152,
+    "Business": 78,
+    "Uncategorized": 5
+  },
+  "2024-03-16": {
+    "Utilities": 1403,
+    "Business": 3
+  }
 }

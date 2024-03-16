@@ -42,6 +42,21 @@
     "Intelligence": 46,
     "Uncategorized": 3
   },
-  "2024-03-15": {},
-  "2024-03-16": {}
+  "2024-03-15": {
+    "Browsers": 10523,
+    "Meetings": 3300,
+    "Email": 2976,
+    "Writing": 1496,
+    "Calendars": 1286,
+    "Instant Message": 882,
+    "General Utilities": 389,
+    "Engineering & Drafting": 156,
+    "General Reference & Learning": 152,
+    "Intelligence": 78,
+    "Uncategorized": 5
+  },
+  "2024-03-16": {
+    "Browsers": 1403,
+    "Intelligence": 3
+  }
 }

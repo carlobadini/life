@@ -210,7 +210,14 @@
     "Uncategorized": 5,
     "General Entertainment": 2
   },
-  "20": {},
+  "20": {
+    "Browsers": 1630,
+    "Writing": 1125,
+    "Meetings": 935,
+    "Email": 164,
+    "Calendars": 111,
+    "Instant Message": 19
+  },
   "21": {},
   "22": {},
   "23": {},

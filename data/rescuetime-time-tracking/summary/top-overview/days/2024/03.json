@@ -134,7 +134,11 @@
     "Uncategorized": 5,
     "Entertainment": 2
   },
-  "20": {},
+  "20": {
+    "Utilities": 1630,
+    "Communication & Scheduling": 1229,
+    "Design & Composition": 1125
+  },
   "21": {},
   "22": {},
   "23": {},

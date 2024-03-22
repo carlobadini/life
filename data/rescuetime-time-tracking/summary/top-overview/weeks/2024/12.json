@@ -28,10 +28,17 @@
   },
   "2024-03-20": {
     "Utilities": 1630,
-    "Communication & Scheduling": 1229,
+    "Communication & Scheduling": 1247,
     "Design & Composition": 1125
   },
-  "2024-03-21": {},
+  "2024-03-21": {
+    "Utilities": 3654,
+    "Communication & Scheduling": 2546,
+    "Design & Composition": 468,
+    "Reference & Learning": 13,
+    "Software Development": 7,
+    "Business": 5
+  },
   "2024-03-22": {},
   "2024-03-23": {}
 }

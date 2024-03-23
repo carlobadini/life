@@ -230,7 +230,15 @@
     "General Software Development": 7,
     "Intelligence": 5
   },
-  "22": {},
+  "22": {
+    "Browsers": 6989,
+    "Email": 2259,
+    "Instant Message": 1148,
+    "Calendars": 572,
+    "Intelligence": 89,
+    "General Utilities": 48,
+    "Writing": 29
+  },
   "23": {},
   "24": {},
   "25": {},

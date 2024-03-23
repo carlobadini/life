@@ -147,7 +147,12 @@
     "Software Development": 7,
     "Business": 5
   },
-  "22": {},
+  "22": {
+    "Utilities": 7037,
+    "Communication & Scheduling": 3979,
+    "Business": 89,
+    "Design & Composition": 29
+  },
   "23": {},
   "24": {},
   "25": {},

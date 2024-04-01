@@ -23,7 +23,7 @@
     "Shopping": 71
   },
   "3": {
-    "Communication & Scheduling": 173016,
+    "Communication & Scheduling": 173029,
     "Utilities": 283050,
     "Design & Composition": 37775,
     "Business": 3248,
@@ -32,7 +32,12 @@
     "Entertainment": 330,
     "Software Development": 61
   },
-  "4": {},
+  "4": {
+    "Utilities": 154,
+    "Communication & Scheduling": 4,
+    "Shopping": 3,
+    "Business": 2
+  },
   "5": {},
   "6": {},
   "7": {},

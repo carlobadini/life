@@ -47,7 +47,7 @@
     "Browsers": 279403,
     "Email": 45334,
     "Meetings": 52835,
-    "Instant Message": 56125,
+    "Instant Message": 56138,
     "Writing": 36563,
     "Calendars": 18722,
     "Intelligence": 2484,
@@ -63,7 +63,12 @@
     "General Design & Composition": 250,
     "Video Editing": 142
   },
-  "4": {},
+  "4": {
+    "Browsers": 154,
+    "Instant Message": 4,
+    "General Shopping": 3,
+    "Intelligence": 2
+  },
   "5": {},
   "6": {},
   "7": {},

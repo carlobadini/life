@@ -11,8 +11,21 @@
     "Intelligence": 9,
     "General Shopping": 4
   },
-  "2": {},
-  "3": {},
+  "2": {
+    "Browsers": 20996,
+    "Meetings": 3864,
+    "Email": 2494,
+    "Instant Message": 1608,
+    "Calendars": 1211,
+    "Writing": 1015,
+    "General Utilities": 468,
+    "Uncategorized": 52,
+    "General Business": 12,
+    "Intelligence": 8
+  },
+  "3": {
+    "Browsers": 704
+  },
   "4": {},
   "5": {},
   "6": {},

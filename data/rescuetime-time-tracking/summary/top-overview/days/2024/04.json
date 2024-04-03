@@ -7,8 +7,16 @@
     "Business": 9,
     "Shopping": 4
   },
-  "2": {},
-  "3": {},
+  "2": {
+    "Utilities": 21464,
+    "Communication & Scheduling": 9177,
+    "Design & Composition": 1015,
+    "Uncategorized": 52,
+    "Business": 20
+  },
+  "3": {
+    "Utilities": 704
+  },
   "4": {},
   "5": {},
   "6": {},

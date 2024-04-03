@@ -7,8 +7,16 @@
     "Business": 9,
     "Shopping": 4
   },
-  "2024-04-2": {},
-  "2024-04-3": {},
+  "2024-04-2": {
+    "Utilities": 21464,
+    "Communication & Scheduling": 9177,
+    "Design & Composition": 1015,
+    "Uncategorized": 52,
+    "Business": 20
+  },
+  "2024-04-3": {
+    "Utilities": 704
+  },
   "2024-04-4": {},
   "2024-04-5": {},
   "2024-04-6": {}

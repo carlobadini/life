@@ -24,9 +24,22 @@
     "Intelligence": 8
   },
   "2024-04-3": {
-    "Browsers": 704
+    "Browsers": 14341,
+    "Instant Message": 6777,
+    "Meetings": 2805,
+    "Writing": 1424,
+    "Email": 1258,
+    "Calendars": 915,
+    "General Utilities": 445,
+    "Uncategorized": 124,
+    "Intelligence": 14,
+    "General Reference & Learning": 14,
+    "General Design & Composition": 7,
+    "General Business": 3
   },
-  "2024-04-4": {},
+  "2024-04-4": {
+    "Instant Message": 87
+  },
   "2024-04-5": {},
   "2024-04-6": {}
 }

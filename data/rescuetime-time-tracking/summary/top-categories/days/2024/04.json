@@ -76,8 +76,21 @@
     "General Design & Composition": 16,
     "Uncategorized": 10
   },
-  "9": {},
-  "10": {},
+  "9": {
+    "Browsers": 16752,
+    "Meetings": 7042,
+    "Instant Message": 4548,
+    "Writing": 2553,
+    "Email": 1977,
+    "Calendars": 1416,
+    "Intelligence": 277,
+    "General Utilities": 161,
+    "Uncategorized": 3
+  },
+  "10": {
+    "Browsers": 663,
+    "Instant Message": 39
+  },
   "11": {},
   "12": {},
   "13": {},

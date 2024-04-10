@@ -8,8 +8,17 @@
     "Business": 19,
     "Uncategorized": 10
   },
-  "2024-04-9": {},
-  "2024-04-10": {},
+  "2024-04-9": {
+    "Utilities": 16913,
+    "Communication & Scheduling": 14983,
+    "Design & Composition": 2553,
+    "Business": 277,
+    "Uncategorized": 3
+  },
+  "2024-04-10": {
+    "Utilities": 663,
+    "Communication & Scheduling": 39
+  },
   "2024-04-11": {},
   "2024-04-12": {},
   "2024-04-13": {}

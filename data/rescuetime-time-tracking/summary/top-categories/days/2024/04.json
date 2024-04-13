@@ -111,7 +111,15 @@
     "Intelligence": 8,
     "General Reference & Learning": 5
   },
-  "12": {},
+  "12": {
+    "Browsers": 12143,
+    "Meetings": 3017,
+    "Writing": 984,
+    "Calendars": 600,
+    "Instant Message": 574,
+    "Intelligence": 56,
+    "General Utilities": 15
+  },
   "13": {},
   "14": {},
   "15": {},

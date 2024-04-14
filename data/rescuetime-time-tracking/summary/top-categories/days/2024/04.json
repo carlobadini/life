@@ -120,7 +120,15 @@
     "Intelligence": 56,
     "General Utilities": 15
   },
-  "13": {},
+  "13": {
+    "Browsers": 2908,
+    "Writing": 518,
+    "Email": 182,
+    "Instant Message": 52,
+    "Calendars": 36,
+    "Intelligence": 6,
+    "Uncategorized": 1
+  },
   "14": {},
   "15": {},
   "16": {},

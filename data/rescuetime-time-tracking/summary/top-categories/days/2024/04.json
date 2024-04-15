@@ -122,14 +122,23 @@
   },
   "13": {
     "Browsers": 2908,
-    "Writing": 518,
+    "Writing": 539,
     "Email": 182,
     "Instant Message": 52,
     "Calendars": 36,
     "Intelligence": 6,
     "Uncategorized": 1
   },
-  "14": {},
+  "14": {
+    "Browsers": 3574,
+    "Meetings": 1660,
+    "General Utilities": 734,
+    "Writing": 481,
+    "General Reference & Learning": 201,
+    "Instant Message": 168,
+    "Calendars": 76,
+    "Intelligence": 9
+  },
   "15": {},
   "16": {},
   "17": {},

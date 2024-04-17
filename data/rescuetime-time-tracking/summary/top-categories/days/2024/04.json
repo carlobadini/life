@@ -140,7 +140,7 @@
     "Intelligence": 9
   },
   "15": {
-    "Browsers": 16424,
+    "Browsers": 16648,
     "Instant Message": 4156,
     "Email": 1423,
     "Uncategorized": 744,
@@ -151,7 +151,18 @@
     "Meetings": 69,
     "Intelligence": 14
   },
-  "16": {},
+  "16": {
+    "Browsers": 8505,
+    "Instant Message": 3489,
+    "Email": 2872,
+    "Writing": 1209,
+    "Calendars": 918,
+    "Meetings": 594,
+    "General Utilities": 78,
+    "General Reference & Learning": 10,
+    "Uncategorized": 3,
+    "Intelligence": 2
+  },
   "17": {},
   "18": {},
   "19": {},

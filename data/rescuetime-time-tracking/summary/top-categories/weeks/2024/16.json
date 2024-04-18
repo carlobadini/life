@@ -22,18 +22,28 @@
     "Intelligence": 14
   },
   "2024-04-16": {
-    "Browsers": 8505,
+    "Browsers": 8512,
     "Instant Message": 3489,
-    "Email": 2872,
+    "Email": 2935,
     "Writing": 1209,
-    "Calendars": 918,
-    "Meetings": 594,
+    "Calendars": 922,
+    "Meetings": 596,
     "General Utilities": 78,
     "General Reference & Learning": 10,
     "Uncategorized": 3,
     "Intelligence": 2
   },
-  "2024-04-17": {},
+  "2024-04-17": {
+    "Browsers": 3441,
+    "Meetings": 564,
+    "Email": 523,
+    "Instant Message": 278,
+    "Intelligence": 257,
+    "Uncategorized": 197,
+    "Calendars": 179,
+    "General Utilities": 7,
+    "Writing": 7
+  },
   "2024-04-18": {},
   "2024-04-19": {},
   "2024-04-20": {}

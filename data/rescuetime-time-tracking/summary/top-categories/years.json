@@ -266,22 +266,22 @@
   },
   "2024": {
     "Meetings": 172270,
-    "Browsers": 1107862,
+    "Browsers": 1108095,
     "Communications": 82750,
     "Project Management": 4231,
     "Writing": 123372,
     "Email": 151167,
-    "Intelligence": 7360,
-    "General Utilities": 15931,
+    "Intelligence": 7446,
+    "General Utilities": 15933,
     "General Reference & Learning": 8970,
-    "Uncategorized": 11346,
+    "Uncategorized": 13299,
     "Instant Message": 170820,
     "General Business": 1985,
     "Engineering & Drafting": 1983,
     "General Entertainment": 15864,
     "General Design & Composition": 3684,
     "Presentation": 6,
-    "Calendars": 53854,
+    "Calendars": 53857,
     "Video Editing": 3628,
     "General Shopping": 130,
     "Legal & Gov't": 36,
@@ -291,6 +291,7 @@
     "Internet Utilities": 343,
     "Travel & Outdoors": 146,
     "General Software Development": 55,
-    "General Communication & Scheduling": 718
+    "General Communication & Scheduling": 718,
+    "General News & Opinion": 2
   }
 }

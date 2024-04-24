@@ -9,10 +9,19 @@
     "General News & Opinion": 2
   },
   "2024-04-23": {
-    "Uncategorized": 150,
-    "Intelligence": 4
+    "Browsers": 2530,
+    "Instant Message": 806,
+    "Email": 588,
+    "Uncategorized": 313,
+    "Writing": 99,
+    "Calendars": 27,
+    "Intelligence": 6
   },
-  "2024-04-24": {},
+  "2024-04-24": {
+    "Uncategorized": 274,
+    "Intelligence": 34,
+    "Browsers": 20
+  },
   "2024-04-25": {},
   "2024-04-26": {},
   "2024-04-27": {}

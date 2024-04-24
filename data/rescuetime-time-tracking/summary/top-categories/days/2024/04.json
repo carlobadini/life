@@ -197,10 +197,19 @@
     "General News & Opinion": 2
   },
   "23": {
-    "Uncategorized": 150,
-    "Intelligence": 4
+    "Browsers": 2530,
+    "Instant Message": 806,
+    "Email": 588,
+    "Uncategorized": 313,
+    "Writing": 99,
+    "Calendars": 27,
+    "Intelligence": 6
   },
-  "24": {},
+  "24": {
+    "Uncategorized": 274,
+    "Intelligence": 34,
+    "Browsers": 20
+  },
   "25": {},
   "26": {},
   "27": {},

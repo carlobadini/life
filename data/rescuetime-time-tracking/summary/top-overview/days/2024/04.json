@@ -128,10 +128,17 @@
     "News & Opinion": 2
   },
   "23": {
-    "Uncategorized": 150,
-    "Business": 4
+    "Utilities": 2530,
+    "Communication & Scheduling": 1421,
+    "Uncategorized": 313,
+    "Design & Composition": 99,
+    "Business": 6
   },
-  "24": {},
+  "24": {
+    "Uncategorized": 274,
+    "Business": 34,
+    "Utilities": 20
+  },
   "25": {},
   "26": {},
   "27": {},

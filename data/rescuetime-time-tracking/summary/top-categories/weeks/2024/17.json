@@ -18,11 +18,16 @@
     "Intelligence": 6
   },
   "2024-04-24": {
-    "Uncategorized": 274,
+    "Uncategorized": 408,
     "Intelligence": 34,
     "Browsers": 20
   },
-  "2024-04-25": {},
+  "2024-04-25": {
+    "Uncategorized": 387,
+    "Intelligence": 181,
+    "Browsers": 131,
+    "Calendars": 1
+  },
   "2024-04-26": {},
   "2024-04-27": {}
 }

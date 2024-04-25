@@ -15,11 +15,16 @@
     "Business": 6
   },
   "2024-04-24": {
-    "Uncategorized": 274,
+    "Uncategorized": 408,
     "Business": 34,
     "Utilities": 20
   },
-  "2024-04-25": {},
+  "2024-04-25": {
+    "Uncategorized": 387,
+    "Business": 181,
+    "Utilities": 131,
+    "Communication & Scheduling": 1
+  },
   "2024-04-26": {},
   "2024-04-27": {}
 }

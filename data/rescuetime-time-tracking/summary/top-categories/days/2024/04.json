@@ -211,12 +211,17 @@
     "Browsers": 20
   },
   "25": {
-    "Uncategorized": 387,
-    "Intelligence": 181,
-    "Browsers": 131,
+    "Browsers": 1318,
+    "Uncategorized": 447,
+    "Intelligence": 439,
     "Calendars": 1
   },
-  "26": {},
+  "26": {
+    "Browsers": 1169,
+    "Uncategorized": 175,
+    "Intelligence": 23,
+    "Calendars": 6
+  },
   "27": {},
   "28": {},
   "29": {}

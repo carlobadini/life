@@ -151,7 +151,16 @@
     "Business": 28,
     "Communication & Scheduling": 6
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "Utilities": 1661,
+    "Uncategorized": 57,
+    "Shopping": 37,
+    "Business": 26,
+    "Software Development": 17
+  },
+  "28": {
+    "Utilities": 319,
+    "Business": 46
+  },
   "29": {}
 }

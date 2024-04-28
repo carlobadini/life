@@ -223,7 +223,17 @@
     "General Utilities": 6,
     "Calendars": 6
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "Browsers": 1575,
+    "General Utilities": 86,
+    "Uncategorized": 57,
+    "General Shopping": 37,
+    "Intelligence": 26,
+    "Systems Operations": 17
+  },
+  "28": {
+    "Browsers": 319,
+    "Intelligence": 46
+  },
   "29": {}
 }

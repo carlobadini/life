@@ -1,7 +1,13 @@
 {
   "2024-04-28": {
-    "Browsers": 319,
-    "Intelligence": 46
+    "Browsers": 5557,
+    "Intelligence": 111,
+    "General Utilities": 66
   },
-  "2024-04-29": {}
+  "2024-04-29": {
+    "Browsers": 703,
+    "General Utilities": 107,
+    "Calendars": 18,
+    "Intelligence": 5
+  }
 }

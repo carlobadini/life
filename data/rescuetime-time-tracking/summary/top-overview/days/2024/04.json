@@ -163,8 +163,12 @@
     "Business": 111
   },
   "29": {
-    "Utilities": 810,
-    "Communication & Scheduling": 18,
-    "Business": 5
+    "Utilities": 4845,
+    "Communication & Scheduling": 1884,
+    "Business": 1041,
+    "Design & Composition": 665,
+    "Reference & Learning": 115,
+    "Uncategorized": 1,
+    "Shopping": 1
   }
 }

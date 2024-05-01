@@ -64,15 +64,15 @@
     "Video Editing": 142
   },
   "4": {
-    "Browsers": 172195,
-    "Instant Message": 34078,
-    "Writing": 21375,
+    "Browsers": 184322,
+    "Instant Message": 36984,
+    "Writing": 21384,
     "Meetings": 29105,
-    "Calendars": 9733,
-    "Email": 18913,
-    "General Utilities": 3073,
+    "Calendars": 9756,
+    "Email": 19216,
+    "General Utilities": 3076,
     "General Reference & Learning": 967,
-    "Intelligence": 2979,
+    "Intelligence": 2998,
     "General Shopping": 42,
     "Uncategorized": 4423,
     "General Business": 196,
@@ -83,7 +83,10 @@
     "General News & Opinion": 2,
     "Systems Operations": 17
   },
-  "5": {},
+  "5": {
+    "Browsers": 231,
+    "Intelligence": 108
+  },
   "6": {},
   "7": {},
   "8": {},

@@ -33,17 +33,20 @@
     "Software Development": 61
   },
   "4": {
-    "Utilities": 175268,
-    "Communication & Scheduling": 92552,
-    "Design & Composition": 21655,
+    "Utilities": 187398,
+    "Communication & Scheduling": 95784,
+    "Design & Composition": 21664,
     "Reference & Learning": 967,
-    "Business": 3175,
+    "Business": 3194,
     "Shopping": 42,
     "Uncategorized": 4423,
     "News & Opinion": 2,
     "Software Development": 17
   },
-  "5": {},
+  "5": {
+    "Utilities": 231,
+    "Business": 108
+  },
   "6": {},
   "7": {},
   "8": {},

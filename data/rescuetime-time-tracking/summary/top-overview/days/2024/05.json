@@ -1,12 +1,17 @@
 {
   "1": {
     "Communication & Scheduling": 6222,
-    "Utilities": 5112,
+    "Utilities": 5351,
     "Business": 168,
-    "Design & Composition": 19,
-    "Uncategorized": 2
+    "Uncategorized": 25,
+    "Design & Composition": 19
   },
-  "2": {},
+  "2": {
+    "Utilities": 1025,
+    "Communication & Scheduling": 1016,
+    "Design & Composition": 113,
+    "Uncategorized": 3
+  },
   "3": {},
   "4": {},
   "5": {},

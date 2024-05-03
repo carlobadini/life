@@ -1,16 +1,25 @@
 {
   "1": {
-    "Browsers": 5087,
+    "Browsers": 5326,
     "Meetings": 3615,
     "Instant Message": 2216,
     "Calendars": 377,
     "Intelligence": 168,
+    "Uncategorized": 25,
     "General Utilities": 25,
     "Writing": 19,
-    "Email": 14,
-    "Uncategorized": 2
+    "Email": 14
   },
-  "2": {},
+  "2": {
+    "Browsers": 947,
+    "Meetings": 745,
+    "Instant Message": 164,
+    "Writing": 113,
+    "Email": 99,
+    "General Utilities": 78,
+    "Calendars": 8,
+    "Uncategorized": 3
+  },
   "3": {},
   "4": {},
   "5": {},

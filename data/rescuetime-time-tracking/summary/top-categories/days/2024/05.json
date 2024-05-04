@@ -11,16 +11,30 @@
     "Email": 14
   },
   "2": {
-    "Browsers": 947,
+    "Browsers": 1633,
     "Meetings": 745,
+    "Search": 304,
     "Instant Message": 164,
-    "Writing": 113,
+    "Writing": 115,
     "Email": 99,
-    "General Utilities": 78,
+    "General Utilities": 91,
+    "General Software Development": 25,
+    "Uncategorized": 19,
     "Calendars": 8,
-    "Uncategorized": 3
+    "Internet Utilities": 3
   },
-  "3": {},
+  "3": {
+    "Browsers": 14227,
+    "Email": 3310,
+    "Instant Message": 3294,
+    "Meetings": 2221,
+    "Calendars": 1530,
+    "Writing": 404,
+    "General Utilities": 100,
+    "Engineering & Drafting": 7,
+    "Uncategorized": 5,
+    "Intelligence": 5
+  },
   "4": {},
   "5": {},
   "6": {},

@@ -26,11 +26,19 @@
     "Design & Composition": 19
   },
   "2024-05-2": {
-    "Utilities": 1025,
+    "Utilities": 1727,
     "Communication & Scheduling": 1016,
-    "Design & Composition": 113,
-    "Uncategorized": 3
+    "Reference & Learning": 304,
+    "Design & Composition": 115,
+    "Software Development": 25,
+    "Uncategorized": 19
   },
-  "2024-05-3": {},
+  "2024-05-3": {
+    "Utilities": 14327,
+    "Communication & Scheduling": 10355,
+    "Design & Composition": 411,
+    "Uncategorized": 5,
+    "Business": 5
+  },
   "2024-05-4": {}
 }

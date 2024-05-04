@@ -84,15 +84,19 @@
     "Systems Operations": 17
   },
   "5": {
-    "Browsers": 6273,
-    "Meetings": 4360,
-    "Instant Message": 2380,
-    "Calendars": 385,
-    "Intelligence": 168,
-    "Uncategorized": 28,
-    "General Utilities": 103,
-    "Writing": 132,
-    "Email": 113
+    "Browsers": 21186,
+    "Meetings": 6581,
+    "Instant Message": 5674,
+    "Calendars": 1915,
+    "Intelligence": 173,
+    "Uncategorized": 49,
+    "General Utilities": 216,
+    "Writing": 538,
+    "Email": 3423,
+    "Search": 304,
+    "General Software Development": 25,
+    "Internet Utilities": 3,
+    "Engineering & Drafting": 7
   },
   "6": {},
   "7": {},

@@ -50,16 +50,22 @@
     "Internet Utilities": 3
   },
   "2024-05-3": {
-    "Browsers": 14227,
+    "Browsers": 15723,
+    "Instant Message": 3787,
     "Email": 3310,
-    "Instant Message": 3294,
     "Meetings": 2221,
-    "Calendars": 1530,
-    "Writing": 404,
+    "Calendars": 1617,
+    "Writing": 540,
     "General Utilities": 100,
     "Engineering & Drafting": 7,
-    "Uncategorized": 5,
-    "Intelligence": 5
+    "Intelligence": 7,
+    "Uncategorized": 6
   },
-  "2024-05-4": {}
+  "2024-05-4": {
+    "Browsers": 3297,
+    "Writing": 229,
+    "Instant Message": 201,
+    "Calendars": 49,
+    "Uncategorized": 1
+  }
 }

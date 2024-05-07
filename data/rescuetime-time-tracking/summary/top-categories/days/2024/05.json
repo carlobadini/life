@@ -36,14 +36,26 @@
     "Uncategorized": 6
   },
   "4": {
-    "Browsers": 3297,
+    "Browsers": 3308,
     "Writing": 229,
     "Instant Message": 201,
     "Calendars": 49,
     "Uncategorized": 1
   },
   "5": {},
-  "6": {},
+  "6": {
+    "Browsers": 14097,
+    "Meetings": 6703,
+    "Instant Message": 1405,
+    "Writing": 909,
+    "Email": 835,
+    "Calendars": 444,
+    "General Entertainment": 44,
+    "Intelligence": 8,
+    "General Shopping": 5,
+    "General Utilities": 3,
+    "Uncategorized": 2
+  },
   "7": {},
   "8": {},
   "9": {},

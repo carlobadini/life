@@ -22,13 +22,21 @@
     "Uncategorized": 6
   },
   "4": {
-    "Utilities": 3297,
+    "Utilities": 3308,
     "Communication & Scheduling": 250,
     "Design & Composition": 229,
     "Uncategorized": 1
   },
   "5": {},
-  "6": {},
+  "6": {
+    "Utilities": 14100,
+    "Communication & Scheduling": 9387,
+    "Design & Composition": 909,
+    "Entertainment": 44,
+    "Business": 8,
+    "Shopping": 5,
+    "Uncategorized": 2
+  },
   "7": {},
   "8": {},
   "9": {},

@@ -29,15 +29,21 @@
   },
   "5": {},
   "6": {
-    "Utilities": 14100,
-    "Communication & Scheduling": 9387,
-    "Design & Composition": 909,
+    "Utilities": 15514,
+    "Communication & Scheduling": 10986,
+    "Design & Composition": 1106,
     "Entertainment": 44,
+    "Reference & Learning": 18,
     "Business": 8,
     "Shopping": 5,
     "Uncategorized": 2
   },
-  "7": {},
+  "7": {
+    "Utilities": 12682,
+    "Communication & Scheduling": 10730,
+    "Design & Composition": 1979,
+    "Business": 55
+  },
   "8": {},
   "9": {},
   "10": {},

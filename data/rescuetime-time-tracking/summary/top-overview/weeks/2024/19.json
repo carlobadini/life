@@ -11,12 +11,19 @@
     "Uncategorized": 2
   },
   "2024-05-7": {
-    "Utilities": 12682,
-    "Communication & Scheduling": 10730,
-    "Design & Composition": 1979,
-    "Business": 55
+    "Utilities": 16200,
+    "Communication & Scheduling": 11283,
+    "Design & Composition": 2162,
+    "Business": 55,
+    "Uncategorized": 2
   },
-  "2024-05-8": {},
+  "2024-05-8": {
+    "Utilities": 14012,
+    "Communication & Scheduling": 6495,
+    "Design & Composition": 1156,
+    "Business": 64,
+    "Uncategorized": 2
+  },
   "2024-05-9": {},
   "2024-05-10": {},
   "2024-05-11": {}

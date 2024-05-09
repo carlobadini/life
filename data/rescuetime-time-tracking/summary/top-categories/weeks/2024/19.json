@@ -15,16 +15,29 @@
     "Uncategorized": 2
   },
   "2024-05-7": {
-    "Browsers": 12682,
+    "Browsers": 16200,
     "Meetings": 6438,
-    "Instant Message": 2323,
-    "Writing": 1849,
-    "Email": 1035,
-    "Calendars": 934,
-    "Engineering & Drafting": 130,
-    "Intelligence": 55
+    "Instant Message": 2565,
+    "Writing": 1868,
+    "Email": 1213,
+    "Calendars": 1067,
+    "Engineering & Drafting": 294,
+    "Intelligence": 55,
+    "Uncategorized": 2
   },
-  "2024-05-8": {},
+  "2024-05-8": {
+    "Browsers": 14007,
+    "Instant Message": 2497,
+    "Email": 1548,
+    "Meetings": 1484,
+    "Writing": 1149,
+    "Calendars": 966,
+    "General Business": 61,
+    "Engineering & Drafting": 7,
+    "General Utilities": 5,
+    "Intelligence": 3,
+    "Uncategorized": 2
+  },
   "2024-05-9": {},
   "2024-05-10": {},
   "2024-05-11": {}

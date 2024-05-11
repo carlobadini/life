@@ -53,13 +53,18 @@
     "Uncategorized": 2
   },
   "9": {
-    "Communication & Scheduling": 12111,
-    "Utilities": 10245,
-    "Design & Composition": 350,
-    "Uncategorized": 3,
-    "Business": 3
+    "Utilities": 14599,
+    "Communication & Scheduling": 13030,
+    "Design & Composition": 782,
+    "Business": 6,
+    "Uncategorized": 3
   },
-  "10": {},
+  "10": {
+    "Utilities": 12991,
+    "Communication & Scheduling": 5836,
+    "Design & Composition": 1865,
+    "Uncategorized": 6
+  },
   "11": {},
   "12": {},
   "13": {},

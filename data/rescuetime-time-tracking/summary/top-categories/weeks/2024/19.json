@@ -51,15 +51,23 @@
     "General Business": 3
   },
   "2024-05-10": {
-    "Browsers": 12962,
+    "Browsers": 14140,
+    "Writing": 4055,
+    "Instant Message": 2830,
     "Meetings": 2412,
-    "Instant Message": 1928,
-    "Writing": 1846,
-    "Email": 822,
+    "Email": 825,
     "Calendars": 674,
     "General Utilities": 29,
     "Engineering & Drafting": 19,
     "Uncategorized": 6
   },
-  "2024-05-11": {}
+  "2024-05-11": {
+    "Browsers": 2534,
+    "Intelligence": 452,
+    "Email": 333,
+    "General Utilities": 143,
+    "Instant Message": 129,
+    "General Reference & Learning": 54,
+    "Writing": 46
+  }
 }

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 2534,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 452,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 333,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 143,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Category": "Writing"
+  }
+]

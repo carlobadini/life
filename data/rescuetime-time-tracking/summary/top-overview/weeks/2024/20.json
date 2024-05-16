@@ -10,14 +10,20 @@
     "Reference & Learning": 3
   },
   "2024-05-14": {
-    "Utilities": 16002,
-    "Communication & Scheduling": 6379,
-    "Design & Composition": 1130,
+    "Utilities": 20935,
+    "Communication & Scheduling": 8402,
+    "Design & Composition": 1227,
     "Business": 93,
-    "Reference & Learning": 5,
+    "Reference & Learning": 70,
     "Uncategorized": 1
   },
-  "2024-05-15": {},
+  "2024-05-15": {
+    "Utilities": 12522,
+    "Communication & Scheduling": 6244,
+    "Design & Composition": 1146,
+    "Business": 66,
+    "Uncategorized": 34
+  },
   "2024-05-16": {},
   "2024-05-17": {},
   "2024-05-18": {}

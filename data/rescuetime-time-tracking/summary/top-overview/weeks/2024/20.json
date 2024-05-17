@@ -18,13 +18,21 @@
     "Uncategorized": 1
   },
   "2024-05-15": {
-    "Utilities": 12522,
-    "Communication & Scheduling": 6244,
-    "Design & Composition": 1146,
-    "Business": 66,
+    "Utilities": 16362,
+    "Communication & Scheduling": 7857,
+    "Design & Composition": 1149,
+    "Reference & Learning": 71,
+    "Business": 67,
     "Uncategorized": 34
   },
-  "2024-05-16": {},
+  "2024-05-16": {
+    "Utilities": 16407,
+    "Communication & Scheduling": 4264,
+    "Design & Composition": 509,
+    "Uncategorized": 440,
+    "Business": 20,
+    "Entertainment": 1
+  },
   "2024-05-17": {},
   "2024-05-18": {}
 }

@@ -99,14 +99,20 @@
     "Uncategorized": 34
   },
   "16": {
-    "Utilities": 16407,
-    "Communication & Scheduling": 4264,
+    "Utilities": 19003,
+    "Communication & Scheduling": 5858,
+    "Uncategorized": 647,
     "Design & Composition": 509,
-    "Uncategorized": 440,
-    "Business": 20,
+    "Business": 239,
     "Entertainment": 1
   },
-  "17": {},
+  "17": {
+    "Utilities": 13584,
+    "Communication & Scheduling": 5214,
+    "Design & Composition": 496,
+    "Business": 396,
+    "Uncategorized": 137
+  },
   "18": {},
   "19": {},
   "20": {},

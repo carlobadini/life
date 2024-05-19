@@ -34,11 +34,14 @@
     "Entertainment": 1
   },
   "2024-05-17": {
-    "Utilities": 13584,
-    "Communication & Scheduling": 5214,
+    "Utilities": 16827,
+    "Communication & Scheduling": 6559,
     "Design & Composition": 496,
-    "Business": 396,
-    "Uncategorized": 137
+    "Business": 397,
+    "Uncategorized": 138
   },
-  "2024-05-18": {}
+  "2024-05-18": {
+    "Utilities": 1309,
+    "Communication & Scheduling": 8
+  }
 }

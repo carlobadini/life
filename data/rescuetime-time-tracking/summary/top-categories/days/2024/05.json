@@ -174,19 +174,22 @@
     "Video": 1
   },
   "17": {
-    "Browsers": 13554,
-    "Instant Message": 2961,
-    "Meetings": 1145,
-    "Email": 686,
+    "Browsers": 16797,
+    "Instant Message": 3944,
+    "Meetings": 1190,
+    "Email": 1001,
     "Writing": 491,
-    "Calendars": 422,
-    "Intelligence": 213,
+    "Calendars": 424,
+    "Intelligence": 214,
     "General Business": 183,
-    "Uncategorized": 137,
+    "Uncategorized": 138,
     "General Utilities": 30,
     "Engineering & Drafting": 5
   },
-  "18": {},
+  "18": {
+    "Browsers": 1309,
+    "Instant Message": 8
+  },
   "19": {},
   "20": {},
   "21": {},

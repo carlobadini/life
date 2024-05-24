@@ -133,13 +133,20 @@
     "Business": 31
   },
   "22": {
-    "Communication & Scheduling": 8120,
-    "Utilities": 7190,
+    "Utilities": 9660,
+    "Communication & Scheduling": 8402,
     "Design & Composition": 216,
-    "Uncategorized": 112,
+    "Uncategorized": 146,
+    "Business": 30,
     "Shopping": 13
   },
-  "23": {},
+  "23": {
+    "Utilities": 9519,
+    "Communication & Scheduling": 8197,
+    "Design & Composition": 618,
+    "Business": 23,
+    "Uncategorized": 13
+  },
   "24": {},
   "25": {},
   "26": {},

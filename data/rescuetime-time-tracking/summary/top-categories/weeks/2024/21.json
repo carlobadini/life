@@ -47,15 +47,18 @@
     "Uncategorized": 13
   },
   "2024-05-24": {
-    "Browsers": 8411,
+    "Browsers": 8682,
     "Meetings": 2864,
-    "Instant Message": 1001,
+    "Instant Message": 1044,
     "Calendars": 559,
-    "Email": 483,
-    "Writing": 43,
+    "Email": 497,
+    "Writing": 51,
+    "General Utilities": 39,
     "Uncategorized": 31,
-    "General Utilities": 24,
     "Intelligence": 2
   },
-  "2024-05-25": {}
+  "2024-05-25": {
+    "Browsers": 3587,
+    "Intelligence": 3
+  }
 }

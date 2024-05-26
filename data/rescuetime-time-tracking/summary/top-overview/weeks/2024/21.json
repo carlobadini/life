@@ -30,11 +30,14 @@
     "Uncategorized": 13
   },
   "2024-05-24": {
-    "Utilities": 8435,
-    "Communication & Scheduling": 4907,
-    "Design & Composition": 43,
+    "Utilities": 8721,
+    "Communication & Scheduling": 4964,
+    "Design & Composition": 51,
     "Uncategorized": 31,
     "Business": 2
   },
-  "2024-05-25": {}
+  "2024-05-25": {
+    "Utilities": 3587,
+    "Business": 3
+  }
 }

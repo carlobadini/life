@@ -259,11 +259,25 @@
     "Uncategorized": 5
   },
   "27": {
-    "Browsers": 637,
-    "General Utilities": 78,
-    "Uncategorized": 2
+    "Browsers": 4121,
+    "General Utilities": 176,
+    "General Shopping": 48,
+    "Intelligence": 31,
+    "Uncategorized": 6
   },
-  "28": {},
+  "28": {
+    "Browsers": 13857,
+    "Meetings": 4672,
+    "Instant Message": 4133,
+    "Writing": 3810,
+    "Email": 1597,
+    "Calendars": 1079,
+    "Uncategorized": 288,
+    "Engineering & Drafting": 67,
+    "General Utilities": 26,
+    "General Reference & Learning": 19,
+    "Intelligence": 10
+  },
   "29": {},
   "30": {}
 }

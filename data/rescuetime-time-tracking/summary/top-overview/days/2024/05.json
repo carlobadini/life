@@ -164,10 +164,19 @@
     "Uncategorized": 5
   },
   "27": {
-    "Utilities": 715,
-    "Uncategorized": 2
+    "Utilities": 4297,
+    "Shopping": 48,
+    "Business": 31,
+    "Uncategorized": 6
   },
-  "28": {},
+  "28": {
+    "Utilities": 13883,
+    "Communication & Scheduling": 11481,
+    "Design & Composition": 3877,
+    "Uncategorized": 288,
+    "Reference & Learning": 19,
+    "Business": 10
+  },
   "29": {},
   "30": {}
 }

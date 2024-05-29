@@ -1,13 +1,25 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 715,
+    "Time Spent (seconds)": 4297,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Category": "Shopping"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Category": "Uncategorized"
   }

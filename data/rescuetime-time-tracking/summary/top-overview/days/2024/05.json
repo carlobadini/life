@@ -170,13 +170,20 @@
     "Uncategorized": 6
   },
   "28": {
-    "Utilities": 13883,
-    "Communication & Scheduling": 11481,
-    "Design & Composition": 3877,
+    "Utilities": 15839,
+    "Communication & Scheduling": 11979,
+    "Design & Composition": 3880,
     "Uncategorized": 288,
     "Reference & Learning": 19,
-    "Business": 10
+    "Business": 19
   },
-  "29": {},
+  "29": {
+    "Utilities": 4622,
+    "Communication & Scheduling": 4166,
+    "Design & Composition": 459,
+    "Uncategorized": 130,
+    "Reference & Learning": 13,
+    "Business": 4
+  },
   "30": {}
 }

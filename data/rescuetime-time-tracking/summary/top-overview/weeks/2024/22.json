@@ -27,10 +27,18 @@
     "Business": 4
   },
   "2024-05-30": {
-    "Utilities": 10305,
-    "Communication & Scheduling": 8594,
-    "Design & Composition": 1272,
-    "Uncategorized": 816,
-    "Business": 161
-  }
+    "Utilities": 13194,
+    "Communication & Scheduling": 11072,
+    "Design & Composition": 1349,
+    "Uncategorized": 1086,
+    "Business": 170
+  },
+  "2024-05-31": {
+    "Utilities": 14021,
+    "Communication & Scheduling": 13195,
+    "Design & Composition": 1059,
+    "Business": 101,
+    "Uncategorized": 2
+  },
+  "2024-06-1": {}
 }

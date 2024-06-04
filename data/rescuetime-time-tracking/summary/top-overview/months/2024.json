@@ -54,7 +54,13 @@
     "Entertainment": 45,
     "Shopping": 107
   },
-  "6": {},
+  "6": {
+    "Utilities": 9950,
+    "Communication & Scheduling": 5648,
+    "Design & Composition": 2226,
+    "Uncategorized": 327,
+    "Business": 5
+  },
   "7": {},
   "8": {},
   "9": {},

@@ -106,7 +106,18 @@
     "General Communication & Scheduling": 34,
     "Video": 1
   },
-  "6": {},
+  "6": {
+    "Browsers": 9949,
+    "Meetings": 3292,
+    "Writing": 2112,
+    "Instant Message": 1452,
+    "Calendars": 469,
+    "Email": 435,
+    "Uncategorized": 327,
+    "Engineering & Drafting": 114,
+    "Intelligence": 5,
+    "General Utilities": 1
+  },
   "7": {},
   "8": {},
   "9": {},

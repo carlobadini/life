@@ -1,13 +1,20 @@
 {
   "2024-06-2": {},
   "2024-06-3": {
-    "Utilities": 9950,
-    "Communication & Scheduling": 5648,
-    "Design & Composition": 2226,
-    "Uncategorized": 327,
-    "Business": 5
+    "Utilities": 12687,
+    "Communication & Scheduling": 7941,
+    "Design & Composition": 2478,
+    "Uncategorized": 344,
+    "Business": 77,
+    "Reference & Learning": 9
   },
-  "2024-06-4": {},
+  "2024-06-4": {
+    "Utilities": 16685,
+    "Communication & Scheduling": 4874,
+    "Uncategorized": 787,
+    "Design & Composition": 199,
+    "Business": 2
+  },
   "2024-06-5": {},
   "2024-06-6": {},
   "2024-06-7": {},

@@ -107,16 +107,18 @@
     "Video": 1
   },
   "6": {
-    "Browsers": 9949,
-    "Meetings": 3292,
-    "Writing": 2112,
-    "Instant Message": 1452,
-    "Calendars": 469,
-    "Email": 435,
-    "Uncategorized": 327,
+    "Browsers": 29357,
+    "Meetings": 3825,
+    "Writing": 2563,
+    "Instant Message": 3727,
+    "Email": 4085,
+    "Calendars": 1178,
+    "Uncategorized": 1131,
     "Engineering & Drafting": 114,
-    "Intelligence": 5,
-    "General Utilities": 1
+    "Intelligence": 77,
+    "General Utilities": 15,
+    "General Reference & Learning": 9,
+    "General Business": 2
   },
   "7": {},
   "8": {},

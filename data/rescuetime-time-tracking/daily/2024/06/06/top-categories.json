@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 17511,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2230,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1954,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1919,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1056,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 521,
+    "Number of People": 1,
+    "Category": "Calendars"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 406,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 275,
+    "Number of People": 1,
+    "Category": "Engineering & Drafting"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  }
+]

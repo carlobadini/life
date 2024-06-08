@@ -38,18 +38,28 @@
     "General Utilities": 1
   },
   "6": {
-    "Browsers": 17511,
-    "Writing": 2230,
-    "Meetings": 1954,
-    "Instant Message": 1919,
-    "Email": 1056,
-    "Calendars": 521,
+    "Browsers": 22510,
+    "Instant Message": 2718,
+    "Writing": 2348,
+    "Meetings": 1961,
+    "Email": 1187,
+    "Calendars": 535,
     "Uncategorized": 406,
     "Engineering & Drafting": 275,
+    "General Utilities": 11,
     "Intelligence": 8,
-    "General Utilities": 7
+    "General Reference & Learning": 2
   },
-  "7": {},
+  "7": {
+    "Browsers": 8793,
+    "Meetings": 4216,
+    "Instant Message": 908,
+    "Writing": 871,
+    "Email": 732,
+    "Calendars": 400,
+    "Uncategorized": 232,
+    "General Utilities": 12
+  },
   "8": {},
   "9": {},
   "10": {},

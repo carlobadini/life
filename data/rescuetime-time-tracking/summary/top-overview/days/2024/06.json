@@ -25,13 +25,19 @@
     "Reference & Learning": 1
   },
   "6": {
-    "Utilities": 17518,
-    "Communication & Scheduling": 5450,
-    "Design & Composition": 2505,
+    "Utilities": 22521,
+    "Communication & Scheduling": 6401,
+    "Design & Composition": 2623,
     "Uncategorized": 406,
-    "Business": 8
+    "Business": 8,
+    "Reference & Learning": 2
   },
-  "7": {},
+  "7": {
+    "Utilities": 8805,
+    "Communication & Scheduling": 6256,
+    "Design & Composition": 871,
+    "Uncategorized": 232
+  },
   "8": {},
   "9": {},
   "10": {},

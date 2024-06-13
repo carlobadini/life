@@ -55,14 +55,23 @@
     "Business": 3
   },
   "11": {
-    "Utilities": 13668,
-    "Communication & Scheduling": 5251,
-    "Design & Composition": 813,
-    "Reference & Learning": 187,
+    "Utilities": 18233,
+    "Communication & Scheduling": 8565,
+    "Design & Composition": 841,
+    "Reference & Learning": 281,
     "Entertainment": 24,
-    "Business": 7
+    "Uncategorized": 23,
+    "Business": 18
   },
-  "12": {},
+  "12": {
+    "Utilities": 20301,
+    "Communication & Scheduling": 5282,
+    "Design & Composition": 480,
+    "Reference & Learning": 445,
+    "Entertainment": 20,
+    "Business": 5,
+    "Uncategorized": 2
+  },
   "13": {},
   "14": {},
   "15": {},

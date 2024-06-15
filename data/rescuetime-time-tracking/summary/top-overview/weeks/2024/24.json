@@ -32,13 +32,20 @@
     "Entertainment": 20
   },
   "2024-06-13": {
-    "Communication & Scheduling": 14661,
-    "Utilities": 9856,
-    "Reference & Learning": 1614,
-    "Design & Composition": 361,
+    "Communication & Scheduling": 16156,
+    "Utilities": 14978,
+    "Reference & Learning": 1645,
+    "Design & Composition": 412,
     "Uncategorized": 55,
     "Business": 10
   },
-  "2024-06-14": {},
+  "2024-06-14": {
+    "Utilities": 14866,
+    "Communication & Scheduling": 3923,
+    "Reference & Learning": 714,
+    "Design & Composition": 213,
+    "Uncategorized": 55,
+    "Business": 2
+  },
   "2024-06-15": {}
 }

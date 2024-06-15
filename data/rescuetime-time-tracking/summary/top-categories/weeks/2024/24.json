@@ -48,17 +48,29 @@
     "Intelligence": 5
   },
   "2024-06-13": {
-    "Meetings": 12117,
-    "Browsers": 9849,
-    "General Reference & Learning": 1614,
-    "Instant Message": 1420,
-    "Email": 850,
-    "Writing": 361,
-    "Calendars": 274,
+    "Browsers": 14967,
+    "Meetings": 12127,
+    "Email": 2195,
+    "General Reference & Learning": 1645,
+    "Instant Message": 1471,
+    "Writing": 412,
+    "Calendars": 363,
     "Uncategorized": 55,
-    "Intelligence": 10,
-    "General Utilities": 7
+    "General Utilities": 11,
+    "Intelligence": 10
   },
-  "2024-06-14": {},
+  "2024-06-14": {
+    "Browsers": 14862,
+    "Meetings": 2018,
+    "Instant Message": 1047,
+    "General Reference & Learning": 714,
+    "Email": 584,
+    "Calendars": 271,
+    "Writing": 213,
+    "Uncategorized": 55,
+    "General Utilities": 4,
+    "Voice Chat": 3,
+    "General Business": 2
+  },
   "2024-06-15": {}
 }

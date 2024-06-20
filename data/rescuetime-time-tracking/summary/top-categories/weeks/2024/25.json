@@ -19,18 +19,28 @@
     "Uncategorized": 2
   },
   "2024-06-18": {
-    "Browsers": 12033,
+    "Browsers": 17412,
+    "Instant Message": 2979,
+    "Email": 2209,
+    "Writing": 1623,
     "Meetings": 1567,
-    "Instant Message": 1549,
-    "Writing": 1517,
-    "Email": 692,
-    "Calendars": 371,
-    "Uncategorized": 238,
-    "Engineering & Drafting": 220,
+    "Calendars": 421,
+    "Uncategorized": 239,
+    "Engineering & Drafting": 236,
     "General Utilities": 86,
-    "General Reference & Learning": 29
+    "Intelligence": 33,
+    "General Reference & Learning": 29,
+    "General Business": 9
   },
-  "2024-06-19": {},
+  "2024-06-19": {
+    "Meetings": 8085,
+    "Browsers": 696,
+    "Instant Message": 450,
+    "Writing": 336,
+    "Calendars": 86,
+    "Email": 41,
+    "Intelligence": 10
+  },
   "2024-06-20": {},
   "2024-06-21": {},
   "2024-06-22": {}

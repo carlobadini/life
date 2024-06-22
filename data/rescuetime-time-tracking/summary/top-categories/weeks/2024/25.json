@@ -42,18 +42,30 @@
     "Intelligence": 10
   },
   "2024-06-20": {
-    "Browsers": 11473,
+    "Browsers": 12140,
+    "Instant Message": 3821,
     "Meetings": 3773,
-    "Instant Message": 2507,
-    "Email": 2391,
-    "Writing": 1030,
-    "Calendars": 754,
+    "Email": 2526,
+    "Writing": 1131,
+    "Calendars": 764,
     "General Reference & Learning": 246,
     "Uncategorized": 85,
     "General Utilities": 53,
     "Engineering & Drafting": 7,
     "Intelligence": 3
   },
-  "2024-06-21": {},
+  "2024-06-21": {
+    "Browsers": 9090,
+    "Meetings": 5759,
+    "Email": 978,
+    "Writing": 866,
+    "Instant Message": 746,
+    "Calendars": 612,
+    "Clothes & Personal": 21,
+    "Uncategorized": 16,
+    "Engineering & Drafting": 6,
+    "Search": 5,
+    "General Utilities": 4
+  },
   "2024-06-22": {}
 }

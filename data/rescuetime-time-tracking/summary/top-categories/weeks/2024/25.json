@@ -55,11 +55,11 @@
     "Intelligence": 3
   },
   "2024-06-21": {
-    "Browsers": 9090,
+    "Browsers": 9937,
     "Meetings": 5759,
-    "Email": 978,
+    "Email": 1066,
     "Writing": 866,
-    "Instant Message": 746,
+    "Instant Message": 760,
     "Calendars": 612,
     "Clothes & Personal": 21,
     "Uncategorized": 16,
@@ -67,5 +67,10 @@
     "Search": 5,
     "General Utilities": 4
   },
-  "2024-06-22": {}
+  "2024-06-22": {
+    "Browsers": 2657,
+    "Instant Message": 157,
+    "Email": 130,
+    "Intelligence": 2
+  }
 }

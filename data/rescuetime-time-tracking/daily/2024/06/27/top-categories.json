@@ -1,25 +1,25 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 17935,
+    "Time Spent (seconds)": 22608,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1636,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 1547,
+    "Time Spent (seconds)": 2190,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 2136,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 936,
+    "Time Spent (seconds)": 937,
     "Number of People": 1,
     "Category": "Meetings"
   },
@@ -31,13 +31,13 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 576,
+    "Time Spent (seconds)": 646,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 463,
+    "Time Spent (seconds)": 573,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -49,13 +49,25 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 65,
+    "Time Spent (seconds)": 160,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 71,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 17,
+    "Rank": 12,
+    "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Category": "Engineering & Drafting"
   }

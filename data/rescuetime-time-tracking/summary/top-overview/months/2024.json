@@ -65,7 +65,12 @@
     "Shopping": 25,
     "Software Development": 9
   },
-  "7": {},
+  "7": {
+    "Utilities": 15341,
+    "Communication & Scheduling": 3343,
+    "Uncategorized": 716,
+    "Design & Composition": 657
+  },
   "8": {},
   "9": {},
   "10": {},

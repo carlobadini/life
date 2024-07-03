@@ -1,16 +1,26 @@
 {
   "1": {
-    "Browsers": 15314,
+    "Browsers": 17430,
+    "Email": 2371,
     "Meetings": 2059,
-    "Uncategorized": 716,
+    "Calendars": 748,
+    "Uncategorized": 717,
     "Writing": 655,
-    "Email": 601,
-    "Calendars": 459,
-    "Instant Message": 224,
-    "General Utilities": 27,
+    "Instant Message": 514,
+    "General Utilities": 99,
+    "General Reference & Learning": 62,
     "Engineering & Drafting": 2
   },
-  "2": {},
+  "2": {
+    "Browsers": 7502,
+    "Meetings": 6311,
+    "Writing": 2477,
+    "Email": 2220,
+    "Instant Message": 1701,
+    "Calendars": 1413,
+    "General Utilities": 24,
+    "Engineering & Drafting": 7
+  },
   "3": {},
   "4": {},
   "5": {},

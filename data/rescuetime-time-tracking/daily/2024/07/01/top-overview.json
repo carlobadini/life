@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 15341,
+    "Time Spent (seconds)": 17529,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3343,
+    "Time Spent (seconds)": 5692,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 716,
+    "Time Spent (seconds)": 717,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -22,5 +22,11 @@
     "Time Spent (seconds)": 657,
     "Number of People": 1,
     "Category": "Design & Composition"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 62,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
   }
 ]

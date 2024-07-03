@@ -1,11 +1,16 @@
 {
   "1": {
-    "Utilities": 15341,
-    "Communication & Scheduling": 3343,
-    "Uncategorized": 716,
-    "Design & Composition": 657
+    "Utilities": 17529,
+    "Communication & Scheduling": 5692,
+    "Uncategorized": 717,
+    "Design & Composition": 657,
+    "Reference & Learning": 62
   },
-  "2": {},
+  "2": {
+    "Communication & Scheduling": 11645,
+    "Utilities": 7526,
+    "Design & Composition": 2484
+  },
   "3": {},
   "4": {},
   "5": {},

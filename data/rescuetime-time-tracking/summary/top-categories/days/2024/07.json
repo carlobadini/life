@@ -12,16 +12,29 @@
     "Engineering & Drafting": 2
   },
   "2": {
-    "Browsers": 7502,
+    "Browsers": 13460,
     "Meetings": 6311,
-    "Writing": 2477,
-    "Email": 2220,
-    "Instant Message": 1701,
-    "Calendars": 1413,
+    "Instant Message": 4014,
+    "Writing": 2483,
+    "Email": 2399,
+    "Calendars": 1608,
     "General Utilities": 24,
-    "Engineering & Drafting": 7
+    "Engineering & Drafting": 7,
+    "General Reference & Learning": 2,
+    "Uncategorized": 1
   },
-  "3": {},
+  "3": {
+    "Browsers": 12547,
+    "Meetings": 5492,
+    "Writing": 1364,
+    "Instant Message": 1321,
+    "Calendars": 481,
+    "Email": 380,
+    "Uncategorized": 186,
+    "General Utilities": 103,
+    "Engineering & Drafting": 7,
+    "Intelligence": 6
+  },
   "4": {},
   "5": {},
   "6": {},

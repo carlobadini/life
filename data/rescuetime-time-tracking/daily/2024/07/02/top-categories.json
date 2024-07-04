@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7502,
+    "Time Spent (seconds)": 13460,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -13,25 +13,25 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2477,
-    "Number of People": 1,
-    "Category": "Writing"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 2220,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 1701,
+    "Time Spent (seconds)": 4014,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 2483,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2399,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 1413,
+    "Time Spent (seconds)": 1608,
     "Number of People": 1,
     "Category": "Calendars"
   },
@@ -46,5 +46,17 @@
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "Engineering & Drafting"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Uncategorized"
   }
 ]

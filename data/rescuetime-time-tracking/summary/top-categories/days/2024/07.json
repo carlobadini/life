@@ -43,7 +43,20 @@
     "Browsers": 7,
     "Instant Message": 4
   },
-  "5": {},
+  "5": {
+    "Browsers": 4474,
+    "Meetings": 2295,
+    "Instant Message": 2023,
+    "Email": 531,
+    "Calendars": 388,
+    "Engineering & Drafting": 33,
+    "Writing": 20,
+    "General Utilities": 10,
+    "Intelligence": 6,
+    "General Reference & Learning": 5,
+    "Uncategorized": 2,
+    "General Shopping": 1
+  },
   "6": {},
   "7": {},
   "8": {},

@@ -36,8 +36,21 @@
   },
   "6": {},
   "7": {},
-  "8": {},
-  "9": {},
+  "8": {
+    "Utilities": 10373,
+    "Communication & Scheduling": 3357,
+    "Design & Composition": 464,
+    "Uncategorized": 160,
+    "Reference & Learning": 27,
+    "Business": 9
+  },
+  "9": {
+    "Communication & Scheduling": 1616,
+    "Utilities": 1489,
+    "Design & Composition": 606,
+    "Software Development": 8,
+    "Uncategorized": 1
+  },
   "10": {},
   "11": {},
   "12": {},

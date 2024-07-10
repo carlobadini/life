@@ -45,13 +45,19 @@
     "Business": 9
   },
   "9": {
-    "Communication & Scheduling": 1616,
-    "Utilities": 1489,
-    "Design & Composition": 606,
-    "Software Development": 8,
-    "Uncategorized": 1
+    "Utilities": 14637,
+    "Communication & Scheduling": 6033,
+    "Design & Composition": 2169,
+    "Reference & Learning": 262,
+    "Business": 147,
+    "Uncategorized": 81,
+    "Software Development": 8
   },
-  "10": {},
+  "10": {
+    "Utilities": 289,
+    "Communication & Scheduling": 4,
+    "Business": 2
+  },
   "11": {},
   "12": {},
   "13": {},

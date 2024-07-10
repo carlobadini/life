@@ -73,17 +73,24 @@
     "Engineering & Drafting": 6
   },
   "9": {
-    "Browsers": 1433,
-    "Email": 609,
-    "Writing": 606,
-    "Meetings": 503,
-    "Instant Message": 275,
-    "Calendars": 229,
-    "General Utilities": 56,
+    "Browsers": 14463,
+    "Email": 2269,
+    "Writing": 2164,
+    "Instant Message": 1378,
+    "Meetings": 1226,
+    "Calendars": 1160,
+    "General Reference & Learning": 262,
+    "General Utilities": 174,
+    "Intelligence": 147,
+    "Uncategorized": 81,
     "Systems Operations": 8,
-    "Uncategorized": 1
+    "Engineering & Drafting": 5
   },
-  "10": {},
+  "10": {
+    "Browsers": 289,
+    "Instant Message": 4,
+    "Intelligence": 2
+  },
   "11": {},
   "12": {},
   "13": {},

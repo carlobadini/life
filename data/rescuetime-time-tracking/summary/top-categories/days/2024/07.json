@@ -87,11 +87,25 @@
     "Engineering & Drafting": 5
   },
   "10": {
-    "Browsers": 289,
-    "Instant Message": 4,
-    "Intelligence": 2
+    "Browsers": 8918,
+    "Meetings": 6775,
+    "Email": 1550,
+    "Instant Message": 1502,
+    "Writing": 924,
+    "Calendars": 349,
+    "Uncategorized": 51,
+    "Intelligence": 11,
+    "Voice Chat": 3
   },
-  "11": {},
+  "11": {
+    "Browsers": 1042,
+    "Instant Message": 303,
+    "Email": 174,
+    "Meetings": 56,
+    "Writing": 33,
+    "Calendars": 29,
+    "Intelligence": 6
+  },
   "12": {},
   "13": {},
   "14": {},

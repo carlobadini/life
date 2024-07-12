@@ -98,13 +98,15 @@
     "Voice Chat": 3
   },
   "11": {
-    "Browsers": 1042,
-    "Instant Message": 303,
-    "Email": 174,
-    "Meetings": 56,
-    "Writing": 33,
-    "Calendars": 29,
-    "Intelligence": 6
+    "Browsers": 6570,
+    "Meetings": 2382,
+    "Instant Message": 1563,
+    "Writing": 484,
+    "Email": 195,
+    "Calendars": 51,
+    "Intelligence": 8,
+    "General Utilities": 6,
+    "Uncategorized": 1
   },
   "12": {},
   "13": {},

@@ -119,7 +119,12 @@
     "Intelligence": 14,
     "Uncategorized": 13
   },
-  "13": {},
+  "13": {
+    "Browsers": 3723,
+    "Uncategorized": 337,
+    "Intelligence": 205,
+    "Email": 2
+  },
   "14": {},
   "15": {},
   "16": {},

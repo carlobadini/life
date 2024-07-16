@@ -81,8 +81,19 @@
     "Communication & Scheduling": 2
   },
   "14": {},
-  "15": {},
-  "16": {},
+  "15": {
+    "Utilities": 8650,
+    "Communication & Scheduling": 8578,
+    "Design & Composition": 1804,
+    "Business": 454,
+    "Uncategorized": 130
+  },
+  "16": {
+    "Communication & Scheduling": 3218,
+    "Utilities": 2281,
+    "Business": 71,
+    "Design & Composition": 16
+  },
   "17": {},
   "18": {},
   "19": {},

@@ -126,8 +126,25 @@
     "Email": 2
   },
   "14": {},
-  "15": {},
-  "16": {},
+  "15": {
+    "Browsers": 8533,
+    "Meetings": 6873,
+    "Writing": 1804,
+    "Email": 749,
+    "Instant Message": 581,
+    "Intelligence": 454,
+    "Calendars": 375,
+    "Uncategorized": 130,
+    "General Utilities": 117
+  },
+  "16": {
+    "Email": 2354,
+    "Browsers": 2281,
+    "Instant Message": 585,
+    "Calendars": 279,
+    "Intelligence": 71,
+    "Writing": 16
+  },
   "17": {},
   "18": {},
   "19": {},

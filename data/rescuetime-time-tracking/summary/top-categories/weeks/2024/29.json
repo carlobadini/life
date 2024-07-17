@@ -12,14 +12,25 @@
     "General Utilities": 117
   },
   "2024-07-16": {
-    "Email": 2354,
-    "Browsers": 2281,
-    "Instant Message": 585,
-    "Calendars": 279,
-    "Intelligence": 71,
-    "Writing": 16
+    "Browsers": 9705,
+    "Email": 3457,
+    "Writing": 3341,
+    "Calendars": 2572,
+    "Meetings": 2291,
+    "Instant Message": 1711,
+    "General Utilities": 160,
+    "Uncategorized": 106,
+    "Intelligence": 76
   },
-  "2024-07-17": {},
+  "2024-07-17": {
+    "Browsers": 1915,
+    "Email": 270,
+    "Intelligence": 97,
+    "Instant Message": 90,
+    "Calendars": 49,
+    "General Reference & Learning": 18,
+    "Meetings": 12
+  },
   "2024-07-18": {},
   "2024-07-19": {},
   "2024-07-20": {}

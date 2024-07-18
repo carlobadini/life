@@ -23,15 +23,22 @@
     "Intelligence": 76
   },
   "2024-07-17": {
-    "Browsers": 1915,
-    "Email": 270,
-    "Intelligence": 97,
-    "Instant Message": 90,
-    "Calendars": 49,
-    "General Reference & Learning": 18,
-    "Meetings": 12
+    "Browsers": 11613,
+    "Meetings": 1333,
+    "Email": 944,
+    "Instant Message": 783,
+    "Intelligence": 413,
+    "Calendars": 305,
+    "General Reference & Learning": 157,
+    "General Utilities": 123,
+    "Writing": 55,
+    "Uncategorized": 1
   },
-  "2024-07-18": {},
+  "2024-07-18": {
+    "Browsers": 36,
+    "Intelligence": 6,
+    "General Shopping": 3
+  },
   "2024-07-19": {},
   "2024-07-20": {}
 }

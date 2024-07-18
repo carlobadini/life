@@ -1,44 +1,62 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1915,
+    "Time Spent (seconds)": 11613,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 270,
+    "Time Spent (seconds)": 1333,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 944,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 97,
-    "Number of People": 1,
-    "Category": "Intelligence"
-  },
-  {
     "Rank": 4,
-    "Time Spent (seconds)": 90,
+    "Time Spent (seconds)": 783,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 49,
+    "Time Spent (seconds)": 413,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 18,
+    "Rank": 7,
+    "Time Spent (seconds)": 157,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 12,
+    "Rank": 8,
+    "Time Spent (seconds)": 123,
     "Number of People": 1,
-    "Category": "Meetings"
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Uncategorized"
   }
 ]

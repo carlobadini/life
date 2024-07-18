@@ -96,12 +96,18 @@
     "Business": 76
   },
   "17": {
-    "Utilities": 1915,
-    "Communication & Scheduling": 421,
-    "Business": 97,
-    "Reference & Learning": 18
+    "Utilities": 11736,
+    "Communication & Scheduling": 3365,
+    "Business": 413,
+    "Reference & Learning": 157,
+    "Design & Composition": 55,
+    "Uncategorized": 1
   },
-  "18": {},
+  "18": {
+    "Utilities": 36,
+    "Business": 6,
+    "Shopping": 3
+  },
   "19": {},
   "20": {},
   "21": {},

@@ -1,10 +1,10 @@
 {
   "format": 3,
-  "generatedAt": "2026-09-27T05:07:11.653Z",
+  "generatedAt": "2026-09-28T05:09:39.587Z",
   "generator": {
     "actionVersion": "1.2.11",
     "integrationsVersion": "2.4.2",
-    "sourceSha": "8de2ee4301063bd76e2c2c91cf351a5fa7c39f6c"
+    "sourceSha": "2a455bb44bff11725b02f3bab73adf18c2e84356"
   },
   "adapters": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "rescuetime",
-      "status": "failed"
+      "status": "succeeded"
     },
     {
       "name": "last-fm",
@@ -49,7 +49,7 @@
     }
   ],
   "v2Files": {
-    "rescuetime-time-tracking/daily/2026/09/27/top-categories.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-    "rescuetime-time-tracking/daily/2026/09/27/top-overview.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    "rescuetime-time-tracking/daily/2026/09/28/top-categories.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "rescuetime-time-tracking/daily/2026/09/28/top-overview.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   }
 }
